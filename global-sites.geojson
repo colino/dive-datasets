@@ -1,0 +1,1965 @@
+{
+  "type": "FeatureCollection",
+  "name": "Global Dive Sites (Nautilus)",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.2449,
+          35.4691
+        ]
+      },
+      "properties": {
+        "id": "aegean-crete-elephant-cave",
+        "name": "Elephant Cave (Spilaio Elefanton)",
+        "name_it": "Grotta degli Elefanti (Drepano)",
+        "region": "Crete - Chania (Drepano)",
+        "countryCode": "GR",
+        "kind": "cave",
+        "depthMinM": 9,
+        "depthMaxM": 12,
+        "level": "intermediate",
+        "exposure": "exposed_north",
+        "highlights": [
+          "caves",
+          "history",
+          "macro"
+        ],
+        "species": [
+          "Elephas chaniensis (fossil)",
+          "Plesionika narval",
+          "Scorpaena scrofa"
+        ],
+        "description_en": "Submerged sea cave with spectacular stalactites/stalagmites and fossilized bones of an extinct dwarf elephant. Entrance at 10m, interior features an air chamber.",
+        "description_it": "Grotta marina con stalattiti/stalagmiti e ossa fossili pietrificate di un elefante nano estinto. Ingresso a 10m e camera d'aria interna."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.225,
+          35.452
+        ]
+      },
+      "properties": {
+        "id": "aegean-crete-koutalas-cave",
+        "name": "Koutalas Cave",
+        "name_it": "Grotta di Koutalas",
+        "region": "Crete - Chania (Kokkino Chorio)",
+        "countryCode": "GR",
+        "kind": "cave",
+        "depthMinM": 8,
+        "depthMaxM": 22,
+        "level": "intermediate",
+        "exposure": "exposed_north",
+        "highlights": [
+          "caves",
+          "history"
+        ],
+        "species": [
+          "Anthias anthias",
+          "Epinephelus marginatus"
+        ],
+        "description_en": "Dramatic cavern with ancient amphora remnants and pottery fragments. Features light beams through the cavern roof and colorful sponge-covered walls.",
+        "description_it": "Caverna con frammenti di anfore antiche. Fasci di luce penetrano dal soffitto e pareti ricoperte di spugne colorate."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.081,
+          35.554
+        ]
+      },
+      "properties": {
+        "id": "aegean-crete-amphorae-reef",
+        "name": "Amphorae Reef",
+        "name_it": "Secca delle Anfore",
+        "region": "Crete - Chania (Kalathas)",
+        "countryCode": "GR",
+        "kind": "reef",
+        "depthMinM": 12,
+        "depthMaxM": 26,
+        "level": "beginner",
+        "exposure": "exposed_west",
+        "highlights": [
+          "corals",
+          "history",
+          "turtles"
+        ],
+        "species": [
+          "Caretta caretta",
+          "Octopus vulgaris",
+          "Sparisoma cretense"
+        ],
+        "description_en": "Historic dive site with remnants of ancient transport amphorae fused into the seabed. Frequent loggerhead sea turtle sightings.",
+        "description_it": "Sito archeologico con frammenti di anfore commerciali romane e greche incastonate nel fondale. Frequenti tartarughe marine Caretta caretta."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.4205,
+          35.1685
+        ]
+      },
+      "properties": {
+        "id": "aegean-crete-shinaria-beach",
+        "name": "Shinaria Reef & Canyons",
+        "name_it": "Secca e Canyon di Shinaria",
+        "region": "Crete - Plakias (Rethymno South)",
+        "countryCode": "GR",
+        "kind": "reef",
+        "depthMinM": 5,
+        "depthMaxM": 35,
+        "level": "beginner",
+        "exposure": "sheltered_north",
+        "highlights": [
+          "walls",
+          "caves",
+          "macro",
+          "rays"
+        ],
+        "species": [
+          "Dasyatis pastinaca",
+          "Epinephelus marginatus",
+          "Muraena helena",
+          "Caretta caretta"
+        ],
+        "description_en": "Crete's top marine biodiversity site. Crystal-clear waters (>40m visibility), underwater thermal springs, underwater canyon drop-off, octopuses and stingrays. Sheltered from north Meltemi winds.",
+        "description_it": "Altissima biodiversità marina: visibilità oltre i 40m, risorgive termali, canyon e pareti profonde. Ottimo riparo quando soffia il Meltemi da nord."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.392,
+          35.185
+        ]
+      },
+      "properties": {
+        "id": "aegean-crete-daedalos-plakias",
+        "name": "Paligremnos Wall & Daedalos",
+        "name_it": "Parete di Paligremnos (Plakias)",
+        "region": "Crete - Plakias",
+        "countryCode": "GR",
+        "kind": "wall",
+        "depthMinM": 10,
+        "depthMaxM": 40,
+        "level": "advanced",
+        "exposure": "sheltered_north",
+        "highlights": [
+          "walls",
+          "drift",
+          "macro"
+        ],
+        "species": [
+          "Scorpaena scrofa",
+          "Palinurus elephas",
+          "Dentex dentex"
+        ],
+        "description_en": "Massive vertical tectonic fault wall continuing down underwater to 40+ meters. Huge crevasses harboring groupers, lobsters, and moray eels.",
+        "description_it": "Imponente faglia tettonica a strapiombo che prosegue sott'acqua fino a 40 metri con cernie, aragoste e murene."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.802,
+          34.928
+        ]
+      },
+      "properties": {
+        "id": "aegean-crete-byron-i-wreck",
+        "name": "Byron I Shipwreck",
+        "name_it": "Relitto Byron I",
+        "region": "Crete - Kaloi Limenes (South)",
+        "countryCode": "GR",
+        "kind": "wreck",
+        "depthMinM": 6,
+        "depthMaxM": 15,
+        "level": "beginner",
+        "exposure": "sheltered_north",
+        "highlights": [
+          "wreck",
+          "history"
+        ],
+        "species": [
+          "Siganus luridus",
+          "Serranus cabrilla",
+          "Octopus vulgaris"
+        ],
+        "description_en": "Greek cargo vessel (100m length) carrying sugar that ran aground in 1985. Lies in shallow clear waters, accessible for beginners and underwater photographers.",
+        "description_it": "Mercantile greco di 100m naufragato nel 1985 con carico di zucchero. Adagiato su fondale poco profondo, ideale per sub e fotografi."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3934,
+          35.336
+        ]
+      },
+      "properties": {
+        "id": "aegean-crete-messerschmitt-wreck",
+        "name": "Messerschmitt Bf 109 Wreck",
+        "name_it": "Relitto Caccia Messerschmitt Bf 109",
+        "region": "Crete - Hersonissos / Analipsi",
+        "countryCode": "GR",
+        "kind": "wreck",
+        "depthMinM": 24,
+        "depthMaxM": 30,
+        "level": "advanced",
+        "exposure": "exposed_north",
+        "highlights": [
+          "wreck",
+          "history"
+        ],
+        "species": [
+          "Epinephelus costae",
+          "Muraena helena",
+          "Seriola dumerili"
+        ],
+        "description_en": "WWII Luftwaffe fighter plane shot down during the Battle of Crete in 1941. Resting inverted on sand with visible engine, propeller blades, and cockpit.",
+        "description_it": "Caccia tedesco della Seconda Guerra Mondiale abbattuto nel 1941. Poggia capovolto su sabbia a 26m con motore e mitragliatrici visibili."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.021,
+          35.412
+        ]
+      },
+      "properties": {
+        "id": "aegean-crete-el-greco-cave",
+        "name": "El Greco Cave",
+        "name_it": "Grotta El Greco",
+        "region": "Crete - Agia Pelagia",
+        "countryCode": "GR",
+        "kind": "cave",
+        "depthMinM": 18,
+        "depthMaxM": 35,
+        "level": "intermediate",
+        "exposure": "sheltered_south",
+        "highlights": [
+          "caves",
+          "walls"
+        ],
+        "species": [
+          "Stenopus spinosus",
+          "Apogon imberbis",
+          "Conger conger"
+        ],
+        "description_en": "Cavern named after Cretan painter El Greco. Tunnel extends 30 meters into the cliffs opening into a siphon and internal hall with stalactites.",
+        "description_it": "Spettacolare grotta con tunnel di 30m che si apre in una camera con formazioni stalattitiche e gamberi pulitori."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.018,
+          35.417
+        ]
+      },
+      "properties": {
+        "id": "aegean-crete-mononaftis",
+        "name": "Mononaftis Reef & Canyons",
+        "name_it": "Secca di Mononaftis",
+        "region": "Crete - Agia Pelagia",
+        "countryCode": "GR",
+        "kind": "reef",
+        "depthMinM": 5,
+        "depthMaxM": 32,
+        "level": "beginner",
+        "exposure": "sheltered_south",
+        "highlights": [
+          "walls",
+          "macro",
+          "corals"
+        ],
+        "species": [
+          "Octopus vulgaris",
+          "Chromis chromis",
+          "Flabellina affinis"
+        ],
+        "description_en": "Scenic volcanic reef with swim-through arches, rocky pinnacles, and abundant Mediterranean marine life from nudibranchs to groupers.",
+        "description_it": "Scogliera vulcanica con archi passanti, pinnacoli rocciosi e abbondante vita marina da nudibranchi a cernie."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7335,
+          35.2562
+        ]
+      },
+      "properties": {
+        "id": "aegean-crete-olous-sunken-city",
+        "name": "Sunken City of Olous",
+        "name_it": "Città Sommersa di Olous",
+        "region": "Crete - Elounda (Mirabello Bay)",
+        "countryCode": "GR",
+        "kind": "other",
+        "depthMinM": 1,
+        "depthMaxM": 4,
+        "level": "beginner",
+        "exposure": "sheltered_all",
+        "highlights": [
+          "history",
+          "macro"
+        ],
+        "species": [
+          "Sparisoma cretense",
+          "Salpa salpa",
+          "Octopus vulgaris"
+        ],
+        "description_en": "Ancient submerged Minoan/Dorian city that sank into Mirabello Bay during earthquakes. Visible foundations, city walls, piers, and amphora shards.",
+        "description_it": "Antica città minoica e dorica sommersa nel golfo di Mirabello. Mura cittadine, fondamenta e banchine portuali ben visibili a pelo d'acqua."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.2839,
+          37.7014
+        ]
+      },
+      "properties": {
+        "id": "aegean-kea-hmhs-britannic",
+        "name": "HMHS Britannic Shipwreck",
+        "name_it": "Relitto HMHS Britannic",
+        "region": "Cyclades - Kea Channel",
+        "countryCode": "GR",
+        "kind": "wreck",
+        "depthMinM": 118,
+        "depthMaxM": 122,
+        "level": "technical",
+        "exposure": "exposed_all",
+        "highlights": [
+          "wreck",
+          "history"
+        ],
+        "species": [
+          "Conger conger",
+          "Phycis blennoides"
+        ],
+        "description_en": "Sister ship to RMS Titanic, converted hospital ship mined in 1916. The pinnacle of wreck diving: 269m long, resting largely intact at 120m depth.",
+        "description_it": "Nave gemella del Titanic affondata da una mina nel 1916. L'Everest delle immersioni tecniche: lunga 269m, intatta a 120m di profondità."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.279,
+          37.674
+        ]
+      },
+      "properties": {
+        "id": "aegean-kea-ss-burdigala",
+        "name": "SS Burdigala Wreck",
+        "name_it": "Relitto SS Burdigala",
+        "region": "Cyclades - Kea Channel",
+        "countryCode": "GR",
+        "kind": "wreck",
+        "depthMinM": 60,
+        "depthMaxM": 76,
+        "level": "technical",
+        "exposure": "exposed_all",
+        "highlights": [
+          "wreck",
+          "history"
+        ],
+        "species": [
+          "Seriola dumerili",
+          "Anthias anthias"
+        ],
+        "description_en": "French ocean liner (180m long) torpedoed days before Britannic in 1916. Grand hull and decks preserved at 70m depth.",
+        "description_it": "Transatlantico francese di 180m affondato nel 1916. Imponente relitto tecnico integro con argani, scafo e ponti a 70m."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3954,
+          37.4158
+        ]
+      },
+      "properties": {
+        "id": "aegean-mykonos-anna-ii",
+        "name": "Anna II Cargo Ship Wreck",
+        "name_it": "Relitto Nave Anna II",
+        "region": "Cyclades - Mykonos (Lia Beach)",
+        "countryCode": "GR",
+        "kind": "wreck",
+        "depthMinM": 22,
+        "depthMaxM": 36,
+        "level": "intermediate",
+        "exposure": "sheltered_north",
+        "highlights": [
+          "wreck",
+          "history",
+          "macro"
+        ],
+        "species": [
+          "Epinephelus marginatus",
+          "Serranus scriba",
+          "Spicara maena"
+        ],
+        "description_en": "Dutch cargo ship (62m) sunk in 1995 off south Mykonos. Sits upright on clean sand at 32m; accessible cabins and engine room.",
+        "description_it": "Mercantile olandese di 62m affondato nel 1995 al largo di Lia Beach. Poggia dritto sulla chiglia su sabbia a 32m; stive e sala macchine visitabili."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.397,
+          36.402
+        ]
+      },
+      "properties": {
+        "id": "aegean-santorini-taxiarchis",
+        "name": "Taxiarchis Caldera Wreck",
+        "name_it": "Relitto Taxiarchis (Caldera Santorini)",
+        "region": "Cyclades - Santorini (Nea Kameni)",
+        "countryCode": "GR",
+        "kind": "wreck",
+        "depthMinM": 14,
+        "depthMaxM": 30,
+        "level": "intermediate",
+        "exposure": "sheltered_all",
+        "highlights": [
+          "wreck",
+          "walls"
+        ],
+        "species": [
+          "Epinephelus costae",
+          "Scorpaena notata",
+          "Tripterygion delaisi"
+        ],
+        "description_en": "Vessel wreck inside the volcanic caldera of Santorini at Nea Kameni. Steep black volcanic drop-offs, warm sulfurous vents, and unique geology.",
+        "description_it": "Relitto all'interno della caldera vulcanica di Santorini presso l'isola lavica di Nea Kameni con pareti vulcaniche spettacolari."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.461,
+          36.852
+        ]
+      },
+      "properties": {
+        "id": "aegean-iraklia-arado-wreck",
+        "name": "Arado Ar 196 Seaplane Wreck",
+        "name_it": "Idrovolante Arado Ar 196",
+        "region": "Cyclades - Iraklia (Alimia Bay)",
+        "countryCode": "GR",
+        "kind": "wreck",
+        "depthMinM": 9,
+        "depthMaxM": 12,
+        "level": "beginner",
+        "exposure": "sheltered_north",
+        "highlights": [
+          "wreck",
+          "history"
+        ],
+        "species": [
+          "Diplodus sargus",
+          "Sphyraena viridensis"
+        ],
+        "description_en": "German WWII reconnaissance plane shot down in 1943. Intact fuselage and wings resting in shallow turquoise water.",
+        "description_it": "Idrovolante da ricognizione della Seconda Guerra Mondiale abbattuto nel 1943. Fusoliera e ali intatte in acque turchesi a 10m."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.975,
+          39.19
+        ]
+      },
+      "properties": {
+        "id": "aegean-alonissos-peristera",
+        "name": "Peristera Classical Shipwreck (Underwater Museum)",
+        "name_it": "Relitto di Peristera (Museo Sottomarino di Alonissos)",
+        "region": "Northern Sporades - Alonissos",
+        "countryCode": "GR",
+        "kind": "wreck",
+        "depthMinM": 22,
+        "depthMaxM": 30,
+        "level": "intermediate",
+        "exposure": "sheltered_west",
+        "highlights": [
+          "history",
+          "wreck"
+        ],
+        "species": [
+          "Monachus monachus",
+          "Dentex dentex",
+          "Epinephelus marginatus"
+        ],
+        "description_en": "The 'Parthenon of Shipwrecks': 5th-century BC merchant vessel with 4,000 intact wine amphorae. First marine underwater museum in Greece, inside the monk seal marine park.",
+        "description_it": "Il 'Partenone dei relitti': gigantesca nave mercantile del V secolo a.C. con oltre 4.000 anfore che formano una collina sottomarina intatta a 25m."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.857,
+          35.927
+        ]
+      },
+      "properties": {
+        "id": "aegean-rhodes-giannoula-k",
+        "name": "Giannoula K Shipwreck",
+        "name_it": "Relitto Giannoula K",
+        "region": "Dodecanese - Rhodes (Plimmiri)",
+        "countryCode": "GR",
+        "kind": "wreck",
+        "depthMinM": 12,
+        "depthMaxM": 22,
+        "level": "beginner",
+        "exposure": "exposed_east",
+        "highlights": [
+          "wreck",
+          "macro"
+        ],
+        "species": [
+          "Pterois miles",
+          "Fistularia commersonii",
+          "Caretta caretta"
+        ],
+        "description_en": "Cargo ship (110m long) wrecked in 1981 off south Rhodes. Penetrable holds and engine room teeming with marine life.",
+        "description_it": "Mercantile di 110 metri affondato nel 1981 nel sud di Rodi. Relitto penetrabile con stive aperte colonizzate da pesci leone e cernie."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.843,
+          37.128
+        ]
+      },
+      "properties": {
+        "id": "aegean-leros-queen-olga",
+        "name": "Vasilissa Olga (Queen Olga) Destroyer",
+        "name_it": "Cacciatorpediniere Vasilissa Olga",
+        "region": "Dodecanese - Leros (Lakki Bay)",
+        "countryCode": "GR",
+        "kind": "wreck",
+        "depthMinM": 28,
+        "depthMaxM": 36,
+        "level": "advanced",
+        "exposure": "sheltered_all",
+        "highlights": [
+          "wreck",
+          "history"
+        ],
+        "species": [
+          "Seriola dumerili",
+          "Scorpaena scrofa"
+        ],
+        "description_en": "Hellenic Navy legendary WWII destroyer sunk by German Stuka dive-bombers in 1943 during the Battle of Leros. Key naval historic monument.",
+        "description_it": "Glorioso cacciatorpediniere greco affondato dagli Stuka tedeschi nel 1943 durante la Battaglia di Leros. Grande relitto a 33m."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1889,
+          36.0528
+        ]
+      },
+      "properties": {
+        "id": "med-malta-blue-hole-gozo",
+        "name": "Blue Hole & Chimney (Gozo)",
+        "name_it": "Blue Hole e Camino (Gozo)",
+        "region": "Malta - Gozo (Dwejra Point)",
+        "countryCode": "MT",
+        "kind": "cave",
+        "depthMinM": 8,
+        "depthMaxM": 45,
+        "level": "intermediate",
+        "exposure": "exposed_west",
+        "highlights": [
+          "walls",
+          "caves",
+          "corals"
+        ],
+        "species": [
+          "Epinephelus marginatus",
+          "Scorpaena scrofa",
+          "Dentex dentex"
+        ],
+        "description_en": "Gozo's most renowned dive: a circular natural rock pool opening into the open sea through an underwater arch at 15m. Leads to Coral Garden and the famous Chimney drop-off.",
+        "description_it": "Il sito più iconico di Malta e Gozo: pozzo naturale di roccia che si apre sul mare aperto attraverso un maestoso arco a 15m, con camino verticale e pareti a strapiombo."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4503,
+          35.8183
+        ]
+      },
+      "properties": {
+        "id": "med-malta-um-el-faroud",
+        "name": "Um El Faroud Tanker Wreck",
+        "name_it": "Relitto Petroliera Um El Faroud",
+        "region": "Malta - Wied iż-Żurrieq",
+        "countryCode": "MT",
+        "kind": "wreck",
+        "depthMinM": 18,
+        "depthMaxM": 36,
+        "level": "advanced",
+        "exposure": "exposed_south",
+        "highlights": [
+          "wreck",
+          "history"
+        ],
+        "species": [
+          "Sphyraena viridensis",
+          "Seriola dumerili",
+          "Conger conger"
+        ],
+        "description_en": "Massive 110-metre Libyan motor tanker scuttled as an artificial reef in 1998. Resting upright with vast engine room, bridge, and deck winches.",
+        "description_it": "Imponente petroliera di 110m adagiata dritta su fondo sabbioso a 35m. Uno dei migliori relitti d'Europa con timoneria e sala macchine penetrabili in sicurezza."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2208,
+          42.05
+        ]
+      },
+      "properties": {
+        "id": "med-spain-medes-islands",
+        "name": "Medes Islands Marine Reserve",
+        "name_it": "Isole Medes (Catalogna)",
+        "region": "Spain - Costa Brava (L'Estartit)",
+        "countryCode": "ES",
+        "kind": "reef",
+        "depthMinM": 5,
+        "depthMaxM": 35,
+        "level": "beginner",
+        "exposure": "exposed_east",
+        "highlights": [
+          "corals",
+          "caves",
+          "macro"
+        ],
+        "species": [
+          "Epinephelus marginatus",
+          "Corallium rubrum",
+          "Paramuricea clavata"
+        ],
+        "description_en": "Protected marine park since 1983: tame giant dusky groupers, spectacular red gorgonian walls, and underwater caverns at La Vaca.",
+        "description_it": "Riserva marina protetta celebre per le cernie giganti fiduciose verso i sub, foreste di gorgonie rosse e le spettacolari grotte passanti di La Vaca."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.076,
+          40.817
+        ]
+      },
+      "properties": {
+        "id": "med-italy-baia-sommersa",
+        "name": "Baia Submerged Archaeological Park",
+        "name_it": "Parco Sommerso di Baia",
+        "region": "Italy - Campania (Golfo di Napoli)",
+        "countryCode": "IT",
+        "kind": "other",
+        "depthMinM": 3,
+        "depthMaxM": 8,
+        "level": "beginner",
+        "exposure": "sheltered_all",
+        "highlights": [
+          "history"
+        ],
+        "species": [
+          "Octopus vulgaris",
+          "Hippocampus guttulatus",
+          "Sepia officinalis"
+        ],
+        "description_en": "The underwater Roman resort city: intact mosaic floors (Villa dei Pisoni), marble statues, colonnades, and imperial baths sunken due to bradyseism.",
+        "description_it": "La Roma sommersa: favolosi mosaici romani intatti, terme imperiali, statue in marmo e colonne della Villa dei Pisoni e del Ninfeo sommersi a pochi metri d'acqua."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7,
+          44.3667
+        ]
+      },
+      "properties": {
+        "id": "med-italy-mt-haven",
+        "name": "MT Haven Supertanker",
+        "name_it": "Relitto Petroliera MT Haven",
+        "region": "Italy - Liguria (Arenzano)",
+        "countryCode": "IT",
+        "kind": "wreck",
+        "depthMinM": 33,
+        "depthMaxM": 80,
+        "level": "technical",
+        "exposure": "exposed_all",
+        "highlights": [
+          "wreck",
+          "history"
+        ],
+        "species": [
+          "Conger conger",
+          "Anthias anthias",
+          "Epinephelus marginatus"
+        ],
+        "description_en": "The largest diveable shipwreck in the Mediterranean: 334-metre VLCC supertanker sunk in 1991. Wheelhouse at 36m, main deck at 54m, keel at 80m.",
+        "description_it": "Il più grande relitto visitabile del Mediterraneo: superpetroliera di 334 metri affondata nel 1991 ad Arenzano. Castello di comando a 36m, coperta a 54m."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1753,
+          44.3133
+        ]
+      },
+      "properties": {
+        "id": "med-italy-portofino-cristo",
+        "name": "Christ of the Abyss (San Fruttuoso)",
+        "name_it": "Cristo degli Abissi (Portofino)",
+        "region": "Italy - Liguria (Portofino)",
+        "countryCode": "IT",
+        "kind": "other",
+        "depthMinM": 12,
+        "depthMaxM": 18,
+        "level": "beginner",
+        "exposure": "sheltered_north",
+        "highlights": [
+          "history",
+          "corals"
+        ],
+        "species": [
+          "Corallium rubrum",
+          "Paramuricea clavata",
+          "Dentex dentex"
+        ],
+        "description_en": "Iconic bronze statue of Jesus Christ placed in 1954 in the bay of San Fruttuoso at 17m depth. Surrounded by Portofino's rich marine protected area.",
+        "description_it": "Celebre statua bronzea posta nel 1954 sul fondale della baia di San Fruttuoso a 17m nell'Area Marina Protetta di Portofino."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.161,
+          38.718
+        ]
+      },
+      "properties": {
+        "id": "med-italy-ustica-medico",
+        "name": "Doctor's Rock (Scoglio del Medico)",
+        "name_it": "Scoglio del Medico (Ustica)",
+        "region": "Italy - Sicily (Ustica Island)",
+        "countryCode": "IT",
+        "kind": "reef",
+        "depthMinM": 10,
+        "depthMaxM": 45,
+        "level": "intermediate",
+        "exposure": "exposed_all",
+        "highlights": [
+          "walls",
+          "caves",
+          "corals"
+        ],
+        "species": [
+          "Epinephelus marginatus",
+          "Sphyraena viridensis",
+          "Dentex dentex"
+        ],
+        "description_en": "Regarded as the diving capital of the Mediterranean: enormous schools of friendly groupers, circling barracudas, and an underwater canyon swim-through.",
+        "description_it": "Capitale subacquea del Mediterraneo: decine di cernie giganti abituate ai subacquei, caroselli di barracuda e canyon passante sottomarino."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.55,
+          44.9333
+        ]
+      },
+      "properties": {
+        "id": "med-croatia-baron-gautsch",
+        "name": "SS Baron Gautsch Wreck",
+        "name_it": "Relitto SS Baron Gautsch",
+        "region": "Croatia - Istria (Rovinj)",
+        "countryCode": "HR",
+        "kind": "wreck",
+        "depthMinM": 28,
+        "depthMaxM": 40,
+        "level": "advanced",
+        "exposure": "exposed_all",
+        "highlights": [
+          "wreck",
+          "history"
+        ],
+        "species": [
+          "Dicentrarchus labrax",
+          "Scorpaena scrofa"
+        ],
+        "description_en": "Austro-Hungarian passenger steamship sunk by a mine in 1914. Known as the 'Little Titanic of the Adriatic'. Upper promenade deck at 28m, hull down to 40m.",
+        "description_it": "Piroscafo passeggeri affondato da una mina nel 1914. Noto come il 'Piccolo Titanic dell'Adriatico', maestoso relitto con saloni e ponti intatti a 28-40m."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.92,
+          27.8142
+        ]
+      },
+      "properties": {
+        "id": "redsea-ss-thistlegorm",
+        "name": "SS Thistlegorm Wreck",
+        "name_it": "Relitto SS Thistlegorm",
+        "region": "Egypt - Straits of Gubal (Sha'ab Ali)",
+        "countryCode": "EG",
+        "kind": "wreck",
+        "depthMinM": 16,
+        "depthMaxM": 32,
+        "level": "intermediate",
+        "exposure": "exposed_all",
+        "highlights": [
+          "wreck",
+          "history",
+          "turtles"
+        ],
+        "species": [
+          "Chelonia mydas",
+          "Caranx ignobilis",
+          "Epinephelus tauvina"
+        ],
+        "description_en": "World's most famous wreck: British WWII cargo ship sunk in 1941 by Heinkel bombers. Holds laden with Bedford trucks, BSA motorbikes, train steam engines, and munitions.",
+        "description_it": "Il relitto più famoso al mondo: mercantile britannico affondato nel 1941 con le stive intatte piene di moto BSA, camion Bedford, locomotive e munizioni."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.921,
+          27.576
+        ]
+      },
+      "properties": {
+        "id": "redsea-giannis-d",
+        "name": "Giannis D Wreck",
+        "name_it": "Relitto Giannis D",
+        "region": "Egypt - Sha'ab Abu Nuhas",
+        "countryCode": "EG",
+        "kind": "wreck",
+        "depthMinM": 10,
+        "depthMaxM": 27,
+        "level": "intermediate",
+        "exposure": "exposed_north",
+        "highlights": [
+          "wreck",
+          "corals"
+        ],
+        "species": [
+          "Pterois miles",
+          "Chaetodon fasciatus"
+        ],
+        "description_en": "Greek cargo ship struck Abu Nuhas reef in 1983. Sits at a 45-degree angle with a photogenic bridge, engine room, and A-frame mast draped in soft corals.",
+        "description_it": "Mercantile greco naufragato nel 1983 su Abu Nuhas. Inclinato a 45 gradi, famoso per la timoneria fotogenica e la sala macchine colonizzata da coralli."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.925,
+          27.581
+        ]
+      },
+      "properties": {
+        "id": "redsea-carnatic",
+        "name": "SS Carnatic Wreck",
+        "name_it": "Relitto SS Carnatic",
+        "region": "Egypt - Sha'ab Abu Nuhas",
+        "countryCode": "EG",
+        "kind": "wreck",
+        "depthMinM": 18,
+        "depthMaxM": 27,
+        "level": "intermediate",
+        "exposure": "exposed_north",
+        "highlights": [
+          "wreck",
+          "history",
+          "corals"
+        ],
+        "species": [
+          "Cheilinus undulatus",
+          "Plectorhinchus gaterinus"
+        ],
+        "description_en": "British steam-sail vessel that struck the reef in 1869 carrying gold coin specia and wine. Beautifully colonized wooden-ribbed hull covered in glassfish.",
+        "description_it": "Piroscafo a vapore britannico del 1869 affondato con lingotti d'oro e casse di vino. Lo scheletro delle costolature è ricoperto da coralli molli e miriadi di pesci vetro."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.4733,
+          28.0088
+        ]
+      },
+      "properties": {
+        "id": "redsea-dahab-blue-hole",
+        "name": "Dahab Blue Hole & The Arch",
+        "name_it": "Blue Hole di Dahab",
+        "region": "Egypt - Sinai (Dahab)",
+        "countryCode": "EG",
+        "kind": "cave",
+        "depthMinM": 5,
+        "depthMaxM": 100,
+        "level": "advanced",
+        "exposure": "sheltered_west",
+        "highlights": [
+          "walls",
+          "corals"
+        ],
+        "species": [
+          "Pseudanthias squamipinnis",
+          "Cephalopholis miniata"
+        ],
+        "description_en": "Submarine sinkhole dropping over 100m straight down into deep blue water. The Saddle (7m) and outer coral wall are superb recreational dives, while The Arch (56m) is technical.",
+        "description_it": "Spettacolare dolina sottomarina circolare che sprofonda oltre 100m. La sella corallina a 7m e la parete esterna offrono immersioni ricreative mozzafiato."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.52,
+          28.555
+        ]
+      },
+      "properties": {
+        "id": "redsea-dahab-the-canyon",
+        "name": "The Canyon",
+        "name_it": "Il Canyon di Dahab",
+        "region": "Egypt - Sinai (Dahab)",
+        "countryCode": "EG",
+        "kind": "cave",
+        "depthMinM": 15,
+        "depthMaxM": 32,
+        "level": "intermediate",
+        "exposure": "sheltered_west",
+        "highlights": [
+          "caves",
+          "walls"
+        ],
+        "species": [
+          "Heteroconger hassi",
+          "Octopus cyanea"
+        ],
+        "description_en": "Deep subterranean fissure in the reef lagoon. Divers descend through a narrow opening into a cavern lit by ethereal sunlight shafts.",
+        "description_it": "Fessura sottomarina che penetra all'interno della scogliera corallina. Si scende in una caverna illuminata da fasci di luce eterea con pesci vetro."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.2587,
+          27.7257
+        ]
+      },
+      "properties": {
+        "id": "redsea-ras-mohammed-shark-yolanda",
+        "name": "Shark & Yolanda Reef",
+        "name_it": "Shark & Yolanda Reef (Ras Mohammed)",
+        "region": "Egypt - Ras Mohammed National Park",
+        "countryCode": "EG",
+        "kind": "reef",
+        "depthMinM": 10,
+        "depthMaxM": 40,
+        "level": "intermediate",
+        "exposure": "exposed_all",
+        "highlights": [
+          "corals",
+          "sharks",
+          "wreck",
+          "drift"
+        ],
+        "species": [
+          "Carcharhinus amblyrhynchos",
+          "Sphyrna lewini",
+          "Tridacna gigas"
+        ],
+        "description_en": "Two coral pinnacles connected by a saddle dropping into an 800m abyss. Drift dive with pelagic sharks, massive schools of snappers, and the quirky Yolanda toilet cargo wreck.",
+        "description_it": "Pinnacoli corallini che precipitano negli abissi a 800m all'estremità del Sinai. Squali grigi, enormi banchi di carangidi e il carico di sanitari del relitto Yolanda."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8607,
+          25.3092
+        ]
+      },
+      "properties": {
+        "id": "redsea-elphinstone-reef",
+        "name": "Elphinstone Reef",
+        "name_it": "Scogliera di Elphinstone (Marsa Alam)",
+        "region": "Egypt - Marsa Alam",
+        "countryCode": "EG",
+        "kind": "reef",
+        "depthMinM": 10,
+        "depthMaxM": 40,
+        "level": "advanced",
+        "exposure": "exposed_all",
+        "highlights": [
+          "sharks",
+          "walls",
+          "drift"
+        ],
+        "species": [
+          "Carcharhinus longimanus",
+          "Sphyrna mokarran",
+          "Manta alfredi"
+        ],
+        "description_en": "Famous solitary offshore reef with sheer vertical drop-offs. Renowned worldwide for oceanic whitetip shark encounters and schooling hammerheads.",
+        "description_it": "Barriera isolata in mare aperto con pareti verticali a strapiombo, famosa nel mondo per gli incontri ravvicinati con squali oceanici pinna bianca e martello."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.291,
+          19.636
+        ]
+      },
+      "properties": {
+        "id": "redsea-sudan-umbria-wreck",
+        "name": "SS Umbria Shipwreck",
+        "name_it": "Relitto Piroscafo Umbria (Wingate Reef)",
+        "region": "Sudan - Port Sudan (Wingate Reef)",
+        "countryCode": "SD",
+        "kind": "wreck",
+        "depthMinM": 5,
+        "depthMaxM": 36,
+        "level": "intermediate",
+        "exposure": "sheltered_all",
+        "highlights": [
+          "wreck",
+          "history"
+        ],
+        "species": [
+          "Carcharhinus albimarginatus",
+          "Epinephelus tukula"
+        ],
+        "description_en": "Italian WWII supply ship scuttled by its captain in 1940 to avoid British capture. Holds contain 360,000 aircraft bombs, Fiat 1100 cars, and wine bottles, completely undisturbed.",
+        "description_it": "Nave italiana autoaffondata dal comandante nel 1940 per non cedere il carico agli inglesi. Le stive contengono intatte 360.000 bombe aeronautiche, automobili Fiat e casse di vino."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5344,
+          17.3156
+        ]
+      },
+      "properties": {
+        "id": "carib-belize-great-blue-hole",
+        "name": "Great Blue Hole (Lighthouse Reef)",
+        "name_it": "Great Blue Hole (Belize)",
+        "region": "Belize - Lighthouse Reef Atoll",
+        "countryCode": "BZ",
+        "kind": "cave",
+        "depthMinM": 12,
+        "depthMaxM": 124,
+        "level": "advanced",
+        "exposure": "sheltered_all",
+        "highlights": [
+          "walls",
+          "caves",
+          "sharks"
+        ],
+        "species": [
+          "Carcharhinus perezi",
+          "Ginglymostoma cirratum"
+        ],
+        "description_en": "UNESCO World Heritage giant marine sinkhole made famous by Jacques Cousteau. Divers descend past 35m to swim through towering 8-metre stalactites in crystal water.",
+        "description_it": "Dolina marina circolare resa celebre da Jacques Cousteau. Oltre i 35m si nuota tra gigantesche stalattiti sommerse lunghe 8 metri tra squali di barriera."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3917,
+          20.3248
+        ]
+      },
+      "properties": {
+        "id": "carib-mexico-cenote-dos-ojos",
+        "name": "Cenote Dos Ojos",
+        "name_it": "Cenote Dos Ojos (Yucatán)",
+        "region": "Mexico - Quintana Roo (Tulum)",
+        "countryCode": "MX",
+        "kind": "cave",
+        "depthMinM": 4,
+        "depthMaxM": 10,
+        "level": "intermediate",
+        "exposure": "sheltered_all",
+        "highlights": [
+          "caves",
+          "macro"
+        ],
+        "species": [
+          "Astyanax jordani",
+          "Creaseria morleyi"
+        ],
+        "description_en": "World-famous submerged freshwater cave system with over 100m visibility. Sunlight pierces through cavern openings creating breathtaking lasers of light over stalagmites.",
+        "description_it": "Celebre sistema di grotte sotterranee di acqua dolce con visibilità oltre 100 metri. I raggi di sole penetrano nella volta creando lame di luce spettacolari tra le stalagmiti."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.031,
+          20.354
+        ]
+      },
+      "properties": {
+        "id": "carib-mexico-cozumel-palancar",
+        "name": "Palancar Reef & Horseshoe",
+        "name_it": "Barriera di Palancar (Cozumel)",
+        "region": "Mexico - Cozumel Island",
+        "countryCode": "MX",
+        "kind": "reef",
+        "depthMinM": 10,
+        "depthMaxM": 30,
+        "level": "beginner",
+        "exposure": "sheltered_east",
+        "highlights": [
+          "corals",
+          "drift",
+          "turtles"
+        ],
+        "species": [
+          "Sanopus splendidus",
+          "Eretmochelys imbricata",
+          "Aetobatus narinari"
+        ],
+        "description_en": "Massive coral mountains and swim-through tunnels along Cozumel's drift channel. Home to the endemic Cozumel splendid toadfish and eagle rays.",
+        "description_it": "Montagne di corallo e tunnel passanti immersi nella corrente limpida di Cozumel, habitat dell'endemico pesce rospo splendido e di aquile di mare."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4012,
+          19.3621
+        ]
+      },
+      "properties": {
+        "id": "carib-cayman-uss-kittiwake",
+        "name": "USS Kittiwake Submarine Rescue Ship",
+        "name_it": "Relitto USS Kittiwake (Grand Cayman)",
+        "region": "Cayman Islands - Grand Cayman (Seven Mile Beach)",
+        "countryCode": "KY",
+        "kind": "wreck",
+        "depthMinM": 5,
+        "depthMaxM": 20,
+        "level": "beginner",
+        "exposure": "sheltered_east",
+        "highlights": [
+          "wreck",
+          "history"
+        ],
+        "species": [
+          "Hypoplectrus gemma",
+          "Sphyraena barracuda"
+        ],
+        "description_en": "Former US Navy submarine rescue ship (76m) scuttled in 2011. Cleaned for safe exploration: all 5 decks, decompression chambers, and navigation bridge easily penetrable in calm shallow water.",
+        "description_it": "Nave da soccorso sottomarini della marina USA (76m) affondata nel 2011. Bonificata per visite sicure: tutti i 5 ponti e le camere di decompressione sono accessibili a 18m."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.2833,
+          12.0833
+        ]
+      },
+      "properties": {
+        "id": "carib-bonaire-salt-pier",
+        "name": "Salt Pier",
+        "name_it": "Salt Pier (Bonaire)",
+        "region": "Bonaire - Kralendijk South",
+        "countryCode": "BQ",
+        "kind": "reef",
+        "depthMinM": 3,
+        "depthMaxM": 16,
+        "level": "beginner",
+        "exposure": "sheltered_east",
+        "highlights": [
+          "corals",
+          "macro",
+          "turtles"
+        ],
+        "species": [
+          "Chelonia mydas",
+          "Acanthurus coeruleus",
+          "Hippocampus reidi"
+        ],
+        "description_en": "Industrial salt loading pier with pilings completely covered in colorful sponges, soft corals, and brain corals. Enormous schools of grunts and sea turtles grazing on seagrass.",
+        "description_it": "Pontile per il carico del sale con piloni ricoperti da spugne colorate e coralli cervello. Grandi caroselli di pesci tropicali, cavallucci marini e tartarughe."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0333,
+          26.9667
+        ]
+      },
+      "properties": {
+        "id": "carib-bahamas-tiger-beach",
+        "name": "Tiger Beach",
+        "name_it": "Tiger Beach (Grand Bahama)",
+        "region": "Bahamas - Grand Bahama Island",
+        "countryCode": "BS",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 12,
+        "level": "beginner",
+        "exposure": "exposed_all",
+        "highlights": [
+          "sharks"
+        ],
+        "species": [
+          "Galeocerdo cuvier",
+          "Negaprion brevirostris",
+          "Sphyrna mokarran"
+        ],
+        "description_en": "The premier shark encounter site in the Americas: calm shallow white-sand plateau where divers sit with huge female tiger sharks, lemon sharks, and reef sharks.",
+        "description_it": "Il punto d'incontro con gli squali più famoso delle Americhe: altopiano di sabbia bianca a 8m dove nuotare faccia a faccia con squali tigre giganti e squali limone."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.675,
+          -0.556
+        ]
+      },
+      "properties": {
+        "id": "coraltri-raja-ampat-cape-kri",
+        "name": "Cape Kri",
+        "name_it": "Cape Kri (Raja Ampat)",
+        "region": "Indonesia - West Papua (Raja Ampat)",
+        "countryCode": "ID",
+        "kind": "reef",
+        "depthMinM": 5,
+        "depthMaxM": 35,
+        "level": "intermediate",
+        "exposure": "exposed_all",
+        "highlights": [
+          "corals",
+          "sharks",
+          "mantas",
+          "drift"
+        ],
+        "species": [
+          "Eretmochelys imbricata",
+          "Triaenodon obesus",
+          "Caranx sexfasciatus"
+        ],
+        "description_en": "Holds the world record for the highest number of fish species counted on a single dive (374 species!). Explosive marine life, giant trevallies, reef sharks, and pristine coral reef.",
+        "description_it": "Detiene il record mondiale per il maggior numero di specie di pesci contate in una singola immersione (374 specie!). Coralli intatti, banchi fitti di carangidi e squali di barriera."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.61,
+          -8.545
+        ]
+      },
+      "properties": {
+        "id": "coraltri-komodo-batu-bolong",
+        "name": "Batu Bolong (Hollow Rock)",
+        "name_it": "Batu Bolong (Parco Nazionale di Komodo)",
+        "region": "Indonesia - Komodo National Park",
+        "countryCode": "ID",
+        "kind": "pinnacle",
+        "depthMinM": 5,
+        "depthMaxM": 40,
+        "level": "advanced",
+        "exposure": "exposed_all",
+        "highlights": [
+          "walls",
+          "drift",
+          "sharks",
+          "corals"
+        ],
+        "species": [
+          "Carcharhinus melanopterus",
+          "Napoléon fish",
+          "Hawksbill turtle"
+        ],
+        "description_en": "Submerged rocky pinnacle plunging into roaring tidal currents. Untouched coral gardens blanketed with anthias, patrolling reef sharks, napoleon wrasses, and giant trevallies.",
+        "description_it": "Pinnacolo roccioso battuto da correnti impetuose. Pareti ricoperte al 100% da coralli vivi, sciami di anthias arancioni, squali pinna bianca e pesci napoleone."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.592,
+          -8.274
+        ]
+      },
+      "properties": {
+        "id": "coraltri-bali-usat-liberty",
+        "name": "USAT Liberty Shipwreck",
+        "name_it": "Relitto USAT Liberty (Tulamben, Bali)",
+        "region": "Indonesia - Bali (Tulamben)",
+        "countryCode": "ID",
+        "kind": "wreck",
+        "depthMinM": 5,
+        "depthMaxM": 30,
+        "level": "beginner",
+        "exposure": "sheltered_south",
+        "highlights": [
+          "wreck",
+          "history",
+          "macro"
+        ],
+        "species": [
+          "Bolbometopon muricatum",
+          "Pygmy seahorse",
+          "Acanthurus lineatus"
+        ],
+        "description_en": "US Army transport ship (125m) torpedoed by a Japanese submarine in 1942 and pushed off the beach by Mount Agung's lava eruption in 1963. Encrusted with gorgonians, home to resident bumphead parrotfish herds.",
+        "description_it": "Nave da trasporto USA (125m) silurata nel 1942 e spinta in mare dalla lava del vulcano Agung nel 1963. Facile accesso da riva, colonizzata da coralli e branchi di pesci pappagallo giganti."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.8667,
+          8.95
+        ]
+      },
+      "properties": {
+        "id": "coraltri-philippines-tubbataha",
+        "name": "Tubbataha Reefs Natural Park",
+        "name_it": "Parco Naturale delle Barriere di Tubbataha",
+        "region": "Philippines - Sulu Sea (Palawan)",
+        "countryCode": "PH",
+        "kind": "reef",
+        "depthMinM": 8,
+        "depthMaxM": 50,
+        "level": "advanced",
+        "exposure": "exposed_all",
+        "highlights": [
+          "sharks",
+          "mantas",
+          "walls",
+          "corals"
+        ],
+        "species": [
+          "Rhincodon typus",
+          "Sphyrna lewini",
+          "Manta birostris"
+        ],
+        "description_en": "UNESCO World Heritage isolated atolls in the center of the Sulu Sea. Sheer 100-metre drop-offs with pristine coral cover, whale sharks, hammerheads, and manta rays.",
+        "description_it": "Atolli isolati nel mezzo del mare di Sulu (Patrimonio UNESCO). Pareti a picco nel blu con coralli incontaminati, squali balena, squali martello e mante giganti."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.6333,
+          4.1167
+        ]
+      },
+      "properties": {
+        "id": "coraltri-malaysia-sipadan-barracuda",
+        "name": "Barracuda Point",
+        "name_it": "Barracuda Point (Sipadan)",
+        "region": "Malaysia - Sabah (Sipadan Island)",
+        "countryCode": "MY",
+        "kind": "reef",
+        "depthMinM": 8,
+        "depthMaxM": 40,
+        "level": "intermediate",
+        "exposure": "exposed_all",
+        "highlights": [
+          "drift",
+          "sharks",
+          "turtles"
+        ],
+        "species": [
+          "Sphyraena qenie",
+          "Chelonia mydas",
+          "Carcharhinus melanopterus"
+        ],
+        "description_en": "Legendary oceanic island dropping 600m to the ocean floor. Celebrated for a massive spiraling 'tornado' of thousands of chevron barracudas and dozens of green sea turtles.",
+        "description_it": "Isola oceanica che sprofonda per 600m nel blu. Celeberrima per il vortice a 'tornado' formato da migliaia di barracuda e per le decine di tartarughe marine su ogni immersione."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.022,
+          9.362
+        ]
+      },
+      "properties": {
+        "id": "coraltri-thailand-richelieu-rock",
+        "name": "Richelieu Rock",
+        "name_it": "Richelieu Rock (Mare delle Andamane)",
+        "region": "Thailand - Andaman Sea (Mu Koh Surin)",
+        "countryCode": "TH",
+        "kind": "pinnacle",
+        "depthMinM": 9,
+        "depthMaxM": 35,
+        "level": "intermediate",
+        "exposure": "exposed_all",
+        "highlights": [
+          "whaleShark",
+          "macro",
+          "corals"
+        ],
+        "species": [
+          "Rhincodon typus",
+          "Hippocampus bargibanti",
+          "Harlequin shrimp"
+        ],
+        "description_en": "Isolated horseshoe-shaped limestone pinnacle rising from 35m depth. Thailand's top spot for whale shark encounters and macro photography (harlequin shrimp, seahorses).",
+        "description_it": "Pinnacolo roccioso a ferro di cavallo isolato nel mare aperto. Il miglior punto della Thailandia per avvistare lo squalo balena e macrofauna rarissima (gamberi arlecchino)."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.6231,
+          -19.3039
+        ]
+      },
+      "properties": {
+        "id": "pacific-australia-ss-yongala",
+        "name": "SS Yongala Shipwreck",
+        "name_it": "Relitto SS Yongala (Queensland)",
+        "region": "Australia - Great Barrier Reef (Townsville)",
+        "countryCode": "AU",
+        "kind": "wreck",
+        "depthMinM": 15,
+        "depthMaxM": 30,
+        "level": "advanced",
+        "exposure": "exposed_all",
+        "highlights": [
+          "wreck",
+          "history",
+          "sharks",
+          "rays"
+        ],
+        "species": [
+          "Epinephelus lanceolatus",
+          "Aetobatus ocellatus",
+          "Balaenoptera acutorostrata"
+        ],
+        "description_en": "Passenger steamship (110m) sunk during a 1911 cyclone. Sitting isolated on an open sandy seabed, it acts as an oasis concentrating giant queensland groupers, sea snakes, rays, and bull sharks.",
+        "description_it": "Nave passeggeri di 110m affondata da un ciclone nel 1911. Oasi di vita sottomarina isolata nella sabbia con cernie giganti da 2 metri, serpenti marini, mante e squali toro."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.658,
+          -14.671
+        ]
+      },
+      "properties": {
+        "id": "pacific-australia-cod-hole",
+        "name": "Cod Hole (Ribbon Reefs)",
+        "name_it": "Cod Hole (Grande Barriera Corallina)",
+        "region": "Australia - Great Barrier Reef (Lizard Island)",
+        "countryCode": "AU",
+        "kind": "reef",
+        "depthMinM": 10,
+        "depthMaxM": 30,
+        "level": "beginner",
+        "exposure": "sheltered_west",
+        "highlights": [
+          "corals",
+          "macro"
+        ],
+        "species": [
+          "Epinephelus tukula",
+          "Cheilinus undulatus"
+        ],
+        "description_en": "World-famous dive on the Ribbon Reefs: famous for close encounters with curious, 100-kg potato cod groupers that swim calmly alongside divers.",
+        "description_it": "Celeberrimo sito sulla Ribbon Reef: famoso per gli incontri ravvicinati con amichevoli cernie patata giganti da 100 kg che nuotano curiose attorno ai subacquei."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.2167,
+          7.1333
+        ]
+      },
+      "properties": {
+        "id": "pacific-palau-blue-corner",
+        "name": "Blue Corner",
+        "name_it": "Blue Corner (Palau)",
+        "region": "Palau - South Lagoon",
+        "countryCode": "PW",
+        "kind": "wall",
+        "depthMinM": 10,
+        "depthMaxM": 40,
+        "level": "advanced",
+        "exposure": "exposed_all",
+        "highlights": [
+          "sharks",
+          "drift",
+          "walls"
+        ],
+        "species": [
+          "Carcharhinus amblyrhynchos",
+          "Triaenodon obesus",
+          "Gymnosarda unicolor"
+        ],
+        "description_en": "Ranked among the greatest dives on Earth: plateau jutting into the open ocean where divers use reef hooks in fierce currents to watch dozens of gray reef sharks, dogtooth tuna, and schools of barracudas.",
+        "description_it": "Una delle immersioni più emozionanti al mondo: promontorio sottomarino dove i sub si ancorano con reef-hook nella forte corrente per ammirare caroselli di decine di squali grigi e tonni."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.7833,
+          7.3333
+        ]
+      },
+      "properties": {
+        "id": "pacific-chuuk-fujikawa-maru",
+        "name": "Fujikawa Maru (Truk Lagoon)",
+        "name_it": "Relitto Fujikawa Maru (Laguna di Truk)",
+        "region": "Micronesia - Chuuk Lagoon",
+        "countryCode": "FM",
+        "kind": "wreck",
+        "depthMinM": 10,
+        "depthMaxM": 35,
+        "level": "intermediate",
+        "exposure": "sheltered_all",
+        "highlights": [
+          "wreck",
+          "history",
+          "corals"
+        ],
+        "species": [
+          "Epinephelus fuscoguttatus",
+          "Lutjanus bohar"
+        ],
+        "description_en": "Armed aircraft ferry (132m) sunk during Operation Hailstone in 1944. Holds contain intact Mitsubishi Zero fighter planes, engine wings, machine guns, and soft corals.",
+        "description_it": "Nave da trasporto aerei armata (132m) affondata nel 1944. Nelle stive sono conservati aerei da caccia Zero intatti, ali, munizioni e motori incrostati di coralli."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.0333,
+          19.65
+        ]
+      },
+      "properties": {
+        "id": "pacific-hawaii-kona-manta",
+        "name": "Kona Manta Ray Night Dive",
+        "name_it": "Immersione Notturna con le Mante di Kona",
+        "region": "USA - Hawaii (Big Island Kona)",
+        "countryCode": "US",
+        "kind": "reef",
+        "depthMinM": 8,
+        "depthMaxM": 12,
+        "level": "beginner",
+        "exposure": "sheltered_east",
+        "highlights": [
+          "mantas"
+        ],
+        "species": [
+          "Mobula alfredi",
+          "Plankton"
+        ],
+        "description_en": "Unforgettable night encounter: divers place lights on the sand floor attracting clouds of plankton, while dozens of colossal manta rays perform barrel rolls inches above divers' heads.",
+        "description_it": "Incontro notturno indimenticabile: potenti luci subacquee posate sulla sabbia attirano plancton, richiamando decine di mante giganti che compiono evoluzioni a pochi centimetri dai sub."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8667,
+          4.0833
+        ]
+      },
+      "properties": {
+        "id": "ind-maldives-maaya-thila",
+        "name": "Maaya Thila",
+        "name_it": "Maaya Thila (Atollo di Ari)",
+        "region": "Maldives - North Ari Atoll",
+        "countryCode": "MV",
+        "kind": "pinnacle",
+        "depthMinM": 6,
+        "depthMaxM": 30,
+        "level": "intermediate",
+        "exposure": "exposed_all",
+        "highlights": [
+          "sharks",
+          "corals",
+          "macro"
+        ],
+        "species": [
+          "Triaenodon obesus",
+          "Dasyatis pastinaca",
+          "Gymnothorax javanicus"
+        ],
+        "description_en": "One of the most thrilling night dives in the Maldives: circular pinnacle swarming with hunting whitetip reef sharks, giant morays, and hunting marble stingrays.",
+        "description_it": "Pinnacolo sommerso celebre per le immersioni notturne: sciami di squali pinna bianca che cacciano al buio, murene giganti e grandi razze marmorizzate."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.149,
+          5.171
+        ]
+      },
+      "properties": {
+        "id": "ind-maldives-hanifaru-bay",
+        "name": "Hanifaru Bay (UNESCO Biosphere)",
+        "name_it": "Baia di Hanifaru (Atollo di Baa)",
+        "region": "Maldives - Baa Atoll",
+        "countryCode": "MV",
+        "kind": "other",
+        "depthMinM": 2,
+        "depthMaxM": 12,
+        "level": "beginner",
+        "exposure": "sheltered_all",
+        "highlights": [
+          "mantas",
+          "whaleShark"
+        ],
+        "species": [
+          "Mobula alfredi",
+          "Rhincodon typus"
+        ],
+        "description_en": "Cul-de-sac inlet where lunar tides trap dense blooms of plankton, gathering over a hundred reef manta rays and whale sharks performing synchronized cyclone feeding.",
+        "description_it": "Baia a fondo cieco protetta dall'UNESCO dove le correnti lunari intrappolano banchi immensi di plancton: fino a 100 mante e squali balena che si nutrono all'unisono."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.8873,
+          -30.267
+        ]
+      },
+      "properties": {
+        "id": "ind-southafrica-aliwal-shoal",
+        "name": "Aliwal Shoal",
+        "name_it": "Aliwal Shoal (Sudafrica)",
+        "region": "South Africa - KwaZulu-Natal (Umkomaas)",
+        "countryCode": "ZA",
+        "kind": "reef",
+        "depthMinM": 10,
+        "depthMaxM": 30,
+        "level": "intermediate",
+        "exposure": "exposed_all",
+        "highlights": [
+          "sharks",
+          "caves"
+        ],
+        "species": [
+          "Carcharias taurus",
+          "Galeocerdo cuvier",
+          "Sphyrna lewini"
+        ],
+        "description_en": "Fossilized sand dune reef world-renowned for aggregations of ragged-tooth sharks ('raggies'), tiger sharks, and the Nebo/Produce wrecks.",
+        "description_it": "Duna fossile sommersa famosa in tutto il mondo per le decine di squali toro (ragged-tooth), squali tigre e balene in transito durante la Sardine Run."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.004,
+          1.674
+        ]
+      },
+      "properties": {
+        "id": "pelagic-galapagos-darwin-arch",
+        "name": "Darwin's Pillars / Darwin Island",
+        "name_it": "Pilastri di Darwin (Isole Galápagos)",
+        "region": "Ecuador - Galápagos Islands (Darwin)",
+        "countryCode": "EC",
+        "kind": "wall",
+        "depthMinM": 12,
+        "depthMaxM": 40,
+        "level": "advanced",
+        "exposure": "exposed_all",
+        "highlights": [
+          "whaleShark",
+          "sharks",
+          "walls"
+        ],
+        "species": [
+          "Rhincodon typus",
+          "Sphyrna lewini",
+          "Carcharhinus galapagensis"
+        ],
+        "description_en": "Considered the apex of pelagic diving: massive pregnant female whale sharks (up to 14m), schools of hundreds of scalloped hammerheads, Galapagos sharks, and pods of dolphins.",
+        "description_it": "Il vertice assoluto delle immersioni pelagiche: squali balena giganti (fino a 14 metri), muri di centinaia di squali martello, squali Galápagos e mante."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.05,
+          5.5167
+        ]
+      },
+      "properties": {
+        "id": "pelagic-cocos-bajo-alcyone",
+        "name": "Bajo Alcyone",
+        "name_it": "Bajo Alcyone (Isola del Cocco)",
+        "region": "Costa Rica - Cocos Island",
+        "countryCode": "CR",
+        "kind": "pinnacle",
+        "depthMinM": 25,
+        "depthMaxM": 38,
+        "level": "advanced",
+        "exposure": "exposed_all",
+        "highlights": [
+          "sharks",
+          "drift"
+        ],
+        "species": [
+          "Sphyrna lewini",
+          "Triaenodon obesus",
+          "Aetobatus ocellatus"
+        ],
+        "description_en": "Submerged seamount 300 miles offshore Costa Rica: unbelievable walls of hundreds of schooling scalloped hammerhead sharks blocking out the sunlight.",
+        "description_it": "Montagna sottomarina a 500 km dalla costa: incredibili pareti di centinaia di squali martello che oscurano la luce del sole, aquile di mare e carangidi."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.8167,
+          19.3167
+        ]
+      },
+      "properties": {
+        "id": "pelagic-socorro-the-boiler",
+        "name": "The Boiler (San Benedicto)",
+        "name_it": "The Boiler (Isole Revillagigedo, Socorro)",
+        "region": "Mexico - Revillagigedo Archipelago",
+        "countryCode": "MX",
+        "kind": "pinnacle",
+        "depthMinM": 10,
+        "depthMaxM": 45,
+        "level": "advanced",
+        "exposure": "exposed_all",
+        "highlights": [
+          "mantas",
+          "sharks",
+          "dolphins"
+        ],
+        "species": [
+          "Mobula birostris",
+          "Tursiops truncatus",
+          "Galeocerdo cuvier"
+        ],
+        "description_en": "A cleaning station pinnacle in the open Pacific known for intimate interactions with giant oceanic manta rays (7m wingspan) that seek eye contact with divers, alongside wild bottlenose dolphins.",
+        "description_it": "Pinnacolo oceanico stazione di pulizia: celebre per il contatto visivo spontaneo con mante oceaniche giganti (7 metri di apertura alare) e delfini selvatici."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.1215,
+          64.2558
+        ]
+      },
+      "properties": {
+        "id": "north-iceland-silfra-fissure",
+        "name": "Silfra Fissure (Thingvellir)",
+        "name_it": "Faglia di Silfra (Islanda)",
+        "region": "Iceland - Thingvellir National Park",
+        "countryCode": "IS",
+        "kind": "cave",
+        "depthMinM": 7,
+        "depthMaxM": 18,
+        "level": "intermediate",
+        "exposure": "sheltered_all",
+        "highlights": [
+          "walls",
+          "caves"
+        ],
+        "species": [
+          "Salvelinus alpinus",
+          "Freshwater bryophytes"
+        ],
+        "description_en": "Dive directly between the North American and Eurasian tectonic plates. Glacial meltwater filtered for decades through lava fields yields unmatched 100m+ water visibility (2-4°C drysuit dive).",
+        "description_it": "Immersione unica al mondo nella spaccatura tra le placche tettoniche nordamericana ed eurasiatica. Acqua di ghiacciaio purificata per decenni con oltre 100 metri di visibilità."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.17,
+          58.895
+        ]
+      },
+      "properties": {
+        "id": "north-scotland-scapa-flow-kronprinz",
+        "name": "SMS Kronprinz Wilhelm (Scapa Flow)",
+        "name_it": "Relitto Corazzata SMS Kronprinz Wilhelm (Scapa Flow)",
+        "region": "United Kingdom - Scotland (Orkney Islands)",
+        "countryCode": "GB",
+        "kind": "wreck",
+        "depthMinM": 12,
+        "depthMaxM": 38,
+        "level": "advanced",
+        "exposure": "sheltered_all",
+        "highlights": [
+          "wreck",
+          "history"
+        ],
+        "species": [
+          "Cancer pagurus",
+          "Conger conger"
+        ],
+        "description_en": "Massive 25,000-ton German Kaiser-class dreadnought battleship scuttled in 1919. Sits inverted at 38m with 12-inch main battery guns still aiming out from the seabed.",
+        "description_it": "Gigantesca corazzata da battaglia tedesca di 25.000 tonnellate autoaffondata nel 1919. Poggia capovolta a 38m con i colossali cannoni da 305mm ancora puntati nel fondale."
+      }
+    }
+  ]
+}

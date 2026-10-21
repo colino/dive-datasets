@@ -33,7 +33,7 @@
           "Scorpaena scrofa"
         ],
         "description_en": "Submerged sea cave with spectacular stalactites/stalagmites and fossilized bones of an extinct dwarf elephant. Entrance at 10m, interior features an air chamber.",
-        "description_it": "Grotta marina parzialmente sommersa con stalattiti/stalagmiti e ossa fossili pietrificate di un elefante nano estinto. Ingresso a 10m e camera d'aria interna."
+        "description_it": "Grotta marina con stalattiti/stalagmiti e ossa fossili pietrificate di un elefante nano estinto. Ingresso a 10m e camera d'aria interna."
       }
     },
     {
@@ -65,7 +65,7 @@
           "Epinephelus marginatus"
         ],
         "description_en": "Dramatic cavern with ancient amphora remnants and pottery fragments. Features light beams through the cavern roof and colorful sponge-covered walls.",
-        "description_it": "Spettacolare caverna con frammenti di anfore antiche. Fasci di luce penetrano dal soffitto e pareti ricoperte di spugne colorate."
+        "description_it": "Caverna con frammenti di anfore antiche. Fasci di luce penetrano dal soffitto e pareti ricoperte di spugne colorate."
       }
     },
     {
@@ -99,7 +99,7 @@
           "Sparisoma cretense"
         ],
         "description_en": "Historic dive site with remnants of ancient transport amphorae fused into the seabed. Frequent loggerhead sea turtle sightings.",
-        "description_it": "Sito archeologico e biologico con frammenti di anfore commerciali romane e greche incastonate nel fondale roccioso. Frequenti tartarughe marine Caretta caretta."
+        "description_it": "Sito archeologico con frammenti di anfore commerciali romane e greche incastonate nel fondale. Frequenti tartarughe marine Caretta caretta."
       }
     },
     {
@@ -134,8 +134,8 @@
           "Muraena helena",
           "Caretta caretta"
         ],
-        "description_en": "One of Crete's richest marine biodiversity sites. Crystal-clear waters (>40m visibility), underwater thermal springs, underwater canyon drop-off, octopuses and stingrays. Sheltered from north Meltemi winds.",
-        "description_it": "Uno dei siti con la più alta biodiversità marina di Creta. Visibilità eccezionale (>40m), risorgive sottomarine, canyon e pareti profonde. Ottimo riparo quando soffia il Meltemi da nord."
+        "description_en": "Crete's top marine biodiversity site. Crystal-clear waters (>40m visibility), underwater thermal springs, underwater canyon drop-off, octopuses and stingrays. Sheltered from north Meltemi winds.",
+        "description_it": "Altissima biodiversità marina: visibilità oltre i 40m, risorgive termali, canyon e pareti profonde. Ottimo riparo quando soffia il Meltemi da nord."
       }
     },
     {
@@ -169,7 +169,7 @@
           "Dentex dentex"
         ],
         "description_en": "Massive vertical tectonic fault wall continuing down underwater to 40+ meters. Huge crevasses harboring groupers, lobsters, and moray eels.",
-        "description_it": "Imponente parete tettonica a strapiombo che prosegue sott'acqua oltre i 40 metri. Ampie spaccature che ospitano cernie brune, aragoste e murene."
+        "description_it": "Imponente faglia tettonica a strapiombo che prosegue sott'acqua fino a 40 metri con cernie, aragoste e murene."
       }
     },
     {
@@ -202,7 +202,7 @@
           "Octopus vulgaris"
         ],
         "description_en": "Greek cargo vessel (100m length) carrying sugar that ran aground in 1985. Lies in shallow clear waters, accessible for beginners and underwater photographers.",
-        "description_it": "Nave mercantile greca di 100m naufragata nel 1985 con carico di zucchero. Adagiata su fondale sabbioso poco profondo, ideale per sub ricreativi e fotografi."
+        "description_it": "Mercantile greco di 100m naufragato nel 1985 con carico di zucchero. Adagiato su fondale poco profondo, ideale per sub e fotografi."
       }
     },
     {
@@ -235,7 +235,7 @@
           "Seriola dumerili"
         ],
         "description_en": "WWII Luftwaffe fighter plane shot down during the Battle of Crete in 1941. Resting inverted on sand with visible engine, propeller blades, and cockpit.",
-        "description_it": "Caccia tedesco della Seconda Guerra Mondiale abbattuto durante la Battaglia di Creta nel 1941. Poggia capovolto su sabbia a 26m con motore e mitragliatrici visibili."
+        "description_it": "Caccia tedesco della Seconda Guerra Mondiale abbattuto nel 1941. Poggia capovolto su sabbia a 26m con motore e mitragliatrici visibili."
       }
     },
     {
@@ -268,7 +268,7 @@
           "Conger conger"
         ],
         "description_en": "Cavern named after Cretan painter El Greco. Tunnel extends 30 meters into the cliffs opening into a siphon and internal hall with stalactites.",
-        "description_it": "Spettacolare grotta dedicata al pittore El Greco. Un tunnel di 30m si apre in una camera con sifone e formazioni stalattitiche con gamberi pulitori."
+        "description_it": "Spettacolare grotta con tunnel di 30m che si apre in una camera con formazioni stalattitiche e gamberi pulitori."
       }
     },
     {
@@ -302,7 +302,7 @@
           "Flabellina affinis"
         ],
         "description_en": "Scenic volcanic reef with swim-through arches, rocky pinnacles, and abundant Mediterranean marine life from nudibranchs to groupers.",
-        "description_it": "Scogliera vulcanica con archi passanti naturali, pinnacoli rocciosi e abbondante vita marina mediterranea da nudibranchi a cernie dorate."
+        "description_it": "Scogliera vulcanica con archi passanti, pinnacoli rocciosi e abbondante vita marina da nudibranchi a cernie."
       }
     },
     {
@@ -334,8 +334,8 @@
           "Salpa salpa",
           "Octopus vulgaris"
         ],
-        "description_en": "Ancient submerged Minoan/Dorian city that sank into Mirabello Bay during volcanic earthquakes. Visible foundations, city walls, piers, and amphora shards.",
-        "description_it": "Antica città minoica e dorica sommersa a causa di bradisismo e terremoti nel golfo di Mirabello. Mura cittadine, fondamenta di case e banchine portuali ben visibili a pelo d'acqua."
+        "description_en": "Ancient submerged Minoan/Dorian city that sank into Mirabello Bay during earthquakes. Visible foundations, city walls, piers, and amphora shards.",
+        "description_it": "Antica città minoica e dorica sommersa nel golfo di Mirabello. Mura cittadine, fondamenta e banchine portuali ben visibili a pelo d'acqua."
       }
     },
     {
@@ -366,8 +366,8 @@
           "Conger conger",
           "Phycis blennoides"
         ],
-        "description_en": "Sister ship to RMS Titanic, converted hospital ship mined in 1916. The Mount Everest of wreck diving, 269m long, resting largely intact at 120m depth.",
-        "description_it": "Nave gemella del Titanic, nave ospedale affondata da una mina nel 1916. Considerata l'Everest delle immersioni tecniche su relitto: lunga 269m, intatta a 120m di profondità."
+        "description_en": "Sister ship to RMS Titanic, converted hospital ship mined in 1916. The pinnacle of wreck diving: 269m long, resting largely intact at 120m depth.",
+        "description_it": "Nave gemella del Titanic affondata da una mina nel 1916. L'Everest delle immersioni tecniche: lunga 269m, intatta a 120m di profondità."
       }
     },
     {
@@ -398,8 +398,8 @@
           "Seriola dumerili",
           "Anthias anthias"
         ],
-        "description_en": "French ocean liner (former SS Ferdinand de Lesseps, 180m long) torpedoed days before Britannic in 1916. Grand hull and decks preserved in 70m depth.",
-        "description_it": "Transatlantico francese di 180m affondato nel 1916 da una mina nel canale di Kea. Imponente relitto tecnico integro con argani, scafo e ponti a 70m."
+        "description_en": "French ocean liner (180m long) torpedoed days before Britannic in 1916. Grand hull and decks preserved at 70m depth.",
+        "description_it": "Transatlantico francese di 180m affondato nel 1916. Imponente relitto tecnico integro con argani, scafo e ponti a 70m."
       }
     },
     {
@@ -432,8 +432,8 @@
           "Serranus scriba",
           "Spicara maena"
         ],
-        "description_en": "Dutch-built cargo ship (62m long) sunk in 1995 off south-eastern Mykonos. Sits completely upright on a clean sandy seabed with accessible cabins and hold.",
-        "description_it": "Mercantile olandese di 62m affondato nel 1995 al largo di Lia Beach. Poggia perfettamente dritto sulla chiglia su sabbia a 32m; stive e sala macchine visitabili."
+        "description_en": "Dutch cargo ship (62m) sunk in 1995 off south Mykonos. Sits upright on clean sand at 32m; accessible cabins and engine room.",
+        "description_it": "Mercantile olandese di 62m affondato nel 1995 al largo di Lia Beach. Poggia dritto sulla chiglia su sabbia a 32m; stive e sala macchine visitabili."
       }
     },
     {
@@ -465,8 +465,8 @@
           "Scorpaena notata",
           "Tripterygion delaisi"
         ],
-        "description_en": "Passenger/cargo boat wreck inside the volcanic caldera of Santorini at Nea Kameni. Steep black volcanic drop-offs, warm sulfurous vents, and unique geology.",
-        "description_it": "Relitto all'interno della caldera vulcanica di Santorini presso l'isola lavica di Nea Kameni. Pareti nere vulcaniche spettacolari e acque cristalline."
+        "description_en": "Vessel wreck inside the volcanic caldera of Santorini at Nea Kameni. Steep black volcanic drop-offs, warm sulfurous vents, and unique geology.",
+        "description_it": "Relitto all'interno della caldera vulcanica di Santorini presso l'isola lavica di Nea Kameni con pareti vulcaniche spettacolari."
       }
     },
     {
@@ -497,8 +497,8 @@
           "Diplodus sargus",
           "Sphyraena viridensis"
         ],
-        "description_en": "German WWII twin-float reconnaissance plane shot down in 1943. Intact fuselage and wings resting in shallow turquoise water; fantastic natural light.",
-        "description_it": "Idrovolante tedesco da ricognizione della Seconda Guerra Mondiale abbattuto nel 1943. Fusoliera e ali intatte in acque turchesi poco profonde, visibile anche in apnea."
+        "description_en": "German WWII reconnaissance plane shot down in 1943. Intact fuselage and wings resting in shallow turquoise water.",
+        "description_it": "Idrovolante da ricognizione della Seconda Guerra Mondiale abbattuto nel 1943. Fusoliera e ali intatte in acque turchesi a 10m."
       }
     },
     {
@@ -530,8 +530,8 @@
           "Dentex dentex",
           "Epinephelus marginatus"
         ],
-        "description_en": "The 'Parthenon of Shipwrecks': 5th-century BC merchant vessel with 4,000 wine amphorae forming an underwater pyramid. Greece's first designated marine underwater museum, located within the National Marine Park (home of Mediterranean monk seals).",
-        "description_it": "Il 'Partenone dei relitti': gigantesca nave mercantile del V secolo a.C. con oltre 4.000 anfore vinicole che formano una collina sottomarina intatta a 25m. Primo museo archeologico subacqueo della Grecia, nell'area della foca monaca."
+        "description_en": "The 'Parthenon of Shipwrecks': 5th-century BC merchant vessel with 4,000 intact wine amphorae. First marine underwater museum in Greece, inside the monk seal marine park.",
+        "description_it": "Il 'Partenone dei relitti': gigantesca nave mercantile del V secolo a.C. con oltre 4.000 anfore che formano una collina sottomarina intatta a 25m."
       }
     },
     {
@@ -563,8 +563,8 @@
           "Fistularia commersonii",
           "Caretta caretta"
         ],
-        "description_en": "Cargo ship (110m long) wrecked in 1981 off Plimmiri, south Rhodes. Easily penetrable holds and engine room teeming with marine life including Lessepsian migrant species.",
-        "description_it": "Mercantile di 110 metri affondato nel 1981 nel sud di Rodi. Relitto molto sicuro e penetrabile con stive aperte, colonizzato da cernie e specie lessepsiane come il pesce leone."
+        "description_en": "Cargo ship (110m long) wrecked in 1981 off south Rhodes. Penetrable holds and engine room teeming with marine life.",
+        "description_it": "Mercantile di 110 metri affondato nel 1981 nel sud di Rodi. Relitto penetrabile con stive aperte colonizzate da pesci leone e cernie."
       }
     },
     {
@@ -595,8 +595,8 @@
           "Seriola dumerili",
           "Scorpaena scrofa"
         ],
-        "description_en": "Hellenic Navy legendary WWII destroyer sunk by German Stuka dive-bombers in 1943 during the Battle of Leros. Key monument of the naval war.",
-        "description_it": "Glorioso cacciatorpediniere greco affondato dagli Stuka tedeschi nel 1943 durante la Battaglia di Leros. Grande relitto storico adagiato su fondale limaccioso a 33m."
+        "description_en": "Hellenic Navy legendary WWII destroyer sunk by German Stuka dive-bombers in 1943 during the Battle of Leros. Key naval historic monument.",
+        "description_it": "Glorioso cacciatorpediniere greco affondato dagli Stuka tedeschi nel 1943 durante la Battaglia di Leros. Grande relitto a 33m."
       }
     }
   ]

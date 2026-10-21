@@ -1,0 +1,106 @@
+{
+  "id": "pelagic-eastern-pacific",
+  "title": "Pacifico Orientale Pelagico (Eastern Pacific Pelagic)",
+  "description": "Le leggendarie isole remote dei grandi pelagici: Isole Galápagos (Darwin Arch, Wolf Island), Isola del Cocco in Costa Rica e Socorro (Revillagigedo) in Messico.",
+  "bbox": [
+    -115.0,
+    -1.5,
+    -85.0,
+    19.0
+  ],
+  "count": 3,
+  "sites": [
+    {
+      "id": "pelagic-galapagos-darwin-arch",
+      "name": {
+        "en": "Darwin's Pillars / Darwin Island",
+        "it": "Pilastri di Darwin (Isole Galápagos)"
+      },
+      "region": "Ecuador - Galápagos Islands (Darwin)",
+      "countryCode": "EC",
+      "latitude": 1.674,
+      "longitude": -92.004,
+      "kind": "wall",
+      "depthMinM": 12,
+      "depthMaxM": 40,
+      "level": "advanced",
+      "highlights": [
+        "whaleShark",
+        "sharks",
+        "walls"
+      ],
+      "species": [
+        "Rhincodon typus",
+        "Sphyrna lewini",
+        "Carcharhinus galapagensis"
+      ],
+      "exposure": "exposed_all",
+      "description": {
+        "en": "Considered the apex of pelagic diving: massive pregnant female whale sharks (up to 14m), schools of hundreds of scalloped hammerheads, Galapagos sharks, and pods of dolphins.",
+        "it": "Il vertice assoluto delle immersioni pelagiche: squali balena giganti (fino a 14 metri), muri di centinaia di squali martello, squali Galápagos e mante."
+      },
+      "curated": true
+    },
+    {
+      "id": "pelagic-cocos-bajo-alcyone",
+      "name": {
+        "en": "Bajo Alcyone",
+        "it": "Bajo Alcyone (Isola del Cocco)"
+      },
+      "region": "Costa Rica - Cocos Island",
+      "countryCode": "CR",
+      "latitude": 5.5167,
+      "longitude": -87.05,
+      "kind": "pinnacle",
+      "depthMinM": 25,
+      "depthMaxM": 38,
+      "level": "advanced",
+      "highlights": [
+        "sharks",
+        "drift"
+      ],
+      "species": [
+        "Sphyrna lewini",
+        "Triaenodon obesus",
+        "Aetobatus ocellatus"
+      ],
+      "exposure": "exposed_all",
+      "description": {
+        "en": "Submerged seamount 300 miles offshore Costa Rica: unbelievable walls of hundreds of schooling scalloped hammerhead sharks blocking out the sunlight.",
+        "it": "Montagna sottomarina a 500 km dalla costa: incredibili pareti di centinaia di squali martello che oscurano la luce del sole, aquile di mare e carangidi."
+      },
+      "curated": true
+    },
+    {
+      "id": "pelagic-socorro-the-boiler",
+      "name": {
+        "en": "The Boiler (San Benedicto)",
+        "it": "The Boiler (Isole Revillagigedo, Socorro)"
+      },
+      "region": "Mexico - Revillagigedo Archipelago",
+      "countryCode": "MX",
+      "latitude": 19.3167,
+      "longitude": -110.8167,
+      "kind": "pinnacle",
+      "depthMinM": 10,
+      "depthMaxM": 45,
+      "level": "advanced",
+      "highlights": [
+        "mantas",
+        "sharks",
+        "dolphins"
+      ],
+      "species": [
+        "Mobula birostris",
+        "Tursiops truncatus",
+        "Galeocerdo cuvier"
+      ],
+      "exposure": "exposed_all",
+      "description": {
+        "en": "A cleaning station pinnacle in the open Pacific known for intimate interactions with giant oceanic manta rays (7m wingspan) that seek eye contact with divers, alongside wild bottlenose dolphins.",
+        "it": "Pinnacolo oceanico stazione di pulizia: celebre per il contatto visivo spontaneo con mante oceaniche giganti (7 metri di apertura alare) e delfini selvatici."
+      },
+      "curated": true
+    }
+  ]
+}

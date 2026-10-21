@@ -1,0 +1,203 @@
+{
+  "type": "FeatureCollection",
+  "name": "Caraibi & Golfo del Messico (Caribbean & Gulf of Mexico)",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5344,
+          17.3156
+        ]
+      },
+      "properties": {
+        "id": "carib-belize-great-blue-hole",
+        "name": "Great Blue Hole (Lighthouse Reef)",
+        "name_it": "Great Blue Hole (Belize)",
+        "region": "Belize - Lighthouse Reef Atoll",
+        "countryCode": "BZ",
+        "kind": "cave",
+        "depthMinM": 12,
+        "depthMaxM": 124,
+        "level": "advanced",
+        "exposure": "sheltered_all",
+        "highlights": [
+          "walls",
+          "caves",
+          "sharks"
+        ],
+        "species": [
+          "Carcharhinus perezi",
+          "Ginglymostoma cirratum"
+        ],
+        "description_en": "UNESCO World Heritage giant marine sinkhole made famous by Jacques Cousteau. Divers descend past 35m to swim through towering 8-metre stalactites in crystal water.",
+        "description_it": "Dolina marina circolare resa celebre da Jacques Cousteau. Oltre i 35m si nuota tra gigantesche stalattiti sommerse lunghe 8 metri tra squali di barriera."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3917,
+          20.3248
+        ]
+      },
+      "properties": {
+        "id": "carib-mexico-cenote-dos-ojos",
+        "name": "Cenote Dos Ojos",
+        "name_it": "Cenote Dos Ojos (Yucatán)",
+        "region": "Mexico - Quintana Roo (Tulum)",
+        "countryCode": "MX",
+        "kind": "cave",
+        "depthMinM": 4,
+        "depthMaxM": 10,
+        "level": "intermediate",
+        "exposure": "sheltered_all",
+        "highlights": [
+          "caves",
+          "macro"
+        ],
+        "species": [
+          "Astyanax jordani",
+          "Creaseria morleyi"
+        ],
+        "description_en": "World-famous submerged freshwater cave system with over 100m visibility. Sunlight pierces through cavern openings creating breathtaking lasers of light over stalagmites.",
+        "description_it": "Celebre sistema di grotte sotterranee di acqua dolce con visibilità oltre 100 metri. I raggi di sole penetrano nella volta creando lame di luce spettacolari tra le stalagmiti."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.031,
+          20.354
+        ]
+      },
+      "properties": {
+        "id": "carib-mexico-cozumel-palancar",
+        "name": "Palancar Reef & Horseshoe",
+        "name_it": "Barriera di Palancar (Cozumel)",
+        "region": "Mexico - Cozumel Island",
+        "countryCode": "MX",
+        "kind": "reef",
+        "depthMinM": 10,
+        "depthMaxM": 30,
+        "level": "beginner",
+        "exposure": "sheltered_east",
+        "highlights": [
+          "corals",
+          "drift",
+          "turtles"
+        ],
+        "species": [
+          "Sanopus splendidus",
+          "Eretmochelys imbricata",
+          "Aetobatus narinari"
+        ],
+        "description_en": "Massive coral mountains and swim-through tunnels along Cozumel's drift channel. Home to the endemic Cozumel splendid toadfish and eagle rays.",
+        "description_it": "Montagne di corallo e tunnel passanti immersi nella corrente limpida di Cozumel, habitat dell'endemico pesce rospo splendido e di aquile di mare."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4012,
+          19.3621
+        ]
+      },
+      "properties": {
+        "id": "carib-cayman-uss-kittiwake",
+        "name": "USS Kittiwake Submarine Rescue Ship",
+        "name_it": "Relitto USS Kittiwake (Grand Cayman)",
+        "region": "Cayman Islands - Grand Cayman (Seven Mile Beach)",
+        "countryCode": "KY",
+        "kind": "wreck",
+        "depthMinM": 5,
+        "depthMaxM": 20,
+        "level": "beginner",
+        "exposure": "sheltered_east",
+        "highlights": [
+          "wreck",
+          "history"
+        ],
+        "species": [
+          "Hypoplectrus gemma",
+          "Sphyraena barracuda"
+        ],
+        "description_en": "Former US Navy submarine rescue ship (76m) scuttled in 2011. Cleaned for safe exploration: all 5 decks, decompression chambers, and navigation bridge easily penetrable in calm shallow water.",
+        "description_it": "Nave da soccorso sottomarini della marina USA (76m) affondata nel 2011. Bonificata per visite sicure: tutti i 5 ponti e le camere di decompressione sono accessibili a 18m."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.2833,
+          12.0833
+        ]
+      },
+      "properties": {
+        "id": "carib-bonaire-salt-pier",
+        "name": "Salt Pier",
+        "name_it": "Salt Pier (Bonaire)",
+        "region": "Bonaire - Kralendijk South",
+        "countryCode": "BQ",
+        "kind": "reef",
+        "depthMinM": 3,
+        "depthMaxM": 16,
+        "level": "beginner",
+        "exposure": "sheltered_east",
+        "highlights": [
+          "corals",
+          "macro",
+          "turtles"
+        ],
+        "species": [
+          "Chelonia mydas",
+          "Acanthurus coeruleus",
+          "Hippocampus reidi"
+        ],
+        "description_en": "Industrial salt loading pier with pilings completely covered in colorful sponges, soft corals, and brain corals. Enormous schools of grunts and sea turtles grazing on seagrass.",
+        "description_it": "Pontile per il carico del sale con piloni ricoperti da spugne colorate e coralli cervello. Grandi caroselli di pesci tropicali, cavallucci marini e tartarughe."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0333,
+          26.9667
+        ]
+      },
+      "properties": {
+        "id": "carib-bahamas-tiger-beach",
+        "name": "Tiger Beach",
+        "name_it": "Tiger Beach (Grand Bahama)",
+        "region": "Bahamas - Grand Bahama Island",
+        "countryCode": "BS",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 12,
+        "level": "beginner",
+        "exposure": "exposed_all",
+        "highlights": [
+          "sharks"
+        ],
+        "species": [
+          "Galeocerdo cuvier",
+          "Negaprion brevirostris",
+          "Sphyrna mokarran"
+        ],
+        "description_en": "The premier shark encounter site in the Americas: calm shallow white-sand plateau where divers sit with huge female tiger sharks, lemon sharks, and reef sharks.",
+        "description_it": "Il punto d'incontro con gli squali più famoso delle Americhe: altopiano di sabbia bianca a 8m dove nuotare faccia a faccia con squali tigre giganti e squali limone."
+      }
+    }
+  ]
+}

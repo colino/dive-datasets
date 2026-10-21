@@ -1,0 +1,73 @@
+{
+  "id": "north-atlantic",
+  "title": "Atlantico Settentrionale & Relitti Freddi (North Atlantic & Cold Water)",
+  "description": "Le più spettacolari immersioni in acque fredde e limpide: la Faglia di Silfra in Islanda (tra placche tettoniche con 100m di visibilità), la flotta navale WWI di Scapa Flow in Scozia e i relitti di Narvik in Norvegia.",
+  "bbox": [
+    -22.0,
+    58.0,
+    18.0,
+    68.5
+  ],
+  "count": 2,
+  "sites": [
+    {
+      "id": "north-iceland-silfra-fissure",
+      "name": {
+        "en": "Silfra Fissure (Thingvellir)",
+        "it": "Faglia di Silfra (Islanda)",
+        "is": "Silfra"
+      },
+      "region": "Iceland - Thingvellir National Park",
+      "countryCode": "IS",
+      "latitude": 64.2558,
+      "longitude": -21.1215,
+      "kind": "cave",
+      "depthMinM": 7,
+      "depthMaxM": 18,
+      "level": "intermediate",
+      "highlights": [
+        "walls",
+        "caves"
+      ],
+      "species": [
+        "Salvelinus alpinus",
+        "Freshwater bryophytes"
+      ],
+      "exposure": "sheltered_all",
+      "description": {
+        "en": "Dive directly between the North American and Eurasian tectonic plates. Glacial meltwater filtered for decades through lava fields yields unmatched 100m+ water visibility (2-4°C drysuit dive).",
+        "it": "Immersione unica al mondo nella spaccatura tra le placche tettoniche nordamericana ed eurasiatica. Acqua di ghiacciaio purificata per decenni con oltre 100 metri di visibilità."
+      },
+      "curated": true
+    },
+    {
+      "id": "north-scotland-scapa-flow-kronprinz",
+      "name": {
+        "en": "SMS Kronprinz Wilhelm (Scapa Flow)",
+        "it": "Relitto Corazzata SMS Kronprinz Wilhelm (Scapa Flow)"
+      },
+      "region": "United Kingdom - Scotland (Orkney Islands)",
+      "countryCode": "GB",
+      "latitude": 58.895,
+      "longitude": -3.17,
+      "kind": "wreck",
+      "depthMinM": 12,
+      "depthMaxM": 38,
+      "level": "advanced",
+      "highlights": [
+        "wreck",
+        "history"
+      ],
+      "species": [
+        "Cancer pagurus",
+        "Conger conger"
+      ],
+      "exposure": "sheltered_all",
+      "description": {
+        "en": "Massive 25,000-ton German Kaiser-class dreadnought battleship scuttled in 1919. Sits inverted at 38m with 12-inch main battery guns still aiming out from the seabed.",
+        "it": "Gigantesca corazzata da battaglia tedesca di 25.000 tonnellate autoaffondata nel 1919. Poggia capovolta a 38m con i colossali cannoni da 305mm ancora puntati nel fondale."
+      },
+      "curated": true
+    }
+  ]
+}

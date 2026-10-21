@@ -1,0 +1,270 @@
+{
+  "type": "FeatureCollection",
+  "name": "Mar Rosso (Red Sea)",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.92,
+          27.8142
+        ]
+      },
+      "properties": {
+        "id": "redsea-ss-thistlegorm",
+        "name": "SS Thistlegorm Wreck",
+        "name_it": "Relitto SS Thistlegorm",
+        "region": "Egypt - Straits of Gubal (Sha'ab Ali)",
+        "countryCode": "EG",
+        "kind": "wreck",
+        "depthMinM": 16,
+        "depthMaxM": 32,
+        "level": "intermediate",
+        "exposure": "exposed_all",
+        "highlights": [
+          "wreck",
+          "history",
+          "turtles"
+        ],
+        "species": [
+          "Chelonia mydas",
+          "Caranx ignobilis",
+          "Epinephelus tauvina"
+        ],
+        "description_en": "World's most famous wreck: British WWII cargo ship sunk in 1941 by Heinkel bombers. Holds laden with Bedford trucks, BSA motorbikes, train steam engines, and munitions.",
+        "description_it": "Il relitto più famoso al mondo: mercantile britannico affondato nel 1941 con le stive intatte piene di moto BSA, camion Bedford, locomotive e munizioni."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.921,
+          27.576
+        ]
+      },
+      "properties": {
+        "id": "redsea-giannis-d",
+        "name": "Giannis D Wreck",
+        "name_it": "Relitto Giannis D",
+        "region": "Egypt - Sha'ab Abu Nuhas",
+        "countryCode": "EG",
+        "kind": "wreck",
+        "depthMinM": 10,
+        "depthMaxM": 27,
+        "level": "intermediate",
+        "exposure": "exposed_north",
+        "highlights": [
+          "wreck",
+          "corals"
+        ],
+        "species": [
+          "Pterois miles",
+          "Chaetodon fasciatus"
+        ],
+        "description_en": "Greek cargo ship struck Abu Nuhas reef in 1983. Sits at a 45-degree angle with a photogenic bridge, engine room, and A-frame mast draped in soft corals.",
+        "description_it": "Mercantile greco naufragato nel 1983 su Abu Nuhas. Inclinato a 45 gradi, famoso per la timoneria fotogenica e la sala macchine colonizzata da coralli."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.925,
+          27.581
+        ]
+      },
+      "properties": {
+        "id": "redsea-carnatic",
+        "name": "SS Carnatic Wreck",
+        "name_it": "Relitto SS Carnatic",
+        "region": "Egypt - Sha'ab Abu Nuhas",
+        "countryCode": "EG",
+        "kind": "wreck",
+        "depthMinM": 18,
+        "depthMaxM": 27,
+        "level": "intermediate",
+        "exposure": "exposed_north",
+        "highlights": [
+          "wreck",
+          "history",
+          "corals"
+        ],
+        "species": [
+          "Cheilinus undulatus",
+          "Plectorhinchus gaterinus"
+        ],
+        "description_en": "British steam-sail vessel that struck the reef in 1869 carrying gold coin specia and wine. Beautifully colonized wooden-ribbed hull covered in glassfish.",
+        "description_it": "Piroscafo a vapore britannico del 1869 affondato con lingotti d'oro e casse di vino. Lo scheletro delle costolature è ricoperto da coralli molli e miriadi di pesci vetro."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.4733,
+          28.0088
+        ]
+      },
+      "properties": {
+        "id": "redsea-dahab-blue-hole",
+        "name": "Dahab Blue Hole & The Arch",
+        "name_it": "Blue Hole di Dahab",
+        "region": "Egypt - Sinai (Dahab)",
+        "countryCode": "EG",
+        "kind": "cave",
+        "depthMinM": 5,
+        "depthMaxM": 100,
+        "level": "advanced",
+        "exposure": "sheltered_west",
+        "highlights": [
+          "walls",
+          "corals"
+        ],
+        "species": [
+          "Pseudanthias squamipinnis",
+          "Cephalopholis miniata"
+        ],
+        "description_en": "Submarine sinkhole dropping over 100m straight down into deep blue water. The Saddle (7m) and outer coral wall are superb recreational dives, while The Arch (56m) is technical.",
+        "description_it": "Spettacolare dolina sottomarina circolare che sprofonda oltre 100m. La sella corallina a 7m e la parete esterna offrono immersioni ricreative mozzafiato."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.52,
+          28.555
+        ]
+      },
+      "properties": {
+        "id": "redsea-dahab-the-canyon",
+        "name": "The Canyon",
+        "name_it": "Il Canyon di Dahab",
+        "region": "Egypt - Sinai (Dahab)",
+        "countryCode": "EG",
+        "kind": "cave",
+        "depthMinM": 15,
+        "depthMaxM": 32,
+        "level": "intermediate",
+        "exposure": "sheltered_west",
+        "highlights": [
+          "caves",
+          "walls"
+        ],
+        "species": [
+          "Heteroconger hassi",
+          "Octopus cyanea"
+        ],
+        "description_en": "Deep subterranean fissure in the reef lagoon. Divers descend through a narrow opening into a cavern lit by ethereal sunlight shafts.",
+        "description_it": "Fessura sottomarina che penetra all'interno della scogliera corallina. Si scende in una caverna illuminata da fasci di luce eterea con pesci vetro."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.2587,
+          27.7257
+        ]
+      },
+      "properties": {
+        "id": "redsea-ras-mohammed-shark-yolanda",
+        "name": "Shark & Yolanda Reef",
+        "name_it": "Shark & Yolanda Reef (Ras Mohammed)",
+        "region": "Egypt - Ras Mohammed National Park",
+        "countryCode": "EG",
+        "kind": "reef",
+        "depthMinM": 10,
+        "depthMaxM": 40,
+        "level": "intermediate",
+        "exposure": "exposed_all",
+        "highlights": [
+          "corals",
+          "sharks",
+          "wreck",
+          "drift"
+        ],
+        "species": [
+          "Carcharhinus amblyrhynchos",
+          "Sphyrna lewini",
+          "Tridacna gigas"
+        ],
+        "description_en": "Two coral pinnacles connected by a saddle dropping into an 800m abyss. Drift dive with pelagic sharks, massive schools of snappers, and the quirky Yolanda toilet cargo wreck.",
+        "description_it": "Pinnacoli corallini che precipitano negli abissi a 800m all'estremità del Sinai. Squali grigi, enormi banchi di carangidi e il carico di sanitari del relitto Yolanda."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8607,
+          25.3092
+        ]
+      },
+      "properties": {
+        "id": "redsea-elphinstone-reef",
+        "name": "Elphinstone Reef",
+        "name_it": "Scogliera di Elphinstone (Marsa Alam)",
+        "region": "Egypt - Marsa Alam",
+        "countryCode": "EG",
+        "kind": "reef",
+        "depthMinM": 10,
+        "depthMaxM": 40,
+        "level": "advanced",
+        "exposure": "exposed_all",
+        "highlights": [
+          "sharks",
+          "walls",
+          "drift"
+        ],
+        "species": [
+          "Carcharhinus longimanus",
+          "Sphyrna mokarran",
+          "Manta alfredi"
+        ],
+        "description_en": "Famous solitary offshore reef with sheer vertical drop-offs. Renowned worldwide for oceanic whitetip shark encounters and schooling hammerheads.",
+        "description_it": "Barriera isolata in mare aperto con pareti verticali a strapiombo, famosa nel mondo per gli incontri ravvicinati con squali oceanici pinna bianca e martello."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.291,
+          19.636
+        ]
+      },
+      "properties": {
+        "id": "redsea-sudan-umbria-wreck",
+        "name": "SS Umbria Shipwreck",
+        "name_it": "Relitto Piroscafo Umbria (Wingate Reef)",
+        "region": "Sudan - Port Sudan (Wingate Reef)",
+        "countryCode": "SD",
+        "kind": "wreck",
+        "depthMinM": 5,
+        "depthMaxM": 36,
+        "level": "intermediate",
+        "exposure": "sheltered_all",
+        "highlights": [
+          "wreck",
+          "history"
+        ],
+        "species": [
+          "Carcharhinus albimarginatus",
+          "Epinephelus tukula"
+        ],
+        "description_en": "Italian WWII supply ship scuttled by its captain in 1940 to avoid British capture. Holds contain 360,000 aircraft bombs, Fiat 1100 cars, and wine bottles, completely undisturbed.",
+        "description_it": "Nave italiana autoaffondata dal comandante nel 1940 per non cedere il carico agli inglesi. Le stive contengono intatte 360.000 bombe aeronautiche, automobili Fiat e casse di vino."
+      }
+    }
+  ]
+}

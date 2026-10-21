@@ -1,0 +1,164 @@
+{
+  "id": "pacific-oceania",
+  "title": "Pacifico, Oceania & Micronesia (Pacific & Oceania)",
+  "description": "I giganti dell'Oceania: Grande Barriera Corallina australiana (Cod Hole, SS Yongala), Palau (Blue Corner), Truk Lagoon (flotta navale WWII della Micronesia), le mante di Kona alle Hawaii e le mante/squali di Fiji.",
+  "bbox": [
+    130.0,
+    -25.0,
+    -155.0,
+    22.0
+  ],
+  "count": 5,
+  "sites": [
+    {
+      "id": "pacific-australia-ss-yongala",
+      "name": {
+        "en": "SS Yongala Shipwreck",
+        "it": "Relitto SS Yongala (Queensland)"
+      },
+      "region": "Australia - Great Barrier Reef (Townsville)",
+      "countryCode": "AU",
+      "latitude": -19.3039,
+      "longitude": 147.6231,
+      "kind": "wreck",
+      "depthMinM": 15,
+      "depthMaxM": 30,
+      "level": "advanced",
+      "highlights": [
+        "wreck",
+        "history",
+        "sharks",
+        "rays"
+      ],
+      "species": [
+        "Epinephelus lanceolatus",
+        "Aetobatus ocellatus",
+        "Balaenoptera acutorostrata"
+      ],
+      "exposure": "exposed_all",
+      "description": {
+        "en": "Passenger steamship (110m) sunk during a 1911 cyclone. Sitting isolated on an open sandy seabed, it acts as an oasis concentrating giant queensland groupers, sea snakes, rays, and bull sharks.",
+        "it": "Nave passeggeri di 110m affondata da un ciclone nel 1911. Oasi di vita sottomarina isolata nella sabbia con cernie giganti da 2 metri, serpenti marini, mante e squali toro."
+      },
+      "curated": true
+    },
+    {
+      "id": "pacific-australia-cod-hole",
+      "name": {
+        "en": "Cod Hole (Ribbon Reefs)",
+        "it": "Cod Hole (Grande Barriera Corallina)"
+      },
+      "region": "Australia - Great Barrier Reef (Lizard Island)",
+      "countryCode": "AU",
+      "latitude": -14.671,
+      "longitude": 145.658,
+      "kind": "reef",
+      "depthMinM": 10,
+      "depthMaxM": 30,
+      "level": "beginner",
+      "highlights": [
+        "corals",
+        "macro"
+      ],
+      "species": [
+        "Epinephelus tukula",
+        "Cheilinus undulatus"
+      ],
+      "exposure": "sheltered_west",
+      "description": {
+        "en": "World-famous dive on the Ribbon Reefs: famous for close encounters with curious, 100-kg potato cod groupers that swim calmly alongside divers.",
+        "it": "Celeberrimo sito sulla Ribbon Reef: famoso per gli incontri ravvicinati con amichevoli cernie patata giganti da 100 kg che nuotano curiose attorno ai subacquei."
+      },
+      "curated": true
+    },
+    {
+      "id": "pacific-palau-blue-corner",
+      "name": {
+        "en": "Blue Corner",
+        "it": "Blue Corner (Palau)"
+      },
+      "region": "Palau - South Lagoon",
+      "countryCode": "PW",
+      "latitude": 7.1333,
+      "longitude": 134.2167,
+      "kind": "wall",
+      "depthMinM": 10,
+      "depthMaxM": 40,
+      "level": "advanced",
+      "highlights": [
+        "sharks",
+        "drift",
+        "walls"
+      ],
+      "species": [
+        "Carcharhinus amblyrhynchos",
+        "Triaenodon obesus",
+        "Gymnosarda unicolor"
+      ],
+      "exposure": "exposed_all",
+      "description": {
+        "en": "Ranked among the greatest dives on Earth: plateau jutting into the open ocean where divers use reef hooks in fierce currents to watch dozens of gray reef sharks, dogtooth tuna, and schools of barracudas.",
+        "it": "Una delle immersioni più emozionanti al mondo: promontorio sottomarino dove i sub si ancorano con reef-hook nella forte corrente per ammirare caroselli di decine di squali grigi e tonni."
+      },
+      "curated": true
+    },
+    {
+      "id": "pacific-chuuk-fujikawa-maru",
+      "name": {
+        "en": "Fujikawa Maru (Truk Lagoon)",
+        "it": "Relitto Fujikawa Maru (Laguna di Truk)"
+      },
+      "region": "Micronesia - Chuuk Lagoon",
+      "countryCode": "FM",
+      "latitude": 7.3333,
+      "longitude": 151.7833,
+      "kind": "wreck",
+      "depthMinM": 10,
+      "depthMaxM": 35,
+      "level": "intermediate",
+      "highlights": [
+        "wreck",
+        "history",
+        "corals"
+      ],
+      "species": [
+        "Epinephelus fuscoguttatus",
+        "Lutjanus bohar"
+      ],
+      "exposure": "sheltered_all",
+      "description": {
+        "en": "Armed aircraft ferry (132m) sunk during Operation Hailstone in 1944. Holds contain intact Mitsubishi Zero fighter planes, engine wings, machine guns, and soft corals.",
+        "it": "Nave da trasporto aerei armata (132m) affondata nel 1944. Nelle stive sono conservati aerei da caccia Zero intatti, ali, munizioni e motori incrostati di coralli."
+      },
+      "curated": true
+    },
+    {
+      "id": "pacific-hawaii-kona-manta",
+      "name": {
+        "en": "Kona Manta Ray Night Dive",
+        "it": "Immersione Notturna con le Mante di Kona"
+      },
+      "region": "USA - Hawaii (Big Island Kona)",
+      "countryCode": "US",
+      "latitude": 19.65,
+      "longitude": -156.0333,
+      "kind": "reef",
+      "depthMinM": 8,
+      "depthMaxM": 12,
+      "level": "beginner",
+      "highlights": [
+        "mantas"
+      ],
+      "species": [
+        "Mobula alfredi",
+        "Plankton"
+      ],
+      "exposure": "sheltered_east",
+      "description": {
+        "en": "Unforgettable night encounter: divers place lights on the sand floor attracting clouds of plankton, while dozens of colossal manta rays perform barrel rolls inches above divers' heads.",
+        "it": "Incontro notturno indimenticabile: potenti luci subacquee posate sulla sabbia attirano plancton, richiamando decine di mante giganti che compiono evoluzioni a pochi centimetri dai sub."
+      },
+      "curated": true
+    }
+  ]
+}

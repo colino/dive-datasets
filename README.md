@@ -1,52 +1,53 @@
-# 🌊 Nautilus Dive Datasets
+# 🌍 Nautilus Global Dive Datasets
 
-Raccolta di dataset geografici open-data con siti di immersione, relitti storici, barriere coralline, parchi archeologici sommersi e fauna marina per l'app mobile **Nautilus**.
+Raccolta di dataset geografici open-data con i siti di immersione più celebri al mondo: relitti storici, barriere coralline incontaminate, parchi archeologici sommersi, grotte, cenotes e grandi pelagici per l'applicazione mobile **Nautilus**.
 
-I dataset sono strutturati per **macro-aree geografiche**, consentendo all'utente di scaricare su richiesta solo la regione di interesse (es. vacanza a Creta / Mar Egeo) e visualizzare tutti i siti sulla mappa interattiva senza appesantire il pacchetto iniziale dell'applicazione.
-
----
-
-## 🗺️ Regioni Disponibili
-
-| ID Regione | Nome | Copertura Geografica | Formati |
-|---|---|---|---|
-| `aegean-sea` | **Mar Egeo & Creta** | Creta (Chania, Drepano, Plakias, Heraklion, Agia Pelagia, Elounda Olous), Cicladi (Kea Britannic, Mykonos Anna II, Santorini Caldera, Iraklia), Sporadi (Alonissos Museo Sommerso di Peristera), Dodecaneso (Rodi, Leros). | [JSON](./aegean-sea.json) · [GeoJSON](./aegean-sea.geojson) |
-| `tyrrhenian-ligurian` | **Mar Tirreno & Mar Ligure** | Parco Archeologico Sommerso di Baia, Superpetroliera MT Haven, Cristo degli Abissi di Portofino, Scoglio del Medico a Ustica, Nasim II a Giannutri, Grotte carsiche di Palinuro. | [JSON](./tyrrhenian-ligurian.json) · [GeoJSON](./tyrrhenian-ligurian.geojson) |
-| `ionian-adriatic` | **Mar Ionio & Mar Adriatico** | Città preistorica sommersa di Pavlopetri, Sommergibile HMS Perseus (Cefalonia), Relitto Nicole (Otranto), Piroscafo SS Baron Gautsch (Rovigno/Istria). | [JSON](./ionian-adriatic.json) · [GeoJSON](./ionian-adriatic.geojson) |
-| `red-sea-north` | **Mar Rosso Settentrionale** | SS Thistlegorm, Relitto Giannis D (Abu Nuhas), Blue Hole di Dahab, Parco Marino di Ras Mohammed (Shark & Yolanda). | [JSON](./red-sea-north.json) · [GeoJSON](./red-sea-north.geojson) |
+I dataset sono strutturati sia come **catalogo globale unificato** (`global-sites.json`), sia suddivisi in **9 macro-aree geografiche** scaricabili su richiesta direttamente dall'app (es. vacanza a Creta / Mar Egeo, crociera in Mar Rosso, o viaggio alle Galápagos).
 
 ---
 
-## 📊 Formati di Distribuzione
+## 🗺️ Regioni e Copertura Globale
 
-Ciascuna area geografica è distribuita in due formati sincronizzati:
-
-1. **`*.json` (Nautilus Native Catalog)**:
-   - Compatibile al 100% con il tipo `CatalogSite` di Nautilus (`src/data/sitesCatalog.ts`).
-   - Include metadati bilingue (`name.en`, `name.it`), livello (`beginner`, `intermediate`, `advanced`, `technical`), profondità min/max (`depthMinM`, `depthMaxM`), tipologia (`wreck`, `reef`, `cave`, `wall`, `other`), specie marine scientifiche verificate e orientamento di esposizione al moto ondoso (`exposure`).
-
-2. **`*.geojson` (Standard GIS & GitHub Interactive Map)**:
-   - Specifiche GeoJSON RFC 7946 (Point FeatureCollection).
-   - Consente l'anteprima visuale immediata interattiva direttamente su GitHub (cliccando sul file `.geojson` nel repository si apre la mappa mondiale con tutti i punti cliccabili!).
-   - Compatibile con `MapLibre GL`, `Mapbox`, `Leaflet`, `QGIS`.
-
-3. **`index.json` (Catalogo Master)**:
-   - Elenco dinamico delle regioni disponibili con bounding box (`bbox`: `[minLon, minLat, maxLon, maxLat]`), conteggio siti e URL diretti per il download over-the-air.
-
----
-
-## 💨 Integrazione Previsioni Meteo & Sicurezza Immersioni
-
-I dataset includono il campo **`exposure`** (`exposed_north`, `sheltered_north`, `exposed_west`, `exposed_all`, ecc.), progettato specificamente per integrarsi con le previsioni meteo:
-
-- **Esempio Creta & Venti Settentrionali (Meltemi / Tramontana)**:
-  - Quando a Creta soffia un forte vento da Nord (Meltemi a 20-30 nodi):
-    - I siti della costa nord (`exposed_north`, es. *Elephant Cave* a Drepano o *Messerschmitt Wreck*) presentano mare mosso/agitato e visibilità ridotta, con avviso **"Sconsigliato per mare formato da Nord"**.
-    - I siti della costa sud (`sheltered_north`, es. *Shinaria Beach* o *Byron I* a Kaloi Limenes) rimangono a ridosso delle montagne di Creta, con mare calmo e visibilità ottima.
-  - L'utente che consulta la mappa di Nautilus riceve un indicatore chiaro (🟢 Condizioni favorevoli / 🟡 Attenzione moto ondoso / 🔴 Sconsigliata immersione) incrociando i dati del vento in tempo reale (OpenWeather / Open-Meteo Marine) con l'orientamento della costa.
+| ID Regione | Nome Area | Copertura Geografica | Siti Chiave | Formati |
+|---|---|---|---|---|
+| `global` | **Catalogo Globale** | Tutto il mondo | Tutti i 59 siti leggendari mondiali | [JSON](./global-sites.json) · [GeoJSON](./global-sites.geojson) |
+| `aegean-sea` | **Mar Egeo & Creta** | Grecia, Creta, Cicladi, Sporadi, Dodecaneso | *Elephant Cave, Shinaria, Messerschmitt Wreck, Olous sommersa, HMHS Britannic, Alonissos Museo Sommerso di Peristera* | [JSON](./aegean-sea.json) · [GeoJSON](./aegean-sea.geojson) |
+| `mediterranean` | **Mar Mediterraneo** | Italia, Malta & Gozo, Spagna, Croazia | *Parco Sommerso di Baia, Superpetroliera MT Haven, Cristo degli Abissi, Scoglio del Medico (Ustica), Blue Hole Gozo, Um El Faroud, Isole Medes* | [JSON](./mediterranean.json) · [GeoJSON](./mediterranean.geojson) |
+| `red-sea` | **Mar Rosso** | Egitto (Sinai, Hurghada, Marsa Alam) e Sudan | *SS Thistlegorm, Giannis D, Carnatic, Dahab Blue Hole & Canyon, Shark & Yolanda Reef, Elphinstone, Piroscafo Umbria* | [JSON](./red-sea.json) · [GeoJSON](./red-sea.geojson) |
+| `caribbean` | **Caraibi & Messico** | Belize, Messico (Yucatán & Cozumel), Cayman, Bahamas, Bonaire | *Great Blue Hole (Belize), Cenote Dos Ojos, Barriera di Palancar, USS Kittiwake, Tiger Beach, Salt Pier* | [JSON](./caribbean.json) · [GeoJSON](./caribbean.geojson) |
+| `coral-triangle` | **Triangolo dei Coralli** | Indonesia (Raja Ampat, Komodo, Bali), Filippine, Malesia, Thailandia | *Cape Kri (record biodiversità), Batu Bolong, USAT Liberty a Tulamben, Tubbataha Reefs, Sipadan Barracuda Point, Richelieu Rock* | [JSON](./coral-triangle.json) · [GeoJSON](./coral-triangle.geojson) |
+| `pacific-oceania` | **Pacifico & Oceania** | Australia (Great Barrier Reef), Palau, Micronesia (Chuuk Lagoon), Hawaii | *SS Yongala, Cod Hole, Blue Corner (Palau), Flotta WWII Fujikawa Maru (Truk), Mante notturne di Kona* | [JSON](./pacific-oceania.json) · [GeoJSON](./pacific-oceania.geojson) |
+| `indian-ocean` | **Oceano Indiano** | Maldive, Sudafrica (Sardine Run & Aliwal Shoal) | *Maaya Thila, Hanifaru Bay (cicloni di mante), Aliwal Shoal (squali toro e tigre)* | [JSON](./indian-ocean.json) · [GeoJSON](./indian-ocean.geojson) |
+| `pelagic-eastern-pacific` | **Pacifico Orientale Pelagico** | Galápagos (Ecuador), Isola del Cocco (Costa Rica), Socorro (Messico) | *Darwin's Pillars (squali balena da 14m), Bajo Alcyone (muri di squali martello), The Boiler (mante giganti e delfini)* | [JSON](./pelagic-eastern-pacific.json) · [GeoJSON](./pelagic-eastern-pacific.geojson) |
+| `north-atlantic` | **Atlantico Settentrionale** | Islanda (Thingvellir), Scozia (Scapa Flow) | *Faglia di Silfra (tra placche tettoniche con 100m di visibilità), Corazzata SMS Kronprinz Wilhelm* | [JSON](./north-atlantic.json) · [GeoJSON](./north-atlantic.geojson) |
 
 ---
 
-## 📄 Licenza
+## 📊 Standard Dati & Mappe Interattive
 
-I dati storici e geografici sono rilasciati sotto licenza **Creative Commons Attribution 4.0 International (CC BY 4.0)** o pubblico dominio (CC0).
+Ciascun file è distribuito in due formati sincronizzati:
+
+1. **`*.json` (Nautilus Native Schema)**:
+   - Perfettamente compatibile con l'interfaccia TypeScript `CatalogSite` di Nautilus (`src/data/sitesCatalog.ts`).
+   - Include coordinate verificate, profondità indicative min/max, livello di brevetto richiesto, elenco specie marine scientifiche, highlights e orientamento della costa (**`exposure`**).
+
+2. **`*.geojson` (GeoJSON RFC 7946 per Mappe GIS)**:
+   - Visualizzabile nativamente come mappa interattiva sul repository GitHub.
+   - Compatibile con `MapLibre GL`, `Leaflet`, `Mapbox`, `QGIS`.
+
+3. **`index.json` (Catalogo Master Dinamico)**:
+   - Fornisce all'app Nautilus l'elenco delle regioni disponibili, bounding box per il posizionamento della mappa, conteggio siti e URL diretti di download.
+
+---
+
+## 🌦️ Sicurezza Meteo-Marina (Vento, Onde & Esposizione)
+
+Ogni sito include il metadato **`exposure`**:
+- `exposed_north` / `exposed_south` / `exposed_west` / `exposed_east`
+- `sheltered_north` / `sheltered_south` / `sheltered_all`
+- `exposed_all`
+
+L'app incrocia questo parametro in tempo reale con i bollettini meteo di **Open-Meteo Marine / OpenWeather**:
+- In caso di vento forte (es. **Maestrale o Meltemi da Nord** a 20-30 nodi):
+  - I siti esposti a Nord (es. *Elephant Cave* a Creta o *Messerschmitt Wreck*) vengono contrassegnati con un badge di avviso **🔴 Sconsigliata immersione** (forte moto ondoso e risacca).
+  - L'app propone i siti ridossati a Sud (es. *Shinaria Beach* o *Byron I* a Kaloi Limenes), dove il mare resta calmo e l'acqua limpida.

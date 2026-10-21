@@ -1,0 +1,204 @@
+{
+  "id": "coral-triangle",
+  "title": "Triangolo dei Coralli & Sud-Est Asiatico (Coral Triangle & SE Asia)",
+  "description": "L'epicentro mondiale della biodiversità marina: Raja Ampat (Cape Kri, Misool), Parco Nazionale di Komodo (Batu Bolong), Bali (USAT Liberty a Tulamben), Stretto di Lembeh, Tubbataha Reefs (Filippine), Sipadan (Malesia) e Richelieu Rock (Thailandia).",
+  "bbox": [
+    95.0,
+    -10.0,
+    135.0,
+    18.0
+  ],
+  "count": 6,
+  "sites": [
+    {
+      "id": "coraltri-raja-ampat-cape-kri",
+      "name": {
+        "en": "Cape Kri",
+        "it": "Cape Kri (Raja Ampat)",
+        "id_loc": "Tanjung Kri"
+      },
+      "region": "Indonesia - West Papua (Raja Ampat)",
+      "countryCode": "ID",
+      "latitude": -0.556,
+      "longitude": 130.675,
+      "kind": "reef",
+      "depthMinM": 5,
+      "depthMaxM": 35,
+      "level": "intermediate",
+      "highlights": [
+        "corals",
+        "sharks",
+        "mantas",
+        "drift"
+      ],
+      "species": [
+        "Eretmochelys imbricata",
+        "Triaenodon obesus",
+        "Caranx sexfasciatus"
+      ],
+      "exposure": "exposed_all",
+      "description": {
+        "en": "Holds the world record for the highest number of fish species counted on a single dive (374 species!). Explosive marine life, giant trevallies, reef sharks, and pristine coral reef.",
+        "it": "Detiene il record mondiale per il maggior numero di specie di pesci contate in una singola immersione (374 specie!). Coralli intatti, banchi fitti di carangidi e squali di barriera."
+      },
+      "curated": true
+    },
+    {
+      "id": "coraltri-komodo-batu-bolong",
+      "name": {
+        "en": "Batu Bolong (Hollow Rock)",
+        "it": "Batu Bolong (Parco Nazionale di Komodo)"
+      },
+      "region": "Indonesia - Komodo National Park",
+      "countryCode": "ID",
+      "latitude": -8.545,
+      "longitude": 119.61,
+      "kind": "pinnacle",
+      "depthMinM": 5,
+      "depthMaxM": 40,
+      "level": "advanced",
+      "highlights": [
+        "walls",
+        "drift",
+        "sharks",
+        "corals"
+      ],
+      "species": [
+        "Carcharhinus melanopterus",
+        "Napoléon fish",
+        "Hawksbill turtle"
+      ],
+      "exposure": "exposed_all",
+      "description": {
+        "en": "Submerged rocky pinnacle plunging into roaring tidal currents. Untouched coral gardens blanketed with anthias, patrolling reef sharks, napoleon wrasses, and giant trevallies.",
+        "it": "Pinnacolo roccioso battuto da correnti impetuose. Pareti ricoperte al 100% da coralli vivi, sciami di anthias arancioni, squali pinna bianca e pesci napoleone."
+      },
+      "curated": true
+    },
+    {
+      "id": "coraltri-bali-usat-liberty",
+      "name": {
+        "en": "USAT Liberty Shipwreck",
+        "it": "Relitto USAT Liberty (Tulamben, Bali)"
+      },
+      "region": "Indonesia - Bali (Tulamben)",
+      "countryCode": "ID",
+      "latitude": -8.274,
+      "longitude": 115.592,
+      "kind": "wreck",
+      "depthMinM": 5,
+      "depthMaxM": 30,
+      "level": "beginner",
+      "highlights": [
+        "wreck",
+        "history",
+        "macro"
+      ],
+      "species": [
+        "Bolbometopon muricatum",
+        "Pygmy seahorse",
+        "Acanthurus lineatus"
+      ],
+      "exposure": "sheltered_south",
+      "description": {
+        "en": "US Army transport ship (125m) torpedoed by a Japanese submarine in 1942 and pushed off the beach by Mount Agung's lava eruption in 1963. Encrusted with gorgonians, home to resident bumphead parrotfish herds.",
+        "it": "Nave da trasporto USA (125m) silurata nel 1942 e spinta in mare dalla lava del vulcano Agung nel 1963. Facile accesso da riva, colonizzata da coralli e branchi di pesci pappagallo giganti."
+      },
+      "curated": true
+    },
+    {
+      "id": "coraltri-philippines-tubbataha",
+      "name": {
+        "en": "Tubbataha Reefs Natural Park",
+        "it": "Parco Naturale delle Barriere di Tubbataha"
+      },
+      "region": "Philippines - Sulu Sea (Palawan)",
+      "countryCode": "PH",
+      "latitude": 8.95,
+      "longitude": 119.8667,
+      "kind": "reef",
+      "depthMinM": 8,
+      "depthMaxM": 50,
+      "level": "advanced",
+      "highlights": [
+        "sharks",
+        "mantas",
+        "walls",
+        "corals"
+      ],
+      "species": [
+        "Rhincodon typus",
+        "Sphyrna lewini",
+        "Manta birostris"
+      ],
+      "exposure": "exposed_all",
+      "description": {
+        "en": "UNESCO World Heritage isolated atolls in the center of the Sulu Sea. Sheer 100-metre drop-offs with pristine coral cover, whale sharks, hammerheads, and manta rays.",
+        "it": "Atolli isolati nel mezzo del mare di Sulu (Patrimonio UNESCO). Pareti a picco nel blu con coralli incontaminati, squali balena, squali martello e mante giganti."
+      },
+      "curated": true
+    },
+    {
+      "id": "coraltri-malaysia-sipadan-barracuda",
+      "name": {
+        "en": "Barracuda Point",
+        "it": "Barracuda Point (Sipadan)"
+      },
+      "region": "Malaysia - Sabah (Sipadan Island)",
+      "countryCode": "MY",
+      "latitude": 4.1167,
+      "longitude": 118.6333,
+      "kind": "reef",
+      "depthMinM": 8,
+      "depthMaxM": 40,
+      "level": "intermediate",
+      "highlights": [
+        "drift",
+        "sharks",
+        "turtles"
+      ],
+      "species": [
+        "Sphyraena qenie",
+        "Chelonia mydas",
+        "Carcharhinus melanopterus"
+      ],
+      "exposure": "exposed_all",
+      "description": {
+        "en": "Legendary oceanic island dropping 600m to the ocean floor. Celebrated for a massive spiraling 'tornado' of thousands of chevron barracudas and dozens of green sea turtles.",
+        "it": "Isola oceanica che sprofonda per 600m nel blu. Celeberrima per il vortice a 'tornado' formato da migliaia di barracuda e per le decine di tartarughe marine su ogni immersione."
+      },
+      "curated": true
+    },
+    {
+      "id": "coraltri-thailand-richelieu-rock",
+      "name": {
+        "en": "Richelieu Rock",
+        "it": "Richelieu Rock (Mare delle Andamane)"
+      },
+      "region": "Thailand - Andaman Sea (Mu Koh Surin)",
+      "countryCode": "TH",
+      "latitude": 9.362,
+      "longitude": 98.022,
+      "kind": "pinnacle",
+      "depthMinM": 9,
+      "depthMaxM": 35,
+      "level": "intermediate",
+      "highlights": [
+        "whaleShark",
+        "macro",
+        "corals"
+      ],
+      "species": [
+        "Rhincodon typus",
+        "Hippocampus bargibanti",
+        "Harlequin shrimp"
+      ],
+      "exposure": "exposed_all",
+      "description": {
+        "en": "Isolated horseshoe-shaped limestone pinnacle rising from 35m depth. Thailand's top spot for whale shark encounters and macro photography (harlequin shrimp, seahorses).",
+        "it": "Pinnacolo roccioso a ferro di cavallo isolato nel mare aperto. Il miglior punto della Thailandia per avvistare lo squalo balena e macrofauna rarissima (gamberi arlecchino)."
+      },
+      "curated": true
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "id": "indian-ocean",
+  "title": "Oceano Indiano (Indian Ocean)",
+  "description": "Le meraviglie tropicali dell'Oceano Indiano: atolli delle Maldive (Maaya Thila, Hanifaru Bay), Sudafrica (Aliwal Shoal con squali toro e tigre), Seychelles e Mauritius.",
+  "bbox": [
+    30.0,
+    -32.0,
+    75.0,
+    5.0
+  ],
+  "count": 3,
+  "sites": [
+    {
+      "id": "ind-maldives-maaya-thila",
+      "name": {
+        "en": "Maaya Thila",
+        "it": "Maaya Thila (Atollo di Ari)"
+      },
+      "region": "Maldives - North Ari Atoll",
+      "countryCode": "MV",
+      "latitude": 4.0833,
+      "longitude": 72.8667,
+      "kind": "pinnacle",
+      "depthMinM": 6,
+      "depthMaxM": 30,
+      "level": "intermediate",
+      "highlights": [
+        "sharks",
+        "corals",
+        "macro"
+      ],
+      "species": [
+        "Triaenodon obesus",
+        "Dasyatis pastinaca",
+        "Gymnothorax javanicus"
+      ],
+      "exposure": "exposed_all",
+      "description": {
+        "en": "One of the most thrilling night dives in the Maldives: circular pinnacle swarming with hunting whitetip reef sharks, giant morays, and hunting marble stingrays.",
+        "it": "Pinnacolo sommerso celebre per le immersioni notturne: sciami di squali pinna bianca che cacciano al buio, murene giganti e grandi razze marmorizzate."
+      },
+      "curated": true
+    },
+    {
+      "id": "ind-maldives-hanifaru-bay",
+      "name": {
+        "en": "Hanifaru Bay (UNESCO Biosphere)",
+        "it": "Baia di Hanifaru (Atollo di Baa)"
+      },
+      "region": "Maldives - Baa Atoll",
+      "countryCode": "MV",
+      "latitude": 5.171,
+      "longitude": 73.149,
+      "kind": "other",
+      "depthMinM": 2,
+      "depthMaxM": 12,
+      "level": "beginner",
+      "highlights": [
+        "mantas",
+        "whaleShark"
+      ],
+      "species": [
+        "Mobula alfredi",
+        "Rhincodon typus"
+      ],
+      "exposure": "sheltered_all",
+      "description": {
+        "en": "Cul-de-sac inlet where lunar tides trap dense blooms of plankton, gathering over a hundred reef manta rays and whale sharks performing synchronized cyclone feeding.",
+        "it": "Baia a fondo cieco protetta dall'UNESCO dove le correnti lunari intrappolano banchi immensi di plancton: fino a 100 mante e squali balena che si nutrono all'unisono."
+      },
+      "curated": true
+    },
+    {
+      "id": "ind-southafrica-aliwal-shoal",
+      "name": {
+        "en": "Aliwal Shoal",
+        "it": "Aliwal Shoal (Sudafrica)"
+      },
+      "region": "South Africa - KwaZulu-Natal (Umkomaas)",
+      "countryCode": "ZA",
+      "latitude": -30.267,
+      "longitude": 30.8873,
+      "kind": "reef",
+      "depthMinM": 10,
+      "depthMaxM": 30,
+      "level": "intermediate",
+      "highlights": [
+        "sharks",
+        "caves"
+      ],
+      "species": [
+        "Carcharias taurus",
+        "Galeocerdo cuvier",
+        "Sphyrna lewini"
+      ],
+      "exposure": "exposed_all",
+      "description": {
+        "en": "Fossilized sand dune reef world-renowned for aggregations of ragged-tooth sharks ('raggies'), tiger sharks, and the Nebo/Produce wrecks.",
+        "it": "Duna fossile sommersa famosa in tutto il mondo per le decine di squali toro (ragged-tooth), squali tigre e balene in transito durante la Sardine Run."
+      },
+      "curated": true
+    }
+  ]
+}

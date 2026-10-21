@@ -1,0 +1,271 @@
+{
+  "type": "FeatureCollection",
+  "name": "Mar Mediterraneo (Mediterranean Sea)",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1889,
+          36.0528
+        ]
+      },
+      "properties": {
+        "id": "med-malta-blue-hole-gozo",
+        "name": "Blue Hole & Chimney (Gozo)",
+        "name_it": "Blue Hole e Camino (Gozo)",
+        "region": "Malta - Gozo (Dwejra Point)",
+        "countryCode": "MT",
+        "kind": "cave",
+        "depthMinM": 8,
+        "depthMaxM": 45,
+        "level": "intermediate",
+        "exposure": "exposed_west",
+        "highlights": [
+          "walls",
+          "caves",
+          "corals"
+        ],
+        "species": [
+          "Epinephelus marginatus",
+          "Scorpaena scrofa",
+          "Dentex dentex"
+        ],
+        "description_en": "Gozo's most renowned dive: a circular natural rock pool opening into the open sea through an underwater arch at 15m. Leads to Coral Garden and the famous Chimney drop-off.",
+        "description_it": "Il sito più iconico di Malta e Gozo: pozzo naturale di roccia che si apre sul mare aperto attraverso un maestoso arco a 15m, con camino verticale e pareti a strapiombo."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4503,
+          35.8183
+        ]
+      },
+      "properties": {
+        "id": "med-malta-um-el-faroud",
+        "name": "Um El Faroud Tanker Wreck",
+        "name_it": "Relitto Petroliera Um El Faroud",
+        "region": "Malta - Wied iż-Żurrieq",
+        "countryCode": "MT",
+        "kind": "wreck",
+        "depthMinM": 18,
+        "depthMaxM": 36,
+        "level": "advanced",
+        "exposure": "exposed_south",
+        "highlights": [
+          "wreck",
+          "history"
+        ],
+        "species": [
+          "Sphyraena viridensis",
+          "Seriola dumerili",
+          "Conger conger"
+        ],
+        "description_en": "Massive 110-metre Libyan motor tanker scuttled as an artificial reef in 1998. Resting upright with vast engine room, bridge, and deck winches.",
+        "description_it": "Imponente petroliera di 110m adagiata dritta su fondo sabbioso a 35m. Uno dei migliori relitti d'Europa con timoneria e sala macchine penetrabili in sicurezza."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2208,
+          42.05
+        ]
+      },
+      "properties": {
+        "id": "med-spain-medes-islands",
+        "name": "Medes Islands Marine Reserve",
+        "name_it": "Isole Medes (Catalogna)",
+        "region": "Spain - Costa Brava (L'Estartit)",
+        "countryCode": "ES",
+        "kind": "reef",
+        "depthMinM": 5,
+        "depthMaxM": 35,
+        "level": "beginner",
+        "exposure": "exposed_east",
+        "highlights": [
+          "corals",
+          "caves",
+          "macro"
+        ],
+        "species": [
+          "Epinephelus marginatus",
+          "Corallium rubrum",
+          "Paramuricea clavata"
+        ],
+        "description_en": "Protected marine park since 1983: tame giant dusky groupers, spectacular red gorgonian walls, and underwater caverns at La Vaca.",
+        "description_it": "Riserva marina protetta celebre per le cernie giganti fiduciose verso i sub, foreste di gorgonie rosse e le spettacolari grotte passanti di La Vaca."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.076,
+          40.817
+        ]
+      },
+      "properties": {
+        "id": "med-italy-baia-sommersa",
+        "name": "Baia Submerged Archaeological Park",
+        "name_it": "Parco Sommerso di Baia",
+        "region": "Italy - Campania (Golfo di Napoli)",
+        "countryCode": "IT",
+        "kind": "other",
+        "depthMinM": 3,
+        "depthMaxM": 8,
+        "level": "beginner",
+        "exposure": "sheltered_all",
+        "highlights": [
+          "history"
+        ],
+        "species": [
+          "Octopus vulgaris",
+          "Hippocampus guttulatus",
+          "Sepia officinalis"
+        ],
+        "description_en": "The underwater Roman resort city: intact mosaic floors (Villa dei Pisoni), marble statues, colonnades, and imperial baths sunken due to bradyseism.",
+        "description_it": "La Roma sommersa: favolosi mosaici romani intatti, terme imperiali, statue in marmo e colonne della Villa dei Pisoni e del Ninfeo sommersi a pochi metri d'acqua."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7,
+          44.3667
+        ]
+      },
+      "properties": {
+        "id": "med-italy-mt-haven",
+        "name": "MT Haven Supertanker",
+        "name_it": "Relitto Petroliera MT Haven",
+        "region": "Italy - Liguria (Arenzano)",
+        "countryCode": "IT",
+        "kind": "wreck",
+        "depthMinM": 33,
+        "depthMaxM": 80,
+        "level": "technical",
+        "exposure": "exposed_all",
+        "highlights": [
+          "wreck",
+          "history"
+        ],
+        "species": [
+          "Conger conger",
+          "Anthias anthias",
+          "Epinephelus marginatus"
+        ],
+        "description_en": "The largest diveable shipwreck in the Mediterranean: 334-metre VLCC supertanker sunk in 1991. Wheelhouse at 36m, main deck at 54m, keel at 80m.",
+        "description_it": "Il più grande relitto visitabile del Mediterraneo: superpetroliera di 334 metri affondata nel 1991 ad Arenzano. Castello di comando a 36m, coperta a 54m."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1753,
+          44.3133
+        ]
+      },
+      "properties": {
+        "id": "med-italy-portofino-cristo",
+        "name": "Christ of the Abyss (San Fruttuoso)",
+        "name_it": "Cristo degli Abissi (Portofino)",
+        "region": "Italy - Liguria (Portofino)",
+        "countryCode": "IT",
+        "kind": "other",
+        "depthMinM": 12,
+        "depthMaxM": 18,
+        "level": "beginner",
+        "exposure": "sheltered_north",
+        "highlights": [
+          "history",
+          "corals"
+        ],
+        "species": [
+          "Corallium rubrum",
+          "Paramuricea clavata",
+          "Dentex dentex"
+        ],
+        "description_en": "Iconic bronze statue of Jesus Christ placed in 1954 in the bay of San Fruttuoso at 17m depth. Surrounded by Portofino's rich marine protected area.",
+        "description_it": "Celebre statua bronzea posta nel 1954 sul fondale della baia di San Fruttuoso a 17m nell'Area Marina Protetta di Portofino."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.161,
+          38.718
+        ]
+      },
+      "properties": {
+        "id": "med-italy-ustica-medico",
+        "name": "Doctor's Rock (Scoglio del Medico)",
+        "name_it": "Scoglio del Medico (Ustica)",
+        "region": "Italy - Sicily (Ustica Island)",
+        "countryCode": "IT",
+        "kind": "reef",
+        "depthMinM": 10,
+        "depthMaxM": 45,
+        "level": "intermediate",
+        "exposure": "exposed_all",
+        "highlights": [
+          "walls",
+          "caves",
+          "corals"
+        ],
+        "species": [
+          "Epinephelus marginatus",
+          "Sphyraena viridensis",
+          "Dentex dentex"
+        ],
+        "description_en": "Regarded as the diving capital of the Mediterranean: enormous schools of friendly groupers, circling barracudas, and an underwater canyon swim-through.",
+        "description_it": "Capitale subacquea del Mediterraneo: decine di cernie giganti abituate ai subacquei, caroselli di barracuda e canyon passante sottomarino."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.55,
+          44.9333
+        ]
+      },
+      "properties": {
+        "id": "med-croatia-baron-gautsch",
+        "name": "SS Baron Gautsch Wreck",
+        "name_it": "Relitto SS Baron Gautsch",
+        "region": "Croatia - Istria (Rovinj)",
+        "countryCode": "HR",
+        "kind": "wreck",
+        "depthMinM": 28,
+        "depthMaxM": 40,
+        "level": "advanced",
+        "exposure": "exposed_all",
+        "highlights": [
+          "wreck",
+          "history"
+        ],
+        "species": [
+          "Dicentrarchus labrax",
+          "Scorpaena scrofa"
+        ],
+        "description_en": "Austro-Hungarian passenger steamship sunk by a mine in 1914. Known as the 'Little Titanic of the Adriatic'. Upper promenade deck at 28m, hull down to 40m.",
+        "description_it": "Piroscafo passeggeri affondato da una mina nel 1914. Noto come il 'Piccolo Titanic dell'Adriatico', maestoso relitto con saloni e ponti intatti a 28-40m."
+      }
+    }
+  ]
+}
