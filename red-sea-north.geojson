@@ -1,0 +1,139 @@
+{
+  "type": "FeatureCollection",
+  "name": "Mar Rosso Settentrionale (Northern Red Sea)",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.92,
+          27.8142
+        ]
+      },
+      "properties": {
+        "id": "red-sea-ss-thistlegorm",
+        "name": "SS Thistlegorm Wreck",
+        "name_it": "Relitto SS Thistlegorm",
+        "region": "Red Sea - Straits of Gubal (Sha'ab Ali)",
+        "countryCode": "EG",
+        "kind": "wreck",
+        "depthMinM": 16,
+        "depthMaxM": 32,
+        "level": "intermediate",
+        "exposure": "exposed_all",
+        "highlights": [
+          "wreck",
+          "history",
+          "turtles"
+        ],
+        "species": [
+          "Chelonia mydas",
+          "Caranx ignobilis",
+          "Epinephelus tauvina"
+        ],
+        "description_en": "World-famous British WWII cargo ship sunk in 1941 by German bombers. Holds fully laden with Bedford trucks, BSA motorbikes, train locomotives, and munitions.",
+        "description_it": "Il relitto più famoso al mondo: mercantile britannico affondato nel 1941 con le stive intatte piene di moto BSA, autocarri Bedford, vagoni ferroviari e ali di caccia."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.921,
+          27.576
+        ]
+      },
+      "properties": {
+        "id": "red-sea-giannis-d",
+        "name": "Giannis D Wreck",
+        "name_it": "Relitto Giannis D",
+        "region": "Red Sea - Sha'ab Abu Nuhas",
+        "countryCode": "EG",
+        "kind": "wreck",
+        "depthMinM": 10,
+        "depthMaxM": 27,
+        "level": "intermediate",
+        "exposure": "exposed_north",
+        "highlights": [
+          "wreck",
+          "corals"
+        ],
+        "species": [
+          "Pterois miles",
+          "Chaetodon fasciatus"
+        ],
+        "description_en": "Greek cargo ship struck Abu Nuhas reef in 1983. Sits at a 45-degree angle with a remarkably photogenic bridge, engine room, and A-frame mast covered in glassfish.",
+        "description_it": "Mercantile greco naufragato nel 1983 sulla scogliera di Abu Nuhas. Inclinato a 45 gradi, famoso per la timoneria fotogenica e la sala macchine colonizzata da coralli."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.4733,
+          28.0088
+        ]
+      },
+      "properties": {
+        "id": "red-sea-dahab-blue-hole",
+        "name": "Dahab Blue Hole & The Arch",
+        "name_it": "Blue Hole di Dahab",
+        "region": "Red Sea - Sinai (Dahab)",
+        "countryCode": "EG",
+        "kind": "cave",
+        "depthMinM": 5,
+        "depthMaxM": 100,
+        "level": "advanced",
+        "exposure": "sheltered_west",
+        "highlights": [
+          "walls",
+          "corals"
+        ],
+        "species": [
+          "Pseudanthias squamipinnis",
+          "Cephalopholis miniata"
+        ],
+        "description_en": "Submarine sinkhole dropping over 100m straight down into deep blue water. The Saddle (7m) and outer coral wall are superb recreational dives, while The Arch (56m) is technical.",
+        "description_it": "Spettacolare dolina sottomarina circolare che sprofonda oltre 100m. La sella corallina a 7m e la parete esterna offrono immersioni ricreative indimenticabili."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.2587,
+          27.7257
+        ]
+      },
+      "properties": {
+        "id": "red-sea-ras-mohammed-shark-yolanda",
+        "name": "Shark & Yolanda Reef",
+        "name_it": "Shark & Yolanda Reef",
+        "region": "Red Sea - Ras Mohammed National Park",
+        "countryCode": "EG",
+        "kind": "reef",
+        "depthMinM": 10,
+        "depthMaxM": 40,
+        "level": "intermediate",
+        "exposure": "exposed_all",
+        "highlights": [
+          "corals",
+          "sharks",
+          "wreck",
+          "drift"
+        ],
+        "species": [
+          "Carcharhinus amblyrhynchos",
+          "Sphyrna lewini",
+          "Tridacna gigas"
+        ],
+        "description_en": "Two coral pinnacles connected by a saddle dropping to 800m. World-class drift dive with pelagic sharks, massive schools of snappers, and the quirky Yolanda toilet wreck.",
+        "description_it": "Pinnacoli corallini che precipitano negli abissi a 800m all'estremità del Sinai. Squali grigi, enormi caroselli di carangidi e il carico di sanitari del relitto Yolanda."
+      }
+    }
+  ]
+}

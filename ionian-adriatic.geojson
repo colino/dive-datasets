@@ -1,0 +1,134 @@
+{
+  "type": "FeatureCollection",
+  "name": "Mar Ionio & Mar Adriatico (Ionian & Adriatic Sea)",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9892,
+          36.5169
+        ]
+      },
+      "properties": {
+        "id": "ionian-pavlopetri-submerged-city",
+        "name": "Pavlopetri Prehistoric Sunken City",
+        "name_it": "Città Sommersa Preistorica di Pavlopetri",
+        "region": "Peloponnese - Laconia (Elafonisos)",
+        "countryCode": "GR",
+        "kind": "other",
+        "depthMinM": 2,
+        "depthMaxM": 4,
+        "level": "beginner",
+        "exposure": "sheltered_south",
+        "highlights": [
+          "history"
+        ],
+        "species": [
+          "Sparisoma cretense",
+          "Posidonia oceanica"
+        ],
+        "description_en": "The oldest known submerged city in the world (dating back 5,000 years to 3000 BC). Intact streets, building walls, courtyards, and tombs under 3m of water.",
+        "description_it": "La più antica città sommersa al mondo (risalente a 5.000 anni fa, 3000 a.C.). Strade, cortili, fondamenta di edifici e tombe a cista perfettamente tracciabili a 3 metri d'acqua."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.763,
+          38.102
+        ]
+      },
+      "properties": {
+        "id": "ionian-kefalonia-hms-perseus",
+        "name": "HMS Perseus Submarine Wreck",
+        "name_it": "Relitto Sommergibile HMS Perseus",
+        "region": "Ionian Islands - Kefalonia (Poros)",
+        "countryCode": "GR",
+        "kind": "wreck",
+        "depthMinM": 48,
+        "depthMaxM": 52,
+        "level": "technical",
+        "exposure": "exposed_all",
+        "highlights": [
+          "wreck",
+          "history"
+        ],
+        "species": [
+          "Conger conger",
+          "Anthias anthias"
+        ],
+        "description_en": "British Parthian-class submarine mined in 1941. Sits on an even keel at 52m. Famous for the miraculous solo escape of stoker John Capes through the escape hatch.",
+        "description_it": "Sommergibile britannico di 88m affondato da una mina nel 1941. Poggia dritto a 52m; leggendario per la fuga miracolosa di John Capes con respiratore Davis a quota profonda."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.502,
+          40.148
+        ]
+      },
+      "properties": {
+        "id": "adriatic-otranto-relitto-nicole",
+        "name": "Nicole Wreck",
+        "name_it": "Relitto Nicole (Otranto)",
+        "region": "Puglia - Salento (Otranto / Punta San Cataldo)",
+        "countryCode": "IT",
+        "kind": "wreck",
+        "depthMinM": 24,
+        "depthMaxM": 32,
+        "level": "intermediate",
+        "exposure": "exposed_east",
+        "highlights": [
+          "wreck",
+          "macro"
+        ],
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Flabellina affinis"
+        ],
+        "description_en": "Italian motor ship sunk in 1978 off Otranto. Well colonized by sea anemones, nudibranchs, and groupers in the Otranto Channel.",
+        "description_it": "Motonave mercantile affondata nel 1978 a largo di Otranto. Riccamente colonizzata da spugne, nudibranchi e cernie nel canale d'Otranto."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.55,
+          44.9333
+        ]
+      },
+      "properties": {
+        "id": "adriatic-rovinj-baron-gautsch",
+        "name": "SS Baron Gautsch Wreck",
+        "name_it": "Relitto SS Baron Gautsch",
+        "region": "Istria - Rovinj",
+        "countryCode": "HR",
+        "kind": "wreck",
+        "depthMinM": 28,
+        "depthMaxM": 40,
+        "level": "advanced",
+        "exposure": "exposed_all",
+        "highlights": [
+          "wreck",
+          "history"
+        ],
+        "species": [
+          "Dicentrarchus labrax",
+          "Scorpaena scrofa"
+        ],
+        "description_en": "Austro-Hungarian passenger steamship sunk by a friendly mine in 1914. Often called the 'Little Titanic of the Adriatic'. Upper deck at 28m, hull down to 40m.",
+        "description_it": "Piroscafo passeggeri austro-ungarico affondato da una mina nel 1914. Noto come il 'Piccolo Titanic dell'Adriatico', maestoso relitto con saloni e ponti intatti a 28-40m."
+      }
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "catalogVersion": "1.0.0",
+  "updatedAt": "2026-10-21",
+  "datasets": [
+    {
+      "id": "aegean-sea",
+      "title": "Mar Egeo & Creta (Aegean Sea & Crete)",
+      "description": "Siti di immersione nel Mar Egeo: Creta (Chania, Plakias, Heraklion, Elounda), Cicladi (Kea, Mykonos, Santorini, Iraklia), Sporadi (Alonissos Museo Sommerso) e Dodecaneso (Rodi, Leros).",
+      "bbox": [
+        23.5,
+        34.8,
+        28.5,
+        39.5
+      ],
+      "siteCount": 18,
+      "files": {
+        "json": "https://raw.githubusercontent.com/colino/dive-datasets/main/aegean-sea.json",
+        "geojson": "https://raw.githubusercontent.com/colino/dive-datasets/main/aegean-sea.geojson"
+      }
+    },
+    {
+      "id": "tyrrhenian-ligurian",
+      "title": "Mar Tirreno & Mar Ligure (Tyrrhenian & Ligurian Sea)",
+      "description": "Siti e relitti della costa tirrenica e ligure: Parco Sommerso di Baia, Superpetroliera MT Haven, Cristo degli Abissi di Portofino, Scoglio del Medico a Ustica, Relitto Nasim II a Giannutri, Grotte di Palinuro.",
+      "bbox": [
+        8.5,
+        38.0,
+        15.5,
+        44.5
+      ],
+      "siteCount": 6,
+      "files": {
+        "json": "https://raw.githubusercontent.com/colino/dive-datasets/main/tyrrhenian-ligurian.json",
+        "geojson": "https://raw.githubusercontent.com/colino/dive-datasets/main/tyrrhenian-ligurian.geojson"
+      }
+    },
+    {
+      "id": "ionian-adriatic",
+      "title": "Mar Ionio & Mar Adriatico (Ionian & Adriatic Sea)",
+      "description": "Siti sommersi tra Ionio e Adriatico: Città preistorica di Pavlopetri, Sommergibile HMS Perseus a Cefalonia, Relitto Nicole a Otranto, Piroscafo Baron Gautsch a Rovigno.",
+      "bbox": [
+        13.0,
+        36.4,
+        23.2,
+        45.2
+      ],
+      "siteCount": 4,
+      "files": {
+        "json": "https://raw.githubusercontent.com/colino/dive-datasets/main/ionian-adriatic.json",
+        "geojson": "https://raw.githubusercontent.com/colino/dive-datasets/main/ionian-adriatic.geojson"
+      }
+    },
+    {
+      "id": "red-sea-north",
+      "title": "Mar Rosso Settentrionale (Northern Red Sea)",
+      "description": "I grandi classici del Mar Rosso egiziano: SS Thistlegorm, Giannis D ad Abu Nuhas, Blue Hole di Dahab, Parco Nazionale di Ras Mohammed (Shark & Yolanda).",
+      "bbox": [
+        33.5,
+        27.2,
+        34.7,
+        28.6
+      ],
+      "siteCount": 4,
+      "files": {
+        "json": "https://raw.githubusercontent.com/colino/dive-datasets/main/red-sea-north.json",
+        "geojson": "https://raw.githubusercontent.com/colino/dive-datasets/main/red-sea-north.geojson"
+      }
+    }
+  ]
+}

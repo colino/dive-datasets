@@ -1,0 +1,196 @@
+{
+  "id": "tyrrhenian-ligurian",
+  "title": "Mar Tirreno & Mar Ligure (Tyrrhenian & Ligurian Sea)",
+  "description": "Siti e relitti della costa tirrenica e ligure: Parco Sommerso di Baia, Superpetroliera MT Haven, Cristo degli Abissi di Portofino, Scoglio del Medico a Ustica, Relitto Nasim II a Giannutri, Grotte di Palinuro.",
+  "bbox": [
+    8.5,
+    38.0,
+    15.5,
+    44.5
+  ],
+  "count": 6,
+  "sites": [
+    {
+      "id": "tyrrhenian-baia-sunken-city",
+      "name": {
+        "en": "Baia Submerged Archaeological Park",
+        "it": "Parco Sommerso di Baia",
+        "la": "Baiae"
+      },
+      "region": "Campania - Gulf of Naples (Pozzuoli)",
+      "countryCode": "IT",
+      "latitude": 40.817,
+      "longitude": 14.076,
+      "kind": "other",
+      "depthMinM": 3,
+      "depthMaxM": 8,
+      "level": "beginner",
+      "highlights": [
+        "history"
+      ],
+      "species": [
+        "Octopus vulgaris",
+        "Hippocampus guttulatus",
+        "Sepia officinalis"
+      ],
+      "exposure": "sheltered_all",
+      "description": {
+        "en": "The underwater Roman resort city: intact mosaic floors (Villa dei Pisoni), marble statues, colonnades, and imperial baths sunken due to bradyseism.",
+        "it": "La Roma sommersa: favolosi mosaici romani intatti, terme imperiali, statue in marmo e colonne della Villa dei Pisoni e del Ninfeo di Claudio sommersi per bradisismo a pochi metri di profondità."
+      },
+      "curated": true
+    },
+    {
+      "id": "ligurian-arenzano-mt-haven",
+      "name": {
+        "en": "MT Haven Supertanker",
+        "it": "Relitto Petroliera MT Haven",
+        "fr": "Pétrolier Amoco Milford Haven"
+      },
+      "region": "Liguria - Arenzano (Genova)",
+      "countryCode": "IT",
+      "latitude": 44.3667,
+      "longitude": 8.7,
+      "kind": "wreck",
+      "depthMinM": 33,
+      "depthMaxM": 80,
+      "level": "technical",
+      "highlights": [
+        "wreck",
+        "history"
+      ],
+      "species": [
+        "Conger conger",
+        "Anthias anthias",
+        "Epinephelus marginatus"
+      ],
+      "exposure": "exposed_all",
+      "description": {
+        "en": "The largest diveable shipwreck in the Mediterranean: 334-metre VLCC supertanker sunk in 1991. Wheelhouse at 36m, main deck at 54m, keel at 80m.",
+        "it": "Il più grande relitto visitabile del Mediterraneo: superpetroliera di 334 metri affondata nel 1991 ad Arenzano. Castello di comando a 36m, ponte principale a 54m."
+      },
+      "curated": true
+    },
+    {
+      "id": "ligurian-portofino-christ-abyss",
+      "name": {
+        "en": "Christ of the Abyss (San Fruttuoso)",
+        "it": "Cristo degli Abissi",
+        "fr": "Christ des Abysses"
+      },
+      "region": "Liguria - Portofino Marine Reserve",
+      "countryCode": "IT",
+      "latitude": 44.3133,
+      "longitude": 9.1753,
+      "kind": "other",
+      "depthMinM": 12,
+      "depthMaxM": 18,
+      "level": "beginner",
+      "highlights": [
+        "history",
+        "corals"
+      ],
+      "species": [
+        "Corallium rubrum",
+        "Paramuricea clavata",
+        "Dentex dentex"
+      ],
+      "exposure": "sheltered_north",
+      "description": {
+        "en": "Iconic bronze statue of Jesus Christ placed in 1954 in the bay of San Fruttuoso at 17m depth. Surrounded by Portofino's rich marine protected area with red gorgonians.",
+        "it": "Celebre statua bronzea di Cristo posta nel 1954 sul fondale della baia di San Fruttuoso a 17m. Cuore dell'Area Marina Protetta di Portofino con cernie, gorgonie e corallo rosso."
+      },
+      "curated": true
+    },
+    {
+      "id": "tyrrhenian-ustica-scoglio-medico",
+      "name": {
+        "en": "Doctor's Rock (Scoglio del Medico)",
+        "it": "Scoglio del Medico (Ustica)",
+        "sc": "Ustica"
+      },
+      "region": "Sicily - Ustica Island Marine Reserve",
+      "countryCode": "IT",
+      "latitude": 38.718,
+      "longitude": 13.161,
+      "kind": "reef",
+      "depthMinM": 10,
+      "depthMaxM": 45,
+      "level": "intermediate",
+      "highlights": [
+        "walls",
+        "caves",
+        "corals"
+      ],
+      "species": [
+        "Epinephelus marginatus",
+        "Sphyraena viridensis",
+        "Dentex dentex"
+      ],
+      "exposure": "exposed_all",
+      "description": {
+        "en": "Regarded as the diving capital of the Mediterranean: enormous schools of friendly groupers, circling barracudas, and an underwater canyon swim-through.",
+        "it": "Capitale subacquea del Mediterraneo: decine di cernie brune giganti abituate ai subacquei, banchi fitti di barracuda e canyon passante sottomarino in acque cristalline."
+      },
+      "curated": true
+    },
+    {
+      "id": "tyrrhenian-giannutri-nasim-ii",
+      "name": {
+        "en": "Nasim II",
+        "it": "Relitto Nasim II (Giannutri)"
+      },
+      "region": "Tuscany - Giannutri Island (Tuscan Archipelago)",
+      "countryCode": "IT",
+      "latitude": 42.253,
+      "longitude": 11.096,
+      "kind": "wreck",
+      "depthMinM": 45,
+      "depthMaxM": 60,
+      "level": "technical",
+      "highlights": [
+        "wreck",
+        "walls"
+      ],
+      "species": [
+        "Paramuricea clavata",
+        "Anthias anthias"
+      ],
+      "exposure": "exposed_west",
+      "description": {
+        "en": "Cargo ship sunk in 1976 carrying cars (Fiat, Peugeot) scattered across the seabed at 50m alongside the hull and giant red gorgonian fans.",
+        "it": "Nave mercantile affondata nel 1976 davanti a Cala Maestra con un carico di automobili ancora visibili sparse sul pendio roccioso a 50m tra maestose gorgonie rosse."
+      },
+      "curated": true
+    },
+    {
+      "id": "tyrrhenian-palinuro-grotta-azzurra",
+      "name": {
+        "en": "Palinuro Caves",
+        "it": "Grotte Sommerse di Capo Palinuro"
+      },
+      "region": "Campania - Cilento (Capo Palinuro)",
+      "countryCode": "IT",
+      "latitude": 40.026,
+      "longitude": 15.275,
+      "kind": "cave",
+      "depthMinM": 12,
+      "depthMaxM": 32,
+      "level": "advanced",
+      "highlights": [
+        "caves",
+        "walls"
+      ],
+      "species": [
+        "Plesionika narval",
+        "Conger conger"
+      ],
+      "exposure": "sheltered_north",
+      "description": {
+        "en": "One of Europe's top speleological diving locations: interconnected limestone karst caves with sulfur thermal springs, stalagmites, and halocline layers.",
+        "it": "Polo speleosubacqueo di fama internazionale: 35 grotte carsiche marine con risorgive termali solfuree, formazioni di alabastro e aloni di luce turchese."
+      },
+      "curated": true
+    }
+  ]
+}
