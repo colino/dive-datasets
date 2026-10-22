@@ -1,257 +1,1442 @@
 {
-  "id": "red-sea",
-  "title": "Mar Rosso (Red Sea)",
-  "description": "Le leggende del Mar Rosso egiziano e sudanese: SS Thistlegorm, Giannis D, Carnatic, Blue Hole e Canyon di Dahab, Ras Mohammed, Elphinstone, Brothers e il relitto Umbria in Sudan.",
-  "bbox": [
-    32.0,
-    18.0,
-    38.0,
-    29.5
-  ],
-  "count": 8,
+  "catalog": "red-sea",
   "sites": [
     {
-      "id": "redsea-ss-thistlegorm",
+      "id": "diverout-eg-abu-hashish",
       "name": {
-        "en": "SS Thistlegorm Wreck",
-        "it": "Relitto SS Thistlegorm",
-        "ar": "تيسلغورم"
+        "it": "Abu Hashish",
+        "en": "Abu Hashish"
       },
-      "region": "Egypt - Straits of Gubal (Sha'ab Ali)",
+      "latitude": 27.0303,
+      "longitude": 33.9203,
       "countryCode": "EG",
-      "latitude": 27.8142,
-      "longitude": 33.92,
+      "region": "red-sea",
+      "kind": "reef",
+      "depthMinM": 6,
+      "depthMaxM": 26,
+      "level": "intermediate",
+      "highlights": [
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Epinephelus marginatus",
+        "Octopus vulgaris",
+        "Sparisoma cretense",
+        "Chelonia mydas"
+      ],
+      "description": {
+        "it": "Situato a sud di Hurghada, al largo della costa di Makadi Bay, Abu Hashish presenta un'isola circondata da un'estesa barriera corallina e da una laguna interna riparata. Il sito offre profili d'immersione distinti: un pianoro poco profondo e protetto, ricco di coralli a tavola e pinnacoli, che digrada a est verso una parete più ripida ideale per le immersioni in corrente. Le correnti al largo lambiscono spesso la parete esterna, rendendo possibili incontri con il pelagico lungo il drop-off.",
+        "en": "Scenic dive site in EG known for pristine marine life and dramatic underwater formations."
+      },
+      "curated": true
+    },
+    {
+      "id": "diverout-eg-abu-helal",
+      "name": {
+        "it": "Abu Helal",
+        "en": "Abu Helal"
+      },
+      "latitude": 28.5422,
+      "longitude": 34.5167,
+      "countryCode": "EG",
+      "region": "red-sea",
+      "kind": "reef",
+      "depthMinM": 6,
+      "depthMaxM": 26,
+      "level": "intermediate",
+      "highlights": [
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Epinephelus marginatus",
+        "Octopus vulgaris",
+        "Sparisoma cretense",
+        "Chelonia mydas"
+      ],
+      "description": {
+        "it": "Situato a nord di Dahab lungo la costa del Sinai, Abu Helal presenta un'estesa piattaforma corallina poco profonda che si apre su una spettacolare parete inclinata e su una cresta sommersa. Il sito è meno frequentato rispetto ai suoi celebri vicini, consentendo a formazioni di coralli duri e molli di prosperare lungo i profili del reef.",
+        "en": "Scenic dive site in EG known for pristine marine life and dramatic underwater formations."
+      },
+      "curated": true
+    },
+    {
+      "id": "diverout-eg-abu-ramada-sud",
+      "name": {
+        "it": "Abu Ramada Süd",
+        "en": "Abu Ramada Süd"
+      },
+      "latitude": 27.1579,
+      "longitude": 33.9788,
+      "countryCode": "EG",
+      "region": "red-sea",
+      "kind": "reef",
+      "depthMinM": 6,
+      "depthMaxM": 26,
+      "level": "intermediate",
+      "highlights": [
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Epinephelus marginatus",
+        "Octopus vulgaris",
+        "Sparisoma cretense",
+        "Chelonia mydas"
+      ],
+      "description": {
+        "it": "Situato al largo della punta meridionale dell'isola di Big Abu Ramada, vicino a Hurghada, questo sito offre un pianoro riparato costellato di erg di corallo duro e formazioni a tavola. Le imbarcazioni si ormeggiano regolarmente sul lato protetto della parete corallina principale. I subacquei possono esplorare pinnacoli corallini sparsi, nuotare attraverso archi naturali e perlustrare le distese sabbiose tra i blocchi di corallo, dove si mimetizzano creature bentoniche.",
+        "en": "Scenic dive site in EG known for pristine marine life and dramatic underwater formations."
+      },
+      "curated": true
+    },
+    {
+      "id": "diverout-eg-abu-soma-garden",
+      "name": {
+        "it": "Abu Soma Garden",
+        "en": "Abu Soma Garden"
+      },
+      "latitude": 26.8431,
+      "longitude": 34.0023,
+      "countryCode": "EG",
+      "region": "red-sea",
+      "kind": "reef",
+      "depthMinM": 6,
+      "depthMaxM": 26,
+      "level": "intermediate",
+      "highlights": [
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Epinephelus marginatus",
+        "Octopus vulgaris",
+        "Sparisoma cretense",
+        "Chelonia mydas"
+      ],
+      "description": {
+        "it": "Abu Soma Garden si trova lungo la barriera corallina costiera orientale della penisola di Soma Bay. Il sito presenta un pianoro sabbioso punteggiato da massicce formazioni di Porites, coralli a tavola e strutture di corallo duro, prima di degradare verso una parete più profonda. Le condizioni calme sul pianoro lo rendono ideale per esplorare con tranquillità i microhabitat in cui gli abitanti più elusivi della barriera si nascondono sotto gli anfratti e tra i rami di acropora.",
+        "en": "Scenic dive site in EG known for pristine marine life and dramatic underwater formations."
+      },
+      "curated": true
+    },
+    {
+      "id": "c130-hercules-aqaba",
+      "name": {
+        "it": "Aereo C-130 Hercules (Aqaba)",
+        "en": "C-130 Hercules Aircraft Wreck (Aqaba)"
+      },
+      "latitude": 29.422,
+      "longitude": 34.972,
+      "countryCode": "JO",
+      "region": "red-sea",
+      "kind": "wreck",
+      "depthMinM": 14,
+      "depthMaxM": 18,
+      "level": "beginner",
+      "highlights": [
+        "wreck"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Pterois volitans",
+        "Scorpaenopsis barbata"
+      ],
+      "description": {
+        "it": "Aereo da trasporto militare quadri-motore affondato nel 2017 a profondità accessibile, con cockpit ed eliche intatte.",
+        "en": "Four-engine military transport plane sunk in 2017 at recreational depth, offering easy cockpit swim-throughs."
+      },
+      "curated": true
+    },
+    {
+      "id": "diverout-eg-alternatives",
+      "name": {
+        "it": "Alternatives",
+        "en": "Alternatives"
+      },
+      "latitude": 27.7366,
+      "longitude": 34.1866,
+      "countryCode": "EG",
+      "region": "red-sea",
+      "kind": "reef",
+      "depthMinM": 6,
+      "depthMaxM": 26,
+      "level": "intermediate",
+      "highlights": [
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Epinephelus marginatus",
+        "Octopus vulgaris",
+        "Sparisoma cretense",
+        "Chelonia mydas"
+      ],
+      "description": {
+        "it": "Situato a ovest di Ras Mohamed, vicino all'ingresso dello Stretto di Gubal, Alternatives è costituito da una serie di pinnacoli corallini che si innalzano da un fondale sabbioso poco profondo e soleggiato. Le barche per immersioni utilizzano spesso questa barriera protetta come comodo ormeggio di riserva quando il vento e il moto ondoso disturbano i siti offshore. I subacquei possono navigare con calma tra i singoli erg, esplorando formazioni coralline ricoperte di coralli molli e perlustrando la sabbia circostante alla ricerca di creature bentoniche.",
+        "en": "Scenic dive site in EG known for pristine marine life and dramatic underwater formations."
+      },
+      "curated": true
+    },
+    {
+      "id": "diverout-eg-amphoras-dive-site",
+      "name": {
+        "it": "Amphoras Dive Site",
+        "en": "Amphoras Dive Site"
+      },
+      "latitude": 27.8679,
+      "longitude": 34.3239,
+      "countryCode": "EG",
+      "region": "red-sea",
+      "kind": "reef",
+      "depthMinM": 6,
+      "depthMaxM": 26,
+      "level": "intermediate",
+      "highlights": [
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Epinephelus marginatus",
+        "Octopus vulgaris",
+        "Sparisoma cretense",
+        "Chelonia mydas"
+      ],
+      "description": {
+        "it": "Chiamato così per via del carico di una nave ottomana del XVII secolo che trasportava mercurio, Amphoras si trova lungo la barriera corallina costiera di Sharm El Sheikh. I subacquei scendono sopra un giardino di coralli che sfuma in un pendio sabbioso costellato di pinnacoli corallini e resti di antichi vasi di terracotta incastonati nella matrice della barriera. Le correnti generalmente moderate consentono una rilassante immersione in corrente tra gorgonie, coralli a tavola e banchi di pesci vetro.",
+        "en": "Scenic dive site in EG known for pristine marine life and dramatic underwater formations."
+      },
+      "curated": true
+    },
+    {
+      "id": "diverout-eg-anthias-divers-house-reef",
+      "name": {
+        "it": "Anthias Divers House Reef",
+        "en": "Anthias Divers House Reef"
+      },
+      "latitude": 27.9137,
+      "longitude": 34.331,
+      "countryCode": "EG",
+      "region": "red-sea",
+      "kind": "reef",
+      "depthMinM": 6,
+      "depthMaxM": 26,
+      "level": "intermediate",
+      "highlights": [
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Epinephelus marginatus",
+        "Octopus vulgaris",
+        "Sparisoma cretense",
+        "Chelonia mydas"
+      ],
+      "description": {
+        "it": "Situato lungo la costa riparata di Naama Bay a Sharm El Sheikh, questo house reef è caratterizzato da un fondale sabbioso in dolce pendenza, intervallato da chiazze di prateria marina e pinnacoli corallini raggruppati. I subacquei frequentano questo sito per check dive, corsi di addestramento e uscite notturne, quando le specie marine notturne escono a cacciare attorno ai blocchi di corallo.",
+        "en": "Scenic dive site in EG known for pristine marine life and dramatic underwater formations."
+      },
+      "curated": true
+    },
+    {
+      "id": "sanganeb-atoll-sudan",
+      "name": {
+        "it": "Atollo di Sanganeb (Sudan)",
+        "en": "Sanganeb Atoll & Lighthouse (Sudan)"
+      },
+      "latitude": 19.725,
+      "longitude": 37.441,
+      "countryCode": "SD",
+      "region": "red-sea",
+      "kind": "reef",
+      "depthMinM": 10,
+      "depthMaxM": 45,
+      "level": "advanced",
+      "highlights": [
+        "pelagic",
+        "sharks",
+        "corals"
+      ],
+      "exposure": "exposed",
+      "species": [
+        "Carcharhinus amblyrhynchos",
+        "Sphyrna lewini",
+        "Bolbometopon muricatum"
+      ],
+      "description": {
+        "it": "L'unico atollo corallino vero e proprio del Mar Rosso, patrimonio UNESCO sudanese con faro storico e pareti ricche di squali.",
+        "en": "The only true atoll in the Red Sea, a Sudanese UNESCO World Heritage site featuring sheer walls and schooling sharks."
+      },
+      "curated": true
+    },
+    {
+      "id": "diverout-eg-bannerfish-bay",
+      "name": {
+        "it": "Bannerfish Bay",
+        "en": "Bannerfish Bay"
+      },
+      "latitude": 28.4989,
+      "longitude": 34.5187,
+      "countryCode": "EG",
+      "region": "red-sea",
+      "kind": "reef",
+      "depthMinM": 6,
+      "depthMaxM": 26,
+      "level": "intermediate",
+      "highlights": [
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Epinephelus marginatus",
+        "Octopus vulgaris",
+        "Sparisoma cretense",
+        "Chelonia mydas"
+      ],
+      "description": {
+        "it": "Situata proprio di fronte alla passeggiata centrale di Dahab, Bannerfish Bay combina praterie poco profonde di fanerogame, distese sabbiose e blocchi corallini sparsi. Le acque calme e riparate la rendono una meta ideale per gli amanti della fotografia macro e per le immersioni notturne. I subacquei possono scorgere cavallucci marini stanziali aggrappati ai detriti sul fondo o esplorare le strutture artificiali che offrono riparo a densi assembramenti di novellame.",
+        "en": "Scenic dive site in EG known for pristine marine life and dramatic underwater formations."
+      },
+      "curated": true
+    },
+    {
+      "id": "big-brother-numidia",
+      "name": {
+        "it": "Big Brother Island & Relitto Numidia",
+        "en": "Big Brother Island & Numidia Wreck"
+      },
+      "latitude": 26.315,
+      "longitude": 34.846,
+      "countryCode": "EG",
+      "region": "red-sea",
+      "kind": "wreck",
+      "depthMinM": 15,
+      "depthMaxM": 45,
+      "level": "advanced",
+      "highlights": [
+        "wreck",
+        "sharks",
+        "walls"
+      ],
+      "exposure": "offshore",
+      "species": [
+        "Carcharhinus longimanus",
+        "Alopias pelagicus",
+        "Cephalopholis miniata"
+      ],
+      "description": {
+        "it": "Grande cargo britannico affondato nel 1901 adagiato in verticale sulla parete nord dell'isola tra coralli molli e squali oceanici.",
+        "en": "British cargo ship wrecked in 1901 lying almost vertically down the sheer north wall among soft corals and oceanic sharks."
+      },
+      "curated": true
+    },
+    {
+      "id": "dahab-blue-hole",
+      "name": {
+        "it": "Blue Hole & The Arch (Dahab)",
+        "en": "Blue Hole & The Arch (Dahab)"
+      },
+      "latitude": 28.572,
+      "longitude": 34.538,
+      "countryCode": "EG",
+      "region": "red-sea",
+      "kind": "cave",
+      "depthMinM": 6,
+      "depthMaxM": 56,
+      "level": "technical",
+      "highlights": [
+        "caves",
+        "walls"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Cephalopholis argus",
+        "Amphiprion bicinctus"
+      ],
+      "description": {
+        "it": "Celeberrima dolina marina di 130 metri con un arco sottomarino che collega il cratere al mare aperto sotto una volta maestosa.",
+        "en": "World-famous 130-meter submarine sinkhole connecting to the open sea via a majestic tunnel archway."
+      },
+      "curated": true
+    },
+    {
+      "id": "diverout-eg-caves",
+      "name": {
+        "it": "Caves",
+        "en": "Caves"
+      },
+      "latitude": 28.4167,
+      "longitude": 34.4561,
+      "countryCode": "EG",
+      "region": "red-sea",
+      "kind": "cave",
+      "depthMinM": 6,
+      "depthMaxM": 26,
+      "level": "intermediate",
+      "highlights": [
+        "caves",
+        "macro"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Epinephelus marginatus",
+        "Octopus vulgaris",
+        "Sparisoma cretense",
+        "Chelonia mydas"
+      ],
+      "description": {
+        "it": "Situata a sud di Dahab lungo l'aspra costa del Sinai, questa immersione da riva prende il nome dalle ampie insenature e dagli strapiombi cavernosi scavati nella piattaforma corallina proprio sotto il punto di ingresso. I subacquei scendono lungo un pendio incrostato di coralli che sprofonda nel blu, esplorando le zone d'ombra sotto la barriera costiera prima di tornare a visitare le camere. La luce naturale filtra nelle caverne aperte, illuminando formazioni di coralli molli e creature marine in cerca di riparo.",
+        "en": "Scenic dive site in EG known for pristine marine life and dramatic underwater formations."
+      },
+      "curated": true
+    },
+    {
+      "id": "diverout-eg-chrisoula-k",
+      "name": {
+        "it": "Chrisoula K",
+        "en": "Chrisoula K"
+      },
+      "latitude": 27.5687,
+      "longitude": 33.9347,
+      "countryCode": "EG",
+      "region": "red-sea",
+      "kind": "reef",
+      "depthMinM": 6,
+      "depthMaxM": 26,
+      "level": "intermediate",
+      "highlights": [
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Epinephelus marginatus",
+        "Octopus vulgaris",
+        "Sparisoma cretense",
+        "Chelonia mydas"
+      ],
+      "description": {
+        "it": "Adagiato lungo il versante settentrionale di Sha'ab Abu Nuhas, il Chrisoula K è un moderno mercantile di costruzione tedesca che si è incagliato nell'agosto del 1981 mentre trasportava piastrelle per pavimenti italiane. Il relitto giace con la prua schiacciata sui bassifondi della barriera corallina, mentre lo scafo principale e la poppa intatta poggiano su un pendio sabbioso. I subacquei esplorano regolarmente le stive di carico aperte piene di casse di piastrelle ordinatamente impilate, la sala macchine accessibile e la suggestiva elica che svetta sul fondale marino.",
+        "en": "Scenic dive site in EG known for pristine marine life and dramatic underwater formations."
+      },
+      "curated": true
+    },
+    {
+      "id": "diverout-eg-daedalus",
+      "name": {
+        "it": "Daedalus",
+        "en": "Daedalus"
+      },
+      "latitude": 24.95,
+      "longitude": 35.8333,
+      "countryCode": "EG",
+      "region": "red-sea",
+      "kind": "reef",
+      "depthMinM": 6,
+      "depthMaxM": 26,
+      "level": "intermediate",
+      "highlights": [
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Epinephelus marginatus",
+        "Octopus vulgaris",
+        "Sparisoma cretense",
+        "Chelonia mydas"
+      ],
+      "description": {
+        "it": "Isolato in mare aperto nel Mar Rosso egiziano meridionale, Daedalus Reef si trova sotto uno storico faro del XIX secolo. Pareti verticali sprofondano nel blu profondo su ogni versante, ricoperte da fitte foreste di coralli neri e imponenti formazioni di gorgonie a ventaglio. I subacquei raggiungono questo sito a bordo di crociere subacquee principalmente per gli incontri con la megafauna pelagica lungo le pareti a strapiombo esposte, dove le forti correnti oceaniche concentrano i grandi predatori marini.",
+        "en": "Scenic dive site in EG known for pristine marine life and dramatic underwater formations."
+      },
+      "curated": true
+    },
+    {
+      "id": "daedalus-reef-south",
+      "name": {
+        "it": "Daedalus Reef (Abu Kizan)",
+        "en": "Daedalus Reef / Abu Kizan"
+      },
+      "latitude": 24.931,
+      "longitude": 35.859,
+      "countryCode": "EG",
+      "region": "red-sea",
+      "kind": "reef",
+      "depthMinM": 12,
+      "depthMaxM": 45,
+      "level": "advanced",
+      "highlights": [
+        "sharks",
+        "pelagic",
+        "walls"
+      ],
+      "exposure": "offshore",
+      "species": [
+        "Sphyrna lewini",
+        "Mobula alfredi",
+        "Alopias pelagicus"
+      ],
+      "description": {
+        "it": "Reef isolato con faro a 90 km dalla costa, celebre per branchi regolari di squali martello, squali volpe e mante oceaniche.",
+        "en": "Remote lighthouse reef 90km offshore, world-famous for hammerhead shark walls, thresher sharks, and oceanic mantas."
+      },
+      "curated": true
+    },
+    {
+      "id": "diverout-eg-domina-coral-baby",
+      "name": {
+        "it": "Domina coral baby",
+        "en": "Domina coral baby"
+      },
+      "latitude": 27.9314,
+      "longitude": 34.3695,
+      "countryCode": "EG",
+      "region": "red-sea",
+      "kind": "reef",
+      "depthMinM": 6,
+      "depthMaxM": 26,
+      "level": "intermediate",
+      "highlights": [
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Epinephelus marginatus",
+        "Octopus vulgaris",
+        "Sparisoma cretense",
+        "Chelonia mydas"
+      ],
+      "description": {
+        "it": "Situata lungo il litorale di Sheikh Coast a Sharm El Sheikh, questa barriera corallina costiera viene solitamente esplorata come house reef dal pontile del complesso Domina resort. Un pianoro corallino poco profondo digrada verso una parete di coralli duri punteggiata da chiazze sabbiose e piccoli blocchi di corallo. I subacquei incontrano frequentemente le tipiche specie di barriera del Mar Rosso trasportate dalla leggera corrente lungo la parete.",
+        "en": "Scenic dive site in EG known for pristine marine life and dramatic underwater formations."
+      },
+      "curated": true
+    },
+    {
+      "id": "diverout-eg-eel-garden",
+      "name": {
+        "it": "Eel Garden",
+        "en": "Eel Garden"
+      },
+      "latitude": 28.505,
+      "longitude": 34.5201,
+      "countryCode": "EG",
+      "region": "red-sea",
+      "kind": "reef",
+      "depthMinM": 6,
+      "depthMaxM": 26,
+      "level": "intermediate",
+      "highlights": [
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Epinephelus marginatus",
+        "Octopus vulgaris",
+        "Sparisoma cretense",
+        "Chelonia mydas"
+      ],
+      "description": {
+        "it": "Situata poco a nord del lungomare centrale di Dahab, questa immersione da riva conduce i subacquei attraverso uno stretto canyon che taglia la piattaforma corallina prima di aprirsi su una distesa sabbiosa in pendenza. L'attrazione principale è un'immensa colonia di anguille giardino che ondeggiano a ritmo con il moto ondoso mentre si nutrono nella colonna d'acqua. Rigogliose formazioni di corallo duro e blocchi corallini costeggiano entrambi i lati del canale di sabbia, offrendo rifugio a numerose specie della barriera del Mar Rosso.",
+        "en": "Scenic dive site in EG known for pristine marine life and dramatic underwater formations."
+      },
+      "curated": true
+    },
+    {
+      "id": "diverout-eg-el-fanadir-north",
+      "name": {
+        "it": "El Fanadir North",
+        "en": "El Fanadir North"
+      },
+      "latitude": 27.2961,
+      "longitude": 33.8309,
+      "countryCode": "EG",
+      "region": "red-sea",
+      "kind": "reef",
+      "depthMinM": 6,
+      "depthMaxM": 26,
+      "level": "intermediate",
+      "highlights": [
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Epinephelus marginatus",
+        "Octopus vulgaris",
+        "Sparisoma cretense",
+        "Chelonia mydas"
+      ],
+      "description": {
+        "it": "Estendendosi lungo la costa a nord di Hurghada, El Fanadir è un vasto sistema corallino protetto dal moto ondoso più intenso. La sezione settentrionale presenta una parete principale che scende verso un ampio pianoro sabbioso costellato di blocchi di corallo e stazioni di pulizia, prima di degradare nel blu aperto. Le condizioni calme lo rendono un punto di riferimento per immersioni in corrente rilassanti e fotografia macro, dove i subacquei più attenti possono spesso scovare predatori mimetizzati tra le formazioni di corallo duro.",
+        "en": "Scenic dive site in EG known for pristine marine life and dramatic underwater formations."
+      },
+      "curated": true
+    },
+    {
+      "id": "diverout-eg-el-mina-wreck",
+      "name": {
+        "it": "El Mina wreck",
+        "en": "El Mina wreck"
+      },
+      "latitude": 27.2252,
+      "longitude": 33.8472,
+      "countryCode": "EG",
+      "region": "red-sea",
+      "kind": "wreck",
+      "depthMinM": 6,
+      "depthMaxM": 26,
+      "level": "intermediate",
+      "highlights": [
+        "wreck",
+        "history"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Epinephelus marginatus",
+        "Octopus vulgaris",
+        "Sparisoma cretense",
+        "Chelonia mydas"
+      ],
+      "description": {
+        "it": "Situato appena fuori dal porto di Hurghada, l'El Mina è un dragamine di classe T43 di fabbricazione sovietica, impiegato dalla Marina egiziana. Affondato da attacchi aerei israeliani nel 1970 durante la guerra d'attrito, il relitto giace sul lato sinistro su un fondale fangoso e privo di vegetazione. I danni causati dalle esplosioni sono evidenti lungo lo scafo, mettendo a nudo i macchinari di coperta interni, i cannoni e i residui di munizioni sparsi tra le lamiere.",
+        "en": "Scenic dive site in EG known for pristine marine life and dramatic underwater formations."
+      },
+      "curated": true
+    },
+    {
+      "id": "elphinstone-reef",
+      "name": {
+        "it": "Elphinstone Reef (Marsa Alam)",
+        "en": "Elphinstone Reef (Marsa Alam)"
+      },
+      "latitude": 25.317,
+      "longitude": 34.862,
+      "countryCode": "EG",
+      "region": "red-sea",
+      "kind": "reef",
+      "depthMinM": 15,
+      "depthMaxM": 45,
+      "level": "advanced",
+      "highlights": [
+        "sharks",
+        "pelagic",
+        "walls"
+      ],
+      "exposure": "exposed",
+      "species": [
+        "Carcharhinus longimanus",
+        "Sphyrna lewini",
+        "Triaenodon obesus"
+      ],
+      "description": {
+        "it": "Leggendario reef pelagico famoso per gli incontri ravvicinati con lo squalo oceanico pinna bianca (longimanus) e squali martello.",
+        "en": "Legendary offshore reef renowned for close encounters with oceanic whitetip sharks and schooling scalloped hammerheads."
+      },
+      "curated": true
+    },
+    {
+      "id": "diverout-eg-emperor-divers-house-reef",
+      "name": {
+        "it": "Emperor Divers House Reef",
+        "en": "Emperor Divers House Reef"
+      },
+      "latitude": 27.908,
+      "longitude": 34.3284,
+      "countryCode": "EG",
+      "region": "red-sea",
+      "kind": "reef",
+      "depthMinM": 6,
+      "depthMaxM": 26,
+      "level": "intermediate",
+      "highlights": [
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Epinephelus marginatus",
+        "Octopus vulgaris",
+        "Sparisoma cretense",
+        "Chelonia mydas"
+      ],
+      "description": {
+        "it": "Situato direttamente di fronte alla spiaggia di Naama Bay, questo riparato house reef presenta un dolce pendio sabbioso intervallato da formazioni coralline (bommies), praterie di fanerogame marine e blocchi artificiali per l'addestramento. L'ambiente protetto della baia riduce al minimo il moto ondoso in superficie, rendendolo un punto ideale per immersioni di controllo, ripassi dell'assetto e rilassanti immersioni notturne, durante le quali le specie notturne fanno la loro comparsa sulla sabbia.",
+        "en": "Scenic dive site in EG known for pristine marine life and dramatic underwater formations."
+      },
+      "curated": true
+    },
+    {
+      "id": "diverout-eg-erg-abo-nugar",
+      "name": {
+        "it": "Erg Abo Nugar",
+        "en": "Erg Abo Nugar"
+      },
+      "latitude": 27.3506,
+      "longitude": 33.8382,
+      "countryCode": "EG",
+      "region": "red-sea",
+      "kind": "reef",
+      "depthMinM": 6,
+      "depthMaxM": 26,
+      "level": "intermediate",
+      "highlights": [
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Epinephelus marginatus",
+        "Octopus vulgaris",
+        "Sparisoma cretense",
+        "Chelonia mydas"
+      ],
+      "description": {
+        "it": "Situato a nord di Hurghada, Erg Abo Nugar presenta un gruppo di pinnacoli corallini che si elevano da un pianoro sabbioso. La bassa profondità e la conformazione tranquilla del fondale rendono questa immersione estremamente rilassante, ideale per esplorare ricchi blocchi di corallo e perlustrare le adiacenti distese di sabbia dove riposano le creature bentoniche.",
+        "en": "Scenic dive site in EG known for pristine marine life and dramatic underwater formations."
+      },
+      "curated": true
+    },
+    {
+      "id": "diverout-eg-far-garden",
+      "name": {
+        "it": "Far Garden",
+        "en": "Far Garden"
+      },
+      "latitude": 27.9145,
+      "longitude": 34.3626,
+      "countryCode": "EG",
+      "region": "red-sea",
+      "kind": "reef",
+      "depthMinM": 6,
+      "depthMaxM": 26,
+      "level": "intermediate",
+      "highlights": [
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Epinephelus marginatus",
+        "Octopus vulgaris",
+        "Sparisoma cretense",
+        "Chelonia mydas"
+      ],
+      "description": {
+        "it": "Situato sul promontorio settentrionale della baia appena fuori da Naama Bay, Far Garden presenta uno spettacolare paesaggio sottomarino caratterizzato da una parete corallina degradante, arricchita da imponenti pinnacoli e strapiombi. I subacquei si muovono spesso in corrente lungo la parete dove prosperano gigantesche gorgonie a ventaglio, per poi esplorare formazioni coralline meno profonde sparse su terrazze sabbiose. Il sito passa da un pianoro riparato a punte esposte verso il mare aperto, dove esemplari pelagici transitano occasionalmente nel blu.",
+        "en": "Scenic dive site in EG known for pristine marine life and dramatic underwater formations."
+      },
+      "curated": true
+    },
+    {
+      "id": "diverout-eg-gabr-el-bint",
+      "name": {
+        "it": "Gabr el Bint",
+        "en": "Gabr el Bint"
+      },
+      "latitude": 28.3532,
+      "longitude": 34.4335,
+      "countryCode": "EG",
+      "region": "red-sea",
+      "kind": "reef",
+      "depthMinM": 6,
+      "depthMaxM": 26,
+      "level": "intermediate",
+      "highlights": [
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Epinephelus marginatus",
+        "Octopus vulgaris",
+        "Sparisoma cretense",
+        "Chelonia mydas"
+      ],
+      "description": {
+        "it": "Situato a sud di Dahab lungo la costa del Sinai, Gabr el Bint offre immersioni su parete incontaminate, lontano dal traffico intenso dei centri urbani. I subacquei raggiungono solitamente il sito con barche da safari da Dahab o tramite il tradizionale trekking a dorso di dromedario lungo il sentiero costiero nel deserto. La topografia si suddivide in due sezioni distinte a nord e a sud, caratterizzate da ripide pareti a strapiombo ricoperte da imponenti gorgonie a ventaglio, un pianoro lagunare sabbioso e spettacolari pinnacoli di corallo che sprofondano nel blu profondo.",
+        "en": "Scenic dive site in EG known for pristine marine life and dramatic underwater formations."
+      },
+      "curated": true
+    },
+    {
+      "id": "diverout-eg-gamul-soraya",
+      "name": {
+        "it": "Gamul Soraya",
+        "en": "Gamul Soraya"
+      },
+      "latitude": 26.7961,
+      "longitude": 33.9919,
+      "countryCode": "EG",
+      "region": "red-sea",
+      "kind": "reef",
+      "depthMinM": 6,
+      "depthMaxM": 26,
+      "level": "intermediate",
+      "highlights": [
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Epinephelus marginatus",
+        "Octopus vulgaris",
+        "Sparisoma cretense",
+        "Chelonia mydas"
+      ],
+      "description": {
+        "it": "Gamul Soraya, situato vicino a Safaga, è composto da un gruppo di pinnacoli corallini che si innalzano da un pianoro sabbioso. La topografia favorisce una rilassante circumnavigazione attorno all'erg principale e a diversi blocchi minori circostanti. Fitti banchi di anthias volteggiano attorno ai pinnacoli ricoperti di coralli molli, mentre la sabbia circostante offre l'habitat ideale per creature bentoniche e vita macro.",
+        "en": "Scenic dive site in EG known for pristine marine life and dramatic underwater formations."
+      },
+      "curated": true
+    },
+    {
+      "id": "diverout-eg-giftun",
+      "name": {
+        "it": "Giftun",
+        "en": "Giftun"
+      },
+      "latitude": 27.1928,
+      "longitude": 33.9192,
+      "countryCode": "EG",
+      "region": "red-sea",
+      "kind": "reef",
+      "depthMinM": 6,
+      "depthMaxM": 26,
+      "level": "intermediate",
+      "highlights": [
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Epinephelus marginatus",
+        "Octopus vulgaris",
+        "Sparisoma cretense",
+        "Chelonia mydas"
+      ],
+      "description": {
+        "it": "Giftun offre le classiche immersioni lungo parete del Mar Rosso affiancate da plateau corallini poco profondi. Le barriere al largo sono modellate da correnti costanti che nutrono rigogliose foreste di gorgonie, mentre i pelagici di passaggio incrociano spesso lungo il ciglio del ripido drop-off.",
+        "en": "Scenic dive site in EG known for pristine marine life and dramatic underwater formations."
+      },
+      "curated": true
+    },
+    {
+      "id": "diverout-eg-gorgonia-hausreef",
+      "name": {
+        "it": "Gorgonia Hausreef",
+        "en": "Gorgonia Hausreef"
+      },
+      "latitude": 24.7072,
+      "longitude": 35.0874,
+      "countryCode": "EG",
+      "region": "red-sea",
+      "kind": "reef",
+      "depthMinM": 6,
+      "depthMaxM": 26,
+      "level": "intermediate",
+      "highlights": [
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Epinephelus marginatus",
+        "Octopus vulgaris",
+        "Sparisoma cretense",
+        "Chelonia mydas"
+      ],
+      "description": {
+        "it": "Situato lungo la costa dell'area del parco nazionale di Wadi El Gemal, questo house reef costiero è accessibile direttamente da un pontile appositamente costruito che attraversa la piattaforma corallina poco profonda. Il sito scende lungo una parete corallina rigogliosa fino a un fondale sabbioso in leggera pendenza, costellato di pinnacoli di corallo. I subacquei vi trovano la tipica biodiversità del Mar Rosso meridionale, tra cui tartarughe marine al pascolo, banchi di antias lungo la parete e pelagici in caccia nel blu.",
+        "en": "Scenic dive site in EG known for pristine marine life and dramatic underwater formations."
+      },
+      "curated": true
+    },
+    {
+      "id": "diverout-eg-gota-abu-ramada",
+      "name": {
+        "it": "Gota Abu Ramada",
+        "en": "Gota Abu Ramada"
+      },
+      "latitude": 27.1426,
+      "longitude": 33.955,
+      "countryCode": "EG",
+      "region": "red-sea",
+      "kind": "reef",
+      "depthMinM": 6,
+      "depthMaxM": 26,
+      "level": "intermediate",
+      "highlights": [
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Epinephelus marginatus",
+        "Octopus vulgaris",
+        "Sparisoma cretense",
+        "Chelonia mydas"
+      ],
+      "description": {
+        "it": "Un reef offshore di forma ovale a sud di Hurghada, Gota Abu Ramada è celebre per i suoi giardini di corallo poco profondi e inondati di luce, riparati dal moto ondoso del mare aperto. Un pianoro di candida sabbia avvolge la struttura principale del reef, punteggiato da pinnacoli corallini isolati e fitte distese di coralli duri. I subacquei seguono solitamente rilassanti percorsi circolari attorno ai torrioni di corallo o si lasciano trasportare in drift lungo la parete orientale prima di rientrare verso le cime di ormeggio.",
+        "en": "Scenic dive site in EG known for pristine marine life and dramatic underwater formations."
+      },
+      "curated": true
+    },
+    {
+      "id": "diverout-eg-grand-makadi",
+      "name": {
+        "it": "Grand makadi",
+        "en": "Grand makadi"
+      },
+      "latitude": 27.0049,
+      "longitude": 33.9131,
+      "countryCode": "EG",
+      "region": "red-sea",
+      "kind": "reef",
+      "depthMinM": 6,
+      "depthMaxM": 26,
+      "level": "intermediate",
+      "highlights": [
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Epinephelus marginatus",
+        "Octopus vulgaris",
+        "Sparisoma cretense",
+        "Chelonia mydas"
+      ],
+      "description": {
+        "it": "La barriera corallina di Grand Makadi si trova lungo il margine settentrionale di Makadi Bay, accessibile direttamente tramite un lungo pontile in legno che attraversa la piattaforma corallina poco profonda. La parete della barriera scende a gradoni tra giardini di corallo e chiazze sabbiose verso pendii più profondi ricchi di formazioni di coralli duri e speroni di coralli molli. Le condizioni calme e la facilità di navigazione lungo la cresta del reef la rendono una tappa ideale per check dive, immersioni notturne e rilassanti esplorazioni in corrente.",
+        "en": "Scenic dive site in EG known for pristine marine life and dramatic underwater formations."
+      },
+      "curated": true
+    },
+    {
+      "id": "diverout-eg-gubal-island",
+      "name": {
+        "it": "Gubal Island",
+        "en": "Gubal Island"
+      },
+      "latitude": 27.6945,
+      "longitude": 33.8022,
+      "countryCode": "EG",
+      "region": "red-sea",
+      "kind": "reef",
+      "depthMinM": 6,
+      "depthMaxM": 26,
+      "level": "intermediate",
+      "highlights": [
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Epinephelus marginatus",
+        "Octopus vulgaris",
+        "Sparisoma cretense",
+        "Chelonia mydas"
+      ],
+      "description": {
+        "it": "Situata all'ingresso del Golfo di Suez, l'isola di Gubal è una tappa fondamentale negli itinerari delle crociere subacquee nel Mar Rosso settentrionale. L'isola offre profili di immersione variegati, che spaziano da ampie pareti esterne in corrente a Bluff Point fino a relitti riparati, come lo storico piroscafo Ulysses e il celebre relitto portuale per immersioni notturne noto come The Barge. La topografia subacquea varia da pianori di corallo duro a pareti scoscese battute dalla corrente, attirando sia specie pelagiche di passaggio sia dense concentrazioni di fauna corallina stanziale.",
+        "en": "Scenic dive site in EG known for pristine marine life and dramatic underwater formations."
+      },
+      "curated": true
+    },
+    {
+      "id": "st-johns-habili-ali",
+      "name": {
+        "it": "Habili Ali (St. John's Reefs)",
+        "en": "Habili Ali (St. John's Reefs)"
+      },
+      "latitude": 23.902,
+      "longitude": 35.795,
+      "countryCode": "EG",
+      "region": "red-sea",
+      "kind": "wall",
+      "depthMinM": 15,
+      "depthMaxM": 50,
+      "level": "advanced",
+      "highlights": [
+        "walls",
+        "pelagic",
+        "sharks"
+      ],
+      "exposure": "exposed",
+      "species": [
+        "Carcharhinus albimarginatus",
+        "Triaenodon obesus",
+        "Sphyrna lewini"
+      ],
+      "description": {
+        "it": "Pinnacolo sommerso che non affiora mai, con pareti verticali ricoperte di gorgonie nere giganti e passaggio di squali seta e martello.",
+        "en": "Submerged pinnacle that never breaks the surface, sheer walls carpeted in giant black corals and frequented by sharks."
+      },
+      "curated": true
+    },
+    {
+      "id": "diverout-eg-haussriff-radisson-blu",
+      "name": {
+        "it": "Haussriff Radisson Blu",
+        "en": "Haussriff Radisson Blu"
+      },
+      "latitude": 26.1484,
+      "longitude": 34.2611,
+      "countryCode": "EG",
+      "region": "red-sea",
+      "kind": "reef",
+      "depthMinM": 6,
+      "depthMaxM": 26,
+      "level": "intermediate",
+      "highlights": [
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Epinephelus marginatus",
+        "Octopus vulgaris",
+        "Sparisoma cretense",
+        "Chelonia mydas"
+      ],
+      "description": {
+        "it": "Accessibile direttamente tramite un pontile di fronte al resort a El Quseir, questo house reef costiero presenta una cresta poco profonda che scende verso un fondale dolcemente degradante, punteggiato da formazioni coralline e piccoli canyon. I subacquei possono navigare verso nord o sud lungo la parete del reef, dove formazioni floride di corallo duro offrono rifugio a un'abbondante vita macro e a numerosi abitanti della barriera.",
+        "en": "Scenic dive site in EG known for pristine marine life and dramatic underwater formations."
+      },
+      "curated": true
+    },
+    {
+      "id": "diverout-eg-islands",
+      "name": {
+        "it": "Islands",
+        "en": "Islands"
+      },
+      "latitude": 28.4775,
+      "longitude": 34.512,
+      "countryCode": "EG",
+      "region": "red-sea",
+      "kind": "reef",
+      "depthMinM": 6,
+      "depthMaxM": 26,
+      "level": "intermediate",
+      "highlights": [
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Epinephelus marginatus",
+        "Octopus vulgaris",
+        "Sparisoma cretense",
+        "Chelonia mydas"
+      ],
+      "description": {
+        "it": "Situato lungo la costa meridionale di Dahab, The Islands presenta un intricato labirinto di pinnacoli corallini sommersi, canali sabbiosi e ampi anfiteatri naturali. Un terremoto avvenuto decenni fa ha fratturato enormi blocchi di corallo, creando passaggi e archi protetti che si snodano tra formazioni di corallo duro. Il sito si mantiene relativamente poco profondo per tutta l'immersione, offrendo tempi di fondo prolungati per esplorare le dense strutture coralline e le vallate sabbiose.",
+        "en": "Scenic dive site in EG known for pristine marine life and dramatic underwater formations."
+      },
+      "curated": true
+    },
+    {
+      "id": "jackson-reef-tiran",
+      "name": {
+        "it": "Jackson Reef (Stretto di Tiran)",
+        "en": "Jackson Reef (Strait of Tiran)"
+      },
+      "latitude": 28.008,
+      "longitude": 34.472,
+      "countryCode": "EG",
+      "region": "red-sea",
+      "kind": "reef",
+      "depthMinM": 10,
+      "depthMaxM": 45,
+      "level": "intermediate",
+      "highlights": [
+        "pelagic",
+        "sharks",
+        "corals"
+      ],
+      "exposure": "exposed",
+      "species": [
+        "Sphyrna lewini",
+        "Triaenodon obesus",
+        "Eretmochelys imbricata"
+      ],
+      "description": {
+        "it": "Il reef più settentrionale di Tiran, celebre per i coralli di fuoco, squali martello nel blu estivo e il relitto Lara che affiora.",
+        "en": "Northernmost reef in Tiran, famous for fiery red coral gardens, summer hammerhead pods in the blue, and the Lara shipwreck."
+      },
+      "curated": true
+    },
+    {
+      "id": "ras-zaatar-sinai",
+      "name": {
+        "it": "Ras Za'atar (Ras Mohammed)",
+        "en": "Ras Za'atar (Ras Mohammed)"
+      },
+      "latitude": 27.768,
+      "longitude": 34.249,
+      "countryCode": "EG",
+      "region": "red-sea",
+      "kind": "wall",
+      "depthMinM": 12,
+      "depthMaxM": 38,
+      "level": "intermediate",
+      "highlights": [
+        "walls",
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Chaetodon paucifasciatus",
+        "Amphiprion bicinctus"
+      ],
+      "description": {
+        "it": "Parete verticale a strapiombo decorata con ventagli monumentali di gorgonie giganti e alcionari rosa e arancioni.",
+        "en": "Sheer coral wall adorned with giant sea fans and vibrant soft tree corals in the Gulf of Aqaba entrance."
+      },
+      "curated": true
+    },
+    {
+      "id": "carnatic-abu-nuhas",
+      "name": {
+        "it": "Relitto Carnatic (Abu Nuhas)",
+        "en": "Carnatic Wreck (Abu Nuhas Reef)"
+      },
+      "latitude": 27.581,
+      "longitude": 33.923,
+      "countryCode": "EG",
+      "region": "red-sea",
+      "kind": "wreck",
+      "depthMinM": 18,
+      "depthMaxM": 28,
+      "level": "intermediate",
+      "highlights": [
+        "corals",
+        "history",
+        "wreck"
+      ],
+      "exposure": "exposed",
+      "species": [
+        "Cephalopholis miniata",
+        "Cheilinus undulatus",
+        "Lutjanus bohar",
+        "Pomacanthus imperator"
+      ],
+      "description": {
+        "it": "Clipper a vapore britannico del 1869 affondato con monete d'oro e casse di vino Porto, splendidamente colonizzato da coralli molli.",
+        "en": "1869 British sail-and-steam clipper sunk carrying gold specie and port wine, gorgeously overgrown with soft corals."
+      },
+      "curated": true
+    },
+    {
+      "id": "cedar-pride-aqaba",
+      "name": {
+        "it": "Relitto Cedar Pride (Aqaba)",
+        "en": "Cedar Pride Wreck (Aqaba, Jordan)"
+      },
+      "latitude": 29.431,
+      "longitude": 34.975,
+      "countryCode": "JO",
+      "region": "red-sea",
+      "kind": "wreck",
+      "depthMinM": 12,
+      "depthMaxM": 27,
+      "level": "intermediate",
+      "highlights": [
+        "wreck",
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Pterois miles",
+        "Heniochus diphreutes"
+      ],
+      "description": {
+        "it": "Nave da carico libanese affondata nel 1985 dal Re di Giordania come barriera artificiale; alberi maestri coperti di corallo molle.",
+        "en": "Lebanese freighter scuttled in 1985 by King Abdullah of Jordan to create an artificial reef; masts draped in soft coral."
+      },
+      "curated": true
+    },
+    {
+      "id": "giannis-d-abu-nuhas",
+      "name": {
+        "it": "Relitto Giannis D",
+        "en": "Giannis D Wreck (Abu Nuhas)"
+      },
+      "latitude": 27.578,
+      "longitude": 33.919,
+      "countryCode": "EG",
+      "region": "red-sea",
+      "kind": "wreck",
+      "depthMinM": 10,
+      "depthMaxM": 27,
+      "level": "beginner",
+      "highlights": [
+        "wreck"
+      ],
+      "exposure": "exposed",
+      "species": [
+        "Pterois volitans",
+        "Acanthurus sohal"
+      ],
+      "description": {
+        "it": "Mercantile greco inclinato a 45 gradi sul fondale con sala macchine e castello di poppa spettacolari e accessibili.",
+        "en": "Greek cargo vessel resting at a dramatic 45-degree angle, with an easily accessible multi-level engine room."
+      },
+      "curated": true
+    },
+    {
+      "id": "umbria-wreck-sudan",
+      "name": {
+        "it": "Relitto Piroscafo Umbria (Sudan)",
+        "en": "SS Umbria Wreck (Wingate Reef, Sudan)"
+      },
+      "latitude": 19.642,
+      "longitude": 37.288,
+      "countryCode": "SD",
+      "region": "red-sea",
+      "kind": "wreck",
+      "depthMinM": 18,
+      "depthMaxM": 38,
+      "level": "intermediate",
+      "highlights": [
+        "wreck",
+        "history"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Pterois volitans",
+        "Taeniura lymma",
+        "Lutjanus bohar"
+      ],
+      "description": {
+        "it": "Nave da carico italiana autoaffondata nel 1940 a Port Sudan con 360.000 bombe, munizioni e 3 automobili Fiat 1100 ancora nelle stive.",
+        "en": "Italian ship scuttled in 1940 off Port Sudan carrying 360,000 aerial bombs and 3 vintage Fiat 1100 cars in pristine holds."
+      },
+      "curated": true
+    },
+    {
+      "id": "rosalie-moller-gubal",
+      "name": {
+        "it": "SS Rosalie Moller",
+        "en": "SS Rosalie Moller Wreck"
+      },
+      "latitude": 27.632,
+      "longitude": 33.864,
+      "countryCode": "EG",
+      "region": "red-sea",
+      "kind": "wreck",
+      "depthMinM": 30,
+      "depthMaxM": 50,
+      "level": "advanced",
+      "highlights": [
+        "wreck",
+        "history"
+      ],
+      "exposure": "offshore",
+      "species": [
+        "Pterois volitans",
+        "Caranx melampygus"
+      ],
+      "description": {
+        "it": "Gemella del Thistlegorm affondata due giorni dopo nello Stretto di Gubal, perfettamente conservata in assetto di navigazione.",
+        "en": "Sister wreck to the Thistlegorm sunk two days later in the Gubal Strait, sitting upright and fully intact."
+      },
+      "curated": true
+    },
+    {
+      "id": "thistlegorm-shaab-ali",
+      "name": {
+        "it": "SS Thistlegorm",
+        "en": "SS Thistlegorm Wreck"
+      },
+      "latitude": 27.814,
+      "longitude": 33.918,
+      "countryCode": "EG",
+      "region": "red-sea",
       "kind": "wreck",
       "depthMinM": 16,
       "depthMaxM": 32,
       "level": "intermediate",
       "highlights": [
         "wreck",
-        "history",
-        "turtles"
-      ],
-      "species": [
-        "Chelonia mydas",
-        "Caranx ignobilis",
-        "Epinephelus tauvina"
-      ],
-      "exposure": "exposed_all",
-      "description": {
-        "en": "World's most famous wreck: British WWII cargo ship sunk in 1941 by Heinkel bombers. Holds laden with Bedford trucks, BSA motorbikes, train steam engines, and munitions.",
-        "it": "Il relitto più famoso al mondo: mercantile britannico affondato nel 1941 con le stive intatte piene di moto BSA, camion Bedford, locomotive e munizioni."
-      },
-      "curated": true
-    },
-    {
-      "id": "redsea-giannis-d",
-      "name": {
-        "en": "Giannis D Wreck",
-        "it": "Relitto Giannis D",
-        "ar": "جيانيس دي"
-      },
-      "region": "Egypt - Sha'ab Abu Nuhas",
-      "countryCode": "EG",
-      "latitude": 27.576,
-      "longitude": 33.921,
-      "kind": "wreck",
-      "depthMinM": 10,
-      "depthMaxM": 27,
-      "level": "intermediate",
-      "highlights": [
-        "wreck",
-        "corals"
-      ],
-      "species": [
-        "Pterois miles",
-        "Chaetodon fasciatus"
-      ],
-      "exposure": "exposed_north",
-      "description": {
-        "en": "Greek cargo ship struck Abu Nuhas reef in 1983. Sits at a 45-degree angle with a photogenic bridge, engine room, and A-frame mast draped in soft corals.",
-        "it": "Mercantile greco naufragato nel 1983 su Abu Nuhas. Inclinato a 45 gradi, famoso per la timoneria fotogenica e la sala macchine colonizzata da coralli."
-      },
-      "curated": true
-    },
-    {
-      "id": "redsea-carnatic",
-      "name": {
-        "en": "SS Carnatic Wreck",
-        "it": "Relitto SS Carnatic",
-        "ar": "كارناتيك"
-      },
-      "region": "Egypt - Sha'ab Abu Nuhas",
-      "countryCode": "EG",
-      "latitude": 27.581,
-      "longitude": 33.925,
-      "kind": "wreck",
-      "depthMinM": 18,
-      "depthMaxM": 27,
-      "level": "intermediate",
-      "highlights": [
-        "wreck",
-        "history",
-        "corals"
-      ],
-      "species": [
-        "Cheilinus undulatus",
-        "Plectorhinchus gaterinus"
-      ],
-      "exposure": "exposed_north",
-      "description": {
-        "en": "British steam-sail vessel that struck the reef in 1869 carrying gold coin specia and wine. Beautifully colonized wooden-ribbed hull covered in glassfish.",
-        "it": "Piroscafo a vapore britannico del 1869 affondato con lingotti d'oro e casse di vino. Lo scheletro delle costolature è ricoperto da coralli molli e miriadi di pesci vetro."
-      },
-      "curated": true
-    },
-    {
-      "id": "redsea-dahab-blue-hole",
-      "name": {
-        "en": "Dahab Blue Hole & The Arch",
-        "it": "Blue Hole di Dahab",
-        "ar": "الثقب الأزرق دهب"
-      },
-      "region": "Egypt - Sinai (Dahab)",
-      "countryCode": "EG",
-      "latitude": 28.0088,
-      "longitude": 34.4733,
-      "kind": "cave",
-      "depthMinM": 5,
-      "depthMaxM": 100,
-      "level": "advanced",
-      "highlights": [
-        "walls",
-        "corals"
-      ],
-      "species": [
-        "Pseudanthias squamipinnis",
-        "Cephalopholis miniata"
-      ],
-      "exposure": "sheltered_west",
-      "description": {
-        "en": "Submarine sinkhole dropping over 100m straight down into deep blue water. The Saddle (7m) and outer coral wall are superb recreational dives, while The Arch (56m) is technical.",
-        "it": "Spettacolare dolina sottomarina circolare che sprofonda oltre 100m. La sella corallina a 7m e la parete esterna offrono immersioni ricreative mozzafiato."
-      },
-      "curated": true
-    },
-    {
-      "id": "redsea-dahab-the-canyon",
-      "name": {
-        "en": "The Canyon",
-        "it": "Il Canyon di Dahab"
-      },
-      "region": "Egypt - Sinai (Dahab)",
-      "countryCode": "EG",
-      "latitude": 28.555,
-      "longitude": 34.52,
-      "kind": "cave",
-      "depthMinM": 15,
-      "depthMaxM": 32,
-      "level": "intermediate",
-      "highlights": [
-        "caves",
-        "walls"
-      ],
-      "species": [
-        "Heteroconger hassi",
-        "Octopus cyanea"
-      ],
-      "exposure": "sheltered_west",
-      "description": {
-        "en": "Deep subterranean fissure in the reef lagoon. Divers descend through a narrow opening into a cavern lit by ethereal sunlight shafts.",
-        "it": "Fessura sottomarina che penetra all'interno della scogliera corallina. Si scende in una caverna illuminata da fasci di luce eterea con pesci vetro."
-      },
-      "curated": true
-    },
-    {
-      "id": "redsea-ras-mohammed-shark-yolanda",
-      "name": {
-        "en": "Shark & Yolanda Reef",
-        "it": "Shark & Yolanda Reef (Ras Mohammed)"
-      },
-      "region": "Egypt - Ras Mohammed National Park",
-      "countryCode": "EG",
-      "latitude": 27.7257,
-      "longitude": 34.2587,
-      "kind": "reef",
-      "depthMinM": 10,
-      "depthMaxM": 40,
-      "level": "intermediate",
-      "highlights": [
-        "corals",
-        "sharks",
-        "wreck",
-        "drift"
-      ],
-      "species": [
-        "Carcharhinus amblyrhynchos",
-        "Sphyrna lewini",
-        "Tridacna gigas"
-      ],
-      "exposure": "exposed_all",
-      "description": {
-        "en": "Two coral pinnacles connected by a saddle dropping into an 800m abyss. Drift dive with pelagic sharks, massive schools of snappers, and the quirky Yolanda toilet cargo wreck.",
-        "it": "Pinnacoli corallini che precipitano negli abissi a 800m all'estremità del Sinai. Squali grigi, enormi banchi di carangidi e il carico di sanitari del relitto Yolanda."
-      },
-      "curated": true
-    },
-    {
-      "id": "redsea-elphinstone-reef",
-      "name": {
-        "en": "Elphinstone Reef",
-        "it": "Scogliera di Elphinstone (Marsa Alam)"
-      },
-      "region": "Egypt - Marsa Alam",
-      "countryCode": "EG",
-      "latitude": 25.3092,
-      "longitude": 34.8607,
-      "kind": "reef",
-      "depthMinM": 10,
-      "depthMaxM": 40,
-      "level": "advanced",
-      "highlights": [
-        "sharks",
-        "walls",
-        "drift"
-      ],
-      "species": [
-        "Carcharhinus longimanus",
-        "Sphyrna mokarran",
-        "Manta alfredi"
-      ],
-      "exposure": "exposed_all",
-      "description": {
-        "en": "Famous solitary offshore reef with sheer vertical drop-offs. Renowned worldwide for oceanic whitetip shark encounters and schooling hammerheads.",
-        "it": "Barriera isolata in mare aperto con pareti verticali a strapiombo, famosa nel mondo per gli incontri ravvicinati con squali oceanici pinna bianca e martello."
-      },
-      "curated": true
-    },
-    {
-      "id": "redsea-sudan-umbria-wreck",
-      "name": {
-        "en": "SS Umbria Shipwreck",
-        "it": "Relitto Piroscafo Umbria (Wingate Reef)",
-        "ar": "أومبريا"
-      },
-      "region": "Sudan - Port Sudan (Wingate Reef)",
-      "countryCode": "SD",
-      "latitude": 19.636,
-      "longitude": 37.291,
-      "kind": "wreck",
-      "depthMinM": 5,
-      "depthMaxM": 36,
-      "level": "intermediate",
-      "highlights": [
-        "wreck",
         "history"
       ],
+      "exposure": "offshore",
       "species": [
-        "Carcharhinus albimarginatus",
+        "Caranx ignobilis",
+        "Platax teira",
         "Epinephelus tukula"
       ],
-      "exposure": "sheltered_all",
       "description": {
-        "en": "Italian WWII supply ship scuttled by its captain in 1940 to avoid British capture. Holds contain 360,000 aircraft bombs, Fiat 1100 cars, and wine bottles, completely undisturbed.",
-        "it": "Nave italiana autoaffondata dal comandante nel 1940 per non cedere il carico agli inglesi. Le stive contengono intatte 360.000 bombe aeronautiche, automobili Fiat e casse di vino."
+        "it": "Nave mercantile armata britannica affondata nel 1941 con carico bellico integro: moto BSA, autocarri Bedford, locomotive e munizioni.",
+        "en": "British armed merchant vessel sunk in 1941 carrying intact WWII cargo: BSA motorcycles, Bedford trucks, train locomotives, and munitions."
+      },
+      "curated": true
+    },
+    {
+      "id": "sataya-dolphin-reef",
+      "name": {
+        "it": "Sataya Dolphin Reef (Fury Shoals)",
+        "en": "Sataya Dolphin Reef (Fury Shoals)"
+      },
+      "latitude": 24.238,
+      "longitude": 35.295,
+      "countryCode": "EG",
+      "region": "red-sea",
+      "kind": "reef",
+      "depthMinM": 5,
+      "depthMaxM": 20,
+      "level": "beginner",
+      "highlights": [
+        "dolphins",
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Stenella longirostris",
+        "Chelonia mydas"
+      ],
+      "description": {
+        "it": "Laguna a ferro di cavallo protetta celebre in tutto il mondo per il branco stanziale di oltre 100 delfini stenella rotanti.",
+        "en": "Sheltered crescent reef famous worldwide for its resident pod of over 100 spinner dolphins and pristine gardens."
+      },
+      "curated": true
+    },
+    {
+      "id": "shaab-claudia-fury",
+      "name": {
+        "it": "Sha'ab Claudia (Fury Shoals)",
+        "en": "Sha'ab Claudia Caverns (Fury Shoals)"
+      },
+      "latitude": 24.168,
+      "longitude": 35.321,
+      "countryCode": "EG",
+      "region": "red-sea",
+      "kind": "cave",
+      "depthMinM": 8,
+      "depthMaxM": 22,
+      "level": "beginner",
+      "highlights": [
+        "caves",
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Cheilinus undulatus",
+        "Taeniura lymma"
+      ],
+      "description": {
+        "it": "Labirinto incantato di grotte sottomarine e camini di luce con fondo di sabbia bianca e giardini di corallo duro incontaminati.",
+        "en": "Enchanting labyrinth of interconnected caverns and light shafts opening into pristine hard coral gardens."
+      },
+      "curated": true
+    },
+    {
+      "id": "shaab-rumi-cousteau",
+      "name": {
+        "it": "Sha'ab Rumi & Precontinente II (Sudan)",
+        "en": "Sha'ab Rumi & Conshelf II (Sudan)"
+      },
+      "latitude": 19.932,
+      "longitude": 37.382,
+      "countryCode": "SD",
+      "region": "red-sea",
+      "kind": "reef",
+      "depthMinM": 10,
+      "depthMaxM": 35,
+      "level": "intermediate",
+      "highlights": [
+        "history",
+        "sharks",
+        "caves"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Carcharhinus amblyrhynchos",
+        "Triaenodon obesus"
+      ],
+      "description": {
+        "it": "Il villaggio sottomarino 'Précontinent II' costruito da Jacques-Yves Cousteau nel 1963, ancora visitabile insieme a banchi di squali.",
+        "en": "The futuristic underwater habitat 'Conshelf II' deployed by Jacques Cousteau in 1963, standing on reef flats surrounded by sharks."
+      },
+      "curated": true
+    },
+    {
+      "id": "shark-yolanda-ras-mohammed",
+      "name": {
+        "it": "Shark & Yolanda Reefs",
+        "en": "Shark & Yolanda Reefs (Ras Mohammed)"
+      },
+      "latitude": 27.728,
+      "longitude": 34.258,
+      "countryCode": "EG",
+      "region": "red-sea",
+      "kind": "reef",
+      "depthMinM": 10,
+      "depthMaxM": 45,
+      "level": "intermediate",
+      "highlights": [
+        "pelagic",
+        "corals",
+        "wreck"
+      ],
+      "exposure": "exposed",
+      "species": [
+        "Sphyraena barracuda",
+        "Caranx sexfasciatus",
+        "Carcharhinus amblyrhynchos"
+      ],
+      "description": {
+        "it": "La punta estrema del Sinai dove due golfi si incontrano: pareti verticali vertiginose, banchi di barracuda e il carico del relitto Yolanda.",
+        "en": "The southern tip of the Sinai where two gulfs meet: monumental drop-offs, massive fish schools, and the Yolanda wreck's cargo."
+      },
+      "curated": true
+    },
+    {
+      "id": "dahab-the-canyon",
+      "name": {
+        "it": "The Canyon (Dahab)",
+        "en": "The Canyon (Dahab)"
+      },
+      "latitude": 28.555,
+      "longitude": 34.521,
+      "countryCode": "EG",
+      "region": "red-sea",
+      "kind": "cave",
+      "depthMinM": 15,
+      "depthMaxM": 35,
+      "level": "intermediate",
+      "highlights": [
+        "caves"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Pterois volitans",
+        "Octopus cyanea"
+      ],
+      "description": {
+        "it": "Profonda fessura nella piattaforma corallina che si illumina con raggi di luce penetranti ed emozionanti passaggi a cupola.",
+        "en": "Deep fissure running through the coral table lit by cathedral-like light rays and cavernous dome chambers."
+      },
+      "curated": true
+    },
+    {
+      "id": "thomas-reef-tiran",
+      "name": {
+        "it": "Thomas Reef & Canyon",
+        "en": "Thomas Reef & Canyon (Tiran)"
+      },
+      "latitude": 27.986,
+      "longitude": 34.453,
+      "countryCode": "EG",
+      "region": "red-sea",
+      "kind": "wall",
+      "depthMinM": 12,
+      "depthMaxM": 45,
+      "level": "advanced",
+      "highlights": [
+        "drift",
+        "walls",
+        "caves"
+      ],
+      "exposure": "exposed",
+      "species": [
+        "Carcharhinus amblyrhynchos",
+        "Manta alfredi"
+      ],
+      "description": {
+        "it": "Immersione in forte corrente lungo una parete spettacolare che si apre su un profondo canyon sottomarino con archi naturali.",
+        "en": "High-adrenaline drift dive along an exposed reef featuring a legendary deep chasm bridged by natural arches."
       },
       "curated": true
     }

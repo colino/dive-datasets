@@ -1,71 +1,921 @@
 {
-  "id": "north-atlantic",
-  "title": "Atlantico Settentrionale & Relitti Freddi (North Atlantic & Cold Water)",
-  "description": "Le più spettacolari immersioni in acque fredde e limpide: la Faglia di Silfra in Islanda (tra placche tettoniche con 100m di visibilità), la flotta navale WWI di Scapa Flow in Scozia e i relitti di Narvik in Norvegia.",
-  "bbox": [
-    -22.0,
-    58.0,
-    18.0,
-    68.5
-  ],
-  "count": 2,
+  "catalog": "north-atlantic",
   "sites": [
     {
-      "id": "north-iceland-silfra-fissure",
+      "id": "diverout-es-acuario",
       "name": {
-        "en": "Silfra Fissure (Thingvellir)",
-        "it": "Faglia di Silfra (Islanda)",
-        "is": "Silfra"
+        "it": "Acuario",
+        "en": "Acuario"
       },
-      "region": "Iceland - Thingvellir National Park",
-      "countryCode": "IS",
-      "latitude": 64.2558,
-      "longitude": -21.1215,
-      "kind": "cave",
-      "depthMinM": 7,
-      "depthMaxM": 18,
+      "latitude": 28.1842,
+      "longitude": -16.8229,
+      "countryCode": "ES",
+      "region": "north-atlantic",
+      "kind": "reef",
+      "depthMinM": 6,
+      "depthMaxM": 26,
       "level": "intermediate",
       "highlights": [
-        "walls",
-        "caves"
+        "corals"
       ],
+      "exposure": "sheltered",
       "species": [
-        "Salvelinus alpinus",
-        "Freshwater bryophytes"
+        "Epinephelus marginatus",
+        "Octopus vulgaris",
+        "Sparisoma cretense",
+        "Chelonia mydas"
       ],
-      "exposure": "sheltered_all",
       "description": {
-        "en": "Dive directly between the North American and Eurasian tectonic plates. Glacial meltwater filtered for decades through lava fields yields unmatched 100m+ water visibility (2-4°C drysuit dive).",
-        "it": "Immersione unica al mondo nella spaccatura tra le placche tettoniche nordamericana ed eurasiatica. Acqua di ghiacciaio purificata per decenni con oltre 100 metri di visibilità."
+        "it": "Situato al largo della costa sud-occidentale di Tenerife, Acuario presenta formazioni basaltiche vulcaniche che emergono da un fondale di sabbia chiara. La topografia combina archi rocciosi, piccoli strapiombi e passaggi subacquei in cui le specie marine si radunano in grandi concentrazioni, rendendo pieno merito al suo nome.",
+        "en": "Scenic dive site in ES known for pristine marine life and dramatic underwater formations."
       },
       "curated": true
     },
     {
-      "id": "north-scotland-scapa-flow-kronprinz",
+      "id": "diverout-es-alcala-reef",
       "name": {
-        "en": "SMS Kronprinz Wilhelm (Scapa Flow)",
-        "it": "Relitto Corazzata SMS Kronprinz Wilhelm (Scapa Flow)"
+        "it": "Alcala Reef",
+        "en": "Alcala Reef"
       },
-      "region": "United Kingdom - Scotland (Orkney Islands)",
-      "countryCode": "GB",
-      "latitude": 58.895,
-      "longitude": -3.17,
+      "latitude": 28.201,
+      "longitude": -16.8298,
+      "countryCode": "ES",
+      "region": "north-atlantic",
+      "kind": "reef",
+      "depthMinM": 6,
+      "depthMaxM": 26,
+      "level": "intermediate",
+      "highlights": [
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Epinephelus marginatus",
+        "Octopus vulgaris",
+        "Sparisoma cretense",
+        "Chelonia mydas"
+      ],
+      "description": {
+        "it": "Situato lungo la costa sudoccidentale di Tenerife, questo sito presenta lingue sommerse di basalto vulcanico, chiazze di sabbia e piccoli strapiombi rocciosi. I subacquei navigano tra gradoni e canaloni poco profondi, dove la fauna marina trova riparo dal moto ondoso dell'Atlantico. La conformazione offre un percorso naturale che conduce dalle rocce costiere riparate verso le pianure sabbiose aperte, dove le razze si nutrono.",
+        "en": "Scenic dive site in ES known for pristine marine life and dramatic underwater formations."
+      },
+      "curated": true
+    },
+    {
+      "id": "diverout-es-atlantis",
+      "name": {
+        "it": "Atlantis",
+        "en": "Atlantis"
+      },
+      "latitude": 28.247,
+      "longitude": -16.8485,
+      "countryCode": "ES",
+      "region": "north-atlantic",
+      "kind": "reef",
+      "depthMinM": 6,
+      "depthMaxM": 26,
+      "level": "intermediate",
+      "highlights": [
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Epinephelus marginatus",
+        "Octopus vulgaris",
+        "Sparisoma cretense",
+        "Chelonia mydas"
+      ],
+      "description": {
+        "it": "Atlantis è un sito vulcanico al largo situato lungo la costa sud-occidentale di Tenerife. L'attrazione principale è costituita da una serie di suggestive colonne di basalto prismatico e blocchi di lava fratturati che ricordano un'antica città sommersa. I subacquei possono esplorare ampi passaggi naturali, strapiombi e profondi canaloni sabbiosi incastonati tra imponenti formazioni rocciose.",
+        "en": "Scenic dive site in ES known for pristine marine life and dramatic underwater formations."
+      },
+      "curated": true
+    },
+    {
+      "id": "diverout-es-anaza",
+      "name": {
+        "it": "Añaza",
+        "en": "Añaza"
+      },
+      "latitude": 28.4206,
+      "longitude": -16.2919,
+      "countryCode": "ES",
+      "region": "north-atlantic",
+      "kind": "reef",
+      "depthMinM": 6,
+      "depthMaxM": 26,
+      "level": "intermediate",
+      "highlights": [
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Epinephelus marginatus",
+        "Octopus vulgaris",
+        "Sparisoma cretense",
+        "Chelonia mydas"
+      ],
+      "description": {
+        "it": "Situata lungo la costa sud-orientale di Tenerife, vicino a Santa Cruz, Añaza offre un classico paesaggio vulcanico delle Isole Canarie. Il fondale degrada da piattaforme rocciose poco profonde verso creste di basalto, lingue di lava solidificata e piccoli strapiombi, prima di cedere il passo alla sabbia aperta. Esplorando gli anfratti, i subacquei possono incontrare la tipica fauna marina macaronesica insieme a occasionali pelagici di passaggio al largo.",
+        "en": "Scenic dive site in ES known for pristine marine life and dramatic underwater formations."
+      },
+      "curated": true
+    },
+    {
+      "id": "diverout-es-bateas",
+      "name": {
+        "it": "BATEAS",
+        "en": "BATEAS"
+      },
+      "latitude": 42.3428,
+      "longitude": -8.7849,
+      "countryCode": "ES",
+      "region": "north-atlantic",
+      "kind": "reef",
+      "depthMinM": 6,
+      "depthMaxM": 26,
+      "level": "intermediate",
+      "highlights": [
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Epinephelus marginatus",
+        "Octopus vulgaris",
+        "Sparisoma cretense",
+        "Chelonia mydas"
+      ],
+      "description": {
+        "it": "Immergersi sotto le tradizionali piattaforme per la mitilicoltura delle rías galiziane offre una prospettiva unica sull'acquacoltura marina. Le pesanti cime sospese, incrostate di bivalvi, creano suggestive strutture verticali tra la superficie e il fondale. La luce filtra attraverso i grigliati in legno delle piattaforme, illuminando dense concentrazioni di invertebrati bentonici e novellame che trovano rifugio tra i filari di cozze.",
+        "en": "Scenic dive site in ES known for pristine marine life and dramatic underwater formations."
+      },
+      "curated": true
+    },
+    {
+      "id": "diverout-es-bahia-lila",
+      "name": {
+        "it": "Bahia Lila",
+        "en": "Bahia Lila"
+      },
+      "latitude": 27.7764,
+      "longitude": -15.7077,
+      "countryCode": "ES",
+      "region": "north-atlantic",
+      "kind": "reef",
+      "depthMinM": 6,
+      "depthMaxM": 26,
+      "level": "intermediate",
+      "highlights": [
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Epinephelus marginatus",
+        "Octopus vulgaris",
+        "Sparisoma cretense",
+        "Chelonia mydas"
+      ],
+      "description": {
+        "it": "Situata lungo la costa meridionale di Gran Canaria, Bahia Lila presenta una barriera vulcanica caratterizzata da sporgenze rocciose, piccole grotte e ampi pianori sabbiosi. La topografia offre riparo a diverse specie atlantiche, con terrazze vulcaniche che scendono verso zone sabbiose dove riposano frequentemente le razze. I subacquei possono esplorare passaggi naturali nella lava e anfratti lungo la dolce scarpata costiera.",
+        "en": "Scenic dive site in ES known for pristine marine life and dramatic underwater formations."
+      },
+      "curated": true
+    },
+    {
+      "id": "baixa-do-ambrosio-azores",
+      "name": {
+        "it": "Baixa do Ambrósio (Azzorre)",
+        "en": "Baixa do Ambrósio (Santa Maria, Azores)"
+      },
+      "latitude": 36.985,
+      "longitude": -25.075,
+      "countryCode": "PT",
+      "region": "north-atlantic",
+      "kind": "reef",
+      "depthMinM": 15,
+      "depthMaxM": 45,
+      "level": "intermediate",
+      "highlights": [
+        "rays",
+        "pelagic"
+      ],
+      "exposure": "offshore",
+      "species": [
+        "Mobula tarapacana",
+        "Pseudocaranx dentex"
+      ],
+      "description": {
+        "it": "Pinnacolo oceanico isolato al largo di Santa Maria, rinomato per l'osservazione di decine di mobule giganti (diavoli di mare).",
+        "en": "Isolated seamount off Santa Maria Island, world-renowned for swimming with dozens of sicklefin devil rays (Mobula tarapacana)."
+      },
+      "curated": true
+    },
+    {
+      "id": "diverout-es-baja-bocarones",
+      "name": {
+        "it": "Baja Bocarones",
+        "en": "Baja Bocarones"
+      },
+      "latitude": 27.6478,
+      "longitude": -17.9692,
+      "countryCode": "ES",
+      "region": "north-atlantic",
+      "kind": "reef",
+      "depthMinM": 6,
+      "depthMaxM": 26,
+      "level": "intermediate",
+      "highlights": [
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Epinephelus marginatus",
+        "Octopus vulgaris",
+        "Sparisoma cretense",
+        "Chelonia mydas"
+      ],
+      "description": {
+        "it": "Situata all'interno della riserva marina del Mar de las Calmas, al largo della punta meridionale di El Hierro, questa barriera vulcanica sommersa è caratterizzata da spettacolari gradoni di basalto e profonde fenditure. Grandi cernie brune pattugliano le sporgenze rocciose, mentre banchi di pesci pelagici volteggiano nel blu al largo della parete a strapiombo. Le correnti atlantiche lambiscono il versante esterno del pinnacolo, attirando razze e carangidi di passaggio.",
+        "en": "Scenic dive site in ES known for pristine marine life and dramatic underwater formations."
+      },
+      "curated": true
+    },
+    {
+      "id": "diverout-es-baja-de-arguineguin",
+      "name": {
+        "it": "Baja de Arguineguín",
+        "en": "Baja de Arguineguín"
+      },
+      "latitude": 27.7407,
+      "longitude": -15.6753,
+      "countryCode": "ES",
+      "region": "north-atlantic",
+      "kind": "reef",
+      "depthMinM": 6,
+      "depthMaxM": 26,
+      "level": "intermediate",
+      "highlights": [
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Epinephelus marginatus",
+        "Octopus vulgaris",
+        "Sparisoma cretense",
+        "Chelonia mydas"
+      ],
+      "description": {
+        "it": "Situata al largo della costa sud-occidentale di Gran Canaria, questa scogliera di roccia vulcanica sorge circondata da distese di sabbia aperta. I subacquei seguono il perimetro circolare della piattaforma rocciosa, dove anfratti e sporgenze scavate offrono riparo a grandi banchi di pesci e razze in sosta. Correnti moderate possono occasionalmente attraversare la sommità della scogliera, attirando predatori pelagici che pattugliano il ciglio del drop-off.",
+        "en": "Scenic dive site in ES known for pristine marine life and dramatic underwater formations."
+      },
+      "curated": true
+    },
+    {
+      "id": "princess-alice-azores",
+      "name": {
+        "it": "Banco Princess Alice (Azzorre)",
+        "en": "Princess Alice Bank (Azores)"
+      },
+      "latitude": 37.965,
+      "longitude": -29.315,
+      "countryCode": "PT",
+      "region": "north-atlantic",
+      "kind": "reef",
+      "depthMinM": 35,
+      "depthMaxM": 50,
+      "level": "technical",
+      "highlights": [
+        "rays",
+        "pelagic",
+        "sharks"
+      ],
+      "exposure": "offshore",
+      "species": [
+        "Mobula tarapacana",
+        "Galeocerdo cuvier",
+        "Thunnus thynnus"
+      ],
+      "description": {
+        "it": "Secca oceanica remota a 45 miglia dalla costa con mobule giganti, tonni e visibilità oceanica cristallina infinita.",
+        "en": "Remote mid-Atlantic ocean seamount 45 miles offshore with devil rays, pelagic fish, and breathtaking visibility."
+      },
+      "curated": true
+    },
+    {
+      "id": "diverout-es-barranco-seco-arch",
+      "name": {
+        "it": "Barranco Seco Arch",
+        "en": "Barranco Seco Arch"
+      },
+      "latitude": 28.2679,
+      "longitude": -16.8501,
+      "countryCode": "ES",
+      "region": "north-atlantic",
+      "kind": "reef",
+      "depthMinM": 6,
+      "depthMaxM": 26,
+      "level": "intermediate",
+      "highlights": [
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Epinephelus marginatus",
+        "Octopus vulgaris",
+        "Sparisoma cretense",
+        "Chelonia mydas"
+      ],
+      "description": {
+        "it": "Situato lungo le maestose scogliere vulcaniche di Los Gigantes, nella parte occidentale di Tenerife, Barranco Seco Arch presenta uno spettacolare arco di basalto che si erge dal fondale marino. I subacquei scendono lungo pareti verticali sommerse, immergendosi in un paesaggio di roccia vulcanica scura, massi sparsi e chiazze di sabbia adiacenti, dove trigoni e predatori bentonici amano sostare.",
+        "en": "Scenic dive site in ES known for pristine marine life and dramatic underwater formations."
+      },
+      "curated": true
+    },
+    {
+      "id": "diverout-es-blue-hole",
+      "name": {
+        "it": "Blue Hole",
+        "en": "Blue Hole"
+      },
+      "latitude": 28.9186,
+      "longitude": -13.6707,
+      "countryCode": "ES",
+      "region": "north-atlantic",
+      "kind": "reef",
+      "depthMinM": 6,
+      "depthMaxM": 26,
+      "level": "intermediate",
+      "highlights": [
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Epinephelus marginatus",
+        "Octopus vulgaris",
+        "Sparisoma cretense",
+        "Chelonia mydas"
+      ],
+      "description": {
+        "it": "Situata appena al largo di Playa Chica a Puerto del Carmen, Lanzarote, questa formazione vulcanica presenta un arco naturale che attraversa una parete di scogliera basaltica. I subacquei scendono lungo un fondale vulcanico in dolce pendenza prima di raggiungere la parete verticale e l'ingresso del tunnel. Attraversando l'apertura si svela uno spettacolare sfondo blu sulla parete esterna, dove le specie pelagiche costeggiano spesso il drop-off verso pianure sabbiose più profonde.",
+        "en": "Scenic dive site in ES known for pristine marine life and dramatic underwater formations."
+      },
+      "curated": true
+    },
+    {
+      "id": "diverout-es-bocacangrejo",
+      "name": {
+        "it": "Bocacangrejo",
+        "en": "Bocacangrejo"
+      },
+      "latitude": 28.4055,
+      "longitude": -16.314,
+      "countryCode": "ES",
+      "region": "north-atlantic",
+      "kind": "reef",
+      "depthMinM": 6,
+      "depthMaxM": 26,
+      "level": "intermediate",
+      "highlights": [
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Epinephelus marginatus",
+        "Octopus vulgaris",
+        "Sparisoma cretense",
+        "Chelonia mydas"
+      ],
+      "description": {
+        "it": "Situata lungo la costa rocciosa orientale di Tenerife, vicino al piccolo villaggio di Bocacangrejo, questa immersione esplora scogliere a terrazze di roccia vulcanica e canaloni sabbiosi in pendenza. Le sporgenze di basalto offrono rifugio alle murene, mentre le distese sabbiose aperte attirano razze e trigoni in cerca di cibo.",
+        "en": "Scenic dive site in ES known for pristine marine life and dramatic underwater formations."
+      },
+      "curated": true
+    },
+    {
+      "id": "diverout-es-bollullo",
+      "name": {
+        "it": "Bollullo",
+        "en": "Bollullo"
+      },
+      "latitude": 28.4218,
+      "longitude": -16.5238,
+      "countryCode": "ES",
+      "region": "north-atlantic",
+      "kind": "reef",
+      "depthMinM": 6,
+      "depthMaxM": 26,
+      "level": "intermediate",
+      "highlights": [
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Epinephelus marginatus",
+        "Octopus vulgaris",
+        "Sparisoma cretense",
+        "Chelonia mydas"
+      ],
+      "description": {
+        "it": "Situato lungo la frastagliata costa settentrionale di Tenerife, Bollullo è un punto d'immersione vulcanico al largo, caratterizzato da terrazzamenti di basalto, pareti a strapiombo e canali sabbiosi aperti. I subacquei esplorano un aspro paesaggio sottomarino modellato da antiche colate laviche, che oggi offre rifugio a creature macro e pelagici predatori. Poiché il sito è esposto all'Atlantico aperto, l'accesso dipende dal moto ondoso oceanico, rendendo le partenze in barca dalla vicina Puerto de la Cruz la via d'accesso standard.",
+        "en": "Scenic dive site in ES known for pristine marine life and dramatic underwater formations."
+      },
+      "curated": true
+    },
+    {
+      "id": "diverout-es-brain-cave-cueva-de-cerebros",
+      "name": {
+        "it": "Brain Cave (Cueva de Cerebros)",
+        "en": "Brain Cave (Cueva de Cerebros)"
+      },
+      "latitude": 28.1715,
+      "longitude": -16.8059,
+      "countryCode": "ES",
+      "region": "north-atlantic",
+      "kind": "cave",
+      "depthMinM": 6,
+      "depthMaxM": 26,
+      "level": "intermediate",
+      "highlights": [
+        "caves",
+        "macro"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Epinephelus marginatus",
+        "Octopus vulgaris",
+        "Sparisoma cretense",
+        "Chelonia mydas"
+      ],
+      "description": {
+        "it": "Situata lungo la costa occidentale e riparata di Tenerife, vicino a Playa San Juan, Cueva de Cerebros è un'affascinante caverna vulcanica che deve il suo nome alle dense colonie di spugne emisferiche che ne ricoprono l'interno roccioso. L'immersione inizia attraversando un pianoro roccioso aperto per poi condurre all'ampia imboccatura della caverna. All'interno, i subacquei navigano tra formazioni di basalto vulcanico dove la luce naturale penetra attraverso i punti di accesso, raggiungendo infine una camera interna a volta dove è possibile riemergere in una suggestiva sacca d'aria.",
+        "en": "Scenic dive site in ES known for pristine marine life and dramatic underwater formations."
+      },
+      "curated": true
+    },
+    {
+      "id": "diverout-es-cabo-udra",
+      "name": {
+        "it": "Cabo Udra",
+        "en": "Cabo Udra"
+      },
+      "latitude": 42.3376,
+      "longitude": -8.8392,
+      "countryCode": "ES",
+      "region": "north-atlantic",
+      "kind": "reef",
+      "depthMinM": 6,
+      "depthMaxM": 26,
+      "level": "intermediate",
+      "highlights": [
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Epinephelus marginatus",
+        "Octopus vulgaris",
+        "Sparisoma cretense",
+        "Chelonia mydas"
+      ],
+      "description": {
+        "it": "Situato sul promontorio esterno che separa la Ría de Pontevedra dalla Ría de Aldán, Cabo Udra vanta un aspro paesaggio granitico sommerso tipico della costa galiziana. Enormi massi arrotondati creano passaggi labirintici, stretti canaloni e ripari coperti da idroidi e anemoni. Nelle acque meno profonde, le foreste di kelp ondeggiano al ritmo del moto ondoso atlantico, per poi lasciare spazio a pareti rocciose dove prosperano gorgonie e fauna atlantica.",
+        "en": "Scenic dive site in ES known for pristine marine life and dramatic underwater formations."
+      },
+      "curated": true
+    },
+    {
+      "id": "narvik-hermann-kunne",
+      "name": {
+        "it": "Cacciatorpediniere Hermann Künne (Narvik)",
+        "en": "Hermann Künne Destroyer Wreck (Narvik, Norway)"
+      },
+      "latitude": 68.435,
+      "longitude": 17.412,
+      "countryCode": "NO",
+      "region": "north-atlantic",
       "kind": "wreck",
+      "depthMinM": 15,
+      "depthMaxM": 38,
+      "level": "intermediate",
+      "highlights": [
+        "wreck",
+        "history"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Anarhichas lupus",
+        "Gadus morhua"
+      ],
+      "description": {
+        "it": "Cacciatorpediniere tedesco silurato nelle battaglie artiche navali del 1940 a Narvik; cannoni, lanciasiluri e cabine accessibili.",
+        "en": "German WWII destroyer sunk during the 1940 naval battles of Narvik; accessible torpedo tubes, guns, and intact hull."
+      },
+      "curated": true
+    },
+    {
+      "id": "strytan-chimneys-iceland",
+      "name": {
+        "it": "Camini Idrotermali di Strýtan",
+        "en": "Strýtan Geothermal Chimneys (Iceland)"
+      },
+      "latitude": 65.832,
+      "longitude": -18.175,
+      "countryCode": "IS",
+      "region": "north-atlantic",
+      "kind": "reef",
+      "depthMinM": 15,
+      "depthMaxM": 40,
+      "level": "advanced",
+      "highlights": [
+        "caves",
+        "history"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Anarhichas lupus",
+        "Cyclopterus lumpus"
+      ],
+      "description": {
+        "it": "Gli unici camini idrotermali al mondo raggiungibili a profondità ricreativa: guglie calcaree che emettono acqua termale a 70°C.",
+        "en": "The only shallow geothermal chimneys on Earth reachable by scuba divers, venting freshwater at 70°C."
+      },
+      "curated": true
+    },
+    {
+      "id": "saltstraumen-norway",
+      "name": {
+        "it": "Corrente di Saltstraumen (Norvegia)",
+        "en": "Saltstraumen Maelstrom (Bodø, Norway)"
+      },
+      "latitude": 67.235,
+      "longitude": 14.622,
+      "countryCode": "NO",
+      "region": "north-atlantic",
+      "kind": "wall",
+      "depthMinM": 10,
+      "depthMaxM": 30,
+      "level": "advanced",
+      "highlights": [
+        "drift",
+        "walls"
+      ],
+      "exposure": "exposed",
+      "species": [
+        "Gadus morhua",
+        "Anarhichas lupus",
+        "Urticina felina"
+      ],
+      "description": {
+        "it": "La corrente tidale più potente al mondo con gorghi sottomarini spettacolari e pareti ricoperte da enormi anemoni e merluzzi atlantici.",
+        "en": "The world's strongest tidal current with thrilling drift dives along vertical walls carpeted in giant sea anemones."
+      },
+      "curated": true
+    },
+    {
+      "id": "afonso-cerqueira-madeira",
+      "name": {
+        "it": "Corvetta Afonso Cerqueira (Madeira)",
+        "en": "Afonso Cerqueira Corvette Wreck (Madeira)"
+      },
+      "latitude": 32.648,
+      "longitude": -17.008,
+      "countryCode": "PT",
+      "region": "north-atlantic",
+      "kind": "wreck",
+      "depthMinM": 18,
+      "depthMaxM": 32,
+      "level": "intermediate",
+      "highlights": [
+        "wreck"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Epinephelus marginatus",
+        "Serranus atricauda"
+      ],
+      "description": {
+        "it": "Nave da guerra della marina portoghese affondata nel 2018 nel Parco Marino di Cabo Girão; cannone di prua e sale radio intatte.",
+        "en": "Portuguese navy warship scuttled in 2018 in Cabo Girão Marine Park; intact bow artillery and bridge."
+      },
+      "curated": true
+    },
+    {
+      "id": "silfra-fissure-iceland",
+      "name": {
+        "it": "Faglia di Silfra (Islanda)",
+        "en": "Silfra Fissure (Thingvellir, Iceland)"
+      },
+      "latitude": 64.2555,
+      "longitude": -21.118,
+      "countryCode": "IS",
+      "region": "north-atlantic",
+      "kind": "wall",
+      "depthMinM": 8,
+      "depthMaxM": 18,
+      "level": "intermediate",
+      "highlights": [
+        "walls",
+        "history"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Salvelinus alpinus"
+      ],
+      "description": {
+        "it": "Spaccatura tettonica tra le placche continentali nordamericana ed eurasiatica con visibilità record oltre 100 metri in acque glaciali pure a 2°C.",
+        "en": "Tectonic fissure between the North American and Eurasian continental plates offering legendary 100m+ crystal visibility at 2°C."
+      },
+      "curated": true
+    },
+    {
+      "id": "farne-islands-seals",
+      "name": {
+        "it": "Farne Islands - Foche Grigie",
+        "en": "Farne Islands Grey Seals (Northumberland, UK)"
+      },
+      "latitude": 55.618,
+      "longitude": -1.635,
+      "countryCode": "GB",
+      "region": "north-atlantic",
+      "kind": "reef",
+      "depthMinM": 8,
+      "depthMaxM": 20,
+      "level": "beginner",
+      "highlights": [
+        "pelagic"
+      ],
+      "exposure": "exposed",
+      "species": [
+        "Halichoerus grypus",
+        "Laminaria hyperborea"
+      ],
+      "description": {
+        "it": "Colonia di migliaia di foche grigie atlantiche curiose e giocose che nuotano a stretto contatto con i subacquei tra le foreste di kelp.",
+        "en": "Thousands of playful, curious Atlantic grey seals interacting with divers among dense kelp forests."
+      },
+      "curated": true
+    },
+    {
+      "id": "la-burrera-la-graciosa",
+      "name": {
+        "it": "La Burrera (Riserva Marina La Graciosa)",
+        "en": "La Burrera (La Graciosa, Canary Islands)"
+      },
+      "latitude": 29.235,
+      "longitude": -13.548,
+      "countryCode": "ES",
+      "region": "north-atlantic",
+      "kind": "wall",
+      "depthMinM": 15,
+      "depthMaxM": 32,
+      "level": "advanced",
+      "highlights": [
+        "walls",
+        "pelagic"
+      ],
+      "exposure": "exposed",
+      "species": [
+        "Epinephelus marginatus",
+        "Seriola dumerili",
+        "Serranus atricauda"
+      ],
+      "description": {
+        "it": "Il paesaggio vulcanico più selvaggio delle Canarie: labirinto di basalto, archi e grandi cernie brune in forte corrente.",
+        "en": "The wildest volcanic seascape in the Canaries: basalt labyrinths, arches, and colossal dusky groupers in strong currents."
+      },
+      "curated": true
+    },
+    {
+      "id": "museo-atlantico-lanzarote",
+      "name": {
+        "it": "Museo Atlántico (Lanzarote)",
+        "en": "Museo Atlántico (Lanzarote, Canary Islands)"
+      },
+      "latitude": 28.852,
+      "longitude": -13.825,
+      "countryCode": "ES",
+      "region": "north-atlantic",
+      "kind": "reef",
       "depthMinM": 12,
+      "depthMaxM": 15,
+      "level": "beginner",
+      "highlights": [
+        "history",
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Squatina squatina",
+        "Taeniura grabata"
+      ],
+      "description": {
+        "it": "Il primo museo sottomarino d'Europa con oltre 300 sculture di Jason deCaires Taylor progettate come barriera ecologica.",
+        "en": "Europe's first underwater art museum featuring over 300 human sculptures by Jason deCaires Taylor acting as an artificial reef."
+      },
+      "curated": true
+    },
+    {
+      "id": "dori-wreck-azores",
+      "name": {
+        "it": "Relitto Dori (São Miguel, Azzorre)",
+        "en": "Dori Liberty Ship Wreck (Azores)"
+      },
+      "latitude": 37.735,
+      "longitude": -25.648,
+      "countryCode": "PT",
+      "region": "north-atlantic",
+      "kind": "wreck",
+      "depthMinM": 10,
+      "depthMaxM": 20,
+      "level": "beginner",
+      "highlights": [
+        "wreck",
+        "history"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Epinephelus marginatus",
+        "Pseudocaranx dentex"
+      ],
+      "description": {
+        "it": "Liberty ship americana da 130m affondata nel 1964; parco archeologico sottomarino accessibile popolato da cernie e polpi.",
+        "en": "130m American WWII Liberty ship sunk in 1964, now an official subsea archaeological park teeming with coastal fish."
+      },
+      "curated": true
+    },
+    {
+      "id": "el-cabron-gran-canaria",
+      "name": {
+        "it": "Riserva Marina El Cabrón (Gran Canaria)",
+        "en": "El Cabrón Marine Reserve (Gran Canaria)"
+      },
+      "latitude": 27.868,
+      "longitude": -15.385,
+      "countryCode": "ES",
+      "region": "north-atlantic",
+      "kind": "reef",
+      "depthMinM": 12,
+      "depthMaxM": 30,
+      "level": "beginner",
+      "highlights": [
+        "caves",
+        "sharks"
+      ],
+      "exposure": "exposed",
+      "species": [
+        "Squatina squatina",
+        "Gymnothorax bacalladoi",
+        "Serranus atricauda"
+      ],
+      "description": {
+        "it": "Archi vulcanici, camini e grotte popolate da squali angelo (angelshark), razze farfalla e banchi di carangidi delle Canarie.",
+        "en": "Volcanic arches and caverns famous for regular encounters with endangered angelsharks and butterfly rays."
+      },
+      "curated": true
+    },
+    {
+      "id": "garajau-reserve-madeira",
+      "name": {
+        "it": "Riserva Naturale di Garajau (Madeira)",
+        "en": "Garajau Marine Reserve (Madeira)"
+      },
+      "latitude": 32.635,
+      "longitude": -16.852,
+      "countryCode": "PT",
+      "region": "north-atlantic",
+      "kind": "reef",
+      "depthMinM": 10,
+      "depthMaxM": 35,
+      "level": "beginner",
+      "highlights": [
+        "corals",
+        "pelagic"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Epinephelus marginatus",
+        "Taeniura grabata",
+        "Manta birostris"
+      ],
+      "description": {
+        "it": "Riserva marina protetta dal 1986, rinomata per le enormi cernie brune stanziali che accompagnano con curiosità i subacquei.",
+        "en": "Protected marine reserve since 1986, famous for gigantic, friendly dusky groupers that closely shadow divers."
+      },
+      "curated": true
+    },
+    {
+      "id": "scapa-flow-kronprinz",
+      "name": {
+        "it": "SMS Kronprinz Wilhelm (Scapa Flow)",
+        "en": "SMS Kronprinz Wilhelm (Scapa Flow)"
+      },
+      "latitude": 58.892,
+      "longitude": -3.172,
+      "countryCode": "GB",
+      "region": "north-atlantic",
+      "kind": "wreck",
+      "depthMinM": 22,
       "depthMaxM": 38,
       "level": "advanced",
       "highlights": [
         "wreck",
         "history"
       ],
+      "exposure": "sheltered",
       "species": [
-        "Cancer pagurus",
-        "Conger conger"
+        "Metridium senile",
+        "Cancer pagurus"
       ],
-      "exposure": "sheltered_all",
       "description": {
-        "en": "Massive 25,000-ton German Kaiser-class dreadnought battleship scuttled in 1919. Sits inverted at 38m with 12-inch main battery guns still aiming out from the seabed.",
-        "it": "Gigantesca corazzata da battaglia tedesca di 25.000 tonnellate autoaffondata nel 1919. Poggia capovolta a 38m con i colossali cannoni da 305mm ancora puntati nel fondale."
+        "it": "Nave da battaglia tedesca della prima guerra mondiale con cannoni da 305mm orientati verso il fondale, ricoperta di anemoni piumati.",
+        "en": "WWI German battleship with 12-inch main turrets visible, heavily colonized by plumose sea anemones."
+      },
+      "curated": true
+    },
+    {
+      "id": "scapa-flow-markgraf",
+      "name": {
+        "it": "SMS Markgraf (Scapa Flow)",
+        "en": "SMS Markgraf Battleship (Scapa Flow, Scotland)"
+      },
+      "latitude": 58.895,
+      "longitude": -3.165,
+      "countryCode": "GB",
+      "region": "north-atlantic",
+      "kind": "wreck",
+      "depthMinM": 35,
+      "depthMaxM": 45,
+      "level": "technical",
+      "highlights": [
+        "wreck",
+        "history"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Homarus gammarus",
+        "Metridium senile"
+      ],
+      "description": {
+        "it": "Corazzata da battaglia imperiale tedesca da 25.000 tonnellate della classe König autoaffondata nel 1919; relitto monumentale.",
+        "en": "Colossal 25,000-ton German Kaiserliche Marine battleship scuttled in 1919, resting upside down with colossal hull plates."
+      },
+      "curated": true
+    },
+    {
+      "id": "the-manacles-cornwall",
+      "name": {
+        "it": "The Manacles Reef (Cornovaglia)",
+        "en": "The Manacles Reef (Cornwall, UK)"
+      },
+      "latitude": 50.048,
+      "longitude": -5.048,
+      "countryCode": "GB",
+      "region": "north-atlantic",
+      "kind": "reef",
+      "depthMinM": 12,
+      "depthMaxM": 35,
+      "level": "intermediate",
+      "highlights": [
+        "wreck",
+        "corals"
+      ],
+      "exposure": "exposed",
+      "species": [
+        "Corynactis viridis",
+        "Palinurus elephas"
+      ],
+      "description": {
+        "it": "Scogliera leggendaria con oltre 100 relitti storici affondati nei secoli, ricoperta da pareti sfolgoranti di anemoni gioiello.",
+        "en": "Treacherous reef system holding over 100 historic shipwrecks, blanketed in vivid fluorescent jewel anemones."
+      },
+      "curated": true
+    },
+    {
+      "id": "diverout-es-abades-bay",
+      "name": {
+        "it": "abades bay",
+        "en": "abades bay"
+      },
+      "latitude": 28.1428,
+      "longitude": -16.44,
+      "countryCode": "ES",
+      "region": "north-atlantic",
+      "kind": "reef",
+      "depthMinM": 6,
+      "depthMaxM": 26,
+      "level": "intermediate",
+      "highlights": [
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Epinephelus marginatus",
+        "Octopus vulgaris",
+        "Sparisoma cretense",
+        "Chelonia mydas"
+      ],
+      "description": {
+        "it": "Situata lungo la costa sud-orientale di Tenerife, la Baia di Abades offre un ingresso da riva calmo e accessibile lungo una spiaggia sabbiosa che degrada dolcemente. Barriere rocciose vulcaniche si estendono su entrambi i lati della baia, conducendo verso distese di prateria sottomarina dove si radunano varie specie bentoniche. Il sito rappresenta un punto di riferimento per corsi subacquei e immersioni notturne grazie alla sua conformazione riparata e alla navigazione semplice.",
+        "en": "Scenic dive site in ES known for pristine marine life and dramatic underwater formations."
       },
       "curated": true
     }

@@ -1,40 +1,42 @@
 {
   "type": "FeatureCollection",
-  "name": "Triangolo dei Coralli & Sud-Est Asiatico (Coral Triangle & SE Asia)",
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          130.675,
-          -0.556
+          123.9853,
+          10.2604
         ]
       },
       "properties": {
-        "id": "coraltri-raja-ampat-cape-kri",
-        "name": "Cape Kri",
-        "name_it": "Cape Kri (Raja Ampat)",
-        "region": "Indonesia - West Papua (Raja Ampat)",
-        "countryCode": "ID",
+        "id": "diverout-ph-7-seas-reef",
+        "name": {
+          "it": "7 Seas Reef",
+          "en": "7 Seas Reef"
+        },
+        "countryCode": "PH",
+        "region": "coral-triangle",
         "kind": "reef",
-        "depthMinM": 5,
-        "depthMaxM": 35,
+        "depthMinM": 6,
+        "depthMaxM": 26,
         "level": "intermediate",
-        "exposure": "exposed_all",
         "highlights": [
-          "corals",
-          "sharks",
-          "mantas",
-          "drift"
+          "corals"
         ],
+        "exposure": "sheltered",
         "species": [
-          "Eretmochelys imbricata",
-          "Triaenodon obesus",
-          "Caranx sexfasciatus"
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
         ],
-        "description_en": "Holds the world record for the highest number of fish species counted on a single dive (374 species!). Explosive marine life, giant trevallies, reef sharks, and pristine coral reef.",
-        "description_it": "Detiene il record mondiale per il maggior numero di specie di pesci contate in una singola immersione (374 specie!). Coralli intatti, banchi fitti di carangidi e squali di barriera."
+        "description": {
+          "it": "Situato lungo la costa sud-orientale dell'isola di Mactan di fronte al Canale di Hilutungan, 7 Seas Reef presenta una piattaforma corallina poco profonda che degrada in una ripida parete. Il pendio di corallo e i tratti verticali ospitano numerosi soggetti macro tra gorgonie, spugne e formazioni di corallo duro. Mentre il pianoro poco profondo offre condizioni tranquille ideali per corsi e immersioni di controllo, la parete più profonda espone i subacquei alle correnti che scorrono tra Mactan e l'isola di Olango.",
+          "en": "Scenic dive site in PH known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
       }
     },
     {
@@ -42,34 +44,4556 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          119.61,
-          -8.545
+          99.3056,
+          6.4967
         ]
       },
       "properties": {
-        "id": "coraltri-komodo-batu-bolong",
-        "name": "Batu Bolong (Hollow Rock)",
-        "name_it": "Batu Bolong (Parco Nazionale di Komodo)",
-        "region": "Indonesia - Komodo National Park",
+        "id": "diverout-th-adang-beach-north",
+        "name": {
+          "it": "Adang Beach North",
+          "en": "Adang Beach North"
+        },
+        "countryCode": "TH",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato lungo la costa settentrionale di Koh Adang, all'interno del Parco Nazionale Marino di Tarutao, questo sito presenta una barriera corallina costiera riparata che degrada da giardini di corallo poco profondi fino a un fondale sabbioso. I massi di granito sparsi lungo la barriera creano microhabitat per creature bentoniche e pesci giovani. Le condizioni calme lo rendono una scelta frequente per immersioni mattutine rilassanti e sessioni di addestramento partendo dalla vicina Koh Lipe.",
+          "en": "Scenic dive site in TH known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.3033,
+          6.5057
+        ]
+      },
+      "properties": {
+        "id": "diverout-th-adang-beach-south",
+        "name": {
+          "it": "Adang Beach South",
+          "en": "Adang Beach South"
+        },
+        "countryCode": "TH",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato lungo la costa meridionale di Koh Adang, affacciato sullo stretto verso Koh Lipe, questo sito presenta una barriera corallina costiera digradante composta da grandi formazioni di corallo Porites, distese di corallo corna di cervo e canali sabbiosi. La piattaforma corallina poco profonda lascia spazio a un pendio costante dove creature macro e banchi di pesci di barriera si radunano attorno a massi sparsi. Il flusso di marea che attraversa il canale tra le isole può generare condizioni di corrente intermittenti, sebbene il sito offra generalmente un profilo calmo, ideale per immersioni rilassanti e corsi di addestramento.",
+          "en": "Scenic dive site in TH known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.3259,
+          6.5502
+        ]
+      },
+      "properties": {
+        "id": "diverout-th-adang-corner",
+        "name": {
+          "it": "Adang Corner",
+          "en": "Adang Corner"
+        },
+        "countryCode": "TH",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Adang Corner si trova al largo della costa rocciosa di Koh Adang, all'interno del Tarutao National Marine Park. Enormi massi di granito degradano verso un fondale sabbioso, creando corridoi naturali e passaggi ricoperti di coralli molli variopinti, crinoidi e gorgonie. Il moto ondoso e le correnti possono mutare rapidamente attorno al promontorio, attirando pelagici di passaggio mentre i fotografi macro esplorano gli anfratti della barriera corallina.",
+          "en": "Scenic dive site in TH known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.996,
+          10.2772
+        ]
+      },
+      "properties": {
+        "id": "diverout-ph-agus-bay",
+        "name": {
+          "it": "Agus Bay",
+          "en": "Agus Bay"
+        },
+        "countryCode": "PH",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato lungo la costa sud-orientale dell'isola di Mactan di fronte al canale di Hilutungan, questo sito presenta una piattaforma corallina costiera che scende ripida in una parete di corallo verticale. I subacquei scivolano in corrente tra formazioni coralline, spugne e gorgonie aggrappate alla parete, scrutando tra gli anfratti alla ricerca di piccole creature macro.",
+          "en": "Scenic dive site in PH known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.3696,
+          9.9925
+        ]
+      },
+      "properties": {
+        "id": "diverout-ph-airplane-wreck",
+        "name": {
+          "it": "Airplane Wreck",
+          "en": "Airplane Wreck"
+        },
+        "countryCode": "PH",
+        "region": "coral-triangle",
+        "kind": "wreck",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "wreck",
+          "history"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Adagiato capovolto su un dolce pendio sabbioso al largo di Moalboal, questo piccolo aereo bimotore è stato affondato intenzionalmente per creare una barriera corallina artificiale. La struttura metallica si è trasformata in un micro-habitat colonizzato da spugne, coralli molli e novellame in cerca di riparo. I subacquei spesso abbinano l'immersione sul relitto al vicino pendio corallino, esplorando la fusoliera prima di lasciarsi trasportare lungo la parete.",
+          "en": "Scenic dive site in PH known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.9735,
+          11.9868
+        ]
+      },
+      "properties": {
+        "id": "diverout-ph-akitsushima",
+        "name": {
+          "it": "Akitsushima",
+          "en": "Akitsushima"
+        },
+        "countryCode": "PH",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "La IJN Akitsushima è una delle poche navi appoggio idrovolanti appositamente costruite affondate durante la Seconda Guerra Mondiale, adagiata sul lato di babordo nella baia di Coron. Commissionata dalla Marina Imperiale Giapponese per fornire supporto ai grandi idrovolanti da ricognizione, la nave fu colpita da aerei statunitensi durante gli attacchi aerei del settembre 1944. La sua imponente gru di poppa da tre tonnellate giace distesa sul fondale sabbioso, mentre lo scafo squarciato rivela macchinari pesanti, postazioni per cannoni antiaerei e vani motore multipiano che attirano appassionati di immersioni su relitti da tutto il mondo.",
+          "en": "Scenic dive site in PH known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5999,
+          -8.2795
+        ]
+      },
+      "properties": {
+        "id": "diverout-id-alam-anda",
+        "name": {
+          "it": "Alam anda ",
+          "en": "Alam anda "
+        },
         "countryCode": "ID",
-        "kind": "pinnacle",
-        "depthMinM": 5,
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situata lungo la tranquilla costa nord-orientale di Bali, di fronte a Sambirenteng, questa house reef presenta un fondale vulcanico in dolce pendenza intervallato da formazioni coralline naturali e strutture di barriera artificiale. Stupa in cemento, statue e piccole strutture sommerse si sono trasformati in ricchi habitat per creature macro e banchi di pesci di barriera. L'ingresso per i subacquei avviene direttamente dalla spiaggia di ciottoli o tramite le tradizionali imbarcazioni jukung locali, attraversando tratti di sabbia nera verso il margine più profondo della scogliera.",
+          "en": "Scenic dive site in ID known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6632,
+          12.4295
+        ]
+      },
+      "properties": {
+        "id": "diverout-th-alhambra-rock",
+        "name": {
+          "it": "Alhambra Rock",
+          "en": "Alhambra Rock"
+        },
+        "countryCode": "TH",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Alhambra Rock è un pinnacolo sommerso isolato al largo nel Golfo orientale della Thailandia, che si eleva da un fondale sabbioso verso la superficie. Trovandosi lontano dalla costa di Rayong senza masse terrestri a proteggerlo, funge da punto di aggregazione principale per predatori pelagici e densi banchi di pesce foraggio. La struttura di massi granitici presenta pareti ripide ricoperte di fruste di mare, coralli molli e imponenti spugne a barile.",
+          "en": "Scenic dive site in TH known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.663,
+          12.4258
+        ]
+      },
+      "properties": {
+        "id": "diverout-th-alhambra-rock-rayong",
+        "name": {
+          "it": "Alhambra Rock Rayong",
+          "en": "Alhambra Rock Rayong"
+        },
+        "countryCode": "TH",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Alhambra Rock è un pinnacolo sommerso al largo che si erge da un fondale sabbioso a sud dell'arcipelago di Koh Samet, a Rayong. Poiché questa formazione granitica si trova isolata in mare aperto, funge da polo d'attrazione per banchi di specie pelagiche e pesci di barriera. Grandi massi di granito creano passaggi nuotabili, strapiombi e anfratti ricoperti di anemoni di mare, gorgonie ramificate e spugne incrostanti.",
+          "en": "Scenic dive site in TH known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9732,
+          13.5245
+        ]
+      },
+      "properties": {
+        "id": "diverout-ph-alma-jane",
+        "name": {
+          "it": "Alma Jane",
+          "en": "Alma Jane"
+        },
+        "countryCode": "PH",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Affondata intenzionalmente nel 2003 al largo di Sabang Beach, questa nave da carico con scafo in acciaio giace in posizione eretta su un fondale sabbioso. La struttura si è trasformata in un ricco reef artificiale, offrendo ampi passaggi per il nuoto attraverso la stiva di carico e la timoneria. Grandi banchi di pesci trovano riparo all'interno della sovrastruttura, mentre predatori pelagici incrociano regolarmente nel mare aperto sopra gli alberi della nave.",
+          "en": "Scenic dive site in PH known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.7711,
+          9.5457
+        ]
+      },
+      "properties": {
+        "id": "diverout-ph-alona-beach-house-reef",
+        "name": {
+          "it": "Alona Beach House Reef",
+          "en": "Alona Beach House Reef"
+        },
+        "countryCode": "PH",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situata proprio di fronte alla principale fascia turistica di Panglao Island, l'house reef di Alona Beach inizia come un pianoro sabbioso poco profondo, costellato di praterie marine e formazioni coralline, prima di superare la cresta del reef e scendere lungo un ripido pendio e una parete. I subacquei scelgono spesso questo sito per check-dive, corsi di aggiornamento e immersioni notturne. Gli anfratti e le gorgonie lungo il drop-off ospitano una ricca varietà di creature macro, insieme a tartarughe marine verdi intente a nutrirsi.",
+          "en": "Scenic dive site in PH known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.8226,
+          10.0901
+        ]
+      },
+      "properties": {
+        "id": "diverout-th-alotmeant-coral-restoration-project",
+        "name": {
+          "it": "AlotMeant - Coral Restoration Project",
+          "en": "AlotMeant - Coral Restoration Project"
+        },
+        "countryCode": "TH",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "AlotMeant è una barriera corallina artificiale e un vivaio di coralli situato al largo della costa occidentale di Koh Tao. Realizzato con strutture metalliche ingegnerizzate, blocchi di cemento e materiali riciclati, il progetto è nato per coltivare frammenti di corallo e ridurre la pressione dei subacquei sulle barriere coralline naturali circostanti. Il sito ospita diverse cupole sperimentali di propagazione, dove coralli ramificati e tabulari trapiantati offrono rifugio ai pesci di barriera in acque calme e poco profonde.",
+          "en": "Scenic dive site in TH known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.7589,
+          1.6188
+        ]
+      },
+      "properties": {
+        "id": "diverout-id-alung-banua",
+        "name": {
+          "it": "Alung Banua",
+          "en": "Alung Banua"
+        },
+        "countryCode": "ID",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato lungo la costa meridionale dell'isola di Bunaken, Alung Banua è un'immersione su parete verticale caratterizzata da numerose piccole caverne, profonde fessure e sporgenze. Coralli molli, gorgonie e cespugli di corallo nero ricoprono il drop-off, offrendo l'habitat ideale sia per creature macro sia per grandi pelagici di passaggio nel blu aperto.",
+          "en": "Scenic dive site in ID known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.6596,
+          -8.3375
+        ]
+      },
+      "properties": {
+        "id": "diverout-id-amed",
+        "name": {
+          "it": "Amed",
+          "en": "Amed"
+        },
+        "countryCode": "ID",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situata lungo la costa vulcanica nera di East Bali, Amed offre baie costiere calme, dolci pendii corallini e spettacolari pareti a strapiombo. I subacquei scendono tra una combinazione di giardini naturali di corallo duro e strutture di barriera artificiale, fino a raggiungere fondali sabbiosi perfetti per la fotografia macro.",
+          "en": "Scenic dive site in ID known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.905,
+          8.862
+        ]
+      },
+      "properties": {
+        "id": "tubbataha-amos-rock",
+        "name": {
+          "it": "Amos Rock (Tubbataha Reefs)",
+          "en": "Amos Rock (Tubbataha Reefs, Philippines)"
+        },
+        "countryCode": "PH",
+        "region": "coral-triangle",
+        "kind": "wall",
+        "depthMinM": 12,
         "depthMaxM": 40,
         "level": "advanced",
-        "exposure": "exposed_all",
+        "highlights": [
+          "sharks",
+          "corals",
+          "walls"
+        ],
+        "exposure": "offshore",
+        "species": [
+          "Carcharhinus amblyrhynchos",
+          "Triaenodon obesus",
+          "Sphyrna lewini"
+        ],
+        "description": {
+          "it": "Patrimonio UNESCO nel Mare di Sulu: parete spettacolare con coralli intatti, banchi di squali grigi e cernie giganti.",
+          "en": "UNESCO World Heritage site in the Sulu Sea: pristine coral wall swarming with grey reef sharks and giant groupers."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.4255,
+          -8.268
+        ]
+      },
+      "properties": {
+        "id": "diverout-id-ampera",
+        "name": {
+          "it": "Ampera",
+          "en": "Ampera"
+        },
+        "countryCode": "ID",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato lungo la costa riparata della baia di Kalabahi ad Alor, Ampera è un sito di muck diving d'eccellenza, rinomato per la straordinaria densità di creature marine. Il fondale passa dalla sabbia vulcanica scura a detriti corallini sparsi e chiazze di alghe, offrendo un perfetto mimetismo a rari organismi macro. Sebbene il paesaggio possa sembrare spoglio a prima vista, un'esplorazione paziente svela insolite creature bentoniche nascoste tra i detriti e sotto pietre solitarie.",
+          "en": "Scenic dive site in ID known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.8567,
+          -2.099
+        ]
+      },
+      "properties": {
+        "id": "diverout-id-andiamo",
+        "name": {
+          "it": "Andiamo",
+          "en": "Andiamo"
+        },
+        "countryCode": "ID",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato attorno a due isolotti rocciosi nel gruppo delle isole Daram a Misool Est, Andiamo è caratterizzato da una sella sommersa fiancheggiata da pinnacoli e pareti verticali ricoperte di corallo. Archi sommersi e passaggi scavano la struttura calcarea del reef, offrendo canali riparati adornati da coralli molli, gorgonie e spugne. Il forte movimento delle acque oceaniche attraverso la cresta favorisce la presenza di fitti banchi di pesci e predatori di barriera.",
+          "en": "Scenic dive site in ID known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.6275,
+          7.8075
+        ]
+      },
+      "properties": {
+        "id": "diverout-th-anemone-reef",
+        "name": {
+          "it": "Anemone Reef",
+          "en": "Anemone Reef"
+        },
+        "countryCode": "TH",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Questo pinnacolo calcareo completamente sommerso si erge dal fondale sabbioso tra Phuket e le Isole Phi Phi senza mai affiorare in superficie, guadagnandosi il nome locale thailandese di Hin Jom (Roccia Sommersa). La roccia è ricoperta da vasti tappeti di anemoni di mare verdi e viola che ospitano centinaia di pesci pagliaccio. L'immersione si svolge solitamente con una lenta risalita a spirale attorno al pinnacolo, esplorando anfratti, distese di coralli molli e fessure ricche di vita macro.",
+          "en": "Scenic dive site in TH known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.7137,
+          9.7996
+        ]
+      },
+      "properties": {
+        "id": "diverout-th-ang-thong-marine-park",
+        "name": {
+          "it": "Ang Thong Marine Park",
+          "en": "Ang Thong Marine Park"
+        },
+        "countryCode": "TH",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato a ovest di Koh Samui e Koh Phangan, l'arcipelago di Mu Ko Ang Thong è formato da decine di spettacolari isole calcaree che si ergono ripide dalle acque del Golfo della Thailandia. Le immersioni si concentrano principalmente lungo il confine settentrionale presso Koh Yippon e Koh Wao, dove la topografia carsica sommersa crea un intricato dedalo di passaggi, cenge erose e ampie cavità a strapiombo. Sebbene la visibilità tenda a essere inferiore rispetto ai pinnacoli al largo a causa degli apporti costieri, le acque ricche di nutrienti sostengono rigogliosi giardini di coralli molli, enormi spugne a barile e densi banchi di pesci costieri.",
+          "en": "Scenic dive site in TH known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.677,
+          6.9598
+        ]
+      },
+      "properties": {
+        "id": "diverout-ph-angels-cove",
+        "name": {
+          "it": "Angels Cove",
+          "en": "Angels Cove"
+        },
+        "countryCode": "PH",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situata lungo la costa dell'isola di Talikud nel Golfo di Davao, Angel's Cove offre un dolce pendio corallino arricchito da formazioni di corallo duro, coralli a tavola e ammassi di spugne. La conformazione riparata mantiene le condizioni in superficie generalmente calme, rendendola una tappa ideale per immersioni di corso, fotografia macro e rilassanti esplorazioni pomeridiane.",
+          "en": "Scenic dive site in PH known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.9303,
+          11.9484
+        ]
+      },
+      "properties": {
+        "id": "diverout-ph-angol-point",
+        "name": {
+          "it": "Angol Point",
+          "en": "Angol Point"
+        },
+        "countryCode": "PH",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato appena al largo del tratto meridionale di White Beach sull'isola di Boracay, Angol Point presenta una barriera corallina in dolce pendenza intervallata da corridoi sabbiosi e formazioni coralline sparse. Il profilo poco profondo e la conformazione riparata lo rendono una meta ideale per immersioni di controllo, corsi di aggiornamento e appassionati di macrofotografia che desiderano prendersi il tempo necessario per ispezionare i singoli pinnacoli corallini.",
+          "en": "Scenic dive site in PH known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.6817,
+          9.774
+        ]
+      },
+      "properties": {
+        "id": "diverout-th-angthong-marine-park",
+        "name": {
+          "it": "Angthong Marine Park",
+          "en": "Angthong Marine Park"
+        },
+        "countryCode": "TH",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Il Parco Nazionale Marino di Angthong comprende un arcipelago di isole calcaree nel Golfo della Thailandia. Le immersioni si concentrano sugli isolotti settentrionali come Koh Yippon e Koh Wao, dove la topografia carsica sprofonda sotto la superficie creando strapiombi sommersi, caverne poco profonde e archi. Fitti cespugli di corallo nero e fruste di mare ricoprono queste formazioni. Il deflusso di nutrienti dalle baie costiere spesso intorbidisce l'acqua, ma la ricca crescita di coralli molli e invertebrati compensa la visibilità variabile.",
+          "en": "Scenic dive site in TH known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6043,
+          11.6793
+        ]
+      },
+      "properties": {
+        "id": "diverout-th-ao-kluai",
+        "name": {
+          "it": "Ao Kluai",
+          "en": "Ao Kluai"
+        },
+        "countryCode": "TH",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Ao Kluai è una baia riparata lungo la costa di Koh Kood. Formazioni di corallo duro, massi sparsi e distese di sabbia ricoprono il fondale in lieve pendenza. Le condizioni costantemente calme sono ideali per immersioni di controllo, sessioni di addestramento e ricerca di soggetti macro lungo il margine della barriera.",
+          "en": "Scenic dive site in TH known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.8839,
+          9.3857
+        ]
+      },
+      "properties": {
+        "id": "diverout-th-ao-packard-koh-surin-tai",
+        "name": {
+          "it": "Ao Packard, Koh Surin Tai",
+          "en": "Ao Packard, Koh Surin Tai"
+        },
+        "countryCode": "TH",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato in una baia riparata lungo la costa sud-orientale di Koh Surin Tai, questo sito è caratterizzato da estesi pendii di corallo duro che digradano dolcemente verso un fondale di sabbia bianca. Imponenti colonie di Porites, fitti banchi di coralli a corna di cervo e coralli a tavola dominano i bassifondi prima di lasciare il posto ad affioramenti di coralli molli a profondità maggiori. I subacquei si lasciano trasportare lungo il reef, osservando vivaci specie coralline e creature intente a nutrirsi tra i detriti di corallo.",
+          "en": "Scenic dive site in TH known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.2975,
+          7.7779
+        ]
+      },
+      "properties": {
+        "id": "diverout-th-ao-sane-beach",
+        "name": {
+          "it": "Ao Sane beach",
+          "en": "Ao Sane beach"
+        },
+        "countryCode": "TH",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situata poco a nord-ovest di Nai Harn, nella parte meridionale di Phuket, questa piccola baia offre un facile accesso da riva su sabbia e rocce granitiche. Il paesaggio sottomarino è composto da formazioni di massi di granito intervallate da chiazze sparse di corallo duro e affioramenti di corallo molle, che degradano dolcemente verso un fondale sabbioso. È un sito affidabile per i corsi di addestramento e un punto rilassante per il muck diving e le esplorazioni a bassa profondità.",
+          "en": "Scenic dive site in TH known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.9703,
+          12.5185
+        ]
+      },
+      "properties": {
+        "id": "diverout-th-aow-khai",
+        "name": {
+          "it": "Aow Khai",
+          "en": "Aow Khai"
+        },
+        "countryCode": "TH",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Riparata lungo la costa di Koh Samae San, questa baia poco profonda presenta giardini di corallo in dolce pendenza che sfumano in un'ampia distesa sabbiosa. I subacquei incontrano spesso pinnacoli corallini sparsi alternati a chiazze di sabbia, rendendo l'orientamento semplice e intuitivo. La conformazione protetta garantisce acque calme anche quando i siti circostanti in mare aperto risentono di forti correnti.",
+          "en": "Scenic dive site in TH known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.8401,
+          10.0723
+        ]
+      },
+      "properties": {
+        "id": "diverout-th-aow-leuk",
+        "name": {
+          "it": "Aow Leuk",
+          "en": "Aow Leuk"
+        },
+        "countryCode": "TH",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Una baia riparata sul versante sud-orientale di Koh Tao, Aow Leuk presenta ampie distese sabbiose delimitate su entrambi i lati da barriere coralline marginali. Le condizioni calme la rendono un punto di riferimento per i corsi di livello base e per perfezionare l'assetto in totale relax. Oltre le linee naturali della barriera, i subacquei esplorano spesso strutture artificiali e vivai di corallo disposti lungo il fondale sabbioso.",
+          "en": "Scenic dive site in TH known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.2711,
+          9.0828
+        ]
+      },
+      "properties": {
+        "id": "diverout-ph-apo-island",
+        "name": {
+          "it": "Apo Island",
+          "en": "Apo Island"
+        },
+        "countryCode": "PH",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situata al largo della costa di Negros Oriental, l'isola di Apo è un santuario marino gestito dalla comunità locale, rinomato a livello mondiale per il suo ruolo pionieristico nella conservazione della barriera corallina. L'isola è circondata da vaste distese di coralli duri, ripide pareti verticali e fondali di sabbia vulcanica dove l'attività geotermica rilascia scie di minuscole bollicine. Le correnti variano notevolmente, spaziando da dolci immersioni in deriva lungo i pendii corallini a flussi rapidi e sostenuti attorno ai promontori settentrionali.",
+          "en": "Scenic dive site in PH known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.4781,
+          12.6711
+        ]
+      },
+      "properties": {
+        "id": "diverout-ph-apo-reef-natural-park",
+        "name": {
+          "it": "Apo Reef Natural Park",
+          "en": "Apo Reef Natural Park"
+        },
+        "countryCode": "PH",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato al largo della costa occidentale dell'Occidental Mindoro, nello Stretto di Mindoro, questo esteso sistema di atolli d'altura costituisce la barriera corallina contigua più grande delle Filippine. Ripide pareti verticali sprofondano nel blu profondo accanto a vasti plateau ricoperti da coralli duri incontaminati. Gli incontri con specie pelagiche dominano i profili di immersione, con banchi di predatori che pattugliano le creste e le pareti del reef mentre le tartarughe nuotano tra giardini di corallo poco profondi.",
+          "en": "Scenic dive site in PH known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.8831,
+          13.7269
+        ]
+      },
+      "properties": {
+        "id": "diverout-ph-aquaventure-helicopter-boat-wreck-dive-site",
+        "name": {
+          "it": "Aquaventure Helicopter & Boat wreck dive site.",
+          "en": "Aquaventure Helicopter & Boat wreck dive site."
+        },
+        "countryCode": "PH",
+        "region": "coral-triangle",
+        "kind": "wreck",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "wreck",
+          "history"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato appena al largo della costa dei resort di Anilao, questo sito ospita la struttura di un elicottero affondato intenzionalmente insieme a una barca sommersa, adagiati su un pendio graduale di sabbia e detriti. Queste strutture artificiali si sono trasformate in habitat maturi e ricchi di incrostazioni, attirando creature macro e specie di barriera giovanili, offrendo al contempo un'immersione semplice per l'orientamento.",
+          "en": "Scenic dive site in PH known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.8185,
+          9.571
+        ]
+      },
+      "properties": {
+        "id": "diverout-ph-arco-point",
+        "name": {
+          "it": "Arco Point",
+          "en": "Arco Point"
+        },
+        "countryCode": "PH",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato al largo della costa dell'isola di Panglao, Arco Point è rinomato tra i subacquei per il suo camino verticale naturale, ampiamente conosciuto come \"Hole in the Wall\". I subacquei accedono attraverso l'apertura di una caverna sulla cresta poco profonda della barriera corallina, scendendo lungo uno stretto condotto prima di sbucare su una parete ripida. Oltre l'uscita, la parete a picco offre giardini di coralli molli, gorgonie e cenge sabbiose dove creature macro trovano riparo negli anfratti.",
+          "en": "Scenic dive site in PH known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6149,
+          -5.7373
+        ]
+      },
+      "properties": {
+        "id": "diverout-id-area-perlindungan-laut-apl",
+        "name": {
+          "it": "Area Perlindungan Laut (APL)",
+          "en": "Area Perlindungan Laut (APL)"
+        },
+        "countryCode": "ID",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "L'Area Perlindungan Laut (APL) è una zona di conservazione marina gestita dalla comunità locale all'interno del Parco Nazionale delle Kepulauan Seribu, al largo di Pulau Panggang e Pulau Pramuka. Il fondale è caratterizzato da pendii di barriera corallina costiera, strutture artificiali di ripristino e praterie di fanerogame marine. I divieti di pesca tutelano i pesci di barriera attorno ai pinnacoli di corallo. I pendii presentano acropore ramificate, formazioni di poriti e anemoni di mare che ospitano colonie di pesci pagliaccio.",
+          "en": "Scenic dive site in ID known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.8897,
+          13.6836
+        ]
+      },
+      "properties": {
+        "id": "diverout-ph-arthur-s-rock-anilao-mabini",
+        "name": {
+          "it": "Arthur’s rock, Anilao, Mabini",
+          "en": "Arthur’s rock, Anilao, Mabini"
+        },
+        "countryCode": "PH",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Arthur's Rock è un santuario marino protetto situato lungo la costa della baia di Balayan ad Anilao. I subacquei entrano attraversando un basso pianoro corallino che digrada dolcemente verso formazioni di corallo e distese sabbiose intervallate da anemoni di mare. Essendo riparato dal moto ondoso del mare aperto, questo sito è una tappa fondamentale per l'addestramento e la fotografia macro, dove gli amanti delle creature più piccole esplorano i coralli duri ramificati e le formazioni di spugne.",
+          "en": "Scenic dive site in PH known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.7662,
+          7.6956
+        ]
+      },
+      "properties": {
+        "id": "diverout-th-artificial-reef-and-coral-nursery",
+        "name": {
+          "it": "Artificial Reef and Coral Nursery",
+          "en": "Artificial Reef and Coral Nursery"
+        },
+        "countryCode": "TH",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato in una baia riparata lungo Koh Phi Phi Leh, questo sito presenta strutture per la conservazione marina installate su un fondale sabbioso accanto a barriere naturali di corallo duro. I subacquei nuotano tra cubi di cemento, telai metallici da vivaio e alberi di propagazione dei coralli che attirano specie coralline giovanili e banchi di pesci in cerca di rifugio dal mare aperto.",
+          "en": "Scenic dive site in TH known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.2533,
+          5.8928
+        ]
+      },
+      "properties": {
+        "id": "diverout-id-arus-balee",
+        "name": {
+          "it": "Arus Balee",
+          "en": "Arus Balee"
+        },
+        "countryCode": "ID",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Arus Balee, che nella lingua locale significa \"corrente bastarda\", si trova nello stretto canale tra Pulau Rubiah e Pulau Seulako, al largo della costa di Pulau Weh. Il sito presenta una dorsale rocciosa sommersa fiancheggiata da ripidi pendii e giardini di corallo. Il costante flusso d'acqua attraverso questo passaggio concentra banchi di predatori, creando condizioni dinamiche per immersioni in corrente tra un'incredibile densità di vita marina.",
+          "en": "Scenic dive site in ID known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.245,
+          9.1597
+        ]
+      },
+      "properties": {
+        "id": "diverout-ph-atmosphere-house-reef",
+        "name": {
+          "it": "Atmosphere House Reef",
+          "en": "Atmosphere House Reef"
+        },
+        "countryCode": "PH",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Accessibile direttamente dalla spiaggia di Dauin, l'Atmosphere House Reef offre un mix di sabbia vulcanica scura, distese di alghe, strutture di barriera corallina artificiale e affioramenti corallini naturali. Il dolce pendio garantisce condizioni calme ideali per la macrofotografia, le immersioni notturne e l'addestramento, con immersioni al crepuscolo che regalano avvistamenti regolari del corteggiamento del pesce mandarino.",
+          "en": "Scenic dive site in PH known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.7956,
+          7.0954
+        ]
+      },
+      "properties": {
+        "id": "diverout-ph-aundanao",
+        "name": {
+          "it": "Aundanao",
+          "en": "Aundanao"
+        },
+        "countryCode": "PH",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato lungo la costa orientale dell'isola di Samal, nel Golfo di Davao, Aundanao si sviluppa attorno a un'area marina protetta. La barriera corallina presenta un dolce pendio impreziosito da formazioni di coralli duri, gorgonie a frusta e coralli a tavola sparsi, che sfumano in radure sabbiose dove prospera la vita macro. Le correnti locali si mantengono da calme a moderate, rendendo il sito perfetto sia per le immersioni didattiche sia per i fotografi subacquei in cerca di rari invertebrati.",
+          "en": "Scenic dive site in PH known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.3107,
+          7.471
+        ]
+      },
+      "properties": {
+        "id": "diverout-th-aussie-reef-racha-noi",
+        "name": {
+          "it": "Aussie Reef - Racha Noi",
+          "en": "Aussie Reef - Racha Noi"
+        },
+        "countryCode": "TH",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato lungo la riparata costa orientale di Koh Racha Noi, Aussie Reef presenta una distesa di coralli duri in dolce pendenza che sfuma in formazioni di massi granitici e fondali sabbiosi. Il sito offre condizioni ideali per rilassanti immersioni in corrente, rendendolo una meta ideale per escursioni giornaliere con partenza da Phuket o dal molo di Chalong. I subacquei incontrano frequentemente squali bentonici e razze che riposano lungo il perimetro sabbioso, mentre fitti banchi di pesci di barriera trovano rifugio tra grandi colonie di coralli Porites e Acropora.",
+          "en": "Scenic dive site in TH known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.8144,
+          9.5649
+        ]
+      },
+      "properties": {
+        "id": "diverout-ph-bbc",
+        "name": {
+          "it": "BBC",
+          "en": "BBC"
+        },
+        "countryCode": "PH",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato direttamente al largo della costa meridionale dell'isola di Panglao, di fronte al Bohol Beach Club, questo sito presenta una bassa distesa di prateria marina che degrada verso un pendio corallino e un drop-off. I subacquei scivolano lungo formazioni coralline dove creature macro trovano riparo negli anfratti e coralli molli ricoprono la parete. Le tartarughe verdi frequentano i bassifondi per nutrirsi, mentre le anguille giardiniere popolano le radure sabbiose alla base del reef.",
+          "en": "Scenic dive site in PH known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.5577,
+          9.7267
+        ]
+      },
+      "properties": {
+        "id": "diverout-ph-bacong-west",
+        "name": {
+          "it": "Bacong West",
+          "en": "Bacong West"
+        },
+        "countryCode": "PH",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato lungo la costa di Anda, nella parte orientale di Bohol, Bacong West presenta un giardino di coralli poco profondo che degrada lungo una parete corallina. I subacquei possono esplorare una combinazione di formazioni di coralli duri e affioramenti di coralli molli, andando alla ricerca di creature macro nascoste tra spugne e gorgonie.",
+          "en": "Scenic dive site in PH known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.6016,
+          9.0986
+        ]
+      },
+      "properties": {
+        "id": "diverout-ph-bahura-dive-house-reef",
+        "name": {
+          "it": "Bahura Dive House Reef",
+          "en": "Bahura Dive House Reef"
+        },
+        "countryCode": "PH",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato al largo della costa di San Juan, sull'isola di Siquijor, questo house reef inizia con un fondale sabbioso poco profondo alternato a formazioni coralline sparse, per poi degradare lungo un dolce pendio della barriera. La morfologia presenta un mix di coralli duri, spugne e tratti detritici che offrono l'habitat ideale a una straordinaria varietà di creature macro. Le condizioni generalmente tranquille lo rendono un punto perfetto per lunghe ricerche di macrofauna, un orientamento semplice e suggestive immersioni notturne.",
+          "en": "Scenic dive site in PH known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.2993,
+          -8.2673
+        ]
+      },
+      "properties": {
+        "id": "diverout-id-bakalang-jetty",
+        "name": {
+          "it": "Bakalang Jetty",
+          "en": "Bakalang Jetty"
+        },
+        "countryCode": "ID",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato lungo la costa dell'isola di Pantar, nell'arcipelago di Alor, Bakalang Jetty offre un'immersione muck riparata sotto e attorno alle strutture del pontile. Il fondale è composto da sabbia vulcanica scura, chiazze di detriti e frammenti sparsi che ospitano un'alta concentrazione di creature criptiche. I pesci pipistrello si radunano spesso all'ombra dei pilastri di legno, mentre pesci scorpione e creature bentoniche riposano perfettamente mimetizzati lungo il pendio di limo.",
+          "en": "Scenic dive site in ID known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.6843,
+          9.5159
+        ]
+      },
+      "properties": {
+        "id": "diverout-ph-balicasag-island",
+        "name": {
+          "it": "Balicasag Island",
+          "en": "Balicasag Island"
+        },
+        "countryCode": "PH",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situata a sud-ovest di Panglao, l'isola di Balicasag è un santuario marino protetto circondato da bassifondi corallini che scendono bruscamente lungo pareti verticali e spettacolari drop-off. I margini esterni della barriera sono celebri per un compatto vortice stanziale di carangidi occhione che volteggia a ridosso del ciglio del reef. Le tartarughe verdi pascolano lungo i giardini di corallo poco profondi e riposano su cenge a strapiombo ricoperte di gorgonie e spugne a barile.",
+          "en": "Scenic dive site in PH known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.919,
+          11.9651
+        ]
+      },
+      "properties": {
+        "id": "diverout-ph-balinghai",
+        "name": {
+          "it": "Balinghai",
+          "en": "Balinghai"
+        },
+        "countryCode": "PH",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato al largo della costa nord-occidentale dell'isola di Boracay, Balinghai presenta due distinte pareti coralline parallele separate da un canale sabbioso. I subacquei nuotano tra pinnacoli incrostati di corallo e dolci pendii che lasciano il posto a formazioni coralline più profonde. Il sito è riparato dai venti dominanti del monsone di nord-est, risultando una meta ideale durante la stagione secca sia per gli amanti della macrofotografia sia per le immersioni ricreative.",
+          "en": "Scenic dive site in PH known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.3049,
+          -8.2913
+        ]
+      },
+      "properties": {
+        "id": "diverout-id-bama-wall",
+        "name": {
+          "it": "Bama Wall",
+          "en": "Bama Wall"
+        },
+        "countryCode": "ID",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Scendendo verticalmente lungo la costa nello Stretto di Pantar, Bama Wall presenta una ripida topografia vulcanica ricoperta da grandi ventagli di gorgonie, cespugli di corallo nero e spugne incrostanti. I subacquei scivolano lungo la parete scoscesa dove le risalite di acque profonde portano una visibilità eccezionale insieme a freschi termoclini. Fenditure e sporgenze riparano creature macro, mentre specie pelagiche incrociano nel blu aperto al largo della parete.",
+          "en": "Scenic dive site in ID known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.8247,
+          10.0939
+        ]
+      },
+      "properties": {
+        "id": "diverout-th-ban-s-artificial-reef",
+        "name": {
+          "it": "Ban's Artificial Reef",
+          "en": "Ban's Artificial Reef"
+        },
+        "countryCode": "TH",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato appena al largo di Sairee Beach a Koh Tao, questo sito dedicato alla conservazione marina presenta strutture in cemento, cupole metalliche e strutture a telaio per vivai di corallo. Creato originariamente da Ban's Diving Resort per ridurre la pressione dei subacquei ricreativi sulle barriere coralline naturali circostanti, il sito offre un ambiente riparato, ideale per esercitarsi nell'assetto e seguire corsi di conservazione marina.",
+          "en": "Scenic dive site in TH known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.3245,
+          7.5024
+        ]
+      },
+      "properties": {
+        "id": "diverout-th-banana-bay-racha-noi",
+        "name": {
+          "it": "Banana Bay Racha Noi",
+          "en": "Banana Bay Racha Noi"
+        },
+        "countryCode": "TH",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situata lungo il riparato versante orientale di Koh Racha Noi, Banana Bay è caratterizzata da un fondale in dolce pendenza composto da vaste distese di corallo a corna di cervo e massi di granito sparsi che sfumano in una sabbia bianca e fine. Le condizioni calme all'interno della baia la rendono un luogo ideale per una navigazione agevole, immersioni di ripasso ed escursioni rilassate in corrente verso le punte esterne.",
+          "en": "Scenic dive site in TH known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.1866,
+          8.758
+        ]
+      },
+      "properties": {
+        "id": "diverout-th-bangsak-wreck",
+        "name": {
+          "it": "Bangsak Wreck",
+          "en": "Bangsak Wreck"
+        },
+        "countryCode": "TH",
+        "region": "coral-triangle",
+        "kind": "wreck",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "wreck",
+          "history"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato al largo di Khao Lak, questo relitto di una draga per l'estrazione dello stagno poggia su un fondale sabbioso aperto. Nel tempo, la struttura metallica deteriorata si è trasformata in una barriera artificiale isolata, concentrando la vita marina in un'area altrimenti dominata da distese di sabbia. I subacquei possono esplorare l'intelaiatura esterna e i macchinari crollati, osservando fitti banchi di pesci stanziali e una ricca varietà di creature macro al riparo tra le lamiere arrugginite.",
+          "en": "Scenic dive site in TH known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.563,
+          2.1166
+        ]
+      },
+      "properties": {
+        "id": "diverout-id-banner-fish-country",
+        "name": {
+          "it": "Banner Fish Country",
+          "en": "Banner Fish Country"
+        },
+        "countryCode": "ID",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato lungo la barriera corallina esterna dell'atollo di Maratua, nel Kalimantan Orientale, Banner Fish Country presenta un vivace reef in pendenza che sfuma in una parete spettacolare. Il sito prende il nome dai fitti banchi di pesci bandiera che volteggiano sulle formazioni di corallo duro. I subacquei si lasciano trasportare dalla corrente lungo la parete, incontrando specie pelagiche e una ricca biodiversità macro tra spugne e gorgonie.",
+          "en": "Scenic dive site in ID known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.1183,
+          11.347
+        ]
+      },
+      "properties": {
+        "id": "diverout-ph-bantigue-malapascua",
+        "name": {
+          "it": "Bantigue, Malapascua",
+          "en": "Bantigue, Malapascua"
+        },
+        "countryCode": "PH",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato lungo la costa riparata dell'isola di Malapascua, Bantigue è un tranquillo pendio sabbioso punteggiato da pinnacoli di corallo, zone detritiche e praterie di fanerogame marine. È uno dei siti migliori della zona per scovare piccole creature, particolarmente amato dai fotografi macro alla ricerca di specie mimetiche senza dover lottare contro forti correnti o profili d'immersione profondi. Le immersioni notturne qui svelano organismi fossori notturni e cefalopodi intenti a cacciare che rimangono nascosti durante le ore diurne.",
+          "en": "Scenic dive site in PH known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5141,
+          -8.5285
+        ]
+      },
+      "properties": {
+        "id": "diverout-id-baong-penyu-turtle-s-head",
+        "name": {
+          "it": "Baong Penyu (Turtle's Head)",
+          "en": "Baong Penyu (Turtle's Head)"
+        },
+        "countryCode": "ID",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato lungo il promontorio roccioso appena fuori Padangbai, Baong Penyu presenta un pendio corallino costellato da pinnacoli di corallo, formazioni tabulari e gorgonie. I subacquei scivolano dolcemente in corrente lungo il profilo del fondale, esplorando gli anfratti alla ricerca di creature notturne a riposo e seguendo banchi di pesci di barriera che si radunano vicino alla parete.",
+          "en": "Scenic dive site in ID known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2169,
+          11.9562
+        ]
+      },
+      "properties": {
+        "id": "diverout-ph-barracuda-lake",
+        "name": {
+          "it": "Barracuda Lake",
+          "en": "Barracuda Lake"
+        },
+        "countryCode": "PH",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato all'interno di un cratere vulcanico sommerso e circondato dalle aspre scogliere carsiche dell'isola di Coron, questo lago è celebre per i suoi spettacolari strati di termoclino e aloclino. Durante la discesa attraverso le acque salmastre superficiali, l'acqua passa da dolce a salata mentre la temperatura aumenta sensibilmente, creando distorsioni ottiche simili a vetro fuso a ridosso di ripide formazioni calcaree sottomarine.",
+          "en": "Scenic dive site in PH known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.5053,
+          2.1403
+        ]
+      },
+      "properties": {
+        "id": "diverout-id-barracuda-point",
+        "name": {
+          "it": "Barracuda Point",
+          "en": "Barracuda Point"
+        },
+        "countryCode": "ID",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato lungo la parete esterna esposta dell'isola di Kakaban, nell'arcipelago di Derawan, questo sito è rinomato per la spettacolare azione pelagica favorita da forti correnti oceaniche. I subacquei si muovono in corrente lungo ripide pareti calcaree incrostate di enormi gorgonie e spugne a barile, incontrando frequentemente grandi predatori che cacciano nel blu. Il tratto distintivo è un imponente vortice stanziale di barracuda chevron che si raduna nel punto in cui le correnti si scontrano lungo il promontorio.",
+          "en": "Scenic dive site in ID known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.628,
+          4.115
+        ]
+      },
+      "properties": {
+        "id": "barracuda-point-sipadan",
+        "name": {
+          "it": "Barracuda Point (Sipadan)",
+          "en": "Barracuda Point (Sipadan, Malaysia)"
+        },
+        "countryCode": "MY",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 10,
+        "depthMaxM": 40,
+        "level": "intermediate",
+        "highlights": [
+          "pelagic",
+          "turtles"
+        ],
+        "exposure": "exposed",
+        "species": [
+          "Sphyraena qenie",
+          "Chelonia mydas",
+          "Carcharhinus amblyrhynchos"
+        ],
+        "description": {
+          "it": "Celebre vortice a tornado con migliaia di barracuda giganti, squali di barriera e decine di tartarughe marine.",
+          "en": "World-famous swirling vortex of thousands of chevron barracudas, reef sharks, and abundant green turtles."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.4991,
+          9.7484
+        ]
+      },
+      "properties": {
+        "id": "diverout-ph-basdio-sanctuary",
+        "name": {
+          "it": "Basdio Sanctuary",
+          "en": "Basdio Sanctuary"
+        },
+        "countryCode": "PH",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato al largo di Guindulman, lungo la costa sud-orientale di Bohol, il Basdio Sanctuary è un'area marina protetta a gestione comunitaria, caratterizzata da un dolce pendio corallino che si trasforma in una ripida parete di barriera. Fitti banchi di coralli ramificati e tabulari dominano le acque basse, mentre anfratti e spaccature più profonde ospitano creature criptiche. Le condizioni calme e la barriera corallina in salute lo rendono un punto di riferimento imperdibile per gli amanti della fotografia macro che esplorano la penisola di Anda.",
+          "en": "Scenic dive site in PH known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9592,
+          13.5278
+        ]
+      },
+      "properties": {
+        "id": "diverout-ph-batangas-channel",
+        "name": {
+          "it": "Batangas Channel",
+          "en": "Batangas Channel"
+        },
+        "countryCode": "PH",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato tra la terraferma di Puerto Galera e l'isola di Medio, Batangas Channel presenta una barriera corallina in pendenza intervallata da chiazze di sabbia e formazioni coralline sparse (bommies). Il passaggio naturale dell'acqua attraverso questo canale apporta nutrienti che favoriscono una crescita rigogliosa di coralli molli e fitte concentrazioni di fauna corallina. I subacquei solitamente si lasciano trasportare dalla corrente lungo il pendio, osservando attentamente la vita macro mimetizzata tra i detriti e le formazioni di spugne.",
+          "en": "Scenic dive site in PH known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.221,
+          5.9088
+        ]
+      },
+      "properties": {
+        "id": "diverout-id-batee-gla",
+        "name": {
+          "it": "Batee Gla",
+          "en": "Batee Gla"
+        },
+        "countryCode": "ID",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Batee Gla è una formazione rocciosa esposta al largo della costa nord-occidentale di Pulau Weh, nell'Aceh. Le correnti oceaniche che attraversano il Mare delle Andamane colpiscono i massi granitici sommersi, attirando banchi di predatori e grandi pelagici di passaggio. I subacquei scendono lungo spettacolari creste sommerse impreziosite da ventagli di mare, coralli molli e fitte gorgonie, prima di lasciarsi trasportare lungo i pianori più profondi.",
+          "en": "Scenic dive site in ID known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.2689,
+          5.8716
+        ]
+      },
+      "properties": {
+        "id": "diverout-id-batee-meuroron",
+        "name": {
+          "it": "Batee Meuroron",
+          "en": "Batee Meuroron"
+        },
+        "countryCode": "ID",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato lungo la costa nord-occidentale di Pulau Weh, Batee Meuroron presenta una conformazione rocciosa affiancata da pendii corallini e massi di granito. Il movimento dell'acqua spinge maree ricche di nutrienti oltre le strutture sommerse, attirando gli abitanti del reef e banchi di pesci nella colonna d'acqua aperta.",
+          "en": "Scenic dive site in ID known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.2524,
+          5.898
+        ]
+      },
+      "properties": {
+        "id": "diverout-id-batee-tokong",
+        "name": {
+          "it": "Batee Tokong",
+          "en": "Batee Tokong"
+        },
+        "countryCode": "ID",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Questo pinnacolo granitico sommerso, che si erge in mare aperto al largo della costa nord-occidentale di Pulau Weh, sprofonda in profondi canali oceanici. Terrazzamenti di massi e pareti scoscese ospitano fitte foreste di gorgonie. La posizione esposta convoglia correnti ricche di nutrienti lungo la roccia, attirando una costante attività pelagica e straordinarie concentrazioni di predatori stanziali.",
+          "en": "Scenic dive site in ID known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4839,
+          -8.7719
+        ]
+      },
+      "properties": {
+        "id": "diverout-id-batu-bolong",
+        "name": {
+          "it": "Batu Bolong",
+          "en": "Batu Bolong"
+        },
+        "countryCode": "ID",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Erigendosi dal mare aperto al largo delle aspre scogliere meridionali di Nusa Penida, questo pinnacolo roccioso esposto sprofonda ripido negli abissi dello Stretto di Lombok. Il moto ondoso oceanico e le potenti correnti di marea spazzano la formazione rocciosa, attirando grandi specie pelagiche dalle profonde fosse sottomarine. I subacquei esplorano spettacolari creste rocciose, strapiombi e pareti ricoperte di gorgonie, tenendo costantemente d'occhio i punti di rottura della corrente.",
+          "en": "Scenic dive site in ID known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.578,
+          -8.542
+        ]
+      },
+      "properties": {
+        "id": "batu-bolong-komodo",
+        "name": {
+          "it": "Batu Bolong (Parco di Komodo)",
+          "en": "Batu Bolong (Komodo National Park)"
+        },
+        "countryCode": "ID",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 8,
+        "depthMaxM": 35,
+        "level": "advanced",
+        "highlights": [
+          "corals",
+          "drift"
+        ],
+        "exposure": "exposed",
+        "species": [
+          "Triaenodon obesus",
+          "Gymnosarda unicolor",
+          "Eretmochelys imbricata"
+        ],
+        "description": {
+          "it": "Pinnacolo roccioso esposto a forti correnti oceaniche con una delle concentrazioni di coralli duri e pesci più dense del pianeta.",
+          "en": "Current-swept rock pinnacle displaying one of the world's most vibrant and dense coral and fish concentrations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.189,
+          1.8
+        ]
+      },
+      "properties": {
+        "id": "diverout-id-batu-gosoh",
+        "name": {
+          "it": "Batu Gosoh",
+          "en": "Batu Gosoh"
+        },
+        "countryCode": "ID",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato al largo della costa settentrionale dell'isola di Bangka, nel Nord Sulawesi, Batu Gosoh vanta uno spettacolare paesaggio sottomarino caratterizzato da guglie di roccia vulcanica che si innalzano dal fondale. Pareti verticali, fessure e passaggi simili a canyon sono densamente ricoperti da vivaci coralli molli e imponenti gorgonie. Il sito è esposto al mare aperto, incanalando correnti che alimentano una ricchissima vita marina e attirano specie pelagiche di passaggio.",
+          "en": "Scenic dive site in ID known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.6977,
+          -0.4502
+        ]
+      },
+      "properties": {
+        "id": "diverout-id-batu-lima",
+        "name": {
+          "it": "Batu Lima",
+          "en": "Batu Lima"
+        },
+        "countryCode": "ID",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Batu Lima, che significa 'Cinque Rocce', prende il nome dal gruppo di isolotti calcarei che emergono dall'acqua vicino all'isola di Gam, nello Stretto di Dampier. Sott'acqua, queste formazioni creano una serie di creste coralline, passaggi subacquei e pinnacoli che degradano verso un reef sabbioso in pendenza. Fitte distese di coralli a corna di cervo e gorgonie dominano il fondale, mentre banchi di fucilieri e grugnitori si radunano attorno ai punti esposti alla corrente.",
+          "en": "Scenic dive site in ID known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.1621,
+          1.6878
+        ]
+      },
+      "properties": {
+        "id": "diverout-id-batu-mandi",
+        "name": {
+          "it": "Batu Mandi",
+          "en": "Batu Mandi"
+        },
+        "countryCode": "ID",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Batu Mandi è un pinnacolo roccioso al largo della costa del Sulawesi Settentrionale, nei pressi dell'isola di Bangka. Imponenti massi di granito scendono su fondali sabbiosi, ricoperti da fitte distese di coralli molli, grandi gorgonie e tunicati. Il movimento dell'acqua attorno a questa struttura esposta attira predatori pelagici e banchi di pesci di barriera in cerca di riparo tra anfratti e sporgenze.",
+          "en": "Scenic dive site in ID known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5861,
+          -8.6839
+        ]
+      },
+      "properties": {
+        "id": "diverout-id-batu-nunggul",
+        "name": {
+          "it": "Batu Nunggul",
+          "en": "Batu Nunggul"
+        },
+        "countryCode": "ID",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato lungo la costa nord-orientale di Nusa Penida, Batu Nunggul presenta un ampio pendio corallino ricoperto di coralli duri e molli. Le forti correnti di marea tipiche dello Stretto di Lombok scorrono parallele alla costa, trasformando la maggior parte delle immersioni in lunghe e dinamiche uscite in corrente. Le sezioni più profonde del pendio lasciano spazio a canali di sabbia dove i pelagici transitano spesso nel blu.",
+          "en": "Scenic dive site in ID known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.3781,
+          7.6083
+        ]
+      },
+      "properties": {
+        "id": "diverout-th-bay-1",
+        "name": {
+          "it": "Bay 1",
+          "en": "Bay 1"
+        },
+        "countryCode": "TH",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situata lungo la costa nord-orientale di Koh Racha Yai, Bay 1 è uno dei principali siti di Phuket per l'addestramento subacqueo. I fondali sabbiosi e riparati lasciano spazio a una barriera corallina digradante, caratterizzata da coralli duri, formazioni di corallo corna di cervo e diverse barriere artificiali create appositamente, tra cui cubi di cemento e statue sommerse.",
+          "en": "Scenic dive site in TH known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.3634,
+          -8.2229
+        ]
+      },
+      "properties": {
+        "id": "diverout-id-biatabang",
+        "name": {
+          "it": "Biatabang",
+          "en": "Biatabang"
+        },
+        "countryCode": "ID",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato al largo della costa dell'isola di Pantar, nell'arcipelago di Alor, Biatabang presenta un fondale in pendenza che passa da sabbia vulcanica scura a formazioni sparse di coralli duri e molli. I subacquei esplorano le distese sabbiose alla ricerca di bizzarre creature mimetiche prima di lasciarsi trasportare lungo i bassi banchi corallini, dove i pesci di barriera si radunano in gran numero.",
+          "en": "Scenic dive site in ID known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.7667,
+          7.6548
+        ]
+      },
+      "properties": {
+        "id": "diverout-th-bida-nok",
+        "name": {
+          "it": "Bida Nok",
+          "en": "Bida Nok"
+        },
+        "countryCode": "TH",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Erigendosi maestosamente dal Mare delle Andamane a sud di Phi Phi Ley, questo isolotto calcareo offre una delle topografie sottomarine più variegate della regione. Spettacolari pareti verticali scendono verso il fondale sabbioso sui versanti meridionale e occidentale, mentre il lato orientale lascia spazio a un giardino di coralli duri in pendenza e a formazioni rocciose con passaggi nuotabili accessibili. Banchi di pelagici pattugliano le acque aperte al largo dei promontori, mentre giovani squali di barriera frequentano le baie poco profonde.",
+          "en": "Scenic dive site in TH known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.8347,
+          -8.48
+        ]
+      },
+      "properties": {
+        "id": "diverout-id-bidadari",
+        "name": {
+          "it": "Bidadari ",
+          "en": "Bidadari "
+        },
+        "countryCode": "ID",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situata appena al largo della costa di Labuan Bajo, Bidadari presenta un dolce pendio corallino che scende verso un fondale sabbioso punteggiato da pinnacoli di corallo duro e molle. Poiché la posizione dell'isola offre un riparo naturale dalle forti correnti di marea tipiche del principale stretto di Komodo, i centri immersioni la scelgono frequentemente per uscite di ripasso, corsi di addestramento e immersioni notturne dedicate al muck diving. I subacquei possono esplorare formazioni di corallo a corna di cervo e anemoni di mare che ospitano un'ampia varietà di specie macro.",
+          "en": "Scenic dive site in ID known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9,
+          13.527
+        ]
+      },
+      "properties": {
+        "id": "diverout-ph-big-la-laguna",
+        "name": {
+          "it": "Big La Laguna",
+          "en": "Big La Laguna"
+        },
+        "countryCode": "PH",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato direttamente al largo della spiaggia di Puerto Galera, questo dolce pendio unisce sabbia fine a formazioni di coralli duri e molli. Rappresenta un'area di addestramento molto accessibile e un punto ideale e rilassante per la macrofotografia. Piccoli pinnacoli corallini sparsi lungo il reef ospitano stazioni di pulizia e rifugi per pesci giovanili.",
+          "en": "Scenic dive site in PH known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.6546,
+          -8.1418
+        ]
+      },
+      "properties": {
+        "id": "diverout-id-biorock",
+        "name": {
+          "it": "BioRock",
+          "en": "BioRock"
+        },
+        "countryCode": "ID",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato direttamente al largo della baia di Pemuteran, questo vasto progetto di barriera corallina artificiale utilizza la tecnologia di accrescimento minerale a bassa tensione per stimolare la crescita dei coralli duri. I subacquei esplorano decine di sculture metalliche sommerse, cupole e strutture reticolari ricoperte da coralli duri ramificati, coralli molli e spugne, adagiate su un dolce pendio di sabbia scura.",
+          "en": "Scenic dive site in ID known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0447,
+          -8.3566
+        ]
+      },
+      "properties": {
+        "id": "diverout-id-biorock-2",
+        "name": {
+          "it": "Biorock",
+          "en": "Biorock"
+        },
+        "countryCode": "ID",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato lungo la costa di Gili Trawangan, questo progetto di barriera corallina artificiale utilizza correnti elettriche a basso voltaggio trasmesse attraverso strutture in filo d'acciaio per accelerare l'accrescimento minerale e la crescita dei coralli. I subacquei possono esplorare decine di diverse strutture metalliche, che spaziano da cupole e piramidi a forme fantasiose, tutte colonizzate da coralli duri e molli. Il fondale sabbioso e poco profondo che circonda le installazioni offre un'area di addestramento accessibile e un affidabile habitat di nursery per i giovani pesci di barriera.",
+          "en": "Scenic dive site in ID known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.5514,
+          9.7266
+        ]
+      },
+      "properties": {
+        "id": "diverout-ph-birhen-point",
+        "name": {
+          "it": "Birhen Point",
+          "en": "Birhen Point"
+        },
+        "countryCode": "PH",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato al largo della penisola di Anda a Bohol, questo sito presenta una cresta corallina poco profonda che lascia il posto a una parete verticale e a un ripido pendio corallino. Gorgonie e coralli a frusta colonizzano la parete a strapiombo, offrendo rifugio a una ricca varietà di creature macro e a specie pelagiche di passaggio. I subacquei si lasciano trasportare dalla corrente lungo la parete esplorando anfratti e spaccature, prima di completare la sosta di sicurezza sopra i giardini di corallo illuminati dal sole.",
+          "en": "Scenic dive site in PH known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.7411,
+          9.539
+        ]
+      },
+      "properties": {
+        "id": "diverout-ph-bita-ug",
+        "name": {
+          "it": "Bita-Ug",
+          "en": "Bita-Ug"
+        },
+        "countryCode": "PH",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato lungo la costa sud-occidentale dell'isola di Panglao, Bita-Ug presenta un pendio ricoperto di coralli che lascia spazio a una parete corallina a gradoni. Gorgonie e colonie di coralli molli offrono rifugio a una ricca vita macro tra gli anfratti, mentre il reef piatto superiore è sempre animato da specie di barriera e banchi di pesci damigella.",
+          "en": "Scenic dive site in PH known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.6883,
+          9.5153
+        ]
+      },
+      "properties": {
+        "id": "diverout-ph-black-forest",
+        "name": {
+          "it": "Black Forest",
+          "en": "Black Forest"
+        },
+        "countryCode": "PH",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato lungo il versante orientale dell'isola di Balicasag, al largo di Bohol, Black Forest deve il suo nome alle fitte formazioni di corallo nero che ricoprono un dolce pendio corallino. I subacquei affrontano solitamente questo percorso come immersione in corrente, sfilando accanto a spugne variopinte e gorgonie prima di incontrare enormi banchi residenti di pesci a mezz'acqua.",
+          "en": "Scenic dive site in PH known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.8199,
+          8.7491
+        ]
+      },
+      "properties": {
+        "id": "diverout-ph-black-rock",
+        "name": {
+          "it": "Black rock",
+          "en": "Black rock"
+        },
+        "countryCode": "PH",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato lungo l'Atollo Sud del Parco Naturale dei Reef di Tubbataha, Black Rock presenta un pianoro ricoperto di coralli che sprofonda nel Mare di Sulu. Il sito funge da attiva stazione di pulizia dove i grandi pelagici incrociano sopra vaste distese di Acropora tabulare e imponenti formazioni di Porites. I subacquei scivolano in corrente lungo il margine per osservare gli squali che riposano sulle distese sabbiose, mentre banchi di pelagici sfilano nel blu aperto.",
+          "en": "Scenic dive site in PH known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.1673,
+          9.8388
+        ]
+      },
+      "properties": {
+        "id": "diverout-ph-blue-cathedral",
+        "name": {
+          "it": "Blue Cathedral",
+          "en": "Blue Cathedral"
+        },
+        "countryCode": "PH",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situata al largo dell'isola di Siargao, Blue Cathedral è considerata una delle migliori immersioni in caverna delle Filippine. Il sito è caratterizzato da un'enorme cavità sommersa affiancata da archi naturali, attraverso cui i raggi del sole penetrano nell'acqua blu illuminando ampie gorgonie e spugne. All'esterno dell'ingresso della caverna, il reef sprofonda in una parete oceanica affacciata sul Pacifico aperto, dove i grandi pesci pelagici si radunano sfruttando le correnti dominanti.",
+          "en": "Scenic dive site in PH known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4425,
+          -8.6613
+        ]
+      },
+      "properties": {
+        "id": "diverout-id-blue-corner",
+        "name": {
+          "it": "Blue Corner",
+          "en": "Blue Corner"
+        },
+        "countryCode": "ID",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Arroccato sulla punta nord-occidentale di Nusa Lembongan, Blue Corner offre immersioni in corrente ad alta tensione tra aspri rilievi corallini e impetuose correnti oceaniche. Terrazze sabbiose digradano verso pareti verticali che sprofondano nella fossa dello Stretto di Lombok. La risalita di acque fredde e profonde attira i grandi pelagici proprio sul bordo del pianoro. Improvvise correnti discendenti e violenti vortici richiedono un controllo impeccabile dell'assetto.",
+          "en": "Scenic dive site in ID known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.225,
+          7.135
+        ]
+      },
+      "properties": {
+        "id": "blue-corner-palau",
+        "name": {
+          "it": "Blue Corner (Palau)",
+          "en": "Blue Corner (Palau, Micronesia)"
+        },
+        "countryCode": "PW",
+        "region": "coral-triangle",
+        "kind": "wall",
+        "depthMinM": 10,
+        "depthMaxM": 30,
+        "level": "advanced",
+        "highlights": [
+          "sharks",
+          "drift",
+          "walls"
+        ],
+        "exposure": "exposed",
+        "species": [
+          "Carcharhinus amblyrhynchos",
+          "Triaenodon obesus",
+          "Cheilinus undulatus"
+        ],
+        "description": {
+          "it": "Pianoro oceanico sferzato da forti correnti dove ci si aggancia al reef col reef-hook per ammirare decine di squali e carangidi.",
+          "en": "World's quintessential reef-hook drift dive where divers anchor into raging currents surrounded by hunting sharks."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.7479,
+          -0.5095
+        ]
+      },
+      "properties": {
+        "id": "diverout-id-blue-magic",
+        "name": {
+          "it": "Blue Magic",
+          "en": "Blue Magic"
+        },
+        "countryCode": "ID",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Blue Magic è una dorsale corallina sommersa al largo che si innalza dal fondale marino nel tratto centrale dello Stretto di Dampier. Poiché questo pinnacolo si trova isolato in mare aperto, le correnti convogliano enormi concentrazioni di predatori pelagici e fitti banchi di pesci sul suo pianoro. I subacquei scendono solitamente in modo rapido per agganciarsi con il reef hook o ripararsi sul versante controcorrente, ammirando le mante scivolare sopra le stazioni di pulizia mentre muri compatti di carangidi e barracuda volteggiano sopra le loro teste.",
+          "en": "Scenic dive site in ID known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.602,
+          -0.548
+        ]
+      },
+      "properties": {
+        "id": "blue-magic-raja-ampat",
+        "name": {
+          "it": "Blue Magic (Raja Ampat)",
+          "en": "Blue Magic Manta Seamount (Raja Ampat)"
+        },
+        "countryCode": "ID",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 12,
+        "depthMaxM": 30,
+        "level": "advanced",
+        "highlights": [
+          "mantas",
+          "pelagic"
+        ],
+        "exposure": "exposed",
+        "species": [
+          "Mobula birostris",
+          "Triaenodon obesus",
+          "Caranx sexfasciatus"
+        ],
+        "description": {
+          "it": "Pinnacolo sommerso in pieno mare aperto con celebre stazione di pulizia per mante oceaniche giganti e banchi di carangidi.",
+          "en": "Open-ocean submarine pinnacle featuring a renowned cleaning station for giant oceanic mantas."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.665,
+          9.2357
+        ]
+      },
+      "properties": {
+        "id": "diverout-ph-bogo-marine-sanctuary",
+        "name": {
+          "it": "Bogo Marine Sanctuary",
+          "en": "Bogo Marine Sanctuary"
+        },
+        "countryCode": "PH",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato lungo la costa orientale di Siquijor, il Bogo Marine Sanctuary presenta una barriera corallina protetta che passa da basse praterie sottomarine a un giardino di coralli in dolce pendenza. Il sito offre condizioni rilassanti con una sana copertura di coralli duri e una variegata vita macro che trova rifugio tra anemoni di mare e formazioni di spugne.",
+          "en": "Scenic dive site in PH known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.8144,
+          14.7469
+        ]
+      },
+      "properties": {
+        "id": "diverout-th-boh-yai-mine",
+        "name": {
+          "it": "Boh Yai Mine",
+          "en": "Boh Yai Mine"
+        },
+        "countryCode": "TH",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "La miniera di Boh Yai è una miniera abbandonata e allagata di piombo e zinco, situata tra le colline boscose di Kanchanaburi. I subacquei tecnici possono esplorare un labirinto di pozzi sommersi, gallerie di trasporto orizzontali e ampie sale scavate nella roccia. Reperti industriali come carrelli per i minerali, binari, armature in legno e cavi elettrici si sono conservati intatti nelle profondità tranquille e povere di ossigeno.",
+          "en": "Scenic dive site in TH known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.6096,
+          -2.2225
+        ]
+      },
+      "properties": {
+        "id": "diverout-id-boo-east",
+        "name": {
+          "it": "Boo East",
+          "en": "Boo East"
+        },
+        "countryCode": "ID",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato al largo del versante orientale di Boo Island, nella regione di Misool a Raja Ampat meridionale, questo sito presenta un suggestivo pendio sottomarino che sfuma in ripide pareti e imponenti pinnacoli corallini (bommie). I potenti movimenti di marea nutrono fitte distese di gorgonie giganti e coralli molli lungo i profili del reef. I subacquei si lasciano trasportare dalla corrente lungo la dorsale, incontrando banchi di pelagici e creature macro rifugiate nei profondi anfratti della barriera corallina.",
+          "en": "Scenic dive site in ID known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.1814,
+          8.7463
+        ]
+      },
+      "properties": {
+        "id": "diverout-th-boonsung-wreck",
+        "name": {
+          "it": "Boonsung Wreck",
+          "en": "Boonsung Wreck"
+        },
+        "countryCode": "TH",
+        "region": "coral-triangle",
+        "kind": "wreck",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "wreck",
+          "history"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Affondata a metà degli anni '80 al largo della costa di Khao Lak, questa ex draga per l'estrazione dello stagno è stata successivamente spezzata in diversi agglomerati di lamiere d'acciaio dallo tsunami del 2004. Funge da barriera artificiale isolata su un vasto fondale sabbioso, attirando dense concentrazioni di specie marine giovanili e predatori. I subacquei incontrano spesso enormi banchi di dentici che stazionano sopra la sovrastruttura crollata, oltre a numerose murene stanziali rintanate in ogni fessura.",
+          "en": "Scenic dive site in TH known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9836,
+          13.5117
+        ]
+      },
+      "properties": {
+        "id": "diverout-ph-boulders",
+        "name": {
+          "it": "Boulders",
+          "en": "Boulders"
+        },
+        "countryCode": "PH",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato al largo della costa di Puerto Galera, vicino a Escarceo Point, Boulders si distingue per le imponenti formazioni rocciose sommerse adagiate su un fondale sabbioso. Queste spettacolari strutture rocciose creano complessi anfratti, sporgenze e passaggi sottomarini ricoperti da vivaci coralli molli e gorgonie. Le correnti che attraversano il Verde Island Passage nutrono floride comunità marine, rendendolo un punto ideale sia per la macro sia per gli avvistamenti di fauna pelagica di passaggio.",
+          "en": "Scenic dive site in PH known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0513,
+          -8.3564
+        ]
+      },
+      "properties": {
+        "id": "diverout-id-bounty-wreck",
+        "name": {
+          "it": "Bounty Wreck",
+          "en": "Bounty Wreck"
+        },
+        "countryCode": "ID",
+        "region": "coral-triangle",
+        "kind": "wreck",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "wreck",
+          "history"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato al largo della costa sud-occidentale di Gili Meno, questo sito è caratterizzato da un pontile galleggiante collassato che un tempo fungeva da molo e ormeggio per catamarani. Nel tempo, la struttura in acciaio affondata si è trasformata in una barriera corallina artificiale ricoperta di coralli duri, spugne e idroidi, adagiata su un dolce pendio sabbioso. I subacquei di solito iniziano l'immersione attorno alla struttura contorta del relitto prima di lasciarsi trasportare oltre i pinnacoli e le formazioni coralline adiacenti.",
+          "en": "Scenic dive site in ID known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.8071,
+          12.6656
+        ]
+      },
+      "properties": {
+        "id": "diverout-th-breman-ship-wreck",
+        "name": {
+          "it": "Breman ship wreck",
+          "en": "Breman ship wreck"
+        },
+        "countryCode": "TH",
+        "region": "coral-triangle",
+        "kind": "wreck",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "wreck",
+          "history"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Affondato negli anni '30 a seguito dell'esplosione di una caldaia, questo mercantile tedesco giace in posizione eretta su un fondale piatto al largo della costa di Sattahip. I decenni trascorsi sott'acqua ne hanno fatto crollare la sovrastruttura, esponendo il blocco motore, i gruppi caldaia e le lamiere sparse dello scafo come un reef artificiale. Il minor afflusso di subacquei rispetto ai relitti interni di Pattaya consente alla vita marina incrostante di colonizzare la struttura metallica, mentre banchi di avannotti trovano riparo tra le ordinate, attirando predatori pelagici dal canale aperto.",
+          "en": "Scenic dive site in TH known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.3028,
+          7.7486
+        ]
+      },
+      "properties": {
+        "id": "diverout-th-buddha-island",
+        "name": {
+          "it": "Buddha Island",
+          "en": "Buddha Island"
+        },
+        "countryCode": "TH",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situata al largo della punta meridionale di Phuket, vicino a Rawai, Buddha Island presenta massi granitici sommersi che digradano verso pendii di corallo duro e distese sabbiose. Il sito prende il nome dal monastero e dalla maestosa statua del Buddha sull'isolotto adiacente. I subacquei possono esplorare giardini di corallo riparati e ricchi di vita marina, con la possibilità di immersioni in corrente lungo i margini rocciosi esterni quando le maree si intensificano.",
+          "en": "Scenic dive site in TH known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.3659,
+          7.609
+        ]
+      },
+      "properties": {
+        "id": "diverout-th-bungalow-bay-racha-yai",
+        "name": {
+          "it": "Bungalow Bay, Racha Yai",
+          "en": "Bungalow Bay, Racha Yai"
+        },
+        "countryCode": "TH",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situata lungo la costa occidentale di Koh Racha Yai, Bungalow Bay presenta un ampio fondale sabbioso in lieve pendenza, fiancheggiato da formazioni di barriera corallina su entrambi i bracci rocciosi a nord e a sud. Strutture artificiali in cemento sparse sulla sabbia attirano banchi di pesci giovani e crostacei. I subacquei solitamente navigano lungo i pendii della barriera corallina prima di esplorare la sabbia aperta alla ricerca di specie bentoniche.",
+          "en": "Scenic dive site in TH known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.677,
+          -8.3442
+        ]
+      },
+      "properties": {
+        "id": "diverout-id-bunutan",
+        "name": {
+          "it": "Bunutan",
+          "en": "Bunutan"
+        },
+        "countryCode": "ID",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Estendendosi lungo la costa orientale di Bali vicino ad Amed, Bunutan è rinomata soprattutto per il suo ampio pendio sabbioso popolato da migliaia di eterocongri. I subacquei solitamente si lasciano trasportare dalla corrente prevalente oltre formazioni coralline a terrazza, spugne a barile e ventagli di mare prima di raggiungere la vasta distesa di anguille giardiniere. Le acque aperte che costeggiano il pendio della barriera corallina attirano frequentemente specie pelagiche di passaggio, inclusi banchi di barracuda e squali di barriera.",
+          "en": "Scenic dive site in ID known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.8132,
+          10.1179
+        ]
+      },
+      "properties": {
+        "id": "diverout-th-buoyancy-world",
+        "name": {
+          "it": "Buoyancy World",
+          "en": "Buoyancy World"
+        },
+        "countryCode": "TH",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Created by the local dive community to alleviate diver impact on adjacent natural reefs, Buoyancy World is an artificial training park set over an expansive sandy plain. Divers navigate concrete blocks, circular swim-through hoops, pyramid frames, and hollow sculptures designed specifically for honing trim and finning techniques. While primarily constructed as a skills arena, algae, soft corals, and juvenile fish have colonised the structures, creating pockets of life away from the heavy traffic of nearby sites.",
+          "en": "Scenic dive site in TH known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.541,
+          -8.6733
+        ]
+      },
+      "properties": {
+        "id": "diverout-id-buyuk",
+        "name": {
+          "it": "Buyuk",
+          "en": "Buyuk"
+        },
+        "countryCode": "ID",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato lungo la costa settentrionale di Nusa Penida, Buyuk presenta un ampio reef in pendenza ricoperto di coralli duri, spugne e gorgonie. Le immersioni qui si svolgono solitamente in corrente, permettendo di scivolare lungo il profilo della barriera osservando banchi di pesci di barriera e pelagici nel blu. Forti correnti costiere spazzano frequentemente il pendio, portando a tratti risalite di acque fredde dalle profondità dello Stretto di Lombok.",
+          "en": "Scenic dive site in ID known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.3251,
+          7.5096
+        ]
+      },
+      "properties": {
+        "id": "diverout-th-camera-bay-racha-noi",
+        "name": {
+          "it": "Camera Bay, Racha Noi",
+          "en": "Camera Bay, Racha Noi"
+        },
+        "countryCode": "TH",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Camera Bay è situata lungo la costa di Koh Racha Noi e offre un ancoraggio protetto e un'area di immersione al riparo dal moto ondoso aperto. La topografia è caratterizzata da massi granitici sparsi intervallati da giardini di corallo duro che degradano dolcemente verso la sabbia aperta. Verso i margini della barriera corallina e nei punti più profondi si radunano banchi di lutianidi e fucilieri, mentre il fondale sabbioso e riparato offre aree di riposo per razze bentoniche e occasionali squali leopardo.",
+          "en": "Scenic dive site in TH known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.8727,
+          -2.1041
+        ]
+      },
+      "properties": {
+        "id": "diverout-id-candy-store",
+        "name": {
+          "it": "Candy Store",
+          "en": "Candy Store"
+        },
+        "countryCode": "ID",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Candy Store è un sistema di scogliere sommerse situato nella catena di Daram, nel sud di Raja Ampat. Il sito deve il suo nome allo spettacolare caleidoscopio di coralli molli e gigantesche gorgonie che ricoprono i crinali e i pendii sottomarini. Spazzati da correnti ricche di nutrienti, il pianoro e le pareti a strapiombo ospitano fitti banchi di pelagici insieme a microscopiche creature nascoste tra i rami delle gorgonie.",
+          "en": "Scenic dive site in ID known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.6675,
+          -8.7914
+        ]
+      },
+      "properties": {
+        "id": "diverout-id-cannibal-rock",
+        "name": {
+          "it": "Cannibal Rock",
+          "en": "Cannibal Rock"
+        },
+        "countryCode": "ID",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato a Horseshoe Bay, al largo della punta meridionale dell'isola di Rinca, Cannibal Rock è un seamount sottomarino rinomato per la sua straordinaria biodiversità e la densa copertura di invertebrati. I risalimenti di acque ricche di nutrienti in questa baia protetta alimentano fitti tappeti di mele di mare, coralli molli e stelle piumate. I subacquei scendono solitamente a spirale attorno al pinnacolo, esplorando profonde cenge sabbiose e affioramenti rocciosi dove creature macro e banchi di pesci trovano riparo dalle correnti mutevoli.",
+          "en": "Scenic dive site in ID known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.6732,
+          -8.8129
+        ]
+      },
+      "properties": {
+        "id": "diverout-id-cannibal-rock-2",
+        "name": {
+          "it": "Cannibal Rock",
+          "en": "Cannibal Rock"
+        },
+        "countryCode": "ID",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Erigendosi dalle profondità di Horseshoe Bay, al largo della parte meridionale dell'isola di Rinca, questo seamount sommerso è lambito dalle correnti ascensionali ricche di nutrienti dell'Oceano Indiano meridionale. Fitte distese di mele di mare, coralli molli e vibranti crinoidi ricoprono l'intero pinnacolo. Gli appassionati di macro possono avvistare molteplici specie di cavallucci marini pigmei, pesci rana e rari nudibranchi che si rifugiano tra gli invertebrati, mentre banchi di lutianidi e pesci chirurgo volteggiano attorno alla sommità.",
+          "en": "Scenic dive site in ID known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.015,
+          11.975
+        ]
+      },
+      "properties": {
+        "id": "coron-lusong-gunboat",
+        "name": {
+          "it": "Cannoniera Lusong (Coron)",
+          "en": "Lusong Gunboat Wreck (Coron, Philippines)"
+        },
+        "countryCode": "PH",
+        "region": "coral-triangle",
+        "kind": "wreck",
+        "depthMinM": 2,
+        "depthMaxM": 12,
+        "level": "beginner",
+        "highlights": [
+          "wreck",
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Amphiprion ocellaris",
+          "Pomacanthus semicirculatus"
+        ],
+        "description": {
+          "it": "Cannoniera giapponese affondata in acque poco profonde e cristalline, ricoperta da giardini di corallo duro e pesci tropicali.",
+          "en": "Japanese WWII gunboat resting in shallow, calm water with its stern breaking the surface, blanketed in hard corals."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.672,
+          -0.554
+        ]
+      },
+      "properties": {
+        "id": "cape-kri-raja-ampat",
+        "name": {
+          "it": "Cape Kri (Raja Ampat)",
+          "en": "Cape Kri (Dampier Strait, Raja Ampat)"
+        },
+        "countryCode": "ID",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 8,
+        "depthMaxM": 35,
+        "level": "intermediate",
+        "highlights": [
+          "corals",
+          "sharks"
+        ],
+        "exposure": "exposed",
+        "species": [
+          "Epinephelus lanceolatus",
+          "Carcharhinus melanopterus",
+          "Triaenodon obesus"
+        ],
+        "description": {
+          "it": "Detentore del record mondiale per biodiversità ittica con 374 specie diverse identificate in una singola immersione.",
+          "en": "World record holder for fish biodiversity with 374 distinct fish species recorded on a single dive."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.562,
+          -8.452
+        ]
+      },
+      "properties": {
+        "id": "castle-rock-komodo",
+        "name": {
+          "it": "Castle Rock (Komodo)",
+          "en": "Castle Rock (Komodo National Park)"
+        },
+        "countryCode": "ID",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 12,
+        "depthMaxM": 30,
+        "level": "advanced",
+        "highlights": [
+          "sharks",
+          "drift",
+          "pelagic"
+        ],
+        "exposure": "exposed",
+        "species": [
+          "Carcharhinus amblyrhynchos",
+          "Caranx ignobilis",
+          "Tursiops truncatus"
+        ],
+        "description": {
+          "it": "Montagna sommersa con visibilità eccezionale, banchi di carangidi giganti, tonni dente di cane e squali pinna bianca in caccia.",
+          "en": "Submerged seamount with stellar visibility, swirling trevally schools, dogtooth tuna, and cruising reef sharks."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.448,
+          7.342
+        ]
+      },
+      "properties": {
+        "id": "chandelier-cave-palau",
+        "name": {
+          "it": "Chandelier Cave (Palau)",
+          "en": "Chandelier Cave (Koror, Palau)"
+        },
+        "countryCode": "PW",
+        "region": "coral-triangle",
+        "kind": "cave",
+        "depthMinM": 6,
+        "depthMaxM": 12,
+        "level": "intermediate",
+        "highlights": [
+          "caves"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Synchiropus splendidus"
+        ],
+        "description": {
+          "it": "Cinque camere sotterranee allagate con formazioni calcaree a candeliere e sacche d'aria respirabile.",
+          "en": "Submerged limestone cavern containing five chambers with glittering stalactite formations and air pockets."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6667,
+          8.6833
+        ]
+      },
+      "properties": {
+        "id": "vietnam-con-dao-hon-bay-canh",
+        "name": {
+          "it": "Con Dao National Park - Hon Bay Canh",
+          "en": "Con Dao National Park - Hon Bay Canh"
+        },
+        "countryCode": "VN",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 8,
+        "depthMaxM": 28,
+        "level": "intermediate",
+        "highlights": [
+          "turtles",
+          "corals",
+          "sharks"
+        ],
+        "exposure": "moderate",
+        "species": [
+          "Dugong dugon",
+          "Chelonia mydas",
+          "Eretmochelys imbricata"
+        ],
+        "description": {
+          "it": "Parco nazionale remoto con barriere coralline vergini e principale area di nidificazione delle tartarughe verdi in Vietnam, con avvistamenti rari di dugonghi.",
+          "en": "Remote pristine national park with untouched coral reefs, major sea turtle nesting site, and occasional sightings of wild dugongs."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.458,
+          -8.715
+        ]
+      },
+      "properties": {
+        "id": "crystal-bay-nusa-penida",
+        "name": {
+          "it": "Crystal Bay (Nusa Penida, Bali)",
+          "en": "Crystal Bay (Nusa Penida, Bali)"
+        },
+        "countryCode": "ID",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 15,
+        "depthMaxM": 40,
+        "level": "advanced",
+        "highlights": [
+          "pelagic",
+          "walls"
+        ],
+        "exposure": "exposed",
+        "species": [
+          "Mola alexandrini",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Acque cristalline e fresche dove le correnti di risalita favoriscono gli incontri stagionali con il gigantesco pesce luna oceanico (Mola mola).",
+          "en": "Sheltered bay with crystal-clear waters where cold upwellings bring the colossal oceanic sunfish (Mola mola) to cleaning stations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.6444,
+          8.6249
+        ]
+      },
+      "properties": {
+        "id": "diverout-th-elephant-head-rock-similan",
+        "name": {
+          "it": "Elephant Head Rock, Similan",
+          "en": "Elephant Head Rock, Similan"
+        },
+        "countryCode": "TH",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Chiamato così per lo sperone di granito che affiora in superficie ricordando la testa di un elefante, questo iconico sito delle Isole Similan è un intricato labirinto sottomarino. Immensi massi granitici poggiano l'uno sull'altro in modo spettacolare, creando una suggestiva rete di archi, ampi passaggi e profondi canyon. I pesci pelagici pattugliano il blu aperto lungo i drop-off, mentre la vita macro si nasconde nelle fessure riparate e sotto gli strapiombi decorati da gorgonie.",
+          "en": "Scenic dive site in TH known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.8242,
+          7.6898
+        ]
+      },
+      "properties": {
+        "id": "diverout-th-garang-heng",
+        "name": {
+          "it": "Garang Heng",
+          "en": "Garang Heng"
+        },
+        "countryCode": "TH",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Garang Heng è un pinnacolo calcareo sommerso situato a est dell'arcipelago di Phi Phi. La sommità del reef è ricoperta da una fitta distesa di anemoni di mare e coralli molli, prima di degradare verso pianori sabbiosi e distese di massi dove riposano frequentemente gli squali leopardo. Poiché la formazione rimane interamente sott'acqua senza mai affiorare, il passaggio di imbarcazioni in superficie è frequente: è quindi essenziale risalire con cautela lungo la cima di ormeggio o segnalarsi lanciando un pedagno.",
+          "en": "Scenic dive site in TH known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.275,
+          7.155
+        ]
+      },
+      "properties": {
+        "id": "german-channel-palau",
+        "name": {
+          "it": "German Channel (Palau)",
+          "en": "German Channel (Palau)"
+        },
+        "countryCode": "PW",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 10,
+        "depthMaxM": 25,
+        "level": "intermediate",
+        "highlights": [
+          "mantas",
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Mobula alfredi",
+          "Carcharhinus amblyrhynchos"
+        ],
+        "description": {
+          "it": "Canale artificiale scavato nel reef dove le mante oceaniche e di barriera stazionano regolarmente sulle rocce di pulizia.",
+          "en": "Historical channel through the reef rim serving as an active feeding lane and cleaning station for manta rays."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.8101,
+          10.1266
+        ]
+      },
+      "properties": {
+        "id": "diverout-th-green-rock",
+        "name": {
+          "it": "Green Rock",
+          "en": "Green Rock"
+        },
+        "countryCode": "TH",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situata al largo della punta nord-occidentale di Koh Nang Yuan, Green Rock è formata da grandi massi granitici sommersi che creano un labirinto di passaggi subacquei, archi e strapiombi. La struttura rocciosa affiora appena sotto la superficie per poi scendere verso un fondale sabbioso punteggiato da formazioni coralline. Il pianoro sabbioso a nord ospita una nota area di nidificazione dei pesci balestra, dove sono frequenti i comportamenti territoriali durante la stagione riproduttiva.",
+          "en": "Scenic dive site in TH known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.9644,
+          9.7762
+        ]
+      },
+      "properties": {
+        "id": "diverout-th-haad-yao",
+        "name": {
+          "it": "Haad Yao",
+          "en": "Haad Yao"
+        },
+        "countryCode": "TH",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situata lungo la costa nord-occidentale di Koh Phangan, Haad Yao presenta una barriera corallina costiera che digrada dolcemente verso un fondale sabbioso. Accessibile direttamente dalla spiaggia o in longtail boat, la struttura del reef ospita estese colonie di coralli duri, arricchite da formazioni a corna di cervo e imponenti massi di poriti. Il sito offre immersioni rilassate e tranquille, dove i subacquei possono spesso scovare creature macro tra i detriti corallini e banchi di pesci di barriera.",
+          "en": "Scenic dive site in TH known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7767,
+          12.8992
+        ]
+      },
+      "properties": {
+        "id": "diverout-th-had-nuan-aka-koh-lan-vak",
+        "name": {
+          "it": "Had Nuan ( AKA Koh Lan Vak)",
+          "en": "Had Nuan ( AKA Koh Lan Vak)"
+        },
+        "countryCode": "TH",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato al largo della costa meridionale di Koh Larn, nelle Pattaya Near Islands, Had Nuan presenta un fondale in dolce pendenza composto da distese di sabbia, formazioni coralline sparse e blocchi artificiali in cemento. La baia riparata offre condizioni di acque calme, ideali per immersioni di addestramento, check dive e rilassanti esplorazioni della barriera corallina.",
+          "en": "Scenic dive site in TH known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.221,
+          1.451
+        ]
+      },
+      "properties": {
+        "id": "hairball-lembeh",
+        "name": {
+          "it": "Hairball Muck Dive (Lembeh)",
+          "en": "Hairball (Lembeh Strait, Indonesia)"
+        },
+        "countryCode": "ID",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 20,
+        "level": "beginner",
+        "highlights": [
+          "macro"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Amphioctopus marginatus",
+          "Hapalochlaena lunulata",
+          "Antennarius striatus"
+        ],
+        "description": {
+          "it": "Il santuario del muck diving: polpi dagli anelli blu, polpi del cocco e bizzarre creature marine mimetizzate su sabbia nera.",
+          "en": "The iconic muck diving site: blue-ringed octopuses, coconut octopuses, and flamboyant cuttlefish over volcanic sand."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.9544,
+          12.5335
+        ]
+      },
+      "properties": {
+        "id": "diverout-th-hardeep",
+        "name": {
+          "it": "Hardeep",
+          "en": "Hardeep"
+        },
+        "countryCode": "TH",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Adagiata sul fianco di dritta nel canale di Samae San, la HTMS Hardeep è un relitto della Seconda Guerra Mondiale affondato dai bombardieri alleati nel 1945. Originariamente il mercantile a vapore SS Suedsakorn, lo scafo forma oggi una barriera corallina artificiale dove i subacquei possono esplorare le stive aperte, la struttura della sala macchine e l'asse dell'elica. Incrostazioni di coralli molli e spugne ricoprono l'acciaio. Forti correnti di marea attraversano il canale, richiedendo una pianificazione dell'immersione nei momenti di stanca.",
+          "en": "Scenic dive site in TH known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.825,
+          7.152
+        ]
+      },
+      "properties": {
+        "id": "hin-daeng-thailand",
+        "name": {
+          "it": "Hin Daeng / Roccia Rossa (Thailandia)",
+          "en": "Hin Daeng / Red Rock (Thailand)"
+        },
+        "countryCode": "TH",
+        "region": "coral-triangle",
+        "kind": "wall",
+        "depthMinM": 15,
+        "depthMaxM": 45,
+        "level": "advanced",
         "highlights": [
           "walls",
-          "drift",
+          "mantas"
+        ],
+        "exposure": "offshore",
+        "species": [
+          "Mobula birostris",
+          "Rhincodon typus"
+        ],
+        "description": {
+          "it": "La parete a strapiombo più profonda della Thailandia, coperta da coralli rossi e visitata regolarmente da grandi mante oceaniche.",
+          "en": "Thailand's deepest vertical wall dropping past 50m, carpeted in red soft corals and visited by oceanic mantas."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.758,
+          1.625
+        ]
+      },
+      "properties": {
+        "id": "bunaken-lekuan-1",
+        "name": {
+          "it": "Lekuan I (Parco Nazionale di Bunaken)",
+          "en": "Lekuan I (Bunaken National Park)"
+        },
+        "countryCode": "ID",
+        "region": "coral-triangle",
+        "kind": "wall",
+        "depthMinM": 10,
+        "depthMaxM": 40,
+        "level": "beginner",
+        "highlights": [
+          "walls",
+          "turtles"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Chelonia mydas",
+          "Eretmochelys imbricata",
+          "Chaetodon kleinii"
+        ],
+        "description": {
+          "it": "Parete verticale a picco che scende negli abissi di Manado, fitta di tartarughe marine giganti adagiate sugli anfratti di corallo.",
+          "en": "Monumental vertical drop-off plunging into the deep Manado Trench, populated by dozens of giant green sea turtles."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.548,
+          -2.185
+        ]
+      },
+      "properties": {
+        "id": "misool-magic-mountain",
+        "name": {
+          "it": "Magic Mountain (Misool)",
+          "en": "Magic Mountain / Karang Bayang (Misool)"
+        },
+        "countryCode": "ID",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 10,
+        "depthMaxM": 30,
+        "level": "intermediate",
+        "highlights": [
+          "mantas",
           "sharks",
           "corals"
         ],
+        "exposure": "exposed",
         "species": [
-          "Carcharhinus melanopterus",
-          "Napoléon fish",
-          "Hawksbill turtle"
+          "Mobula alfredi",
+          "Carcharhinus amblyrhynchos",
+          "Hippocampus bargibanti"
         ],
-        "description_en": "Submerged rocky pinnacle plunging into roaring tidal currents. Untouched coral gardens blanketed with anthias, patrolling reef sharks, napoleon wrasses, and giant trevallies.",
-        "description_it": "Pinnacolo roccioso battuto da correnti impetuose. Pareti ricoperte al 100% da coralli vivi, sciami di anthias arancioni, squali pinna bianca e pesci napoleone."
+        "description": {
+          "it": "Secca sottomarina nel cuore della riserva marina protetta di Misool con stazioni di pulizia per mante di barriera e cavallucci pigmei.",
+          "en": "Seamount in the Misool No-Take Marine Reserve hosting reef manta cleaning stations, grey reef sharks, and pygmy seahorses."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.518,
+          -8.802
+        ]
+      },
+      "properties": {
+        "id": "nusa-penida-manta-point",
+        "name": {
+          "it": "Manta Point (Nusa Penida, Bali)",
+          "en": "Manta Point (Nusa Penida, Bali)"
+        },
+        "countryCode": "ID",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 8,
+        "depthMaxM": 18,
+        "level": "beginner",
+        "highlights": [
+          "mantas"
+        ],
+        "exposure": "exposed",
+        "species": [
+          "Mobula alfredi",
+          "Taeniura lymma"
+        ],
+        "description": {
+          "it": "Baia protetta sotto le scogliere di Nusa Penida celebre per la presenza garantita di mante residenti sulle rocce di pulizia.",
+          "en": "Protected bay beneath towering cliffs famous for year-round resident reef manta rays dancing over cleaning bommies."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.185,
+          11.315
+        ]
+      },
+      "properties": {
+        "id": "malapascua-monad-shoal",
+        "name": {
+          "it": "Monad Shoal (Malapascua)",
+          "en": "Monad Shoal (Malapascua, Philippines)"
+        },
+        "countryCode": "PH",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 18,
+        "depthMaxM": 28,
+        "level": "advanced",
+        "highlights": [
+          "sharks"
+        ],
+        "exposure": "exposed",
+        "species": [
+          "Alopias pelagicus",
+          "Mobula birostris"
+        ],
+        "description": {
+          "it": "L'unico posto al mondo dove è possibile ammirare all'alba i rari squali volpe pelagici che salgono sulle stazioni di pulizia.",
+          "en": "The only location on Earth where rare pelagic thresher sharks can be encountered consistently at sunrise cleaning stations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.228,
+          1.458
+        ]
+      },
+      "properties": {
+        "id": "nudi-falls-lembeh",
+        "name": {
+          "it": "Nudi Falls (Stretto di Lembeh)",
+          "en": "Nudi Falls (Lembeh Strait, Sulawesi)"
+        },
+        "countryCode": "ID",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 8,
+        "depthMaxM": 25,
+        "level": "beginner",
+        "highlights": [
+          "macro"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Rhinopias frondosa",
+          "Nembrotha cristata",
+          "Wunderpus photogenicus"
+        ],
+        "description": {
+          "it": "Capitale mondiale della macrofotografia e muck diving su sabbia scura vulcanica con nudibranchi rarissimi e polpi mimetici.",
+          "en": "World capital of muck diving and macro photography over black volcanic sand with rare nudibranchs and mimic octopuses."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.478,
+          12.665
+        ]
+      },
+      "properties": {
+        "id": "apo-reef-philippines",
+        "name": {
+          "it": "Parco Naturale di Apo Reef",
+          "en": "Apo Reef Natural Park (Mindoro, Philippines)"
+        },
+        "countryCode": "PH",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 10,
+        "depthMaxM": 35,
+        "level": "intermediate",
+        "highlights": [
+          "corals",
+          "sharks",
+          "walls"
+        ],
+        "exposure": "offshore",
+        "species": [
+          "Carcharhinus amblyrhynchos",
+          "Chelonia mydas",
+          "Triaenodon obesus"
+        ],
+        "description": {
+          "it": "Il secondo sistema di barriera corallina contiguo più grande al mondo dopo la Grande Barriera australiana: acque trasparenti e squali.",
+          "en": "The world's second largest contiguous coral reef system: untouched atoll walls teeming with reef sharks and sea turtles."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.038,
+          11.968
+        ]
+      },
+      "properties": {
+        "id": "coron-irako-wreck",
+        "name": {
+          "it": "Relitto Irako (Coron Bay)",
+          "en": "Irako Wreck (Coron Bay, Philippines)"
+        },
+        "countryCode": "PH",
+        "region": "coral-triangle",
+        "kind": "wreck",
+        "depthMinM": 28,
+        "depthMaxM": 42,
+        "level": "advanced",
+        "highlights": [
+          "wreck",
+          "history"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Caranx sexfasciatus",
+          "Pterois volitans"
+        ],
+        "description": {
+          "it": "Grande nave frigorifera della flotta imperiale giapponese affondata nel 1944; una delle migliori penetrazioni su relitto d'Asia.",
+          "en": "147m Japanese imperial fleet refrigeration ship sunk in 1944; considered one of Asia's finest wreck penetrations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.215,
+          1.435
+        ]
+      },
+      "properties": {
+        "id": "mawali-wreck-lembeh",
+        "name": {
+          "it": "Relitto Mawali (Stretto di Lembeh)",
+          "en": "Mawali Japanese Freighter Wreck (Lembeh)"
+        },
+        "countryCode": "ID",
+        "region": "coral-triangle",
+        "kind": "wreck",
+        "depthMinM": 15,
+        "depthMaxM": 30,
+        "level": "intermediate",
+        "highlights": [
+          "wreck",
+          "macro"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Pterois antennata",
+          "Antennarius maculatus"
+        ],
+        "description": {
+          "it": "Mercantile giapponese della seconda guerra mondiale adagiato su un fianco, interamente ricoperto di coralli molli e pesci rana.",
+          "en": "WWII Japanese freighter lying on its port side, completely blanketed in colorful soft corals and hosting frogfish."
+        },
+        "curated": true
       }
     },
     {
@@ -78,101 +4602,35 @@
         "type": "Point",
         "coordinates": [
           115.592,
-          -8.274
+          -8.275
         ]
       },
       "properties": {
-        "id": "coraltri-bali-usat-liberty",
-        "name": "USAT Liberty Shipwreck",
-        "name_it": "Relitto USAT Liberty (Tulamben, Bali)",
-        "region": "Indonesia - Bali (Tulamben)",
+        "id": "usat-liberty-tulamben",
+        "name": {
+          "it": "Relitto USAT Liberty (Tulamben, Bali)",
+          "en": "USAT Liberty Wreck (Bali, Indonesia)"
+        },
         "countryCode": "ID",
+        "region": "coral-triangle",
         "kind": "wreck",
         "depthMinM": 5,
         "depthMaxM": 30,
         "level": "beginner",
-        "exposure": "sheltered_south",
         "highlights": [
           "wreck",
-          "history",
-          "macro"
-        ],
-        "species": [
-          "Bolbometopon muricatum",
-          "Pygmy seahorse",
-          "Acanthurus lineatus"
-        ],
-        "description_en": "US Army transport ship (125m) torpedoed by a Japanese submarine in 1942 and pushed off the beach by Mount Agung's lava eruption in 1963. Encrusted with gorgonians, home to resident bumphead parrotfish herds.",
-        "description_it": "Nave da trasporto USA (125m) silurata nel 1942 e spinta in mare dalla lava del vulcano Agung nel 1963. Facile accesso da riva, colonizzata da coralli e branchi di pesci pappagallo giganti."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          119.8667,
-          8.95
-        ]
-      },
-      "properties": {
-        "id": "coraltri-philippines-tubbataha",
-        "name": "Tubbataha Reefs Natural Park",
-        "name_it": "Parco Naturale delle Barriere di Tubbataha",
-        "region": "Philippines - Sulu Sea (Palawan)",
-        "countryCode": "PH",
-        "kind": "reef",
-        "depthMinM": 8,
-        "depthMaxM": 50,
-        "level": "advanced",
-        "exposure": "exposed_all",
-        "highlights": [
-          "sharks",
-          "mantas",
-          "walls",
           "corals"
         ],
+        "exposure": "sheltered",
         "species": [
-          "Rhincodon typus",
-          "Sphyrna lewini",
-          "Manta birostris"
+          "Bolbometopon muricatum",
+          "Eretmochelys imbricata"
         ],
-        "description_en": "UNESCO World Heritage isolated atolls in the center of the Sulu Sea. Sheer 100-metre drop-offs with pristine coral cover, whale sharks, hammerheads, and manta rays.",
-        "description_it": "Atolli isolati nel mezzo del mare di Sulu (Patrimonio UNESCO). Pareti a picco nel blu con coralli incontaminati, squali balena, squali martello e mante giganti."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          118.6333,
-          4.1167
-        ]
-      },
-      "properties": {
-        "id": "coraltri-malaysia-sipadan-barracuda",
-        "name": "Barracuda Point",
-        "name_it": "Barracuda Point (Sipadan)",
-        "region": "Malaysia - Sabah (Sipadan Island)",
-        "countryCode": "MY",
-        "kind": "reef",
-        "depthMinM": 8,
-        "depthMaxM": 40,
-        "level": "intermediate",
-        "exposure": "exposed_all",
-        "highlights": [
-          "drift",
-          "sharks",
-          "turtles"
-        ],
-        "species": [
-          "Sphyraena qenie",
-          "Chelonia mydas",
-          "Carcharhinus melanopterus"
-        ],
-        "description_en": "Legendary oceanic island dropping 600m to the ocean floor. Celebrated for a massive spiraling 'tornado' of thousands of chevron barracudas and dozens of green sea turtles.",
-        "description_it": "Isola oceanica che sprofonda per 600m nel blu. Celeberrima per il vortice a 'tornado' formato da migliaia di barracuda e per le decine di tartarughe marine su ogni immersione."
+        "description": {
+          "it": "Nave da carico militare silurata da un sottomarino giapponese nel 1942; relitto accessibile da riva fittamente colonizzato da corallo.",
+          "en": "US Army cargo transport torpedoed by a Japanese submarine in 1942; famous world-class shore wreck encrusted in coral."
+        },
+        "curated": true
       }
     },
     {
@@ -185,28 +4643,295 @@
         ]
       },
       "properties": {
-        "id": "coraltri-thailand-richelieu-rock",
-        "name": "Richelieu Rock",
-        "name_it": "Richelieu Rock (Mare delle Andamane)",
-        "region": "Thailand - Andaman Sea (Mu Koh Surin)",
+        "id": "richelieu-rock-thailand",
+        "name": {
+          "it": "Richelieu Rock (Mare delle Andamane)",
+          "en": "Richelieu Rock (Andaman Sea, Thailand)"
+        },
         "countryCode": "TH",
-        "kind": "pinnacle",
-        "depthMinM": 9,
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 10,
         "depthMaxM": 35,
         "level": "intermediate",
-        "exposure": "exposed_all",
         "highlights": [
           "whaleShark",
+          "corals"
+        ],
+        "exposure": "offshore",
+        "species": [
+          "Rhincodon typus",
+          "Hippocampus tigrinus",
+          "Sepia latimanus"
+        ],
+        "description": {
+          "it": "Pinnacolo a ferro di cavallo famoso per i coralli molli viola e gli incontri stagionali con gli squali balena.",
+          "en": "Horseshoe-shaped pinnacle renowned for vibrant purple soft corals, tiger tail seahorses, and passing whale sharks."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.302,
+          12.168
+        ]
+      },
+      "properties": {
+        "id": "hon-mun-vietnam",
+        "name": {
+          "it": "Riserva Marina di Hon Mun (Nha Trang)",
+          "en": "Hon Mun Marine Protected Area (Vietnam)"
+        },
+        "countryCode": "VN",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 25,
+        "level": "beginner",
+        "highlights": [
+          "corals",
+          "macro"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Amphiprion ocellaris",
+          "Pomacanthus semicirculatus"
+        ],
+        "description": {
+          "it": "Prima area marina protetta del Vietnam con oltre 350 specie di corallo, grotte sottomarine e ricca biodiversità tropicale.",
+          "en": "Vietnam's premier marine protected area featuring over 350 species of hard corals and thriving reef ecosystems."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.012,
+          9.948
+        ]
+      },
+      "properties": {
+        "id": "sail-rock-koh-phangan",
+        "name": {
+          "it": "Sail Rock / Hin Bai (Thailandia)",
+          "en": "Sail Rock / Hin Bai (Gulf of Thailand)"
+        },
+        "countryCode": "TH",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 8,
+        "depthMaxM": 35,
+        "level": "intermediate",
+        "highlights": [
+          "caves",
+          "pelagic",
+          "whaleShark"
+        ],
+        "exposure": "offshore",
+        "species": [
+          "Rhincodon typus",
+          "Caranx sexfasciatus"
+        ],
+        "description": {
+          "it": "Il miglior sito del Golfo di Thailandia: pinnacolo con il celebre camino verticale ('The Chimney') e banchi compatti di carangidi.",
+          "en": "The premier dive in the Gulf of Thailand: dramatic pinnacle featuring 'The Chimney' swim-through and whale shark visits."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.631,
+          4.112
+        ]
+      },
+      "properties": {
+        "id": "turtle-tomb-sipadan",
+        "name": {
+          "it": "Turtle Tomb & Cavern (Sipadan)",
+          "en": "Turtle Tomb (Sipadan, Malaysia)"
+        },
+        "countryCode": "MY",
+        "region": "coral-triangle",
+        "kind": "cave",
+        "depthMinM": 8,
+        "depthMaxM": 40,
+        "level": "advanced",
+        "highlights": [
+          "caves",
+          "turtles"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Sistema labirintico di caverne sottomarine sotto l'isola di Sipadan dove riposano gli scheletri delle antiche tartarughe marine.",
+          "en": "Intricate underwater cavern system beneath Sipadan Island where sea turtles once lost their way, leaving preserved skeletons."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.4167,
+          12.65
+        ]
+      },
+      "properties": {
+        "id": "vietnam-whale-island",
+        "name": {
+          "it": "Whale Island - White Rock",
+          "en": "Whale Island - White Rock"
+        },
+        "countryCode": "VN",
+        "region": "coral-triangle",
+        "kind": "wall",
+        "depthMinM": 12,
+        "depthMaxM": 35,
+        "level": "advanced",
+        "highlights": [
+          "walls",
+          "rays",
+          "corals"
+        ],
+        "exposure": "exposed",
+        "species": [
+          "Aetobatus ocellatus",
+          "Caranx ignobilis",
+          "Taeniura lymma"
+        ],
+        "description": {
+          "it": "Parete sottomarina a strapiombo ricoperta di gorgonie giganti e coralli neri a Van Phong Bay, frequentata da aquile di mare, carangidi e razze a macchie blu.",
+          "en": "Vertical deep wall drop-off draped in giant sea fans and black coral in Van Phong Bay, visited by eagle rays and giant trevallies."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.395,
+          12.652
+        ]
+      },
+      "properties": {
+        "id": "whale-island-vietnam",
+        "name": {
+          "it": "Whale Island / Hon Ong (Vietnam)",
+          "en": "Whale Island (Van Phong Bay, Vietnam)"
+        },
+        "countryCode": "VN",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 8,
+        "depthMaxM": 28,
+        "level": "beginner",
+        "highlights": [
           "macro",
           "corals"
         ],
+        "exposure": "sheltered",
         "species": [
-          "Rhincodon typus",
-          "Hippocampus bargibanti",
-          "Harlequin shrimp"
+          "Solenostomus paradoxus",
+          "Hippocampus kuda"
         ],
-        "description_en": "Isolated horseshoe-shaped limestone pinnacle rising from 35m depth. Thailand's top spot for whale shark encounters and macro photography (harlequin shrimp, seahorses).",
-        "description_it": "Pinnacolo roccioso a ferro di cavallo isolato nel mare aperto. Il miglior punto della Thailandia per avvistare lo squalo balena e macrofauna rarissima (gamberi arlecchino)."
+        "description": {
+          "it": "Baia protetta famosa per pesci ago fantasma, cavallucci marini e giardini di corallo molle incontaminati.",
+          "en": "Peaceful bay famous for ornate ghost pipefish, yellow seahorses, and pristine soft coral gardens."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.8872,
+          13.6868
+        ]
+      },
+      "properties": {
+        "id": "diverout-ph-bubbles-point",
+        "name": {
+          "it": "bubbles’ point ",
+          "en": "bubbles’ point "
+        },
+        "countryCode": "PH",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Bubbles Point si trova lungo la penisola di Calumpan, vicino a Mainit, ed è caratterizzato da un'attività geotermica sottomarina in cui flussi costanti di bolle di gas vulcanico filtrano attraverso il fondale sabbioso. I subacquei possono posizionare le mani sopra le sorgenti calde per percepire l'acqua riscaldata che risale da sotto il fondale marino. Oltre ai fenomeni termici, il pendio lascia spazio a formazioni coralline e distese di detriti ricche di vita macro.",
+          "en": "Scenic dive site in PH known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0293,
+          -8.3397
+        ]
+      },
+      "properties": {
+        "id": "diverout-id-site-1f6466a7",
+        "name": {
+          "it": "샤크포인트",
+          "en": "샤크포인트"
+        },
+        "countryCode": "ID",
+        "region": "coral-triangle",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Shark Point si trova al largo della costa nord-occidentale di Gili Trawangan, caratterizzato da una serie di creste a gradoni e canyon corallini che scendono verso acque più profonde. Le sezioni meno profonde ospitano vaste distese di coralli duri popolate da tartarughe verdi, mentre le creste più profonde offrono riparo a squali di barriera a riposo e banchi di pelagici trasportati dalle regolari correnti oceaniche.",
+          "en": "Scenic dive site in ID known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
       }
     }
   ]

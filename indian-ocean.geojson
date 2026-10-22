@@ -1,39 +1,42 @@
 {
   "type": "FeatureCollection",
-  "name": "Oceano Indiano (Indian Ocean)",
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          72.8667,
-          4.0833
+          73.1544,
+          -0.6097
         ]
       },
       "properties": {
-        "id": "ind-maldives-maaya-thila",
-        "name": "Maaya Thila",
-        "name_it": "Maaya Thila (Atollo di Ari)",
-        "region": "Maldives - North Ari Atoll",
+        "id": "diverout-mv-addu-manta-point",
+        "name": {
+          "it": "Addu Manta Point",
+          "en": "Addu Manta Point"
+        },
         "countryCode": "MV",
-        "kind": "pinnacle",
+        "region": "indian-ocean",
+        "kind": "reef",
         "depthMinM": 6,
-        "depthMaxM": 30,
+        "depthMaxM": 26,
         "level": "intermediate",
-        "exposure": "exposed_all",
         "highlights": [
-          "sharks",
-          "corals",
-          "macro"
+          "corals"
         ],
+        "exposure": "sheltered",
         "species": [
-          "Triaenodon obesus",
-          "Dasyatis pastinaca",
-          "Gymnothorax javanicus"
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
         ],
-        "description_en": "One of the most thrilling night dives in the Maldives: circular pinnacle swarming with hunting whitetip reef sharks, giant morays, and hunting marble stingrays.",
-        "description_it": "Pinnacolo sommerso celebre per le immersioni notturne: sciami di squali pinna bianca che cacciano al buio, murene giganti e grandi razze marmorizzate."
+        "description": {
+          "it": "Situato nell'atollo più meridionale delle Maldive, questo sito ospita un'attiva stazione di pulizia lungo un reef degradante. Le mante di barriera volteggiano sopra le formazioni coralline mentre i labridi pulitori si prendono cura della loro pelle e delle branchie. Grazie alla posizione equatoriale e alle correnti oceaniche, le mante residenti frequentano quest'area durante tutti i dodici mesi dell'anno, senza seguire le rigide rotte migratorie stagionali tipiche degli atolli settentrionali.",
+          "en": "Scenic dive site in MV known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
       }
     },
     {
@@ -41,64 +44,1816 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          73.149,
-          5.171
-        ]
-      },
-      "properties": {
-        "id": "ind-maldives-hanifaru-bay",
-        "name": "Hanifaru Bay (UNESCO Biosphere)",
-        "name_it": "Baia di Hanifaru (Atollo di Baa)",
-        "region": "Maldives - Baa Atoll",
-        "countryCode": "MV",
-        "kind": "other",
-        "depthMinM": 2,
-        "depthMaxM": 12,
-        "level": "beginner",
-        "exposure": "sheltered_all",
-        "highlights": [
-          "mantas",
-          "whaleShark"
-        ],
-        "species": [
-          "Mobula alfredi",
-          "Rhincodon typus"
-        ],
-        "description_en": "Cul-de-sac inlet where lunar tides trap dense blooms of plankton, gathering over a hundred reef manta rays and whale sharks performing synchronized cyclone feeding.",
-        "description_it": "Baia a fondo cieco protetta dall'UNESCO dove le correnti lunari intrappolano banchi immensi di plancton: fino a 100 mante e squali balena che si nutrono all'unisono."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.8873,
+          30.887,
           -30.267
         ]
       },
       "properties": {
-        "id": "ind-southafrica-aliwal-shoal",
-        "name": "Aliwal Shoal",
-        "name_it": "Aliwal Shoal (Sudafrica)",
-        "region": "South Africa - KwaZulu-Natal (Umkomaas)",
+        "id": "aliwal-shoal-south-africa",
+        "name": {
+          "it": "Aliwal Shoal (Sudafrica)",
+          "en": "Aliwal Shoal (Umkomaas, South Africa)"
+        },
         "countryCode": "ZA",
+        "region": "indian-ocean",
         "kind": "reef",
-        "depthMinM": 10,
+        "depthMinM": 12,
+        "depthMaxM": 28,
+        "level": "intermediate",
+        "highlights": [
+          "sharks",
+          "wreck"
+        ],
+        "exposure": "exposed",
+        "species": [
+          "Carcharias taurus",
+          "Carcharhinus limbatus",
+          "Epinephelus lanceolatus"
+        ],
+        "description": {
+          "it": "Reef di dune fossili con banchi stanziali di squali toro, squali pinna nera e i relitti storici Produce e Nebo.",
+          "en": "Fossilised dune reef home to schooling ragged-tooth sharks, blacktip sharks, and two historical wrecks."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.535,
+          4.225
+        ]
+      },
+      "properties": {
+        "id": "banana-reef-maldives",
+        "name": {
+          "it": "Banana Reef (Male Nord)",
+          "en": "Banana Reef (North Male Atoll, Maldives)"
+        },
+        "countryCode": "MV",
+        "region": "indian-ocean",
+        "kind": "reef",
+        "depthMinM": 5,
+        "depthMaxM": 30,
+        "level": "beginner",
+        "highlights": [
+          "corals",
+          "caves"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Pomacanthus imperator",
+          "Acanthurus triostegus"
+        ],
+        "description": {
+          "it": "Il primissimo sito di immersione scoperto alle Maldive negli anni '70: scogliere ricoperte di coralli a forma di banana.",
+          "en": "The first discovered dive site in the Maldives: crescent-shaped reef with dramatic overhangs and rich fish schools."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.185,
+          -13.315
+        ]
+      },
+      "properties": {
+        "id": "nosy-be-madagascar",
+        "name": {
+          "it": "Banc des Gorgones (Nosy Be, Madagascar)",
+          "en": "Banc des Gorgones (Nosy Be, Madagascar)"
+        },
+        "countryCode": "MG",
+        "region": "indian-ocean",
+        "kind": "reef",
+        "depthMinM": 15,
         "depthMaxM": 30,
         "level": "intermediate",
-        "exposure": "exposed_all",
+        "highlights": [
+          "corals",
+          "whaleShark"
+        ],
+        "exposure": "exposed",
+        "species": [
+          "Rhincodon typus",
+          "Megaptera novaeangliae"
+        ],
+        "description": {
+          "it": "Foreste di gorgonie giganti alte oltre 3 metri con passaggio autunnale di squali balena e balene megattere con i loro piccoli.",
+          "en": "Forest of giant sea fans over 3 meters wide, frequented in autumn by migrating whale sharks and humpback whales."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4269,
+          4.283
+        ]
+      },
+      "properties": {
+        "id": "diverout-mv-baros",
+        "name": {
+          "it": "Baros",
+          "en": "Baros"
+        },
+        "countryCode": "MV",
+        "region": "indian-ocean",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Circondando l'isola di Baros nell'atollo di Malé Nord, questo accessibile house reef degrada dolcemente da bassi giardini di corallo fino a un fondale sabbioso. Il reef ospita diverse strutture per la rigenerazione dei coralli insieme a una piccola imbarcazione affondata che funge da nursery artificiale. La vita marina stanziale trova rifugio tra le formazioni di corallo a corna di cervo e gli anfratti, rendendo il sito ideale per immersioni rilassate ed escursioni notturne.",
+          "en": "Scenic dive site in MV known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9473,
+          4.0708
+        ]
+      },
+      "properties": {
+        "id": "diverout-mv-bathala-thila",
+        "name": {
+          "it": "Bathala Thila",
+          "en": "Bathala Thila"
+        },
+        "countryCode": "MV",
+        "region": "indian-ocean",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Bathala Thila è un pinnacolo sommerso di forma ovale situato nell'atollo di Ari Nord. Il pianoro corallino degrada verso profondi canali sabbiosi, caratterizzato da pareti verticali e rientranze ricoperte di coralli molli. Le maree entranti attirano predatori pelagici proprio sul bordo del reef, rendendola una classica immersione in corrente su secca.",
+          "en": "Scenic dive site in MV known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1027,
+          -0.5981
+        ]
+      },
+      "properties": {
+        "id": "diverout-mv-bodu-hohola",
+        "name": {
+          "it": "Bodu Hohola",
+          "en": "Bodu Hohola"
+        },
+        "countryCode": "MV",
+        "region": "indian-ocean",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Bodu Hohola, che significa \"Grande Grotta\" in divehi, è una spettacolare immersione tra pareti e caverne situata lungo il reef esterno nell'atollo di Addu. L'attrazione principale è un'ampia rientranza scavata nella parete corallina, che ripara rami di corallo nero, gorgonie e colonie di coralli molli. I subacquei si lasciano trasportare dalla corrente lungo il drop-off verso il blu profondo, dove le specie pelagiche nuotano a ridosso della struttura corallina.",
+          "en": "Scenic dive site in MV known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3946,
+          4.3688
+        ]
+      },
+      "properties": {
+        "id": "diverout-mv-boduhiiti-thiila",
+        "name": {
+          "it": "Boduhiiti Thiila",
+          "en": "Boduhiiti Thiila"
+        },
+        "countryCode": "MV",
+        "region": "indian-ocean",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Boduhithi Thila è un pinnacolo corallino sommerso situato nella parte occidentale dell'atollo di Malé Nord. Ampiamente riconosciuto come uno dei classici punti di aggregazione delle mante nella regione, il reef presenta diversi blocchi corallini che fungono da attive stazioni di pulizia. I subacquei si lasciano trasportare dalla corrente o mantengono la posizione attorno ai pianori sabbiosi e agli speroni di corallo per osservare i pelagici interagire con i labridi pulitori.",
+          "en": "Scenic dive site in MV known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1142,
+          -0.6374
+        ]
+      },
+      "properties": {
+        "id": "diverout-mv-british-loyalty-wreck",
+        "name": {
+          "it": "British Loyalty Wreck",
+          "en": "British Loyalty Wreck"
+        },
+        "countryCode": "MV",
+        "region": "indian-ocean",
+        "kind": "wreck",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "wreck",
+          "history"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Affondata all'interno della laguna dell'atollo di Addu nel 1946 dopo essere sopravvissuta a due distinti attacchi con siluro durante la Seconda Guerra Mondiale, la British Loyalty è uno dei relitti storici più celebri delle Maldive. La petroliera, lunga 140 metri, riposa sul lato di babordo su un fondale sabbioso. Nel corso di decenni di immersione, fitte formazioni di coralli duri e molli hanno incrostato lo scafo, mentre imponenti componenti del motore, l'elica di coperta e le stive di carico aperte offrono una vasta struttura da esplorare.",
+          "en": "Scenic dive site in MV known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1231,
+          5.1583
+        ]
+      },
+      "properties": {
+        "id": "diverout-mv-daravandhoo-thila",
+        "name": {
+          "it": "Daravandhoo thila",
+          "en": "Daravandhoo thila"
+        },
+        "countryCode": "MV",
+        "region": "indian-ocean",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato al largo dell'isola di Dharavandhoo, nell'atollo di Baa, questo pinnacolo sommerso presenta una serie di sporgenze coralline incavate, blocchi di corallo e pendii sabbiosi. I movimenti delle masse d'acqua oceaniche attirano il passaggio di specie pelagiche lungo i margini più profondi, mentre la vita macro popola gli anfratti e gli strapiombi sui fianchi del reef.",
+          "en": "Scenic dive site in MV known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4851,
+          3.6537
+        ]
+      },
+      "properties": {
+        "id": "diverout-mv-dhiggiri-shark-point",
+        "name": {
+          "it": "Dhiggiri Shark point",
+          "en": "Dhiggiri Shark point"
+        },
+        "countryCode": "MV",
+        "region": "indian-ocean",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato al largo della barriera corallina dell'isola di Dhiggiri nell'atollo di Vaavu, questo sito regala incontri ad alta adrenalina con gli squali lungo un fondale sabbioso e il pendio esterno del reef. Gli squali nutrice fulvi si radunano in gran numero, riposando sul fondo e nuotando attorno ai subacquei lungo tutta la colonna d'acqua. Carangidi giganti, trigoni e squali di barriera pattugliano il margine del canale, dove le correnti oceaniche portano nutrienti attraverso le formazioni coralline.",
+          "en": "Scenic dive site in MV known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.911,
+          3.5092
+        ]
+      },
+      "properties": {
+        "id": "diverout-mv-dhigurah-arch",
+        "name": {
+          "it": "Dhigurah Arch",
+          "en": "Dhigurah Arch"
+        },
+        "countryCode": "MV",
+        "region": "indian-ocean",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Dhigurah Arch si trova lungo la barriera corallina oceanica esterna dell'atollo di Ari Sud, caratterizzato da un passaggio corallino sottomarino e da sporgenze a gradoni lungo la parete a strapiombo. Mentre l'arco cavernoso offre rifugio a squali nutrice a riposo e gorgonie, il versante oceanico aperto offre eccellenti opportunità di osservare pelagici di passaggio lungo la parete del reef.",
+          "en": "Scenic dive site in MV known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1211,
+          5.1857
+        ]
+      },
+      "properties": {
+        "id": "diverout-mv-dhonfanu-gaa",
+        "name": {
+          "it": "Dhonfanu Gaa",
+          "en": "Dhonfanu Gaa"
+        },
+        "countryCode": "MV",
+        "region": "indian-ocean",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato nell'atollo di Baa, Dhonfanu Gaa è un pinnacolo sommerso famoso per il suo spettacolare passaggio subacqueo. I subacquei solitamente scendono sulla sommità del reef e si calano attraverso uno stretto camino verticale che attraversa la struttura corallina principale. Le pareti esterne spazzate dalla corrente ospitano cespugli di corallo nero e gorgonie, con pesci pelagici che pattugliano il blu.",
+          "en": "Scenic dive site in MV known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1162,
+          5.1724
+        ]
+      },
+      "properties": {
+        "id": "diverout-mv-dhonfanu-thila",
+        "name": {
+          "it": "Dhonfanu Thila",
+          "en": "Dhonfanu Thila"
+        },
+        "countryCode": "MV",
+        "region": "indian-ocean",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Dhonfanu Thila è un classico pinnacolo sommerso situato nel settore orientale dell'atollo di Baa. La caratteristica principale è un pinnacolo ricco di anfratti e tagliato da un ripido canyon sottomarino che attraversa direttamente la parete della barriera. Le correnti che lambiscono la secca nutrono dense colonie di coralli molli e richiamano predatori pelagici a distanza ravvicinata, mentre la sommità del reef funge da vivace rifugio per i pesci di barriera.",
+          "en": "Scenic dive site in MV known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.5232,
+          4.0809
+        ]
+      },
+      "properties": {
+        "id": "diverout-mv-embudu-nurse-shark",
+        "name": {
+          "it": "Embudu Nurse Shark",
+          "en": "Embudu Nurse Shark"
+        },
+        "countryCode": "MV",
+        "region": "indian-ocean",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato lungo il perimetro della barriera corallina vicino all'isola di Embudu, nell'atollo di Malé Sud, questo sito si sviluppa attorno a un pendio corallino e a canali sabbiosi dove gli squali nutrice fulvi si radunano in gruppo. I subacquei si lasciano trasportare dalla corrente lungo la parete e i drop-off per osservare gli squali che riposano sotto gli anfratti corallini, oltre ai frequenti passaggi di trigoni e carangidi che pattugliano il bordo del canale.",
+          "en": "Scenic dive site in MV known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4348,
+          0.6703
+        ]
+      },
+      "properties": {
+        "id": "diverout-mv-falhuma-house-reef",
+        "name": {
+          "it": "Falhuma House Reef",
+          "en": "Falhuma House Reef"
+        },
+        "countryCode": "MV",
+        "region": "indian-ocean",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato direttamente al largo dell'isola di Falhumaafushi nell'atollo di Gaafu Alifu, questo house reef marginale passa da bassifondi sabbiosi a un dolce pendio corallino e a una parete di barriera. Le aree lagunari protette lasciano spazio a formazioni di corallo duro colonizzate da acropore a tavola e coralli cervello, risultando accessibile direttamente dal pontile del resort sia per le esplorazioni diurne che per le immersioni notturne.",
+          "en": "Scenic dive site in MV known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4472,
+          -0.3329
+        ]
+      },
+      "properties": {
+        "id": "diverout-mv-farikede-plateau",
+        "name": {
+          "it": "Farikede Plateau",
+          "en": "Farikede Plateau"
+        },
+        "countryCode": "MV",
+        "region": "indian-ocean",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Il Farikede Plateau si trova al largo della punta meridionale di Fuvahmulah, protendendosi nelle profonde acque aperte del Canale Equatoriale. Questo plateau oceanico sommerso funge da straordinario polo di attrazione per la megafauna pelagica. Poiché l'isola si erge isolata da profondità abissali senza un esteso atollo a proteggerla, i subacquei scivolano qui lungo ripide pareti verticali esposte a potenti correnti oceaniche, dove rari predatori all'apice della catena alimentare e grandi pelagici incrociano nel blu.",
+          "en": "Scenic dive site in MV known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.5535,
+          3.4724
+        ]
+      },
+      "properties": {
+        "id": "diverout-mv-felidhoo-house-reef",
+        "name": {
+          "it": "Felidhoo House Reef",
+          "en": "Felidhoo House Reef"
+        },
+        "countryCode": "MV",
+        "region": "indian-ocean",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Estendendosi lungo il bordo dell'isola di Felidhoo, nell'atollo di Vaavu, questa barriera corallina marginale passa da bassifondi di coralli duri a un dolce pendio prima di degradare sulla sabbia. I subacquei incontrano spesso specie pelagiche di passaggio vicino agli angoli esterni, dove le correnti di marea aumentano di intensità, mentre le sezioni più riparate offrono condizioni calme adatte all'addestramento e alle immersioni notturne.",
+          "en": "Scenic dive site in MV known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.7887,
+          3.9901
+        ]
+      },
+      "properties": {
+        "id": "diverout-mv-fesdu",
+        "name": {
+          "it": "Fesdu",
+          "en": "Fesdu"
+        },
+        "countryCode": "MV",
+        "region": "indian-ocean",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato al largo dell'isola di Fesdu, nell'atollo di Ari Nord, questo sito si sviluppa attorno a un piccolo relitto affondato intenzionalmente, adagiato in posizione verticale accanto a un pinnacolo corallino sommerso. Nuvole di pesci vetro avvolgono la timoneria, mentre grandi murene fanno capolino dagli anfratti dello scafo. La cresta della barriera circostante presenta formazioni di corallo duro che fungono da stazioni di pulizia e zone di caccia per i predatori di barriera.",
+          "en": "Scenic dive site in MV known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9122,
+          3.9367
+        ]
+      },
+      "properties": {
+        "id": "diverout-mv-fish-head",
+        "name": {
+          "it": "Fish Head",
+          "en": "Fish Head"
+        },
+        "countryCode": "MV",
+        "region": "indian-ocean",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Fish Head, conosciuto localmente come Mushimasmigili Thila, è un pinnacolo d'alto mare e una delle prime aree marine protette istituite nelle Maldive. Pareti ripide, profonde cavità e terrazzamenti orizzontali caratterizzano il perimetro di questa secca sommersa. Spazzato dalle correnti oceaniche, il sito funge da calamita per banchi di predatori pelagici e squali di barriera residenti.",
+          "en": "Scenic dive site in MV known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.765,
+          3.952
+        ]
+      },
+      "properties": {
+        "id": "fish-head-maldives",
+        "name": {
+          "it": "Fish Head / Mushimasmigili (Maldive)",
+          "en": "Fish Head / Mushimasmigili Thila (Maldives)"
+        },
+        "countryCode": "MV",
+        "region": "indian-ocean",
+        "kind": "reef",
+        "depthMinM": 10,
+        "depthMaxM": 35,
+        "level": "intermediate",
         "highlights": [
           "sharks",
           "caves"
         ],
+        "exposure": "sheltered",
+        "species": [
+          "Carcharhinus amblyrhynchos",
+          "Lutjanus kasmira"
+        ],
+        "description": {
+          "it": "Area marina protetta storica ricca di cavità sottomarine, banchi compatti di fucilieri e decine di squali grigi di barriera.",
+          "en": "Historic marine sanctuary famous for deep undercuts, swirling yellow snapper schools, and patrolling grey reef sharks."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.5401,
+          4.2605
+        ]
+      },
+      "properties": {
+        "id": "diverout-mv-fish-tank",
+        "name": {
+          "it": "Fish Tank",
+          "en": "Fish Tank"
+        },
+        "countryCode": "MV",
+        "region": "indian-ocean",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato al largo della fabbrica per la lavorazione del tonno sull'isola di Himmafushi, questo insolito sito attira una straordinaria concentrazione di spazzini marini, richiamati dagli scarti di pesce. Il fondale sabbioso e il pendio di detriti corallini fungono da punto di ritrovo dove decine di enormi razze e murene giganti nuotano a distanza ravvicinata attorno ai subacquei.",
+          "en": "Scenic dive site in MV known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9404,
+          3.5684
+        ]
+      },
+      "properties": {
+        "id": "diverout-mv-five-rock",
+        "name": {
+          "it": "Five Rock",
+          "en": "Five Rock"
+        },
+        "countryCode": "MV",
+        "region": "indian-ocean",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Una barriera corallina sommersa suddivisa in imponenti torri rocciose forma il pinnacolo di Five Rocks nell'atollo di Ari Sud. Stretti canyon e corridoi sabbiosi separano i blocchi di corallo, creando sporgenze e passaggi da attraversare. Gorgonie e coralli molli ricoprono le pareti rocciose, nutriti da correnti di marea che attirano banchi di pesci pelagici, mentre squali di barriera e aquile di mare perlustrano il mare aperto.",
+          "en": "Scenic dive site in MV known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.5368,
+          2.0391
+        ]
+      },
+      "properties": {
+        "id": "diverout-mv-fushi-kandu",
+        "name": {
+          "it": "Fushi Kandu",
+          "en": "Fushi Kandu"
+        },
+        "countryCode": "MV",
+        "region": "indian-ocean",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato lungo il margine orientale dell'atollo di Laamu, Fushi Kandu è una classica immersione in canale maldiviana, dove le forti correnti oceaniche alimentano un ricco ecosistema marino. Di solito i subacquei si ancorano con il reef hook all'imboccatura del canale durante la corrente entrante per ammirare le specie pelagiche nel blu, per poi lasciarsi trasportare lungo la parete esterna del reef. Il fondale del canale e gli angoli della barriera presentano formazioni coralline rigogliose, sporgenze e passaggi che offrono riparo a predatori e pesci di barriera.",
+          "en": "Scenic dive site in MV known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8341,
+          4.1168
+        ]
+      },
+      "properties": {
+        "id": "diverout-mv-hafsa-thila",
+        "name": {
+          "it": "HAFSA THILA",
+          "en": "HAFSA THILA"
+        },
+        "countryCode": "MV",
+        "region": "indian-ocean",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Hafsa Thila è un pinnacolo corallino sommerso e isolato nell'atollo di Ari Nord, caratterizzato da dimensioni compatte. I fianchi ripidi scendono dal pianoro verso un fondale sabbioso, formando profonde insenature e sporgenze rocciose lungo il perimetro. Le correnti di passaggio attirano squali pinna bianca stanziali e squali grigi del reef in transito. Al largo del bordo della barriera, banchi di pesci pipistrello e fucilieri si radunano in mare aperto, mentre la cima del pinnacolo ospita distese di anemoni e formazioni coralline che offrono rifugio a murene e pesci scorpione.",
+          "en": "Scenic dive site in MV known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.148,
+          5.172
+        ]
+      },
+      "properties": {
+        "id": "hanifaru-bay-maldives",
+        "name": {
+          "it": "Hanifaru Bay (Atollo di Baa)",
+          "en": "Hanifaru Bay (Baa Atoll, Maldives)"
+        },
+        "countryCode": "MV",
+        "region": "indian-ocean",
+        "kind": "reef",
+        "depthMinM": 5,
+        "depthMaxM": 15,
+        "level": "beginner",
+        "highlights": [
+          "mantas",
+          "whaleShark"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Mobula alfredi",
+          "Rhincodon typus"
+        ],
+        "description": {
+          "it": "Riserva della Biosfera UNESCO celebre per il 'ciclone delle mante': fino a 200 esemplari che si nutrono a spirale insieme a squali balena.",
+          "en": "UNESCO Biosphere Reserve famous for mass manta feeding 'cyclones' involving up to 200 mantas and whale sharks."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.173,
+          6.7719
+        ]
+      },
+      "properties": {
+        "id": "diverout-mv-hanimaadhoo",
+        "name": {
+          "it": "Hanimaadhoo ",
+          "en": "Hanimaadhoo "
+        },
+        "countryCode": "MV",
+        "region": "indian-ocean",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situate lungo il margine occidentale dell'atollo di Haa Dhaalu, le formazioni coralline che costeggiano Hanimaadhoo presentano terrazze degradanti di coralli duri, pianori sabbiosi poco profondi e pareti a picco rivolte verso l'oceano aperto. I subacquei possono esplorare la classica conformazione dei reef delle Maldive settentrionali in un contesto poco frequentato, ideale per rilassanti immersioni in corrente su distese di coralli duri e per avvistare specie pelagiche di passaggio.",
+          "en": "Scenic dive site in MV known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.485,
+          3.905
+        ]
+      },
+      "properties": {
+        "id": "kandooma-thila-maldives",
+        "name": {
+          "it": "Kandooma Thila (Male Sud)",
+          "en": "Kandooma Thila (South Male Atoll)"
+        },
+        "countryCode": "MV",
+        "region": "indian-ocean",
+        "kind": "reef",
+        "depthMinM": 15,
+        "depthMaxM": 30,
+        "level": "advanced",
+        "highlights": [
+          "drift",
+          "sharks",
+          "corals"
+        ],
+        "exposure": "exposed",
+        "species": [
+          "Carcharhinus amblyrhynchos",
+          "Aetobatus narinari"
+        ],
+        "description": {
+          "it": "Secca a goccia all'interno di un canale oceanico ricca di squali grigi di barriera, aquile di mare e coralli molli blu.",
+          "en": "Teardrop-shaped seamount located inside a channel, teeming with grey reef sharks, eagle rays, and blue soft corals."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4314,
+          0.743
+        ]
+      },
+      "properties": {
+        "id": "diverout-mv-kooddoo-shark-feeding",
+        "name": {
+          "it": "Kooddoo Shark Feeding",
+          "en": "Kooddoo Shark Feeding"
+        },
+        "countryCode": "MV",
+        "region": "indian-ocean",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato proprio di fronte all'impianto di lavorazione del pesce sull'isola di Kooddoo, nell'atollo di Gaafu Alifu, questo sito attira grandi concentrazioni di predatori pelagici richiamati dagli scarti della pesca. I subacquei scendono lungo un pendio sabbioso appena oltre la parete del porto, posizionandosi sul fondale per osservare decine di squali che volteggiano nel blu. Pur non essendo un elaborato giardino di corallo, l'incredibile densità di incontri con gli squali lo rende una delle immersioni più intense ed emozionanti di tutti gli atolli meridionali.",
+          "en": "Scenic dive site in MV known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0413,
+          5.5049
+        ]
+      },
+      "properties": {
+        "id": "diverout-mv-kottefaru",
+        "name": {
+          "it": "Kottefaru ",
+          "en": "Kottefaru "
+        },
+        "countryCode": "MV",
+        "region": "indian-ocean",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato lungo i margini dell'atollo di Raa, vicino all'isola di Kottefaru, questo sito corallino presenta un pianoro inclinato che scende verso fondali sabbiosi più profondi. La topografia è caratterizzata da sporgenze e terrazze pronunciate ricoperte di coralli molli e gorgonie, che offrono riparo a squali nutrice e razze in sosta. I subacquei scivolano in corrente lungo pareti lambite dal flusso, dove i pelagici pattugliano il blu aperto mentre la vita macro trova rifugio in profonde fessure.",
+          "en": "Scenic dive site in MV known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0704,
+          -0.5826
+        ]
+      },
+      "properties": {
+        "id": "diverout-mv-kottey-corner",
+        "name": {
+          "it": "Kottey Corner",
+          "en": "Kottey Corner"
+        },
+        "countryCode": "MV",
+        "region": "indian-ocean",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato all'estremità nord-occidentale dell'atollo di Addu, al largo di Hithadhoo, Kottey Corner è un angolo di barriera corallina esterna esposta, caratterizzato da un ripido pendio che sprofonda nel blu profondo. Le correnti lambiscono il promontorio, attirando banchi di pelagici e pesci predatori lungo il drop-off ricoperto di coralli. La parte superiore del reef si distingue per le grandi formazioni di corallo duro, mentre i profili più profondi sono territorio di pattugliamento di squali e razze.",
+          "en": "Scenic dive site in MV known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9218,
+          3.5617
+        ]
+      },
+      "properties": {
+        "id": "diverout-mv-kudarah-thila",
+        "name": {
+          "it": "Kudarah Thila",
+          "en": "Kudarah Thila"
+        },
+        "countryCode": "MV",
+        "region": "indian-ocean",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato nell'atollo di Ari Sud, Kudarah Thila è un'area marina protetta composta da quattro pinnacoli corallini che si innalzano dal fondale. Profondi anfratti e canyon erosi collegano i blocchi, completamente ricoperti da gorgonie e coralli molli. La corrente scorre spesso sostenuta lungo gli angoli, radunando enormi banchi di lutjanidi e attirando nel blu predatori pelagici in caccia.",
+          "en": "Scenic dive site in MV known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4666,
+          5.5459
+        ]
+      },
+      "properties": {
+        "id": "diverout-mv-kuredo-house-reef",
+        "name": {
+          "it": "Kuredo House Reef",
+          "en": "Kuredo House Reef"
+        },
+        "countryCode": "MV",
+        "region": "indian-ocean",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situata al largo della costa meridionale dell'isola di Kuredu, nell'atollo di Lhaviyani, questa barriera corallina facilmente accessibile presenta una parete corallina degradante, distese sabbiose e un peschereccio affondato. Le tartarughe verdi residenti pascolano costantemente tra le praterie di fanerogame vicino alle secche, mentre il relitto in legno situato più in profondità si è trasformato in un rifugio artificiale per banchi di pesci vetro e murene. I subacquei possono lasciarsi trasportare comodamente lungo la parete del reef prima di risalire verso i bassifondi riparati vicino al punto di uscita.",
+          "en": "Scenic dive site in MV known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.5219,
+          4.2295
+        ]
+      },
+      "properties": {
+        "id": "diverout-mv-kurumba-house-reef",
+        "name": {
+          "it": "Kurumba House Reef",
+          "en": "Kurumba House Reef"
+        },
+        "countryCode": "MV",
+        "region": "indian-ocean",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Circondando l'isola resort nell'atollo di Malé Nord, il Kurumba House Reef offre un accesso facile e diretto dalla spiaggia o dai pontili dedicati. La laguna poco profonda digrada verso una cresta corallina esterna caratterizzata da pendii dolci e piccoli strapiombi di corallo. Mentre i frangiflutti artificiali proteggono parte dei bassifondi, il versante esterno scende verso un fondale sabbioso frequentato da pelagici stanziali e pesci di barriera.",
+          "en": "Scenic dive site in MV known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.5852,
+          5.2776
+        ]
+      },
+      "properties": {
+        "id": "diverout-mv-le-meridian-housereef",
+        "name": {
+          "it": "Le meridian housereef",
+          "en": "Le meridian housereef"
+        },
+        "countryCode": "MV",
+        "region": "indian-ocean",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situata lungo il margine lagunare dell'isola di Thilamaafushi, nell'atollo di Lhaviyani, questa barriera corallina marginale si estende da bassofondi corallini poco profondi fino a un dolce pendio esterno. I subacquei possono ammirare formazioni miste di coralli duri affiancate a distese di praterie sottomarine e pinnacoli sparsi. La vita marina è tipica dei canali interni dell'atollo, con tartarughe marine residenti che pascolano vicino alla cresta del reef e giovani squali di barriera che pattugliano il drop-off.",
+          "en": "Scenic dive site in MV known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9643,
+          3.6837
+        ]
+      },
+      "properties": {
+        "id": "diverout-mv-lily-rock",
+        "name": {
+          "it": "Lily rock",
+          "en": "Lily rock"
+        },
+        "countryCode": "MV",
+        "region": "indian-ocean",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato sul versante orientale dell'atollo di Ari Sud, vicino a Huvahendhoo, Lily Rock è un rilievo corallino sommerso rinomato principalmente come stazione di pulizia stagionale per le mante. Il pinnacolo si erge da un fondale sabbioso fino a basse profondità, circondato da blocchi corallini sparsi e piccoli anfratti. Al di fuori della stagione delle mante, la struttura funge comunque da oasi per aggregazioni di pesci di barriera, squali nutrice che riposano e stazioni di labridi pulitori.",
+          "en": "Scenic dive site in MV known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6138,
+          5.4407
+        ]
+      },
+      "properties": {
+        "id": "diverout-mv-maakana-corner",
+        "name": {
+          "it": "Maakana  Corner",
+          "en": "Maakana  Corner"
+        },
+        "countryCode": "MV",
+        "region": "indian-ocean",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Maakana Corner si trova lungo il bordo esterno di un canale nell'atollo di Lhaviyani, dove le maree entranti attirano specie pelagiche nel punto di incontro tra oceano e laguna. La topografia presenta un pianoro corallino inclinato, intervallato da piccoli strapiombi e blocchi di corallo, che scende ripidamente verso il fondo del canale. I forti movimenti di marea rendono questa immersione prevalentemente una deriva, dove si utilizzano spesso i reef hook per osservare i pesci predatori radunarsi nella corrente.",
+          "en": "Scenic dive site in MV known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.112,
+          5.1326
+        ]
+      },
+      "properties": {
+        "id": "diverout-mv-maalho-corner",
+        "name": {
+          "it": "Maalho corner",
+          "en": "Maalho corner"
+        },
+        "countryCode": "MV",
+        "region": "indian-ocean",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Maalhos Corner si trova sul profilo esterno della barriera corallina dell'isola di Maalhos, nell'atollo di Baa. I subacquei scendono lungo il margine inclinato del reef che si trasforma nei drop-off del canale e in ripari rocciosi sparsi, dove il flusso delle maree attira il passaggio di specie pelagiche lungo il blu.",
+          "en": "Scenic dive site in MV known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.862,
+          4.085
+        ]
+      },
+      "properties": {
+        "id": "maaya-thila-maldives",
+        "name": {
+          "it": "Maaya Thila (Atollo di Ari)",
+          "en": "Maaya Thila (North Ari Atoll, Maldives)"
+        },
+        "countryCode": "MV",
+        "region": "indian-ocean",
+        "kind": "reef",
+        "depthMinM": 8,
+        "depthMaxM": 30,
+        "level": "intermediate",
+        "highlights": [
+          "sharks",
+          "reef"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Triaenodon obesus",
+          "Gymnothorax javanicus"
+        ],
+        "description": {
+          "it": "Pinnacolo sommerso celebre per le immersioni notturne con squali pinna bianca del reef in caccia frenetica e murene giganti.",
+          "en": "Submerged pinnacle renowned for night diving when whitetip reef sharks actively hunt alongside giant morays."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0003,
+          4.2639
+        ]
+      },
+      "properties": {
+        "id": "diverout-mv-madivaru-corner",
+        "name": {
+          "it": "Madivaru Corner",
+          "en": "Madivaru Corner"
+        },
+        "countryCode": "MV",
+        "region": "indian-ocean",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Madivaru Corner si trova sul bordo esterno della barriera corallina dell'atollo di Rasdhoo, dove l'oceano aperto incontra l'imboccatura di un canale ricco di corrente. La topografia presenta una spettacolare parete a strapiombo, profondi canyon e un pianoro costellato di blocchi corallini che fungono da attive stazioni di pulizia. I subacquei si agganciano con i reef hook sul bordo della barriera per osservare il passaggio della vita pelagica nel flusso oceanico in arrivo, prima di proseguire in drift lungo la parete sagomata.",
+          "en": "Scenic dive site in MV known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.548,
+          -23.865
+        ]
+      },
+      "properties": {
+        "id": "tofo-manta-reef-mozambique",
+        "name": {
+          "it": "Manta Reef (Tofo, Mozambico)",
+          "en": "Manta Reef (Tofo, Mozambique)"
+        },
+        "countryCode": "MZ",
+        "region": "indian-ocean",
+        "kind": "reef",
+        "depthMinM": 15,
+        "depthMaxM": 28,
+        "level": "intermediate",
+        "highlights": [
+          "mantas",
+          "whaleShark"
+        ],
+        "exposure": "exposed",
+        "species": [
+          "Mobula birostris",
+          "Mobula alfredi",
+          "Rhincodon typus"
+        ],
+        "description": {
+          "it": "Tre stazioni di pulizia sottomarine famose nel mondo per ospitare con continuità mante giganti e mante di barriera.",
+          "en": "World-famous amphitheater with three active cleaning stations hosting giant oceanic mantas and passing whale sharks."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.348,
+          -9.425
+        ]
+      },
+      "properties": {
+        "id": "aldabra-atoll-seychelles",
+        "name": {
+          "it": "Passe Femme (Atollo di Aldabra)",
+          "en": "Passe Femme (Aldabra Atoll, Seychelles)"
+        },
+        "countryCode": "SC",
+        "region": "indian-ocean",
+        "kind": "reef",
+        "depthMinM": 10,
+        "depthMaxM": 30,
+        "level": "advanced",
+        "highlights": [
+          "drift",
+          "corals",
+          "sharks"
+        ],
+        "exposure": "exposed",
+        "species": [
+          "Carcharhinus amblyrhynchos",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Il secondo atollo corallino al mondo per estensione, un santuario incontaminato patrimonio UNESCO con barriere vergini.",
+          "en": "The world's second largest coral atoll, an untouched UNESCO wilderness teeming with pristine marine life."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.485,
+          -30.825
+        ]
+      },
+      "properties": {
+        "id": "protea-banks-south-africa",
+        "name": {
+          "it": "Protea Banks (Shelly Beach)",
+          "en": "Protea Banks (KwaZulu-Natal, South Africa)"
+        },
+        "countryCode": "ZA",
+        "region": "indian-ocean",
+        "kind": "reef",
+        "depthMinM": 25,
+        "depthMaxM": 40,
+        "level": "advanced",
+        "highlights": [
+          "sharks",
+          "drift"
+        ],
+        "exposure": "exposed",
         "species": [
           "Carcharias taurus",
           "Galeocerdo cuvier",
-          "Sphyrna lewini"
+          "Sphyrna lewini",
+          "Carcharhinus obscurus"
         ],
-        "description_en": "Fossilized sand dune reef world-renowned for aggregations of ragged-tooth sharks ('raggies'), tiger sharks, and the Nebo/Produce wrecks.",
-        "description_it": "Duna fossile sommersa famosa in tutto il mondo per le decine di squali toro (ragged-tooth), squali tigre e balene in transito durante la Sardine Run."
+        "description": {
+          "it": "Barriera oceanica al largo del Sudafrica rinomata per l'altissima concentrazione di squali toro (ragged-tooth), tigre e martello.",
+          "en": "Offshore reef system famous for encounters with massive congregations of ragged-tooth, tiger, and hammerhead sharks."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.512,
+          -4.605
+        ]
+      },
+      "properties": {
+        "id": "ennerdale-wreck-seychelles",
+        "name": {
+          "it": "Relitto Ennerdale (Seychelles)",
+          "en": "Ennerdale Tanker Wreck (Mahé, Seychelles)"
+        },
+        "countryCode": "SC",
+        "region": "indian-ocean",
+        "kind": "wreck",
+        "depthMinM": 20,
+        "depthMaxM": 30,
+        "level": "advanced",
+        "highlights": [
+          "wreck"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus tukula",
+          "Rhynchobatus djiddensis"
+        ],
+        "description": {
+          "it": "Petroliera della Royal Fleet Auxiliary britannica di 216 metri affondata nel 1970, popolata da cernie giganti e razze chitarra.",
+          "en": "216m British Royal Fleet Auxiliary oil tanker sunk in 1970, populated by massive groupers and giant guitarfish."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.535,
+          -20.038
+        ]
+      },
+      "properties": {
+        "id": "stella-maru-mauritius",
+        "name": {
+          "it": "Relitto Stella Maru (Mauritius)",
+          "en": "Stella Maru Wreck (Trou-aux-Biches, Mauritius)"
+        },
+        "countryCode": "MU",
+        "region": "indian-ocean",
+        "kind": "wreck",
+        "depthMinM": 18,
+        "depthMaxM": 25,
+        "level": "beginner",
+        "highlights": [
+          "wreck",
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Muraena helena",
+          "Pterois volitans"
+        ],
+        "description": {
+          "it": "Peschereccio giapponese affondato integro nel 1987 come barriera artificiale su sabbia bianca tra banchi di pesci farfalla.",
+          "en": "Japanese trawler scuttled upright in 1987 as an artificial reef over white sand, covered in marine growth."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.385,
+          -4.582
+        ]
+      },
+      "properties": {
+        "id": "shark-bank-seychelles",
+        "name": {
+          "it": "Shark Bank (Mahé, Seychelles)",
+          "en": "Shark Bank (Mahé, Seychelles)"
+        },
+        "countryCode": "SC",
+        "region": "indian-ocean",
+        "kind": "reef",
+        "depthMinM": 18,
+        "depthMaxM": 32,
+        "level": "intermediate",
+        "highlights": [
+          "sharks",
+          "pelagic"
+        ],
+        "exposure": "exposed",
+        "species": [
+          "Nebrius ferrugineus",
+          "Aetobatus narinari",
+          "Rhynchobatus djiddensis"
+        ],
+        "description": {
+          "it": "Altopiano granitico oceanico circondato da grandi squali nutrice, razze chitarra e banchi di pesci pelagici.",
+          "en": "Offshore granite plateau attracting tawny nurse sharks, giant stingrays, and schools of pelagic jacks."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.432,
+          -0.298
+        ]
+      },
+      "properties": {
+        "id": "fuvahmulah-tiger-zoo",
+        "name": {
+          "it": "Tiger Zoo (Atollo di Fuvahmulah)",
+          "en": "Tiger Zoo (Fuvahmulah, Maldives)"
+        },
+        "countryCode": "MV",
+        "region": "indian-ocean",
+        "kind": "reef",
+        "depthMinM": 10,
+        "depthMaxM": 25,
+        "level": "advanced",
+        "highlights": [
+          "sharks",
+          "pelagic"
+        ],
+        "exposure": "exposed",
+        "species": [
+          "Galeocerdo cuvier",
+          "Alopias pelagicus",
+          "Sphyrna mokarran"
+        ],
+        "description": {
+          "it": "Atollo oceanico isolato nell'estremo sud delle Maldive: punto mondiale di riferimento per incontri quotidiani con imponenti squali tigre.",
+          "en": "Isolated equatorial atoll in the southern Maldives: world-famous for daily guaranteed encounters with large tiger sharks."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.485,
+          -21.785
+        ]
+      },
+      "properties": {
+        "id": "two-mile-reef-bazaruto",
+        "name": {
+          "it": "Two Mile Reef (Bazaruto, Mozambico)",
+          "en": "Two Mile Reef (Bazaruto Archipelago)"
+        },
+        "countryCode": "MZ",
+        "region": "indian-ocean",
+        "kind": "reef",
+        "depthMinM": 8,
+        "depthMaxM": 22,
+        "level": "beginner",
+        "highlights": [
+          "corals",
+          "turtles"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Dugong dugon",
+          "Chelonia mydas",
+          "Rhina ancylostoma"
+        ],
+        "description": {
+          "it": "Barriera corallina spettacolare nel Parco Nazionale di Bazaruto con razze chitarra a macchie bianche e rari avvistamenti di dugonghi.",
+          "en": "Pristine barrier reef in Bazaruto National Park hosting bowmouth guitarfish, green turtles, and elusive dugongs."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.565,
+          -19.985
+        ]
+      },
+      "properties": {
+        "id": "whale-rock-mauritius",
+        "name": {
+          "it": "Whale Rock (Grand Baie, Mauritius)",
+          "en": "Whale Rock (Grand Baie, Mauritius)"
+        },
+        "countryCode": "MU",
+        "region": "indian-ocean",
+        "kind": "wall",
+        "depthMinM": 20,
+        "depthMaxM": 38,
+        "level": "advanced",
+        "highlights": [
+          "pelagic",
+          "walls"
+        ],
+        "exposure": "exposed",
+        "species": [
+          "Sphyrna lewini",
+          "Caranx ignobilis"
+        ],
+        "description": {
+          "it": "Altopiano roccioso circolare esposto alla corrente con passaggi di squali martello in estate e grandi carangidi.",
+          "en": "Circular submerged plateau swept by oceanic currents, attracting summer hammerhead pods and giant trevally."
+        },
+        "curated": true
       }
     }
   ]

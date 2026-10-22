@@ -1,19 +1,20 @@
 {
-  "catalogVersion": "2.0.0",
-  "updatedAt": "2026-10-21",
+  "catalogVersion": "2.2.0",
+  "updatedAt": "2026-10-22T10:59:54Z",
   "totalRegions": 9,
+  "totalSites": 939,
   "datasets": [
     {
       "id": "aegean-sea",
       "title": "Mar Egeo & Creta (Aegean Sea & Crete)",
       "description": "Siti storici e naturali nel Mar Egeo: Creta (Elephant Cave, Shinaria, Messerschmitt, Olous), Cicladi (Kea HMHS Britannic, Mykonos Anna II, Santorini Caldera, Iraklia), Sporadi (Museo Sottomarino di Alonissos) e Dodecaneso (Rodi, Leros).",
       "bbox": [
-        23.5,
-        34.8,
-        28.5,
-        39.5
+        22.2427,
+        35.167,
+        28.239,
+        40.7061
       ],
-      "siteCount": 18,
+      "siteCount": 42,
       "files": {
         "json": "https://raw.githubusercontent.com/colino/dive-datasets/main/aegean-sea.json",
         "geojson": "https://raw.githubusercontent.com/colino/dive-datasets/main/aegean-sea.geojson"
@@ -21,15 +22,15 @@
     },
     {
       "id": "mediterranean",
-      "title": "Mar Mediterraneo (Mediterranean Sea)",
-      "description": "I migliori siti del bacino del Mediterraneo: Italia (Baia sommersa, MT Haven, Portofino, Ustica, Giannutri, Palinuro, Otranto), Malta e Gozo (Blue Hole Gozo, Um El Faroud), Spagna (Isole Medes) e Grecia Ionica (Pavlopetri, Cefalonia).",
+      "title": "Mar Mediterraneo & Italia (Mediterranean & Italy)",
+      "description": "Database completo dei migliori siti d'Italia e del Mediterraneo (Relytti, ScubaHorizon, CaputMundi, Diverout): relitti Haven, U-455, Pomonte, archeologia a Baia Sommersa, Gaiola, Otranto, riserve di Portofino, Ustica, Giannutri, Plemmirio, Capo Caccia Nereo, Malta (Um El Faroud, Blue Hole) e Cipro (Zenobia).",
       "bbox": [
-        -1.0,
-        35.5,
-        23.0,
-        44.8
+        -3.9236,
+        33.2333,
+        33.656,
+        46.028
       ],
-      "siteCount": 8,
+      "siteCount": 511,
       "files": {
         "json": "https://raw.githubusercontent.com/colino/dive-datasets/main/mediterranean.json",
         "geojson": "https://raw.githubusercontent.com/colino/dive-datasets/main/mediterranean.geojson"
@@ -38,14 +39,14 @@
     {
       "id": "red-sea",
       "title": "Mar Rosso (Red Sea)",
-      "description": "Le leggende del Mar Rosso egiziano e sudanese: SS Thistlegorm, Giannis D, Carnatic, Blue Hole e Canyon di Dahab, Ras Mohammed, Elphinstone, Brothers e il relitto Umbria in Sudan.",
+      "description": "Le leggende del Mar Rosso: SS Thistlegorm, Rosalie Moller, Carnatic, Giannis D, Blue Hole & Canyon di Dahab, Ras Mohammed Shark & Yolanda, Elphinstone, Daedalus, Brothers, Sataya Dolphin Reef, Sudan (Umbria, Sanganeb, Cousteau Precontinente II) e Aqaba.",
       "bbox": [
-        32.0,
-        18.0,
-        38.0,
-        29.5
+        33.8022,
+        19.642,
+        37.441,
+        29.431
       ],
-      "siteCount": 8,
+      "siteCount": 48,
       "files": {
         "json": "https://raw.githubusercontent.com/colino/dive-datasets/main/red-sea.json",
         "geojson": "https://raw.githubusercontent.com/colino/dive-datasets/main/red-sea.geojson"
@@ -53,15 +54,15 @@
     },
     {
       "id": "caribbean",
-      "title": "Caraibi & Golfo del Messico (Caribbean & Gulf of Mexico)",
-      "description": "I tesori sommersi dei Caraibi: Belize Great Blue Hole, Cenotes dello Yucatan (Dos Ojos, Angelita), barriere coralline di Cozumel, relitto USS Kittiwake a Cayman, squali tigre alle Bahamas e barriere di Bonaire.",
+      "title": "Caraibi, Messico & Cenotes (Caribbean & Cenotes)",
+      "description": "Meraviglie dei Caraibi: Belize Great Blue Hole e Gladden Spit, Cozumel Palancar e Santa Rosa, i Cenotes dello Yucatan (Dos Ojos, Angelita, The Pit), Cayman (Bloody Bay Wall, USS Kittiwake, Stingray City), Bahamas Tiger Beach, Bonaire Salt Pier e Curacao.",
       "bbox": [
-        -89.0,
-        11.0,
-        -74.0,
-        27.5
+        -96.2039,
+        10.852,
+        -63.262,
+        26.985
       ],
-      "siteCount": 6,
+      "siteCount": 55,
       "files": {
         "json": "https://raw.githubusercontent.com/colino/dive-datasets/main/caribbean.json",
         "geojson": "https://raw.githubusercontent.com/colino/dive-datasets/main/caribbean.geojson"
@@ -69,15 +70,15 @@
     },
     {
       "id": "coral-triangle",
-      "title": "Triangolo dei Coralli & Sud-Est Asiatico (Coral Triangle & SE Asia)",
-      "description": "L'epicentro mondiale della biodiversità marina: Raja Ampat (Cape Kri, Misool), Parco Nazionale di Komodo (Batu Bolong), Bali (USAT Liberty a Tulamben), Stretto di Lembeh, Tubbataha Reefs (Filippine), Sipadan (Malesia) e Richelieu Rock (Thailandia).",
+      "title": "Triangolo dei Coralli & Sud-Est Asiatico (Coral Triangle)",
+      "description": "L'epicentro mondiale della biodiversità marina: Raja Ampat (Cape Kri, Blue Magic, Misool), Komodo (Batu Bolong, Castle Rock), Bali (USAT Liberty, Nusa Penida Mola Mola), Lembeh, Filippine (Tubbataha, Malapascua thresher sharks, Coron), Sipadan Barracuda Point e Thailandia.",
       "bbox": [
-        95.0,
-        -10.0,
-        135.0,
-        18.0
+        95.221,
+        -8.8129,
+        134.448,
+        14.7469
       ],
-      "siteCount": 6,
+      "siteCount": 130,
       "files": {
         "json": "https://raw.githubusercontent.com/colino/dive-datasets/main/coral-triangle.json",
         "geojson": "https://raw.githubusercontent.com/colino/dive-datasets/main/coral-triangle.geojson"
@@ -85,15 +86,15 @@
     },
     {
       "id": "pacific-oceania",
-      "title": "Pacifico, Oceania & Micronesia (Pacific & Oceania)",
-      "description": "I giganti dell'Oceania: Grande Barriera Corallina australiana (Cod Hole, SS Yongala), Palau (Blue Corner), Truk Lagoon (flotta navale WWII della Micronesia), le mante di Kona alle Hawaii e le mante/squali di Fiji.",
+      "title": "Pacifico & Oceania (Pacific & Oceania)",
+      "description": "Grandi rotte oceaniche: Grande Barriera Corallina (SS Yongala, Osprey Reef North Horn, Cod Hole), Palau (Blue Corner, German Channel, Chandelier Cave), Chuuk Lagoon relitti WWII, Vanuatu SS President Coolidge, Figi Beqa Lagoon, Polinesia (Rangiroa, Fakarava) e Hawaii.",
       "bbox": [
-        130.0,
-        -25.0,
-        -155.0,
-        22.0
+        -179.95,
+        -38.357,
+        179.985,
+        20.735
       ],
-      "siteCount": 5,
+      "siteCount": 55,
       "files": {
         "json": "https://raw.githubusercontent.com/colino/dive-datasets/main/pacific-oceania.json",
         "geojson": "https://raw.githubusercontent.com/colino/dive-datasets/main/pacific-oceania.geojson"
@@ -101,15 +102,15 @@
     },
     {
       "id": "indian-ocean",
-      "title": "Oceano Indiano (Indian Ocean)",
-      "description": "Le meraviglie tropicali dell'Oceano Indiano: atolli delle Maldive (Maaya Thila, Hanifaru Bay), Sudafrica (Aliwal Shoal con squali toro e tigre), Seychelles e Mauritius.",
+      "title": "Oceano Indiano & Maldive (Indian Ocean & Maldives)",
+      "description": "Oasi dell'Oceano Indiano: Maldive (Hanifaru Bay ciclone di mante, Fuvahmulah squali tigre, Maaya Thila, Kandooma), Seychelles (Shark Bank, Aldabra), Mauritius, Mozambico (Tofo Manta Reef) e Sudafrica (Protea Banks, Aliwal Shoal).",
       "bbox": [
-        30.0,
-        -32.0,
-        75.0,
-        5.0
+        30.485,
+        -30.825,
+        73.6138,
+        6.7719
       ],
-      "siteCount": 3,
+      "siteCount": 49,
       "files": {
         "json": "https://raw.githubusercontent.com/colino/dive-datasets/main/indian-ocean.json",
         "geojson": "https://raw.githubusercontent.com/colino/dive-datasets/main/indian-ocean.geojson"
@@ -117,15 +118,15 @@
     },
     {
       "id": "pelagic-eastern-pacific",
-      "title": "Pacifico Orientale Pelagico (Eastern Pacific Pelagic)",
-      "description": "Le leggendarie isole remote dei grandi pelagici: Isole Galápagos (Darwin Arch, Wolf Island), Isola del Cocco in Costa Rica e Socorro (Revillagigedo) in Messico.",
+      "title": "Pacifico Orientale Pelagico (Pelagic Eastern Pacific)",
+      "description": "Il santuario dei giganti pelagici: Isole Galápagos (Wolf Island, Pilastri di Darwin con squali balena, Gordon Rocks, Kicker Rock), Isola del Cocco (Bajo Alcyone, Dirty Rock), Arcipelago di Socorro (The Boiler, Roca Partida mante giganti) e Malpelo.",
       "bbox": [
-        -115.0,
-        -1.5,
-        -85.0,
-        19.0
+        -112.065,
+        -0.765,
+        -81.608,
+        23.4029
       ],
-      "siteCount": 3,
+      "siteCount": 18,
       "files": {
         "json": "https://raw.githubusercontent.com/colino/dive-datasets/main/pelagic-eastern-pacific.json",
         "geojson": "https://raw.githubusercontent.com/colino/dive-datasets/main/pelagic-eastern-pacific.geojson"
@@ -133,26 +134,19 @@
     },
     {
       "id": "north-atlantic",
-      "title": "Atlantico Settentrionale & Relitti Freddi (North Atlantic & Cold Water)",
-      "description": "Le più spettacolari immersioni in acque fredde e limpide: la Faglia di Silfra in Islanda (tra placche tettoniche con 100m di visibilità), la flotta navale WWI di Scapa Flow in Scozia e i relitti di Narvik in Norvegia.",
+      "title": "Nord Atlantico & Artico (North Atlantic & Arctic)",
+      "description": "Acque selvagge del Nord Atlantico: Islanda (Faglia di Silfra tra placche tettoniche, Camini termali di Strýtan), Scozia Scapa Flow corazzate della Kaiserliche Marine, Inghilterra Farne Islands foche grigie, Norvegia Saltstraumen e Azzorre (Baixa do Ambrósio mobule).",
       "bbox": [
-        -22.0,
-        58.0,
-        18.0,
-        68.5
+        -29.315,
+        27.6478,
+        17.412,
+        68.435
       ],
-      "siteCount": 2,
+      "siteCount": 31,
       "files": {
         "json": "https://raw.githubusercontent.com/colino/dive-datasets/main/north-atlantic.json",
         "geojson": "https://raw.githubusercontent.com/colino/dive-datasets/main/north-atlantic.geojson"
       }
     }
-  ],
-  "global": {
-    "siteCount": 59,
-    "files": {
-      "json": "https://raw.githubusercontent.com/colino/dive-datasets/main/global-sites.json",
-      "geojson": "https://raw.githubusercontent.com/colino/dive-datasets/main/global-sites.geojson"
-    }
-  }
+  ]
 }

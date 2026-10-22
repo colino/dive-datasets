@@ -1,104 +1,542 @@
 {
-  "id": "pelagic-eastern-pacific",
-  "title": "Pacifico Orientale Pelagico (Eastern Pacific Pelagic)",
-  "description": "Le leggendarie isole remote dei grandi pelagici: Isole Galápagos (Darwin Arch, Wolf Island), Isola del Cocco in Costa Rica e Socorro (Revillagigedo) in Messico.",
-  "bbox": [
-    -115.0,
-    -1.5,
-    -85.0,
-    19.0
-  ],
-  "count": 3,
+  "catalog": "pelagic-eastern-pacific",
   "sites": [
     {
-      "id": "pelagic-galapagos-darwin-arch",
+      "id": "diverout-mx-anegados",
       "name": {
-        "en": "Darwin's Pillars / Darwin Island",
-        "it": "Pilastri di Darwin (Isole Galápagos)"
+        "it": "Anegados",
+        "en": "Anegados"
       },
-      "region": "Ecuador - Galápagos Islands (Darwin)",
-      "countryCode": "EC",
-      "latitude": 1.674,
-      "longitude": -92.004,
-      "kind": "wall",
-      "depthMinM": 12,
-      "depthMaxM": 40,
-      "level": "advanced",
+      "latitude": 20.6893,
+      "longitude": -105.6514,
+      "countryCode": "MX",
+      "region": "pelagic-eastern-pacific",
+      "kind": "reef",
+      "depthMinM": 6,
+      "depthMaxM": 26,
+      "level": "intermediate",
       "highlights": [
-        "whaleShark",
-        "sharks",
-        "walls"
+        "corals"
       ],
+      "exposure": "sheltered",
       "species": [
-        "Rhincodon typus",
-        "Sphyrna lewini",
-        "Carcharhinus galapagensis"
+        "Epinephelus marginatus",
+        "Octopus vulgaris",
+        "Sparisoma cretense",
+        "Chelonia mydas"
       ],
-      "exposure": "exposed_all",
       "description": {
-        "en": "Considered the apex of pelagic diving: massive pregnant female whale sharks (up to 14m), schools of hundreds of scalloped hammerheads, Galapagos sharks, and pods of dolphins.",
-        "it": "Il vertice assoluto delle immersioni pelagiche: squali balena giganti (fino a 14 metri), muri di centinaia di squali martello, squali Galápagos e mante."
+        "it": "Situato tra le Isole Marietas ed El Morro, al largo della costa di Punta Mita, Anegados è un banco roccioso sommerso caratterizzato da un aspro paesaggio sottomarino di formazioni vulcaniche. I subacquei esplorano un labirinto di grotte sottomarine, passaggi, cenge e ripide pareti esposte alle correnti oceaniche. Il sito funge da punto di aggregazione offshore per banchi di carangidi, predatori pelagici e specie bentoniche che riposano tra gli anfratti.",
+        "en": "Scenic dive site in MX known for pristine marine life and dramatic underwater formations."
       },
       "curated": true
     },
     {
-      "id": "pelagic-cocos-bajo-alcyone",
+      "id": "bajo-alcyone-cocos",
       "name": {
-        "en": "Bajo Alcyone",
-        "it": "Bajo Alcyone (Isola del Cocco)"
+        "it": "Bajo Alcyone (Isola del Cocco)",
+        "en": "Bajo Alcyone (Cocos Island, Costa Rica)"
       },
-      "region": "Costa Rica - Cocos Island",
+      "latitude": 5.505,
+      "longitude": -87.052,
       "countryCode": "CR",
-      "latitude": 5.5167,
-      "longitude": -87.05,
-      "kind": "pinnacle",
+      "region": "pelagic-eastern-pacific",
+      "kind": "reef",
       "depthMinM": 25,
-      "depthMaxM": 38,
+      "depthMaxM": 35,
+      "level": "advanced",
+      "highlights": [
+        "sharks",
+        "pelagic"
+      ],
+      "exposure": "offshore",
+      "species": [
+        "Sphyrna lewini",
+        "Thunnus albacares",
+        "Carcharhinus falciformis"
+      ],
+      "description": {
+        "it": "Monte sottomarino leggendario nel Pacifico: sterminate formazioni di squali martello che oscurano la luce del sole.",
+        "en": "Legendary offshore seamount famous for hammerhead schools so vast they block out the sunlight above."
+      },
+      "curated": true
+    },
+    {
+      "id": "diverout-mx-blow-hole",
+      "name": {
+        "it": "Blow Hole",
+        "en": "Blow Hole"
+      },
+      "latitude": 22.9309,
+      "longitude": -109.8111,
+      "countryCode": "MX",
+      "region": "pelagic-eastern-pacific",
+      "kind": "reef",
+      "depthMinM": 6,
+      "depthMaxM": 26,
+      "level": "intermediate",
+      "highlights": [
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Epinephelus marginatus",
+        "Octopus vulgaris",
+        "Sparisoma cretense",
+        "Chelonia mydas"
+      ],
+      "description": {
+        "it": "Situato lungo la costa rocciosa del corridoio turistico di Los Cabos, Blow Hole deve il suo nome agli spruzzi d'acqua generati dalle onde attraverso le fessure naturali della riva. Sott'acqua, distese di massi granitici, canyon e swim-through creano una topografia dinamica modellata dalle correnti oceaniche. Il sito rappresenta una tappa frequente per le specie pelagiche di passaggio tra il Pacifico e il Mare di Cortez.",
+        "en": "Scenic dive site in MX known for pristine marine life and dramatic underwater formations."
+      },
+      "curated": true
+    },
+    {
+      "id": "diverout-mx-chileno",
+      "name": {
+        "it": "Chileno",
+        "en": "Chileno"
+      },
+      "latitude": 22.9452,
+      "longitude": -109.8024,
+      "countryCode": "MX",
+      "region": "pelagic-eastern-pacific",
+      "kind": "reef",
+      "depthMinM": 6,
+      "depthMaxM": 26,
+      "level": "intermediate",
+      "highlights": [
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Epinephelus marginatus",
+        "Octopus vulgaris",
+        "Sparisoma cretense",
+        "Chelonia mydas"
+      ],
+      "description": {
+        "it": "Situata lungo il corridoio di Los Cabos, Bahía Chileno offre una tranquilla e riparata insenatura costiera che si apre su formazioni coralline a sperone e canali sabbiosi. Speroni di roccia granitica si protendono verso il mare aperto dalla cala protetta, ricoperti da madrepore, gorgonie e ventagli di mare che offrono rifugio a una ricca varietà di vita marina del Pacifico orientale. Poiché la baia è parzialmente protetta dal forte moto ondoso oceanico, funge da eccellente area di addestramento e da rilassante punto d'immersione per osservare le specie di barriera che riposano sulle chiazze di sabbia.",
+        "en": "Scenic dive site in MX known for pristine marine life and dramatic underwater formations."
+      },
+      "curated": true
+    },
+    {
+      "id": "diverout-mx-chimo",
+      "name": {
+        "it": "Chimo",
+        "en": "Chimo"
+      },
+      "latitude": 20.4978,
+      "longitude": -105.4942,
+      "countryCode": "MX",
+      "region": "pelagic-eastern-pacific",
+      "kind": "reef",
+      "depthMinM": 6,
+      "depthMaxM": 26,
+      "level": "intermediate",
+      "highlights": [
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Epinephelus marginatus",
+        "Octopus vulgaris",
+        "Sparisoma cretense",
+        "Chelonia mydas"
+      ],
+      "description": {
+        "it": "Situato all'estremità meridionale e remota della Baia di Banderas, Chimo è caratterizzato da imponenti pinnacoli vulcanici, ripide pareti e profonde formazioni rocciose modellate dalle correnti dell'oceano aperto. Immergersi qui offre un'atmosfera selvaggia e incontaminata rispetto alle acque riparate dell'interno della baia, con pilastri sottomarini ricoperti di corallo nero e gorgonie. Gli incontri con specie pelagiche sono frequenti attorno alle frastagliate strutture rocciose, mentre la vita macro prospera tra fessure e terrazze.",
+        "en": "Scenic dive site in MX known for pristine marine life and dramatic underwater formations."
+      },
+      "curated": true
+    },
+    {
+      "id": "diverout-mx-chopitos",
+      "name": {
+        "it": "Chopitos",
+        "en": "Chopitos"
+      },
+      "latitude": 23.4029,
+      "longitude": -109.4151,
+      "countryCode": "MX",
+      "region": "pelagic-eastern-pacific",
+      "kind": "reef",
+      "depthMinM": 6,
+      "depthMaxM": 26,
+      "level": "intermediate",
+      "highlights": [
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Epinephelus marginatus",
+        "Octopus vulgaris",
+        "Sparisoma cretense",
+        "Chelonia mydas"
+      ],
+      "description": {
+        "it": "Chopitos è un sito di barriera corallina poco profondo situato all'interno del Parco Nazionale Marino di Cabo Pulmo, lungo l'East Cape della Bassa California del Sud. La topografia del fondale è caratterizzata da affioramenti rocciosi a basso profilo e formazioni sparse di corallo duro Pocillopora adagiate su canali di sabbia aperta. Grazie alla sua posizione riparata e al dolce declivio, il sito viene spesso utilizzato per immersioni di ripasso, esercitazioni di navigazione e rilassanti ricerche macro.",
+        "en": "Scenic dive site in MX known for pristine marine life and dramatic underwater formations."
+      },
+      "curated": true
+    },
+    {
+      "id": "cousins-rock-galapagos",
+      "name": {
+        "it": "Cousin's Rock (Santiago, Galápagos)",
+        "en": "Cousin's Rock (Galápagos)"
+      },
+      "latitude": -0.235,
+      "longitude": -90.575,
+      "countryCode": "EC",
+      "region": "pelagic-eastern-pacific",
+      "kind": "wall",
+      "depthMinM": 10,
+      "depthMaxM": 28,
+      "level": "beginner",
+      "highlights": [
+        "macro",
+        "pelagic"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Zalophus wollebaeki",
+        "Hippocampus ingens",
+        "Antipathes galapagensis"
+      ],
+      "description": {
+        "it": "Gradoni basaltici vulcanici ricoperti dal raro corallo nero endemico, cavallucci marini del Pacifico e leoni marini acrobatici.",
+        "en": "Layered volcanic rock terraces hosting endemic Galápagos black coral bushes, giant seahorses, and acrobatic sea lions."
+      },
+      "curated": true
+    },
+    {
+      "id": "dirty-rock-cocos",
+      "name": {
+        "it": "Dirty Rock (Isola del Cocco)",
+        "en": "Dirty Rock (Cocos Island)"
+      },
+      "latitude": 5.535,
+      "longitude": -87.085,
+      "countryCode": "CR",
+      "region": "pelagic-eastern-pacific",
+      "kind": "reef",
+      "depthMinM": 15,
+      "depthMaxM": 35,
+      "level": "advanced",
+      "highlights": [
+        "pelagic",
+        "sharks"
+      ],
+      "exposure": "exposed",
+      "species": [
+        "Sphyrna lewini",
+        "Caranx sexfasciatus",
+        "Mobula birostris"
+      ],
+      "description": {
+        "it": "Pinnacolo roccioso esposto a forti correnti con banchi compatti di carangidi argentati, squali martello e mante.",
+        "en": "Dramatic rock pinnacle swept by currents, hosting swirling silver jack balls, hammerheads, and mantas."
+      },
+      "curated": true
+    },
+    {
+      "id": "the-altar-malpelo",
+      "name": {
+        "it": "El Altar (Isola di Malpelo)",
+        "en": "The Altar (Malpelo Island, Colombia)"
+      },
+      "latitude": 3.985,
+      "longitude": -81.615,
+      "countryCode": "CO",
+      "region": "pelagic-eastern-pacific",
+      "kind": "wall",
+      "depthMinM": 20,
+      "depthMaxM": 40,
+      "level": "advanced",
+      "highlights": [
+        "sharks",
+        "walls"
+      ],
+      "exposure": "offshore",
+      "species": [
+        "Sphyrna lewini",
+        "Odontaspis ferox",
+        "Carcharhinus falciformis"
+      ],
+      "description": {
+        "it": "Santuario marino colombiano protetto dall'UNESCO celebre per le congregazioni di squali martello e il rarissimo cagnaccio (Odontaspis ferox).",
+        "en": "UNESCO sanctuary renowned for immense hammerhead pods and encounters with the rare deep-water smalltooth sand tiger shark."
+      },
+      "curated": true
+    },
+    {
+      "id": "gordon-rocks-galapagos",
+      "name": {
+        "it": "Gordon Rocks (Santa Cruz, Galápagos)",
+        "en": "Gordon Rocks / The Washing Machine"
+      },
+      "latitude": -0.565,
+      "longitude": -90.145,
+      "countryCode": "EC",
+      "region": "pelagic-eastern-pacific",
+      "kind": "reef",
+      "depthMinM": 12,
+      "depthMaxM": 32,
+      "level": "advanced",
+      "highlights": [
+        "sharks",
+        "pelagic",
+        "drift"
+      ],
+      "exposure": "exposed",
+      "species": [
+        "Sphyrna lewini",
+        "Zalophus wollebaeki",
+        "Myliobatis californica"
+      ],
+      "description": {
+        "it": "Cratere vulcanico eroso soprannominato 'la lavatrice' per le correnti; banchi compatti di squali martello e leoni marini.",
+        "en": "Submerged caldera nicknamed 'The Washing Machine'; home to dense hammerhead schools and playful sea lions."
+      },
+      "curated": true
+    },
+    {
+      "id": "kicker-rock-galapagos",
+      "name": {
+        "it": "Kicker Rock / León Dormido (Galápagos)",
+        "en": "Kicker Rock / León Dormido (San Cristóbal)"
+      },
+      "latitude": -0.765,
+      "longitude": -89.512,
+      "countryCode": "EC",
+      "region": "pelagic-eastern-pacific",
+      "kind": "wall",
+      "depthMinM": 10,
+      "depthMaxM": 35,
+      "level": "beginner",
+      "highlights": [
+        "walls",
+        "sharks"
+      ],
+      "exposure": "exposed",
+      "species": [
+        "Carcharhinus galapagensis",
+        "Aetobatus laticeps",
+        "Zalophus wollebaeki"
+      ],
+      "description": {
+        "it": "Monolito di tufo vulcanico spaccato in due canali verticali dove incrociano squali delle Galapagos, aquile di mare e tartarughe.",
+        "en": "Towering volcanic monolith split by a deep channel where Galapagos sharks, eagle rays, and sea turtles glide."
+      },
+      "curated": true
+    },
+    {
+      "id": "la-nevera-malpelo",
+      "name": {
+        "it": "La Nevera / Il Frigorifero (Malpelo)",
+        "en": "La Nevera / The Fridge (Malpelo Island)"
+      },
+      "latitude": 3.992,
+      "longitude": -81.608,
+      "countryCode": "CO",
+      "region": "pelagic-eastern-pacific",
+      "kind": "wall",
+      "depthMinM": 15,
+      "depthMaxM": 35,
       "level": "advanced",
       "highlights": [
         "sharks",
         "drift"
       ],
+      "exposure": "offshore",
       "species": [
         "Sphyrna lewini",
-        "Triaenodon obesus",
-        "Aetobatus ocellatus"
+        "Carcharhinus galapagensis"
       ],
-      "exposure": "exposed_all",
       "description": {
-        "en": "Submerged seamount 300 miles offshore Costa Rica: unbelievable walls of hundreds of schooling scalloped hammerhead sharks blocking out the sunlight.",
-        "it": "Montagna sottomarina a 500 km dalla costa: incredibili pareti di centinaia di squali martello che oscurano la luce del sole, aquile di mare e carangidi."
+        "it": "Stazione di pulizia oceanica dove la risalita di correnti fredde ricche di nutrienti raduna centinaia di squali martello e mante.",
+        "en": "Legendary cleaning station swept by chilly upwellings, concentrating hundreds of hammerheads and Galapagos sharks."
       },
       "curated": true
     },
     {
-      "id": "pelagic-socorro-the-boiler",
+      "id": "manuelita-coral-garden",
       "name": {
-        "en": "The Boiler (San Benedicto)",
-        "it": "The Boiler (Isole Revillagigedo, Socorro)"
+        "it": "Manuelita Coral Garden (Isola del Cocco)",
+        "en": "Manuelita Coral Garden (Cocos Island)"
       },
-      "region": "Mexico - Revillagigedo Archipelago",
-      "countryCode": "MX",
-      "latitude": 19.3167,
-      "longitude": -110.8167,
-      "kind": "pinnacle",
+      "latitude": 5.558,
+      "longitude": -87.048,
+      "countryCode": "CR",
+      "region": "pelagic-eastern-pacific",
+      "kind": "reef",
       "depthMinM": 10,
-      "depthMaxM": 45,
+      "depthMaxM": 25,
+      "level": "intermediate",
+      "highlights": [
+        "sharks",
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Triaenodon obesus",
+        "Aetobatus narinari"
+      ],
+      "description": {
+        "it": "Giardino di corallo famoso per immersioni notturne ad altissima adrenalina con centinaia di squali pinna bianca del reef in caccia di gruppo.",
+        "en": "Famed night dive arena where hundreds of whitetip reef sharks hunt collectively through coral heads in feeding frenzies."
+      },
+      "curated": true
+    },
+    {
+      "id": "darwins-pillars-galapagos",
+      "name": {
+        "it": "Pilastri di Darwin (Galápagos)",
+        "en": "Darwin's Pillars / Arch (Galápagos)"
+      },
+      "latitude": 1.675,
+      "longitude": -92.005,
+      "countryCode": "EC",
+      "region": "pelagic-eastern-pacific",
+      "kind": "reef",
+      "depthMinM": 15,
+      "depthMaxM": 35,
+      "level": "advanced",
+      "highlights": [
+        "whaleShark",
+        "sharks"
+      ],
+      "exposure": "offshore",
+      "species": [
+        "Rhincodon typus",
+        "Sphyrna lewini",
+        "Mobula birostris"
+      ],
+      "description": {
+        "it": "Il punto di immersione più celebre al mondo per nuotare a fianco di colossali femmine gravide di squalo balena in migrazione.",
+        "en": "World-famous pinnacle for encounters with colossal pregnant female whale sharks during summer migration."
+      },
+      "curated": true
+    },
+    {
+      "id": "roca-partida-socorro",
+      "name": {
+        "it": "Roca Partida (Arcipelago di Revillagigedo)",
+        "en": "Roca Partida (Socorro Islands, Mexico)"
+      },
+      "latitude": 18.995,
+      "longitude": -112.065,
+      "countryCode": "MX",
+      "region": "pelagic-eastern-pacific",
+      "kind": "wall",
+      "depthMinM": 10,
+      "depthMaxM": 40,
       "level": "advanced",
       "highlights": [
         "mantas",
         "sharks",
-        "dolphins"
+        "walls"
       ],
+      "exposure": "offshore",
       "species": [
         "Mobula birostris",
-        "Tursiops truncatus",
-        "Galeocerdo cuvier"
+        "Triaenodon obesus",
+        "Carcharhinus falciformis"
       ],
-      "exposure": "exposed_all",
       "description": {
-        "en": "A cleaning station pinnacle in the open Pacific known for intimate interactions with giant oceanic manta rays (7m wingspan) that seek eye contact with divers, alongside wild bottlenose dolphins.",
-        "it": "Pinnacolo oceanico stazione di pulizia: celebre per il contatto visivo spontaneo con mante oceaniche giganti (7 metri di apertura alare) e delfini selvatici."
+        "it": "Minuscolo scoglio vulcanico isolato nell'Oceano Pacifico con terrazze ricolme di squali pinna bianca e mante giganti.",
+        "en": "Tiny, isolated pinnacle in the open Pacific with shelves packed with resting whitetip sharks and giant oceanic mantas."
+      },
+      "curated": true
+    },
+    {
+      "id": "wolf-island-galapagos",
+      "name": {
+        "it": "Shark Bay (Isola Wolf, Galápagos)",
+        "en": "Shark Bay (Wolf Island, Galápagos)"
+      },
+      "latitude": 1.385,
+      "longitude": -91.815,
+      "countryCode": "EC",
+      "region": "pelagic-eastern-pacific",
+      "kind": "wall",
+      "depthMinM": 12,
+      "depthMaxM": 35,
+      "level": "advanced",
+      "highlights": [
+        "sharks",
+        "pelagic"
+      ],
+      "exposure": "offshore",
+      "species": [
+        "Sphyrna lewini",
+        "Carcharhinus galapagensis",
+        "Tursiops truncatus"
+      ],
+      "description": {
+        "it": "Capitale mondiale dei pelagici: centinaia di squali martello smerlati, squali delle Galápagos e branchi di delfini.",
+        "en": "Pelagic capital of the world: hundreds of schooling scalloped hammerheads, Galapagos sharks, and bottlenose dolphins."
+      },
+      "curated": true
+    },
+    {
+      "id": "the-boiler-socorro",
+      "name": {
+        "it": "The Boiler (San Benedicto, Socorro)",
+        "en": "The Boiler (San Benedicto Island)"
+      },
+      "latitude": 19.325,
+      "longitude": -110.812,
+      "countryCode": "MX",
+      "region": "pelagic-eastern-pacific",
+      "kind": "reef",
+      "depthMinM": 15,
+      "depthMaxM": 35,
+      "level": "advanced",
+      "highlights": [
+        "mantas",
+        "pelagic"
+      ],
+      "exposure": "offshore",
+      "species": [
+        "Mobula birostris",
+        "Tursiops truncatus"
+      ],
+      "description": {
+        "it": "La più celebre stazione di pulizia al mondo per mante oceaniche giganti amichevoli che cercano spontaneamente il contatto visivo con i sub.",
+        "en": "The premier cleaning station for giant Pacific mantas that willingly approach divers for intimate, interactive encounters."
+      },
+      "curated": true
+    },
+    {
+      "id": "the-canyon-socorro",
+      "name": {
+        "it": "The Canyon (San Benedicto, Socorro)",
+        "en": "The Canyon (San Benedicto Island)"
+      },
+      "latitude": 19.305,
+      "longitude": -110.825,
+      "countryCode": "MX",
+      "region": "pelagic-eastern-pacific",
+      "kind": "wall",
+      "depthMinM": 12,
+      "depthMaxM": 35,
+      "level": "advanced",
+      "highlights": [
+        "sharks",
+        "mantas"
+      ],
+      "exposure": "offshore",
+      "species": [
+        "Carcharhinus falciformis",
+        "Mobula birostris",
+        "Sphyrna lewini"
+      ],
+      "description": {
+        "it": "Canyon sottomarino naturale dove si concentrano mante oceaniche giganti, squali seta, squali martello e delfini tursiopi.",
+        "en": "Submarine volcanic canyon concentrating giant Pacific mantas, silky sharks, schooling hammerheads, and wild dolphins."
       },
       "curated": true
     }

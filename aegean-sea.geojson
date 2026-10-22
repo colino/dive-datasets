@@ -1,208 +1,42 @@
 {
   "type": "FeatureCollection",
-  "name": "Mar Egeo & Creta (Aegean Sea & Crete)",
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.2449,
-          35.4691
+          23.7866,
+          37.8025
         ]
       },
       "properties": {
-        "id": "aegean-crete-elephant-cave",
-        "name": "Elephant Cave (Spilaio Elefanton)",
-        "name_it": "Grotta degli Elefanti (Drepano)",
-        "region": "Crete - Chania (Drepano)",
+        "id": "diverout-gr-1st-cove-vouliagmeni",
+        "name": {
+          "it": "1st Cove Vouliagmeni",
+          "en": "1st Cove Vouliagmeni"
+        },
         "countryCode": "GR",
-        "kind": "cave",
-        "depthMinM": 9,
-        "depthMaxM": 12,
-        "level": "intermediate",
-        "exposure": "exposed_north",
-        "highlights": [
-          "caves",
-          "history",
-          "macro"
-        ],
-        "species": [
-          "Elephas chaniensis (fossil)",
-          "Plesionika narval",
-          "Scorpaena scrofa"
-        ],
-        "description_en": "Submerged sea cave with spectacular stalactites/stalagmites and fossilized bones of an extinct dwarf elephant. Entrance at 10m, interior features an air chamber.",
-        "description_it": "Grotta marina con stalattiti/stalagmiti e ossa fossili pietrificate di un elefante nano estinto. Ingresso a 10m e camera d'aria interna."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.225,
-          35.452
-        ]
-      },
-      "properties": {
-        "id": "aegean-crete-koutalas-cave",
-        "name": "Koutalas Cave",
-        "name_it": "Grotta di Koutalas",
-        "region": "Crete - Chania (Kokkino Chorio)",
-        "countryCode": "GR",
-        "kind": "cave",
-        "depthMinM": 8,
-        "depthMaxM": 22,
-        "level": "intermediate",
-        "exposure": "exposed_north",
-        "highlights": [
-          "caves",
-          "history"
-        ],
-        "species": [
-          "Anthias anthias",
-          "Epinephelus marginatus"
-        ],
-        "description_en": "Dramatic cavern with ancient amphora remnants and pottery fragments. Features light beams through the cavern roof and colorful sponge-covered walls.",
-        "description_it": "Caverna con frammenti di anfore antiche. Fasci di luce penetrano dal soffitto e pareti ricoperte di spugne colorate."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.081,
-          35.554
-        ]
-      },
-      "properties": {
-        "id": "aegean-crete-amphorae-reef",
-        "name": "Amphorae Reef",
-        "name_it": "Secca delle Anfore",
-        "region": "Crete - Chania (Kalathas)",
-        "countryCode": "GR",
+        "region": "aegean-sea",
         "kind": "reef",
-        "depthMinM": 12,
-        "depthMaxM": 26,
-        "level": "beginner",
-        "exposure": "exposed_west",
-        "highlights": [
-          "corals",
-          "history",
-          "turtles"
-        ],
-        "species": [
-          "Caretta caretta",
-          "Octopus vulgaris",
-          "Sparisoma cretense"
-        ],
-        "description_en": "Historic dive site with remnants of ancient transport amphorae fused into the seabed. Frequent loggerhead sea turtle sightings.",
-        "description_it": "Sito archeologico con frammenti di anfore commerciali romane e greche incastonate nel fondale. Frequenti tartarughe marine Caretta caretta."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.4205,
-          35.1685
-        ]
-      },
-      "properties": {
-        "id": "aegean-crete-shinaria-beach",
-        "name": "Shinaria Reef & Canyons",
-        "name_it": "Secca e Canyon di Shinaria",
-        "region": "Crete - Plakias (Rethymno South)",
-        "countryCode": "GR",
-        "kind": "reef",
-        "depthMinM": 5,
-        "depthMaxM": 35,
-        "level": "beginner",
-        "exposure": "sheltered_north",
-        "highlights": [
-          "walls",
-          "caves",
-          "macro",
-          "rays"
-        ],
-        "species": [
-          "Dasyatis pastinaca",
-          "Epinephelus marginatus",
-          "Muraena helena",
-          "Caretta caretta"
-        ],
-        "description_en": "Crete's top marine biodiversity site. Crystal-clear waters (>40m visibility), underwater thermal springs, underwater canyon drop-off, octopuses and stingrays. Sheltered from north Meltemi winds.",
-        "description_it": "Altissima biodiversità marina: visibilità oltre i 40m, risorgive termali, canyon e pareti profonde. Ottimo riparo quando soffia il Meltemi da nord."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.392,
-          35.185
-        ]
-      },
-      "properties": {
-        "id": "aegean-crete-daedalos-plakias",
-        "name": "Paligremnos Wall & Daedalos",
-        "name_it": "Parete di Paligremnos (Plakias)",
-        "region": "Crete - Plakias",
-        "countryCode": "GR",
-        "kind": "wall",
-        "depthMinM": 10,
-        "depthMaxM": 40,
-        "level": "advanced",
-        "exposure": "sheltered_north",
-        "highlights": [
-          "walls",
-          "drift",
-          "macro"
-        ],
-        "species": [
-          "Scorpaena scrofa",
-          "Palinurus elephas",
-          "Dentex dentex"
-        ],
-        "description_en": "Massive vertical tectonic fault wall continuing down underwater to 40+ meters. Huge crevasses harboring groupers, lobsters, and moray eels.",
-        "description_it": "Imponente faglia tettonica a strapiombo che prosegue sott'acqua fino a 40 metri con cernie, aragoste e murene."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.802,
-          34.928
-        ]
-      },
-      "properties": {
-        "id": "aegean-crete-byron-i-wreck",
-        "name": "Byron I Shipwreck",
-        "name_it": "Relitto Byron I",
-        "region": "Crete - Kaloi Limenes (South)",
-        "countryCode": "GR",
-        "kind": "wreck",
         "depthMinM": 6,
-        "depthMaxM": 15,
-        "level": "beginner",
-        "exposure": "sheltered_north",
+        "depthMaxM": 26,
+        "level": "intermediate",
         "highlights": [
-          "wreck",
-          "history"
+          "corals"
         ],
+        "exposure": "sheltered",
         "species": [
-          "Siganus luridus",
-          "Serranus cabrilla",
-          "Octopus vulgaris"
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
         ],
-        "description_en": "Greek cargo vessel (100m length) carrying sugar that ran aground in 1985. Lies in shallow clear waters, accessible for beginners and underwater photographers.",
-        "description_it": "Mercantile greco di 100m naufragato nel 1985 con carico di zucchero. Adagiato su fondale poco profondo, ideale per sub e fotografi."
+        "description": {
+          "it": "Situata lungo la costa rocciosa della Riviera ateniese, 1st Cove a Vouliagmeni è uno dei principali punti di immersione da riva per l'addestramento e le immersioni ricreative dei subacquei di Atene. L'accesso avviene scendendo lungo un sentiero in pietra che conduce a un'insenatura rocciosa e riparata. Sott'acqua, un dolce pendio di sabbia e massi sparsi lascia spazio a pareti rocciose e praterie di posidonia man mano che si esce dall'insenatura.",
+          "en": "Scenic dive site in GR known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
       }
     },
     {
@@ -210,32 +44,75 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          25.3934,
-          35.336
+          23.9274,
+          39.1888
         ]
       },
       "properties": {
-        "id": "aegean-crete-messerschmitt-wreck",
-        "name": "Messerschmitt Bf 109 Wreck",
-        "name_it": "Relitto Caccia Messerschmitt Bf 109",
-        "region": "Crete - Hersonissos / Analipsi",
+        "id": "diverout-gr-agios-petros",
+        "name": {
+          "it": "Agios Petros",
+          "en": "Agios Petros"
+        },
         "countryCode": "GR",
-        "kind": "wreck",
-        "depthMinM": 24,
-        "depthMaxM": 30,
-        "level": "advanced",
-        "exposure": "exposed_north",
+        "region": "aegean-sea",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
         "highlights": [
-          "wreck",
-          "history"
+          "corals"
         ],
+        "exposure": "sheltered",
         "species": [
-          "Epinephelus costae",
-          "Muraena helena",
-          "Seriola dumerili"
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
         ],
-        "description_en": "WWII Luftwaffe fighter plane shot down during the Battle of Crete in 1941. Resting inverted on sand with visible engine, propeller blades, and cockpit.",
-        "description_it": "Caccia tedesco della Seconda Guerra Mondiale abbattuto nel 1941. Poggia capovolto su sabbia a 26m con motore e mitragliatrici visibili."
+        "description": {
+          "it": "Situato all'interno del Parco Marino Nazionale di Alonissos e delle Sporadi Settentrionali, al largo di Kyra Panagia, Agios Petros offre l'ambiente di una baia calma circondata da suggestive scogliere mediterranee. Il sito presenta un mix di massi sparsi, reef rocciosi e dense praterie di Posidonia oceanica che offrono rifugio a una tipica varietà di vita marina dell'Egeo. Sporadici frammenti di antiche ceramiche e resti di anfore giacciono incastonati nel fondale marino, a testimonianza di secoli di traffico marittimo attraverso queste acque riparate.",
+          "en": "Scenic dive site in GR known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3168,
+          37.0494
+        ]
+      },
+      "properties": {
+        "id": "diverout-gr-amaras-reef",
+        "name": {
+          "it": "Amaras Reef",
+          "en": "Amaras Reef"
+        },
+        "countryCode": "GR",
+        "region": "aegean-sea",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato nel canale aperto tra Naxos e Paros, l'Amaras Reef presenta un vasto altopiano roccioso sommerso che si erge ripido dal fondale sabbioso. I subacquei esplorano pareti rocciose verticali, fessure e sporgenze naturali modellate dalle correnti dell'Egeo, con banchi di pelagici che pattugliano frequentemente i margini esposti nel blu.",
+          "en": "Scenic dive site in GR known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
       }
     },
     {
@@ -244,196 +121,37 @@
         "type": "Point",
         "coordinates": [
           25.021,
-          35.412
+          35.4166
         ]
       },
       "properties": {
-        "id": "aegean-crete-el-greco-cave",
-        "name": "El Greco Cave",
-        "name_it": "Grotta El Greco",
-        "region": "Crete - Agia Pelagia",
+        "id": "diverout-gr-amphora-cave",
+        "name": {
+          "it": "Amphora Cave",
+          "en": "Amphora Cave"
+        },
         "countryCode": "GR",
+        "region": "aegean-sea",
         "kind": "cave",
-        "depthMinM": 18,
-        "depthMaxM": 35,
+        "depthMinM": 6,
+        "depthMaxM": 26,
         "level": "intermediate",
-        "exposure": "sheltered_south",
         "highlights": [
           "caves",
-          "walls"
-        ],
-        "species": [
-          "Stenopus spinosus",
-          "Apogon imberbis",
-          "Conger conger"
-        ],
-        "description_en": "Cavern named after Cretan painter El Greco. Tunnel extends 30 meters into the cliffs opening into a siphon and internal hall with stalactites.",
-        "description_it": "Spettacolare grotta con tunnel di 30m che si apre in una camera con formazioni stalattitiche e gamberi pulitori."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.018,
-          35.417
-        ]
-      },
-      "properties": {
-        "id": "aegean-crete-mononaftis",
-        "name": "Mononaftis Reef & Canyons",
-        "name_it": "Secca di Mononaftis",
-        "region": "Crete - Agia Pelagia",
-        "countryCode": "GR",
-        "kind": "reef",
-        "depthMinM": 5,
-        "depthMaxM": 32,
-        "level": "beginner",
-        "exposure": "sheltered_south",
-        "highlights": [
-          "walls",
-          "macro",
-          "corals"
-        ],
-        "species": [
-          "Octopus vulgaris",
-          "Chromis chromis",
-          "Flabellina affinis"
-        ],
-        "description_en": "Scenic volcanic reef with swim-through arches, rocky pinnacles, and abundant Mediterranean marine life from nudibranchs to groupers.",
-        "description_it": "Scogliera vulcanica con archi passanti, pinnacoli rocciosi e abbondante vita marina da nudibranchi a cernie."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.7335,
-          35.2562
-        ]
-      },
-      "properties": {
-        "id": "aegean-crete-olous-sunken-city",
-        "name": "Sunken City of Olous",
-        "name_it": "Città Sommersa di Olous",
-        "region": "Crete - Elounda (Mirabello Bay)",
-        "countryCode": "GR",
-        "kind": "other",
-        "depthMinM": 1,
-        "depthMaxM": 4,
-        "level": "beginner",
-        "exposure": "sheltered_all",
-        "highlights": [
-          "history",
           "macro"
         ],
-        "species": [
-          "Sparisoma cretense",
-          "Salpa salpa",
-          "Octopus vulgaris"
-        ],
-        "description_en": "Ancient submerged Minoan/Dorian city that sank into Mirabello Bay during earthquakes. Visible foundations, city walls, piers, and amphora shards.",
-        "description_it": "Antica città minoica e dorica sommersa nel golfo di Mirabello. Mura cittadine, fondamenta e banchine portuali ben visibili a pelo d'acqua."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.2839,
-          37.7014
-        ]
-      },
-      "properties": {
-        "id": "aegean-kea-hmhs-britannic",
-        "name": "HMHS Britannic Shipwreck",
-        "name_it": "Relitto HMHS Britannic",
-        "region": "Cyclades - Kea Channel",
-        "countryCode": "GR",
-        "kind": "wreck",
-        "depthMinM": 118,
-        "depthMaxM": 122,
-        "level": "technical",
-        "exposure": "exposed_all",
-        "highlights": [
-          "wreck",
-          "history"
-        ],
-        "species": [
-          "Conger conger",
-          "Phycis blennoides"
-        ],
-        "description_en": "Sister ship to RMS Titanic, converted hospital ship mined in 1916. The pinnacle of wreck diving: 269m long, resting largely intact at 120m depth.",
-        "description_it": "Nave gemella del Titanic affondata da una mina nel 1916. L'Everest delle immersioni tecniche: lunga 269m, intatta a 120m di profondità."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.279,
-          37.674
-        ]
-      },
-      "properties": {
-        "id": "aegean-kea-ss-burdigala",
-        "name": "SS Burdigala Wreck",
-        "name_it": "Relitto SS Burdigala",
-        "region": "Cyclades - Kea Channel",
-        "countryCode": "GR",
-        "kind": "wreck",
-        "depthMinM": 60,
-        "depthMaxM": 76,
-        "level": "technical",
-        "exposure": "exposed_all",
-        "highlights": [
-          "wreck",
-          "history"
-        ],
-        "species": [
-          "Seriola dumerili",
-          "Anthias anthias"
-        ],
-        "description_en": "French ocean liner (180m long) torpedoed days before Britannic in 1916. Grand hull and decks preserved at 70m depth.",
-        "description_it": "Transatlantico francese di 180m affondato nel 1916. Imponente relitto tecnico integro con argani, scafo e ponti a 70m."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.3954,
-          37.4158
-        ]
-      },
-      "properties": {
-        "id": "aegean-mykonos-anna-ii",
-        "name": "Anna II Cargo Ship Wreck",
-        "name_it": "Relitto Nave Anna II",
-        "region": "Cyclades - Mykonos (Lia Beach)",
-        "countryCode": "GR",
-        "kind": "wreck",
-        "depthMinM": 22,
-        "depthMaxM": 36,
-        "level": "intermediate",
-        "exposure": "sheltered_north",
-        "highlights": [
-          "wreck",
-          "history",
-          "macro"
-        ],
+        "exposure": "sheltered",
         "species": [
           "Epinephelus marginatus",
-          "Serranus scriba",
-          "Spicara maena"
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
         ],
-        "description_en": "Dutch cargo ship (62m) sunk in 1995 off south Mykonos. Sits upright on clean sand at 32m; accessible cabins and engine room.",
-        "description_it": "Mercantile olandese di 62m affondato nel 1995 al largo di Lia Beach. Poggia dritto sulla chiglia su sabbia a 32m; stive e sala macchine visitabili."
+        "description": {
+          "it": "Situata lungo la costa rocciosa vicino ad Agia Pelagia, nella parte settentrionale di Creta, Amphora Cave offre un'immersione in caverna ricca di atmosfera e intrisa di storia mediterranea. I subacquei attraversano un'ampia apertura per accedere a una camera a volta in cui antichi frammenti di anfore in terracotta sono rimasti incrostati e calcificati nella roccia del soffitto e delle pareti. All'esterno della caverna, ripide cenge rocciose scendono verso il fondale sabbioso, offrendo rifugio alla vita marina mediterranea tra anfratti e sporgenze.",
+          "en": "Scenic dive site in GR known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
       }
     },
     {
@@ -441,32 +159,226 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          25.397,
+          28.2131,
+          36.3228
+        ]
+      },
+      "properties": {
+        "id": "diverout-gr-anthony-quinn-seal-cave",
+        "name": {
+          "it": "Anthony Quinn Seal Cave",
+          "en": "Anthony Quinn Seal Cave"
+        },
+        "countryCode": "GR",
+        "region": "aegean-sea",
+        "kind": "cave",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "caves",
+          "macro"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato lungo i promontori rocciosi vicino ad Anthony Quinn Bay a Rodi, questo sito presenta un'ampia apertura di caverna scavata nelle scogliere calcaree. I raggi di luce penetrano nella camera d'ingresso, illuminando chiazze di sabbia e massi fratturati dove trovano rifugio piccoli invertebrati. I subacquei esplorano l'imboccatura della caverna e i pendii del reef circostante prima di spostarsi lungo i drop-off e i profili rocciosi adiacenti.",
+          "en": "Scenic dive site in GR known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.4217,
+          36.8276
+        ]
+      },
+      "properties": {
+        "id": "diverout-gr-arado-plane",
+        "name": {
+          "it": "Arado plane",
+          "en": "Arado plane"
+        },
+        "countryCode": "GR",
+        "region": "aegean-sea",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Adagiato capovolto nelle acque riparate della baia di Alimia, al largo dell'isola di Irakleia, questo idrovolante tedesco Arado Ar 196 fu abbattuto durante la seconda guerra mondiale. La fusoliera e le ali sono rimaste straordinariamente intatte su un fondale sabbioso, incrostate di vita marina e circondate da frammenti sparsi. Grazie alla sua collocazione a bassa profondità, la luce naturale illumina l'intera struttura per tutto il giorno.",
+          "en": "Scenic dive site in GR known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8943,
+          37.7083
+        ]
+      },
+      "properties": {
+        "id": "diverout-gr-arzentas-canyon",
+        "name": {
+          "it": "Arzentas Canyon",
+          "en": "Arzentas Canyon"
+        },
+        "countryCode": "GR",
+        "region": "aegean-sea",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato lungo i frastagliati pendii sottomarini dell'isolotto di Arsida, al largo della costa dell'Attica, questo sito si sviluppa attorno a una marcata spaccatura rocciosa verticale che fende il fondale marino. I subacquei scendono lungo pareti di pietra a picco ricoperte di spugne incrostanti e briozoi prima di esplorare lo stretto canyon. Il paesaggio circostante è caratterizzato da spettacolari strapiombi rocciosi, massi e distese di detriti che offrono rifugio alla tipica fauna marina del Mar Egeo.",
+          "en": "Scenic dive site in GR known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3616,
+          36.9619
+        ]
+      },
+      "properties": {
+        "id": "diverout-gr-bristol-beaufighter",
+        "name": {
+          "it": "Bristol Beaufighter",
+          "en": "Bristol Beaufighter"
+        },
+        "countryCode": "GR",
+        "region": "aegean-sea",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Adagiato in posizione eretta su un fondale sabbioso aperto al largo della costa meridionale di Naxos, questo caccia pesante britannico Bristol Beaufighter della Seconda Guerra Mondiale fu abbattuto alla fine del 1943. Il relitto è straordinariamente intatto, con i due motori radiali ben conservati, la struttura della cabina di pilotaggio e le ali che hanno dato vita a una barriera corallina artificiale. I subacquei esplorano il perimetro della fusoliera e della sezione di coda, che attirano una ricca vita marina mediterranea in un fondale altrimenti spoglio.",
+          "en": "Scenic dive site in GR known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.042,
+          35.345
+        ]
+      },
+      "properties": {
+        "id": "messerschmitt-crete",
+        "name": {
+          "it": "Caccia Messerschmitt Bf 109 (Creta)",
+          "en": "Messerschmitt Bf 109 Wreck (Crete)"
+        },
+        "countryCode": "GR",
+        "region": "aegean-sea",
+        "kind": "wreck",
+        "depthMinM": 24,
+        "depthMaxM": 30,
+        "level": "intermediate",
+        "highlights": [
+          "wreck",
+          "history"
+        ],
+        "exposure": "exposed",
+        "species": [
+          "Scorpaena scrofa",
+          "Serranus cabrilla"
+        ],
+        "description": {
+          "it": "Caccia da guerra tedesco abbattuto durante la battaglia di Creta del 1941, adagiato capovolto con motore e ali visibili.",
+          "en": "German WWII fighter plane shot down during the 1941 Battle of Crete, lying upside down with visible engine and wings."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.401,
           36.402
         ]
       },
       "properties": {
-        "id": "aegean-santorini-taxiarchis",
-        "name": "Taxiarchis Caldera Wreck",
-        "name_it": "Relitto Taxiarchis (Caldera Santorini)",
-        "region": "Cyclades - Santorini (Nea Kameni)",
+        "id": "santorini-caldera-nea-kameni",
+        "name": {
+          "it": "Caldera di Santorini & Relitto Nea Kameni",
+          "en": "Santorini Caldera & Nea Kameni Wreck"
+        },
         "countryCode": "GR",
-        "kind": "wreck",
-        "depthMinM": 14,
-        "depthMaxM": 30,
-        "level": "intermediate",
-        "exposure": "sheltered_all",
+        "region": "aegean-sea",
+        "kind": "wall",
+        "depthMinM": 10,
+        "depthMaxM": 40,
+        "level": "beginner",
         "highlights": [
-          "wreck",
-          "walls"
+          "walls",
+          "wreck"
         ],
+        "exposure": "sheltered",
         "species": [
-          "Epinephelus costae",
-          "Scorpaena notata",
-          "Tripterygion delaisi"
+          "Serranus scriba",
+          "Chromis chromis"
         ],
-        "description_en": "Vessel wreck inside the volcanic caldera of Santorini at Nea Kameni. Steep black volcanic drop-offs, warm sulfurous vents, and unique geology.",
-        "description_it": "Relitto all'interno della caldera vulcanica di Santorini presso l'isola lavica di Nea Kameni con pareti vulcaniche spettacolari."
+        "description": {
+          "it": "Pareti vulcaniche a strapiombo nella celebre caldera attiva di Santorini con sorgenti calde termali e relitto di un peschereccio passeggeri.",
+          "en": "Sheer volcanic drop-offs inside Santorini's active caldera featuring geothermal thermal vents and a passenger boat wreck."
+        },
+        "curated": true
       }
     },
     {
@@ -474,31 +386,566 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          25.461,
+          25.714,
+          35.218
+        ]
+      },
+      "properties": {
+        "id": "diverout-gr-candia-housereef",
+        "name": {
+          "it": "Candia Housereef",
+          "en": "Candia Housereef"
+        },
+        "countryCode": "GR",
+        "region": "aegean-sea",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato direttamente al largo della costa all'interno della baia di Mirabello, questo house reef è caratterizzato da un fondale in lieve pendenza ricoperto da praterie di Posidonia oceanica e formazioni rocciose calcaree. La natura riparata della cala lo rende un luogo ideale per l'addestramento e un facile sito di immersione di orientamento lungo la costa nord-orientale di Creta. Piccoli anfratti ospitano la tipica vita macro mediterranea, mentre le distese di sabbia rivelano creature nascoste.",
+          "en": "Scenic dive site in GR known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6836,
+          39.9611
+        ]
+      },
+      "properties": {
+        "id": "diverout-gr-chrousso-bay",
+        "name": {
+          "it": "Chrousso bay",
+          "en": "Chrousso bay"
+        },
+        "countryCode": "GR",
+        "region": "aegean-sea",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Chrousso Bay si trova all'estremità sud-orientale della penisola di Kassandra, nella Calcidica, e offre acque mediterranee calme e riparate. Il profilo d'immersione segue un pendio graduale su sabbia fine, chiazze di posidonia e formazioni rocciose sparse che ospitano specie marine costiere. Grazie al movimento dell'acqua ridotto al minimo e alla facile orientazione, i subacquei scelgono spesso questa baia per check-dive, corsi di aggiornamento ed esplorazioni rilassate.",
+          "en": "Scenic dive site in GR known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.735,
+          35.258
+        ]
+      },
+      "properties": {
+        "id": "olous-sunken-city",
+        "name": {
+          "it": "Città Sommersa di Olous (Creta)",
+          "en": "Sunken City of Olous (Elounda, Crete)"
+        },
+        "countryCode": "GR",
+        "region": "aegean-sea",
+        "kind": "reef",
+        "depthMinM": 2,
+        "depthMaxM": 6,
+        "level": "beginner",
+        "highlights": [
+          "history"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Diplodus sargus",
+          "Sepia officinalis"
+        ],
+        "description": {
+          "it": "Rovine sommerse dell'antica città minoica ed ellenistica di Olous; resti di moli, mura perimetrali e mosaici sul fondale.",
+          "en": "Sunken ruins of the ancient Minoan city of Olous in Elounda Bay; ancient walls, stone piers, and floor foundations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.989,
+          36.517
+        ]
+      },
+      "properties": {
+        "id": "pavlopetri-laconia",
+        "name": {
+          "it": "Città Sommersa di Pavlopetri",
+          "en": "Pavlopetri Sunken City (Peloponnese)"
+        },
+        "countryCode": "GR",
+        "region": "aegean-sea",
+        "kind": "reef",
+        "depthMinM": 2,
+        "depthMaxM": 5,
+        "level": "beginner",
+        "highlights": [
+          "history"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Diplodus vulgaris",
+          "Octopus vulgaris"
+        ],
+        "description": {
+          "it": "La più antica città sommersa al mondo risalente all'Età del Bronzo (5.000 anni fa), con strade, cortili e tombe intatte.",
+          "en": "The oldest submerged city in the world dating back 5,000 years to the Bronze Age, with clear layout of streets and buildings."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.4114,
+          35.1741
+        ]
+      },
+      "properties": {
+        "id": "diverout-gr-damnoni-old-harbour",
+        "name": {
+          "it": "Damnoni Old Harbour",
+          "en": "Damnoni Old Harbour"
+        },
+        "countryCode": "GR",
+        "region": "aegean-sea",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situata lungo la costa meridionale protetta di Creta, vicino a Plakias, questa tranquilla immersione da riva segue il promontorio roccioso dello storico molo. Il fondale passa da rocce sparse e praterie di Posidonia a sabbia fine, offrendo un ambiente rilassante particolarmente adatto a immersioni di ripasso ed esplorazioni notturne. I subacquei costeggiano abitualmente i profili rocciosi per ispezionare anfratti e sporgenze alla ricerca della fauna mediterranea.",
+          "en": "Scenic dive site in GR known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0525,
+          37.8258
+        ]
+      },
+      "properties": {
+        "id": "diverout-gr-daskalio-kerateas",
+        "name": {
+          "it": "Daskalio Kerateas",
+          "en": "Daskalio Kerateas"
+        },
+        "countryCode": "GR",
+        "region": "aegean-sea",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato lungo la costa orientale dell'Attica, vicino ad Atene, questo sito offre una combinazione di baie costiere riparate e suggestive formazioni rocciose sottomarine. I subacquei possono esplorare scogliere rocciose terrazzate intervallate da chiazze di Posidonia oceanica, scoprendo anfratti ricchi dei tipici invertebrati del Mar Egeo. Il litorale calmo lo rende una destinazione abituale per l'addestramento e le immersioni ricreative dei sub locali durante tutto l'anno.",
+          "en": "Scenic dive site in GR known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2705,
+          37.8232
+        ]
+      },
+      "properties": {
+        "id": "diverout-gr-diaporia-cavern",
+        "name": {
+          "it": "Diaporia Cavern",
+          "en": "Diaporia Cavern"
+        },
+        "countryCode": "GR",
+        "region": "aegean-sea",
+        "kind": "cave",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "caves",
+          "macro"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situata all'interno del gruppo di isolotti rocciosi di Diaporia nel Golfo Saronico, questa immersione in caverna presenta un'architettura di roccia vulcanica caratterizzata da fessure, strapiombi e passaggi da attraversare a nuoto. La luce del giorno penetra dall'ingresso principale illuminando pareti calcaree incrostate di spugne e chiazze sabbiose sul fondale. I subacquei esplorano il bordo esterno della barriera prima di addentrarsi nell'ampio interno della caverna, dove anfratti riparati ospitano invertebrati mediterranei criptici.",
+          "en": "Scenic dive site in GR known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.2439,
+          35.4692
+        ]
+      },
+      "properties": {
+        "id": "diverout-gr-elephant-cave",
+        "name": {
+          "it": "Elephant cave",
+          "en": "Elephant cave"
+        },
+        "countryCode": "GR",
+        "region": "aegean-sea",
+        "kind": "cave",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "caves",
+          "macro"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "La Grotta dell'Elefante (Elephant Cave) a Capo Drepano è una delle immersioni in grotta più straordinarie del Mediterraneo, celebre per le sue formazioni geologiche sommerse e i resti paleontologici preistorici. I subacquei entrano attraverso un ampio tunnel sottomarino che conduce a una vasta camera parzialmente occupata da una sacca d'aria. All'interno, ossa e denti fossili di una specie estinta di elefante nano e di cervi preistorici sono ancora incastonati nella roccia e nei sedimenti, accanto a numerose stalattiti e stalagmiti sottomarine formatesi durante l'ultima era glaciale, quando il livello del mare era più basso.",
+          "en": "Scenic dive site in GR known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.2427,
+          36.8681
+        ]
+      },
+      "properties": {
+        "id": "diverout-gr-foneas-caves",
+        "name": {
+          "it": "Foneas caves",
+          "en": "Foneas caves"
+        },
+        "countryCode": "GR",
+        "region": "aegean-sea",
+        "kind": "cave",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "caves",
+          "macro"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato al largo della spiaggia di Foneas, lungo la frastagliata costa della Maina (Mani), questo sito presenta caverne calcaree, archi naturali e passaggi poco profondi scavati nelle scogliere costiere. La luce solare filtra attraverso le fessure superiori della roccia, creando suggestivi giochi di luce sul fondale roccioso.",
+          "en": "Scenic dive site in GR known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7845,
+          40.7061
+        ]
+      },
+      "properties": {
+        "id": "diverout-gr-gramvousa-island",
+        "name": {
+          "it": "Gramvousa Island",
+          "en": "Gramvousa Island"
+        },
+        "countryCode": "GR",
+        "region": "aegean-sea",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situata al largo della costa orientale di Taso, vicino a Skala Potamias, l'isola di Gramvousa presenta un paesaggio sottomarino roccioso con massi sparsi e praterie di Posidonia. L'immersione segue dolci pendii che scendono verso fondali sabbiosi, offrendo condizioni riparate e una buona visibilità durante tutta l'estate mediterranea.",
+          "en": "Scenic dive site in GR known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3447,
+          37.0989
+        ]
+      },
+      "properties": {
+        "id": "diverout-gr-graviera-frouros",
+        "name": {
+          "it": "Graviera/ Frouros",
+          "en": "Graviera/ Frouros"
+        },
+        "countryCode": "GR",
+        "region": "aegean-sea",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato nel passaggio aperto al largo di Naxos, questo sistema di barriere rocciose presenta pinnacoli sommersi, massi e ripide pareti verticali. I subacquei esplorano profonde fessure e strapiombi dove antichi frammenti di ceramica si fondono con la vita marina mediterranea. La visibilità in mare aperto è solitamente eccellente, sebbene le condizioni dipendano dai venti stagionali e dal moto ondoso in superficie.",
+          "en": "Scenic dive site in GR known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.0958,
+          36.1001
+        ]
+      },
+      "properties": {
+        "id": "diverout-gr-great-cave-of-lindos-cleobulus-tomb",
+        "name": {
+          "it": "Great cave of Lindos \"Cleobulus Tomb\"",
+          "en": "Great cave of Lindos \"Cleobulus Tomb\""
+        },
+        "countryCode": "GR",
+        "region": "aegean-sea",
+        "kind": "cave",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "caves",
+          "macro"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situata sotto il promontorio settentrionale della baia di Lindos, vicino allo storico promontorio, questa immersione in grotta si addentra in un'imponente formazione calcarea. I subacquei entrano attraverso un ampio arco che conduce a una vasta camera illuminata da suggestivi fasci di luce naturale che filtrano dalle aperture in superficie. La parete esterna prosegue lungo ripide pareti rocciose ricoperte di spugne, vermi tubicoli e microfauna mediterranea.",
+          "en": "Scenic dive site in GR known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.218,
+          35.438
+        ]
+      },
+      "properties": {
+        "id": "elephant-cave-crete",
+        "name": {
+          "it": "Grotta dell'Elefante (Chania, Creta)",
+          "en": "Elephant Cave (Chania, Crete)"
+        },
+        "countryCode": "GR",
+        "region": "aegean-sea",
+        "kind": "cave",
+        "depthMinM": 8,
+        "depthMaxM": 14,
+        "level": "beginner",
+        "highlights": [
+          "caves",
+          "history"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Stenopus spinosus",
+          "Galathea strigosa"
+        ],
+        "description": {
+          "it": "Grotta semi-sommersa con suggestive stalattiti rosse e fossili pietrificati di elefanti nani preistorici scomparsi.",
+          "en": "Partially submerged cavern adorned with red stalactites and fossilized remains of extinct prehistoric dwarf elephants."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.286,
+          37.702
+        ]
+      },
+      "properties": {
+        "id": "britannic-kea",
+        "name": {
+          "it": "HMHS Britannic (Kea)",
+          "en": "HMHS Britannic (Kea Island)"
+        },
+        "countryCode": "GR",
+        "region": "aegean-sea",
+        "kind": "wreck",
+        "depthMinM": 85,
+        "depthMaxM": 122,
+        "level": "technical",
+        "highlights": [
+          "wreck",
+          "history"
+        ],
+        "exposure": "offshore",
+        "species": [
+          "Anthias anthias",
+          "Conger conger"
+        ],
+        "description": {
+          "it": "Nave gemella del Titanic convertita in nave ospedale e affondata nel 1916; il relitto oceanico passeggeri più grande al mondo.",
+          "en": "Sister ship to the Titanic, converted hospital ship sunk in 1916; the largest ocean liner shipwreck on the seafloor."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.467,
           36.852
         ]
       },
       "properties": {
-        "id": "aegean-iraklia-arado-wreck",
-        "name": "Arado Ar 196 Seaplane Wreck",
-        "name_it": "Idrovolante Arado Ar 196",
-        "region": "Cyclades - Iraklia (Alimia Bay)",
+        "id": "arado-hydroplane-iraklia",
+        "name": {
+          "it": "Idrovolante Arado Ar 196 (Iraklia)",
+          "en": "Arado Ar 196 Seaplane Wreck (Iraklia)"
+        },
         "countryCode": "GR",
+        "region": "aegean-sea",
         "kind": "wreck",
         "depthMinM": 9,
-        "depthMaxM": 12,
+        "depthMaxM": 14,
         "level": "beginner",
-        "exposure": "sheltered_north",
         "highlights": [
           "wreck",
           "history"
         ],
+        "exposure": "sheltered",
         "species": [
-          "Diplodus sargus",
-          "Sphyraena viridensis"
+          "Serranus cabrilla",
+          "Chromis chromis"
         ],
-        "description_en": "German WWII reconnaissance plane shot down in 1943. Intact fuselage and wings resting in shallow turquoise water.",
-        "description_it": "Idrovolante da ricognizione della Seconda Guerra Mondiale abbattuto nel 1943. Fusoliera e ali intatte in acque turchesi a 10m."
+        "description": {
+          "it": "Aereo da ricognizione navale della Luftwaffe abbattuto nel 1943 a sud di Naxos, adagiato capovolto in acque limpidissime.",
+          "en": "German naval reconnaissance floatplane shot down in 1943, resting upside down in crystal-clear shallow water."
+        },
+        "curated": true
       }
     },
     {
@@ -506,32 +953,416 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.975,
-          39.19
+          26.885,
+          37.152
         ]
       },
       "properties": {
-        "id": "aegean-alonissos-peristera",
-        "name": "Peristera Classical Shipwreck (Underwater Museum)",
-        "name_it": "Relitto di Peristera (Museo Sottomarino di Alonissos)",
-        "region": "Northern Sporades - Alonissos",
+        "id": "junkers-ju52-leros",
+        "name": {
+          "it": "Junkers Ju 52 (Leros)",
+          "en": "Junkers Ju 52 Wreck (Leros)"
+        },
         "countryCode": "GR",
+        "region": "aegean-sea",
         "kind": "wreck",
-        "depthMinM": 22,
+        "depthMinM": 45,
+        "depthMaxM": 50,
+        "level": "technical",
+        "highlights": [
+          "wreck",
+          "history"
+        ],
+        "exposure": "exposed",
+        "species": [
+          "Anthias anthias",
+          "Epinephelus marginatus"
+        ],
+        "description": {
+          "it": "Celebre aereo trimotore da trasporto tedesco della Battaglia di Leros (1943), intatto a 48 metri con eliche e carrello visibili.",
+          "en": "Famous three-engine German transport aircraft from the 1943 Battle of Leros, resting intact at 48 meters."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9872,
+          36.7494
+        ]
+      },
+      "properties": {
+        "id": "diverout-gr-kastri",
+        "name": {
+          "it": "KASTRI",
+          "en": "KASTRI"
+        },
+        "countryCode": "GR",
+        "region": "aegean-sea",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato proprio attorno all'isolotto roccioso di Kastri, nella baia di Kefalos a sud-ovest di Kos, questo sito offre il classico scenario subacqueo dell'Egeo. Massi rocciosi, piccoli salti nel blu e un fondale vulcanico lasciano spazio a chiazze sabbiose punteggiate da frammenti di anfore e sporgenze rocciose.",
+          "en": "Scenic dive site in GR known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9744,
+          36.6728
+        ]
+      },
+      "properties": {
+        "id": "diverout-gr-krikelos",
+        "name": {
+          "it": "KRIKELOS",
+          "en": "KRIKELOS"
+        },
+        "countryCode": "GR",
+        "region": "aegean-sea",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato al largo dell'aspra estremità sud-occidentale di Kos, Krikelos presenta una serie di spettacolari formazioni rocciose vulcaniche che scendono da bassi fondali rocciosi fino al blu profondo. I subacquei possono esplorare ripide pareti a strapiombo, passaggi nuotabili e distese di massi modellate dall'antica attività tettonica e vulcanica del Mar Egeo.",
+          "en": "Scenic dive site in GR known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.239,
+          36.3795
+        ]
+      },
+      "properties": {
+        "id": "diverout-gr-kalithea",
+        "name": {
+          "it": "Kalithea",
+          "en": "Kalithea"
+        },
+        "countryCode": "GR",
+        "region": "aegean-sea",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situata all'interno di una baia riparata sotto le storiche terme di Rodi, Kallithea presenta canali di calcare scolpiti, piccole caverne e ampi passaggi sabbiosi. Lucernari naturali illuminano diversi swim-through poco profondi dove la vita marina trova riparo durante le ore centrali della giornata. Praterie di posidonia costeggiano gli affioramenti rocciosi, offrendo un habitat ideale a piccoli pesci e invertebrati in acque calme e limpide.",
+          "en": "Scenic dive site in GR known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7152,
+          40.1771
+        ]
+      },
+      "properties": {
+        "id": "diverout-gr-kalogria",
+        "name": {
+          "it": "Kalogria",
+          "en": "Kalogria"
+        },
+        "countryCode": "GR",
+        "region": "aegean-sea",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situata lungo la costa occidentale della penisola di Sithonia, Kalogria presenta una baia riparata con un facile accesso all'acqua. Il fondale marino passa da una fine sabbia dorata a scogliere rocciose sparse e praterie di Posidonia oceanica. Grazie alla sua topografia tranquilla e al moto ondoso minimo, questo punto di immersione viene utilizzato regolarmente per corsi subacquei, esercizi di navigazione e rilassanti immersioni notturne alla ricerca di invertebrati.",
+          "en": "Scenic dive site in GR known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.4856,
+          36.3643
+        ]
+      },
+      "properties": {
+        "id": "diverout-gr-kamari-wall",
+        "name": {
+          "it": "Kamari wall",
+          "en": "Kamari wall"
+        },
+        "countryCode": "GR",
+        "region": "aegean-sea",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situata lungo le ripide scogliere che costeggiano il villaggio di Kamari, sulla costa orientale di Santorini, questa immersione segue una parete di roccia vulcanica che scende tra terrazzamenti sommersi e profonde spaccature. I subacquei possono esplorare anfratti che offrono riparo a creature macro, muovendosi tra insenature ombreggiate nella roccia e il blu aperto dove talvolta transitano banchi di pesci pelagici.",
+          "en": "Scenic dive site in GR known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7854,
+          35.417
+        ]
+      },
+      "properties": {
+        "id": "diverout-gr-karavostasi-beach",
+        "name": {
+          "it": "Karavostasi beach ",
+          "en": "Karavostasi beach "
+        },
+        "countryCode": "GR",
+        "region": "aegean-sea",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situata in una baia riparata vicino a Bali, sulla costa settentrionale di Creta, la spiaggia di Karavostasi offre un facile accesso da riva a tranquille acque costiere. Scogliere rocciose incorniciano i margini della cala, lasciando poi spazio a praterie di Posidonia oceanica e radure sabbiose. I subacquei condividono questa insenatura protetta con i bagnanti, mentre le creste rocciose più profonde lungo il promontorio rivelano piccole fessure e sporgenze che ospitano la tipica fauna dell'Egeo.",
+          "en": "Scenic dive site in GR known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0916,
+          38.1069
+        ]
+      },
+      "properties": {
+        "id": "diverout-gr-kassandra-shipwreck",
+        "name": {
+          "it": "Kassandra shipwreck",
+          "en": "Kassandra shipwreck"
+        },
+        "countryCode": "GR",
+        "region": "aegean-sea",
+        "kind": "wreck",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "wreck",
+          "history"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Il Kassandra era un mercantile greco che nel 1973 urtò la secca di Platourada prima di affondare nel Golfo di Eubea meridionale. Oggi il relitto poggia su un fondale inclinato di sabbia e affioramenti rocciosi. I subacquei possono esplorare i resti della struttura, tra cui il blocco motore intatto, l'asse dell'elica e le lamiere dello scafo frantumate, colonizzate da spugne incrostanti mediterranee.",
+          "en": "Scenic dive site in GR known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7818,
+          40.6619
+        ]
+      },
+      "properties": {
+        "id": "diverout-gr-kinira-island",
+        "name": {
+          "it": "Kinira island",
+          "en": "Kinira island"
+        },
+        "countryCode": "GR",
+        "region": "aegean-sea",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situata al largo della costa orientale di Taso nell'Egeo settentrionale, l'isola di Kinira offre immersioni tipiche del Mediterraneo su fondali misti. Grandi massi, dolci franate e fitte praterie di Posidonia oceanica caratterizzano il profilo sommerso. Il versante sottovento offre condizioni calme ideali per immersioni di check-out e addestramento, mentre le pareti più profonde rivolte verso il mare aperto presentano anfratti rocciosi che offrono rifugio alla macrofauna mediterranea e ai predatori in caccia.",
+          "en": "Scenic dive site in GR known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0501,
+          37.87
+        ]
+      },
+      "properties": {
+        "id": "diverout-gr-koroni-island",
+        "name": {
+          "it": "Koroni Island",
+          "en": "Koroni Island"
+        },
+        "countryCode": "GR",
+        "region": "aegean-sea",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato all'ingresso della baia di Porto Rafti, lungo la costa orientale dell'Attica, questo isolotto disabitato è caratterizzato da pendii rocciosi sottomarini, distese di massi sommersi e macchie di praterie di Posidonia oceanica. I subacquei esplorano terrazze rocciose a gradoni e fessure che offrono rifugio alla tipica vita marina dell'Egeo.",
+          "en": "Scenic dive site in GR known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.977,
+          39.186
+        ]
+      },
+      "properties": {
+        "id": "alonissos-peristera",
+        "name": {
+          "it": "Museo Sottomarino di Alonissos (Peristera)",
+          "en": "Alonissos Underwater Museum (Peristera Wreck)"
+        },
+        "countryCode": "GR",
+        "region": "aegean-sea",
+        "kind": "wreck",
+        "depthMinM": 20,
         "depthMaxM": 30,
         "level": "intermediate",
-        "exposure": "sheltered_west",
         "highlights": [
           "history",
           "wreck"
         ],
+        "exposure": "sheltered",
         "species": [
-          "Monachus monachus",
           "Dentex dentex",
-          "Epinephelus marginatus"
+          "Octopus vulgaris"
         ],
-        "description_en": "The 'Parthenon of Shipwrecks': 5th-century BC merchant vessel with 4,000 intact wine amphorae. First marine underwater museum in Greece, inside the monk seal marine park.",
-        "description_it": "Il 'Partenone dei relitti': gigantesca nave mercantile del V secolo a.C. con oltre 4.000 anfore che formano una collina sottomarina intatta a 25m."
+        "description": {
+          "it": "Il primo museo archeologico sottomarino accessibile della Grecia: oltre 4.000 anfore da vino del V secolo a.C. intatte.",
+          "en": "Greece's first accessible underwater archaeological museum: over 4,000 intact wine amphoras dating to the 5th century BC."
+        },
+        "curated": true
       }
     },
     {
@@ -539,32 +1370,108 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.857,
-          35.927
+          28.204,
+          36.319
         ]
       },
       "properties": {
-        "id": "aegean-rhodes-giannoula-k",
-        "name": "Giannoula K Shipwreck",
-        "name_it": "Relitto Giannoula K",
-        "region": "Dodecanese - Rhodes (Plimmiri)",
+        "id": "ladiko-wall-rhodes",
+        "name": {
+          "it": "Parete di Ladiko (Rodi)",
+          "en": "Ladiko Wall & Caves (Rhodes)"
+        },
         "countryCode": "GR",
+        "region": "aegean-sea",
+        "kind": "wall",
+        "depthMinM": 10,
+        "depthMaxM": 35,
+        "level": "beginner",
+        "highlights": [
+          "walls",
+          "caves"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus costae",
+          "Muraena helena"
+        ],
+        "description": {
+          "it": "Parete rocciosa ricca di anfratti, archi e cunicoli dove riposano cernie dorate e murene in acque calme e trasparenti.",
+          "en": "Limestone wall with caverns, swim-throughs, and sandy ledges home to golden groupers and morays."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.352,
+          37.438
+        ]
+      },
+      "properties": {
+        "id": "anna-ii-mykonos",
+        "name": {
+          "it": "Relitto Anna II (Mykonos)",
+          "en": "Anna II Cargo Wreck (Mykonos)"
+        },
+        "countryCode": "GR",
+        "region": "aegean-sea",
         "kind": "wreck",
-        "depthMinM": 12,
+        "depthMinM": 20,
+        "depthMaxM": 36,
+        "level": "intermediate",
+        "highlights": [
+          "wreck"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Serranus scriba",
+          "Sphyraena sphyraena"
+        ],
+        "description": {
+          "it": "Mercantile olandese di 62 metri affondato nel 1995, in perfette condizioni di conservazione circondato da un reef ricco di spugne.",
+          "en": "62m Dutch cargo ship sunk in 1995, resting intact on a sandy seabed surrounded by colorful sponges."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.854,
+          35.932
+        ]
+      },
+      "properties": {
+        "id": "giannoula-k-rhodes",
+        "name": {
+          "it": "Relitto Giannoula K (Rodi)",
+          "en": "Giannoula K Cargo Wreck (Rhodes)"
+        },
+        "countryCode": "GR",
+        "region": "aegean-sea",
+        "kind": "wreck",
+        "depthMinM": 15,
         "depthMaxM": 22,
         "level": "beginner",
-        "exposure": "exposed_east",
         "highlights": [
-          "wreck",
-          "macro"
+          "wreck"
         ],
+        "exposure": "exposed",
         "species": [
-          "Pterois miles",
-          "Fistularia commersonii",
-          "Caretta caretta"
+          "Sphyraena viridensis",
+          "Epinephelus marginatus"
         ],
-        "description_en": "Cargo ship (110m long) wrecked in 1981 off south Rhodes. Penetrable holds and engine room teeming with marine life.",
-        "description_it": "Mercantile di 110 metri affondato nel 1981 nel sud di Rodi. Relitto penetrabile con stive aperte colonizzate da pesci leone e cernie."
+        "description": {
+          "it": "Mercantile di 110 metri affondato a Plimiri nel 1981 con l'enorme timone e le stive visitabili in sicurezza.",
+          "en": "110m cargo ship wrecked at Plimiri in 1981; its massive propeller and open cargo bays make for an accessible dive."
+        },
+        "curated": true
       }
     },
     {
@@ -572,31 +1479,111 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.843,
-          37.128
+          24.321,
+          37.668
         ]
       },
       "properties": {
-        "id": "aegean-leros-queen-olga",
-        "name": "Vasilissa Olga (Queen Olga) Destroyer",
-        "name_it": "Cacciatorpediniere Vasilissa Olga",
-        "region": "Dodecanese - Leros (Lakki Bay)",
+        "id": "burdigala-kea",
+        "name": {
+          "it": "SS Burdigala (Kea)",
+          "en": "SS Burdigala Ocean Liner (Kea)"
+        },
         "countryCode": "GR",
+        "region": "aegean-sea",
         "kind": "wreck",
-        "depthMinM": 28,
-        "depthMaxM": 36,
-        "level": "advanced",
-        "exposure": "sheltered_all",
+        "depthMinM": 65,
+        "depthMaxM": 76,
+        "level": "technical",
         "highlights": [
           "wreck",
           "history"
         ],
+        "exposure": "offshore",
         "species": [
-          "Seriola dumerili",
-          "Scorpaena scrofa"
+          "Epinephelus costae",
+          "Conger conger"
         ],
-        "description_en": "Hellenic Navy legendary WWII destroyer sunk by German Stuka dive-bombers in 1943 during the Battle of Leros. Key naval historic monument.",
-        "description_it": "Glorioso cacciatorpediniere greco affondato dagli Stuka tedeschi nel 1943 durante la Battaglia di Leros. Grande relitto a 33m."
+        "description": {
+          "it": "Lussuoso transatlantico francese di 180 metri convertito in incrociatore ausiliario, affondato da una mina pochi giorni prima del Britannic.",
+          "en": "Luxurious 180m French ocean liner turned auxiliary cruiser, sunk by a mine just days before the Britannic."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.423,
+          35.167
+        ]
+      },
+      "properties": {
+        "id": "shinaria-beach-crete",
+        "name": {
+          "it": "Shinaria Beach & Canyon (Creta)",
+          "en": "Shinaria Beach & Canyon (Crete)"
+        },
+        "countryCode": "GR",
+        "region": "aegean-sea",
+        "kind": "wall",
+        "depthMinM": 12,
+        "depthMaxM": 38,
+        "level": "beginner",
+        "highlights": [
+          "walls",
+          "caves"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Muraena helena"
+        ],
+        "description": {
+          "it": "Pareti spettacolari con visibilità eccezionale oltre i 40 metri, canyon sottomarini e ricche colonie di cernie e polpi.",
+          "en": "Dramatic underwater canyons in southern Crete with exceptional 40m+ visibility, sea caves, and groupers."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.155,
+          38.384
+        ]
+      },
+      "properties": {
+        "id": "great-wall-chios",
+        "name": {
+          "it": "The Great Wall (Isola di Chios)",
+          "en": "The Great Wall (Chios Island)"
+        },
+        "countryCode": "GR",
+        "region": "aegean-sea",
+        "kind": "wall",
+        "depthMinM": 15,
+        "depthMaxM": 45,
+        "level": "advanced",
+        "highlights": [
+          "walls",
+          "corals"
+        ],
+        "exposure": "exposed",
+        "species": [
+          "Paramuricea clavata",
+          "Dentex dentex"
+        ],
+        "description": {
+          "it": "Una delle pareti sottomarine più spettacolari dell'Egeo: falesia a strapiombo verso gli abissi coperta da corallo e spugne.",
+          "en": "One of the most dramatic drop-offs in the Aegean, plunging vertically into deep waters adorned with colorful corals."
+        },
+        "curated": true
       }
     }
   ]

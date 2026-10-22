@@ -1,191 +1,1613 @@
 {
-  "id": "caribbean",
-  "title": "Caraibi & Golfo del Messico (Caribbean & Gulf of Mexico)",
-  "description": "I tesori sommersi dei Caraibi: Belize Great Blue Hole, Cenotes dello Yucatan (Dos Ojos, Angelita), barriere coralline di Cozumel, relitto USS Kittiwake a Cayman, squali tigre alle Bahamas e barriere di Bonaire.",
-  "bbox": [
-    -89.0,
-    11.0,
-    -74.0,
-    27.5
-  ],
-  "count": 6,
+  "catalog": "caribbean",
   "sites": [
     {
-      "id": "carib-belize-great-blue-hole",
+      "id": "1000-steps-bonaire",
       "name": {
-        "en": "Great Blue Hole (Lighthouse Reef)",
-        "it": "Great Blue Hole (Belize)"
+        "it": "1000 Steps (Bonaire)",
+        "en": "1000 Steps (Bonaire Marine Park)"
       },
-      "region": "Belize - Lighthouse Reef Atoll",
-      "countryCode": "BZ",
-      "latitude": 17.3156,
-      "longitude": -87.5344,
-      "kind": "cave",
-      "depthMinM": 12,
-      "depthMaxM": 124,
-      "level": "advanced",
-      "highlights": [
-        "walls",
-        "caves",
-        "sharks"
-      ],
-      "species": [
-        "Carcharhinus perezi",
-        "Ginglymostoma cirratum"
-      ],
-      "exposure": "sheltered_all",
-      "description": {
-        "en": "UNESCO World Heritage giant marine sinkhole made famous by Jacques Cousteau. Divers descend past 35m to swim through towering 8-metre stalactites in crystal water.",
-        "it": "Dolina marina circolare resa celebre da Jacques Cousteau. Oltre i 35m si nuota tra gigantesche stalattiti sommerse lunghe 8 metri tra squali di barriera."
-      },
-      "curated": true
-    },
-    {
-      "id": "carib-mexico-cenote-dos-ojos",
-      "name": {
-        "en": "Cenote Dos Ojos",
-        "it": "Cenote Dos Ojos (Yucatán)"
-      },
-      "region": "Mexico - Quintana Roo (Tulum)",
-      "countryCode": "MX",
-      "latitude": 20.3248,
-      "longitude": -87.3917,
-      "kind": "cave",
-      "depthMinM": 4,
-      "depthMaxM": 10,
-      "level": "intermediate",
-      "highlights": [
-        "caves",
-        "macro"
-      ],
-      "species": [
-        "Astyanax jordani",
-        "Creaseria morleyi"
-      ],
-      "exposure": "sheltered_all",
-      "description": {
-        "en": "World-famous submerged freshwater cave system with over 100m visibility. Sunlight pierces through cavern openings creating breathtaking lasers of light over stalagmites.",
-        "it": "Celebre sistema di grotte sotterranee di acqua dolce con visibilità oltre 100 metri. I raggi di sole penetrano nella volta creando lame di luce spettacolari tra le stalagmiti."
-      },
-      "curated": true
-    },
-    {
-      "id": "carib-mexico-cozumel-palancar",
-      "name": {
-        "en": "Palancar Reef & Horseshoe",
-        "it": "Barriera di Palancar (Cozumel)"
-      },
-      "region": "Mexico - Cozumel Island",
-      "countryCode": "MX",
-      "latitude": 20.354,
-      "longitude": -87.031,
+      "latitude": 12.215,
+      "longitude": -68.324,
+      "countryCode": "BQ",
+      "region": "caribbean",
       "kind": "reef",
       "depthMinM": 10,
+      "depthMaxM": 35,
+      "level": "beginner",
+      "highlights": [
+        "corals",
+        "turtles"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Eretmochelys imbricata",
+        "Orbicella annularis"
+      ],
+      "description": {
+        "it": "Celebre immersione da riva accessibile tramite scalinata costiera; formazioni spettacolari di corallo a pagoda e tartarughe marine.",
+        "en": "Iconic shore dive accessed via cliffside stone stairs, leading to pristine pagoda coral formations and foraging turtles."
+      },
+      "curated": true
+    },
+    {
+      "id": "diverout-mx-arrecife-de-la-anegada-de-adentro",
+      "name": {
+        "it": "ARRECIFE DE LA \"ANEGADA DE ADENTRO\"",
+        "en": "ARRECIFE DE LA \"ANEGADA DE ADENTRO\""
+      },
+      "latitude": 19.2256,
+      "longitude": -96.0569,
+      "countryCode": "MX",
+      "region": "caribbean",
+      "kind": "reef",
+      "depthMinM": 6,
+      "depthMaxM": 26,
+      "level": "intermediate",
+      "highlights": [
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Epinephelus marginatus",
+        "Octopus vulgaris",
+        "Sparisoma cretense",
+        "Chelonia mydas"
+      ],
+      "description": {
+        "it": "L'Arrecife Anegada de Adentro è una delle principali barriere coralline emergenti a piattaforma all'interno del Parco Nazionale del Sistema Arrecifal Veracruzano. Situata appena a nord-est del porto di Veracruz, la struttura corallina degrada verso fondali sabbiosi con terrazze coralline, sporgenze frastagliate e formazioni a speroni e solchi (spur-and-groove). Grandi coralli cervello, ventagli di mare e imponenti colonie di spugne ricoprono i versanti esposti al mare aperto, offrendo l'habitat ideale per la tipica fauna pelagica e di barriera del Golfo del Messico.",
+        "en": "Scenic dive site in MX known for pristine marine life and dramatic underwater formations."
+      },
+      "curated": true
+    },
+    {
+      "id": "diverout-mx-arrecife-de-la-blanquilla",
+      "name": {
+        "it": "ARRECIFE DE LA BLANQUILLA",
+        "en": "ARRECIFE DE LA BLANQUILLA"
+      },
+      "latitude": 19.2236,
+      "longitude": -96.0984,
+      "countryCode": "MX",
+      "region": "caribbean",
+      "kind": "reef",
+      "depthMinM": 6,
+      "depthMaxM": 26,
+      "level": "intermediate",
+      "highlights": [
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Epinephelus marginatus",
+        "Octopus vulgaris",
+        "Sparisoma cretense",
+        "Chelonia mydas"
+      ],
+      "description": {
+        "it": "L'Arrecife de la Blanquilla fa parte del settore settentrionale del Parco Nazionale Sistema Arrecifal Veracruzano, situato poco al largo della città di Veracruz. Il sito è caratterizzato da un'ampia piattaforma carbonatica con dolci pendii esterni dove strutture di coralli duri si mescolano a gorgonie e spugne. Poiché la barriera si trova relativamente vicina alle correnti costiere e al traffico portuale, la visibilità dell'acqua varia a seconda del regime dei venti e delle piene stagionali dei fiumi.",
+        "en": "Scenic dive site in MX known for pristine marine life and dramatic underwater formations."
+      },
+      "curated": true
+    },
+    {
+      "id": "diverout-mx-akumal-bay-marine-park",
+      "name": {
+        "it": "Akumal Bay Marine Park",
+        "en": "Akumal Bay Marine Park"
+      },
+      "latitude": 20.3967,
+      "longitude": -87.3059,
+      "countryCode": "MX",
+      "region": "caribbean",
+      "kind": "reef",
+      "depthMinM": 6,
+      "depthMaxM": 26,
+      "level": "intermediate",
+      "highlights": [
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Epinephelus marginatus",
+        "Octopus vulgaris",
+        "Sparisoma cretense",
+        "Chelonia mydas"
+      ],
+      "description": {
+        "it": "Protetta da una barriera corallina al largo lungo la Riviera Maya, questa baia costiera poco profonda presenta estese praterie di fanerogame marine che sfumano verso formazioni coralline a sperone e solco in prossimità del frangente esterno. La fauna marina si raduna sui fondali sabbiosi per nutrirsi, mentre la barriera esterna ospita pesci di barriera caraibici e colonie di crostacei tra anfratti e passaggi corallini.",
+        "en": "Scenic dive site in MX known for pristine marine life and dramatic underwater formations."
+      },
+      "curated": true
+    },
+    {
+      "id": "curacao-playa-kalki",
+      "name": {
+        "it": "Alice in Wonderland (Playa Kalki)",
+        "en": "Alice in Wonderland (Playa Kalki)"
+      },
+      "latitude": 12.3753,
+      "longitude": -69.1575,
+      "countryCode": "CW",
+      "region": "caribbean",
+      "kind": "reef",
+      "depthMinM": 5,
       "depthMaxM": 30,
       "level": "beginner",
       "highlights": [
         "corals",
-        "drift",
-        "turtles"
+        "turtles",
+        "rays"
       ],
+      "exposure": "sheltered",
       "species": [
-        "Sanopus splendidus",
-        "Eretmochelys imbricata",
+        "Gymnothorax funebris",
+        "Chelonia mydas",
+        "Panulirus argus",
         "Aetobatus narinari"
       ],
-      "exposure": "sheltered_east",
       "description": {
-        "en": "Massive coral mountains and swim-through tunnels along Cozumel's drift channel. Home to the endemic Cozumel splendid toadfish and eagle rays.",
-        "it": "Montagne di corallo e tunnel passanti immersi nella corrente limpida di Cozumel, habitat dell'endemico pesce rospo splendido e di aquile di mare."
+        "it": "Immersione costiera all'estremità nord di Curaçao (Westpunt). Due barriere coralline parallele separate da un canale sabbioso ricoperte da enormi coralli a stella e murene verdi.",
+        "en": "Premier shore dive at the northern tip of Curaçao. Two parallel reef walls separated by a sand channel, covered in star corals and green morays."
       },
       "curated": true
     },
     {
-      "id": "carib-cayman-uss-kittiwake",
+      "id": "diverout-mx-aquarium",
       "name": {
-        "en": "USS Kittiwake Submarine Rescue Ship",
-        "it": "Relitto USS Kittiwake (Grand Cayman)"
+        "it": "Aquarium",
+        "en": "Aquarium"
       },
-      "region": "Cayman Islands - Grand Cayman (Seven Mile Beach)",
-      "countryCode": "KY",
-      "latitude": 19.3621,
-      "longitude": -81.4012,
-      "kind": "wreck",
-      "depthMinM": 5,
-      "depthMaxM": 20,
+      "latitude": 20.805,
+      "longitude": -86.88,
+      "countryCode": "MX",
+      "region": "caribbean",
+      "kind": "reef",
+      "depthMinM": 6,
+      "depthMaxM": 26,
+      "level": "intermediate",
+      "highlights": [
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Epinephelus marginatus",
+        "Octopus vulgaris",
+        "Sparisoma cretense",
+        "Chelonia mydas"
+      ],
+      "description": {
+        "it": "Aquarium, situato all'interno del Parco Nazionale Marino di Puerto Morelos lungo la Riviera Maya, vanta un vasto altopiano di formazioni coralline dure e molli. I subacquei si muovono in corrente lungo creste coralline intervallate da canali di sabbia dove squali nutrice e razze amano riposare. Il sito gode di condizioni riparate e protette dalla barriera corallina mesoamericana.",
+        "en": "Scenic dive site in MX known for pristine marine life and dramatic underwater formations."
+      },
+      "curated": true
+    },
+    {
+      "id": "diverout-mx-barco-hundido-d111-comodoro-manuel-azuelta",
+      "name": {
+        "it": "BARCO HUNDIDO D111 COMODORO MANUEL AZUELTA",
+        "en": "BARCO HUNDIDO D111 COMODORO MANUEL AZUELTA"
+      },
+      "latitude": 19.0563,
+      "longitude": -95.9566,
+      "countryCode": "MX",
+      "region": "caribbean",
+      "kind": "reef",
+      "depthMinM": 6,
+      "depthMaxM": 26,
+      "level": "intermediate",
+      "highlights": [
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Epinephelus marginatus",
+        "Octopus vulgaris",
+        "Sparisoma cretense",
+        "Chelonia mydas"
+      ],
+      "description": {
+        "it": "Affondato intenzionalmente come barriera corallina artificiale all'interno del Parco Nazionale del Sistema Arrecifal Veracruzano, al largo di Antón Lizardo, questo ex cacciatorpediniere scorta della marina messicana giace in posizione eretta sul fondale sabbioso. I subacquei possono esplorare gli ampi ponti esterni, le postazioni dei cannoni e i corridoi aperti preparati appositamente per le penetrazioni. Spugne incrostanti, coralli e grandi banchi di pesci pelagici e di barriera hanno rapidamente colonizzato la sovrastruttura in acciaio.",
+        "en": "Scenic dive site in MX known for pristine marine life and dramatic underwater formations."
+      },
+      "curated": true
+    },
+    {
+      "id": "diverout-mx-barco-hunidido-c50-rivapalacio",
+      "name": {
+        "it": "BARCO HUNIDIDO C50 RIVAPALACIO",
+        "en": "BARCO HUNIDIDO C50 RIVAPALACIO"
+      },
+      "latitude": 19.2132,
+      "longitude": -96.0577,
+      "countryCode": "MX",
+      "region": "caribbean",
+      "kind": "reef",
+      "depthMinM": 6,
+      "depthMaxM": 26,
+      "level": "intermediate",
+      "highlights": [
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Epinephelus marginatus",
+        "Octopus vulgaris",
+        "Sparisoma cretense",
+        "Chelonia mydas"
+      ],
+      "description": {
+        "it": "L'ARM General Vicente Riva Palacio (C-50) è un dragamine dell'era della Seconda Guerra Mondiale dismesso e affondato nel 2000 per creare una barriera corallina artificiale all'interno del Parco Nazionale Sistema Arrecifal Veracruzano. Adagiato in posizione eretta su un fondale sabbioso vicino a Isla Verde, lo scafo intatto presenta corridoi, passaggi interni e stive accessibili che invitano all'esplorazione da parte di subacquei con brevetto per relitti. Nel corso dei decenni, coralli incrostanti, spugne e organismi marini hanno ricoperto la sovrastruttura, attirando banchi di pesci e predatori stanziali.",
+        "en": "Scenic dive site in MX known for pristine marine life and dramatic underwater formations."
+      },
+      "curated": true
+    },
+    {
+      "id": "bat-islands-costa-rica",
+      "name": {
+        "it": "Big Scare (Isole Murciélago)",
+        "en": "Big Scare (Bat Islands, Costa Rica)"
+      },
+      "latitude": 10.852,
+      "longitude": -85.915,
+      "countryCode": "CR",
+      "region": "caribbean",
+      "kind": "reef",
+      "depthMinM": 18,
+      "depthMaxM": 30,
+      "level": "advanced",
+      "highlights": [
+        "sharks"
+      ],
+      "exposure": "exposed",
+      "species": [
+        "Carcharhinus leucas",
+        "Aetobatus narinari"
+      ],
+      "description": {
+        "it": "Celebre punto oceanico nel Parco Santa Rosa per incontri emozionanti con enormi squali leuca (bull shark) in corrente.",
+        "en": "Exciting dive site in Santa Rosa National Park renowned for face-to-face encounters with massive bull sharks."
+      },
+      "curated": true
+    },
+    {
+      "id": "black-hills-utila",
+      "name": {
+        "it": "Black Hills (Utila, Honduras)",
+        "en": "Black Hills Seamount (Utila)"
+      },
+      "latitude": 16.115,
+      "longitude": -86.852,
+      "countryCode": "HN",
+      "region": "caribbean",
+      "kind": "reef",
+      "depthMinM": 10,
+      "depthMaxM": 35,
       "level": "beginner",
+      "highlights": [
+        "pelagic",
+        "whaleShark"
+      ],
+      "exposure": "exposed",
+      "species": [
+        "Rhincodon typus",
+        "Caranx latus"
+      ],
+      "description": {
+        "it": "Secca sottomarina pelagica nel Mar dei Caraibi con banchi di crevalle argentate e frequenti avvistamenti di squali balena.",
+        "en": "Offshore pelagic seamount bursting with silver jacks, creole wrasse, and seasonal whale shark passes."
+      },
+      "curated": true
+    },
+    {
+      "id": "bloody-bay-wall-cayman",
+      "name": {
+        "it": "Bloody Bay Wall (Little Cayman)",
+        "en": "Bloody Bay Wall (Little Cayman)"
+      },
+      "latitude": 19.689,
+      "longitude": -80.082,
+      "countryCode": "KY",
+      "region": "caribbean",
+      "kind": "wall",
+      "depthMinM": 6,
+      "depthMaxM": 45,
+      "level": "beginner",
+      "highlights": [
+        "walls",
+        "corals"
+      ],
+      "exposure": "exposed",
+      "species": [
+        "Gymnothorax funebris",
+        "Eretmochelys imbricata",
+        "Dasyatis americana"
+      ],
+      "description": {
+        "it": "Parete verticale che scende da soli 6 metri di profondità fino a oltre 1.000 metri negli abissi con spugne tubolari luminescenti.",
+        "en": "Sheer coral wall starting at just 6 meters before plunging straight down into a 1,000-meter oceanic abyss."
+      },
+      "curated": true
+    },
+    {
+      "id": "diverout-mx-c-56-juan-escutia-shipwreck",
+      "name": {
+        "it": "C-56 (Juan Escutia) Shipwreck",
+        "en": "C-56 (Juan Escutia) Shipwreck"
+      },
+      "latitude": 20.8535,
+      "longitude": -86.8375,
+      "countryCode": "MX",
+      "region": "caribbean",
+      "kind": "wreck",
+      "depthMinM": 6,
+      "depthMaxM": 26,
+      "level": "intermediate",
       "highlights": [
         "wreck",
         "history"
       ],
+      "exposure": "sheltered",
       "species": [
-        "Hypoplectrus gemma",
-        "Sphyraena barracuda"
+        "Epinephelus marginatus",
+        "Octopus vulgaris",
+        "Sparisoma cretense",
+        "Chelonia mydas"
       ],
-      "exposure": "sheltered_east",
       "description": {
-        "en": "Former US Navy submarine rescue ship (76m) scuttled in 2011. Cleaned for safe exploration: all 5 decks, decompression chambers, and navigation bridge easily penetrable in calm shallow water.",
-        "it": "Nave da soccorso sottomarini della marina USA (76m) affondata nel 2011. Bonificata per visite sicure: tutti i 5 ponti e le camere di decompressione sono accessibili a 18m."
+        "it": "Affondato intenzionalmente nel 2000 al largo della costa di Puerto Morelos, questo ex dragamine della marina messicana giace in assetto di navigazione su un fondale sabbioso e pianeggiante. Il relitto si è trasformato in un fiorente habitat artificiale, ricoperto di spugne incrostanti, coralli molli e idroidi. I subacquei possono esplorare le strutture di coperta, gli alloggiamenti dei cannoni e la timoneria, mentre i subacquei con brevetto per relitti possono penetrare nei corridoi aperti e nei vani motori.",
+        "en": "Scenic dive site in MX known for pristine marine life and dramatic underwater formations."
       },
       "curated": true
     },
     {
-      "id": "carib-bonaire-salt-pier",
+      "id": "diverout-mx-c53",
       "name": {
-        "en": "Salt Pier",
-        "it": "Salt Pier (Bonaire)"
+        "it": "C53",
+        "en": "C53"
       },
-      "region": "Bonaire - Kralendijk South",
-      "countryCode": "BQ",
-      "latitude": 12.0833,
-      "longitude": -68.2833,
-      "kind": "reef",
-      "depthMinM": 3,
-      "depthMaxM": 16,
-      "level": "beginner",
-      "highlights": [
-        "corals",
-        "macro",
-        "turtles"
-      ],
-      "species": [
-        "Chelonia mydas",
-        "Acanthurus coeruleus",
-        "Hippocampus reidi"
-      ],
-      "exposure": "sheltered_east",
-      "description": {
-        "en": "Industrial salt loading pier with pilings completely covered in colorful sponges, soft corals, and brain corals. Enormous schools of grunts and sea turtles grazing on seagrass.",
-        "it": "Pontile per il carico del sale con piloni ricoperti da spugne colorate e coralli cervello. Grandi caroselli di pesci tropicali, cavallucci marini e tartarughe."
-      },
-      "curated": true
-    },
-    {
-      "id": "carib-bahamas-tiger-beach",
-      "name": {
-        "en": "Tiger Beach",
-        "it": "Tiger Beach (Grand Bahama)"
-      },
-      "region": "Bahamas - Grand Bahama Island",
-      "countryCode": "BS",
-      "latitude": 26.9667,
-      "longitude": -79.0333,
+      "latitude": 20.4906,
+      "longitude": -86.9678,
+      "countryCode": "MX",
+      "region": "caribbean",
       "kind": "reef",
       "depthMinM": 6,
+      "depthMaxM": 26,
+      "level": "intermediate",
+      "highlights": [
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Epinephelus marginatus",
+        "Octopus vulgaris",
+        "Sparisoma cretense",
+        "Chelonia mydas"
+      ],
+      "description": {
+        "it": "Il C-53 Felipe Xicoténcatl è una cannoniera dismessa della Marina messicana ed ex dragamine della US Navy, affondata intenzionalmente al largo della costa di Cozumel per creare un reef artificiale. Adagiato in posizione eretta su un fondale sabbioso pianeggiante, il relitto è stato ampiamente preparato per i subacquei con ampi varchi aperti nello scafo, consentendo passaggi agevoli attraverso la sala macchine, la plancia e gli alloggi dell'equipaggio. Incrostazioni marine ricoprono i corrimano e la sovrastruttura, mentre la circostante distesa di sabbia attira frequentemente specie pelagiche di passaggio nella corrente.",
+        "en": "Scenic dive site in MX known for pristine marine life and dramatic underwater formations."
+      },
+      "curated": true
+    },
+    {
+      "id": "diverout-mx-c58",
+      "name": {
+        "it": "C58",
+        "en": "C58"
+      },
+      "latitude": 21.1754,
+      "longitude": -86.713,
+      "countryCode": "MX",
+      "region": "caribbean",
+      "kind": "reef",
+      "depthMinM": 6,
+      "depthMaxM": 26,
+      "level": "intermediate",
+      "highlights": [
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Epinephelus marginatus",
+        "Octopus vulgaris",
+        "Sparisoma cretense",
+        "Chelonia mydas"
+      ],
+      "description": {
+        "it": "Il C58, originariamente un dragamine della US Navy risalente alla Seconda Guerra Mondiale e successivamente acquisito dalla Marina messicana come ARM General Pedro María Anaya, giace su un fondale sabbioso pianeggiante al largo delle coste di Cancún e Isla Mujeres. Autoaffondato intenzionalmente per creare una barriera corallina artificiale, il relitto è stato spezzato in due sezioni dall'uragano Wilma, esponendo cabine interne, vani motore e corridoi. Lo scafo diviso consente alla luce naturale di illuminare ampie porzioni degli interni, creando passaggi e passanti accessibili ai subacquei con brevetto adeguato, oltre a offrire una sagoma spettacolare per gli amanti della fotografia grandangolare all'esterno.",
+        "en": "Scenic dive site in MX known for pristine marine life and dramatic underwater formations."
+      },
+      "curated": true
+    },
+    {
+      "id": "diverout-mx-cacaluta-coral-garden",
+      "name": {
+        "it": "Cacaluta, coral garden",
+        "en": "Cacaluta, coral garden"
+      },
+      "latitude": 15.7194,
+      "longitude": -96.1637,
+      "countryCode": "MX",
+      "region": "caribbean",
+      "kind": "reef",
+      "depthMinM": 6,
+      "depthMaxM": 26,
+      "level": "intermediate",
+      "highlights": [
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Epinephelus marginatus",
+        "Octopus vulgaris",
+        "Sparisoma cretense",
+        "Chelonia mydas"
+      ],
+      "description": {
+        "it": "Situata all'interno del Parco Nazionale di Huatulco, vicino a Bahía de Cacaluta, questa scogliera rocciosa poco profonda è caratterizzata da estese formazioni di coralli duri ramificati del genere Pocillopora intervallati da grandi massi di granito. Il sito è riparato dal moto ondoso del Pacifico aperto, rendendolo un luogo ideale per osservare pesci giovani e vita macro tra gli anfratti del corallo.",
+        "en": "Scenic dive site in MX known for pristine marine life and dramatic underwater formations."
+      },
+      "curated": true
+    },
+    {
+      "id": "cenote-angelita",
+      "name": {
+        "it": "Cenote Angelita (Tulum)",
+        "en": "Cenote Angelita (Tulum, Mexico)"
+      },
+      "latitude": 20.138,
+      "longitude": -87.578,
+      "countryCode": "MX",
+      "region": "caribbean",
+      "kind": "cave",
+      "depthMinM": 25,
+      "depthMaxM": 40,
+      "level": "advanced",
+      "highlights": [
+        "caves"
+      ],
+      "exposure": "sheltered",
+      "species": [],
+      "description": {
+        "it": "Pozzo carsico profondo 60m con uno strato di acido solfidrico a 30m che crea l'illusione ottica di un fiume sottomarino tra tronchi spogli.",
+        "en": "A 60-meter-deep freshwater pit featuring a thick cloud of hydrogen sulfide at 30m that mimics an underwater river."
+      },
+      "curated": true
+    },
+    {
+      "id": "diverout-mx-cenote-chak-mol",
+      "name": {
+        "it": "Cenote Chak Mol",
+        "en": "Cenote Chak Mol"
+      },
+      "latitude": 20.5039,
+      "longitude": -87.238,
+      "countryCode": "MX",
+      "region": "caribbean",
+      "kind": "reef",
+      "depthMinM": 6,
+      "depthMaxM": 26,
+      "level": "intermediate",
+      "highlights": [
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Epinephelus marginatus",
+        "Octopus vulgaris",
+        "Sparisoma cretense",
+        "Chelonia mydas"
+      ],
+      "description": {
+        "it": "Situato a sud di Playa del Carmen lungo l'autostrada della Riviera Maya, il Cenote Chak Mol (spesso scritto Chac Mool) offre una classica esperienza di immersione in caverna nello Yucatán. I subacquei scendono in aree d'acqua dolce dove si incontrano imponenti speleotemi, densi strati di aloclino e penetranti fasci di sole. Il sito è collegato a due percorsi principali in caverna, noti come la linea Chak Mol e la linea Kukulkan, che si snodano tra blocchi di volta crollati e spaziose cupole d'aria adornate da radici d'albero pendenti.",
+        "en": "Scenic dive site in MX known for pristine marine life and dramatic underwater formations."
+      },
+      "curated": true
+    },
+    {
+      "id": "cenote-dos-ojos",
+      "name": {
+        "it": "Cenote Dos Ojos (Tulum)",
+        "en": "Cenote Dos Ojos (Yucatan, Mexico)"
+      },
+      "latitude": 20.325,
+      "longitude": -87.391,
+      "countryCode": "MX",
+      "region": "caribbean",
+      "kind": "cave",
+      "depthMinM": 4,
       "depthMaxM": 12,
       "level": "beginner",
       "highlights": [
+        "caves"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Astyanax mexicanus",
+        "Typhlatya mitchelli"
+      ],
+      "description": {
+        "it": "Celeberrimo sistema carsico allagato: acque purissime con visibilità oltre 100 metri, stalattiti monumentali e giochi di luce laser.",
+        "en": "Legendary flooded cave system with crystal-clear 100m visibility, stalactite formations, and hypnotic light rays."
+      },
+      "curated": true
+    },
+    {
+      "id": "diverout-mx-cenote-nayah",
+      "name": {
+        "it": "Cenote Nayah",
+        "en": "Cenote Nayah"
+      },
+      "latitude": 20.6465,
+      "longitude": -89.4046,
+      "countryCode": "MX",
+      "region": "caribbean",
+      "kind": "reef",
+      "depthMinM": 6,
+      "depthMaxM": 26,
+      "level": "intermediate",
+      "highlights": [
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Epinephelus marginatus",
+        "Octopus vulgaris",
+        "Sparisoma cretense",
+        "Chelonia mydas"
+      ],
+      "description": {
+        "it": "Il Cenote Nayah è un sinkhole semi-aperto situato vicino al villaggio di Pixyah, nello stato dello Yucatán. I subacquei entrano in acqua tramite scalette di legno che scendono in un'ampia apertura cavernosa illuminata da intensi fasci di luce solare. Sotto la superficie, la caverna sprofonda rapidamente superando enormi massi calcarei sommersi, antichi speleotemi e un ripido pendio di limo che conduce a un vasto sistema di grotte allagate.",
+        "en": "Scenic dive site in MX known for pristine marine life and dramatic underwater formations."
+      },
+      "curated": true
+    },
+    {
+      "id": "diverout-mx-cenote-noh-mozon",
+      "name": {
+        "it": "Cenote Noh-Mozon",
+        "en": "Cenote Noh-Mozon"
+      },
+      "latitude": 20.6233,
+      "longitude": -89.3842,
+      "countryCode": "MX",
+      "region": "caribbean",
+      "kind": "reef",
+      "depthMinM": 6,
+      "depthMaxM": 26,
+      "level": "intermediate",
+      "highlights": [
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Epinephelus marginatus",
+        "Octopus vulgaris",
+        "Sparisoma cretense",
+        "Chelonia mydas"
+      ],
+      "description": {
+        "it": "Il Cenote Noh-Mozon è una spettacolare dolina tra l'aperto e il semi-aperto situata nella giungla dello Yucatán, vicino a Pixyah. L'accesso richiede la discesa di una ripida scalinata in legno lungo un pozzo calcareo fino a una piattaforma naturale sull'acqua. Sotto la superficie, splendidi fasci di luce solare attraversano la colonna d'acqua illuminando un cono di detriti sommerso, circondato da imponenti massi caduti e antiche formazioni speleologiche.",
+        "en": "Scenic dive site in MX known for pristine marine life and dramatic underwater formations."
+      },
+      "curated": true
+    },
+    {
+      "id": "diverout-mx-cenote-sabak-ha",
+      "name": {
+        "it": "Cenote Sabak Ha",
+        "en": "Cenote Sabak Ha"
+      },
+      "latitude": 20.5804,
+      "longitude": -89.5882,
+      "countryCode": "MX",
+      "region": "caribbean",
+      "kind": "reef",
+      "depthMinM": 6,
+      "depthMaxM": 26,
+      "level": "intermediate",
+      "highlights": [
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Epinephelus marginatus",
+        "Octopus vulgaris",
+        "Sparisoma cretense",
+        "Chelonia mydas"
+      ],
+      "description": {
+        "it": "Il Cenote Sabak Ha è una dolina a cielo aperto nelle pianure centro-meridionali dello Yucatán, nota tra i subacquei tecnici per essere il cenote esplorato più profondo dello stato. Pareti verticali di roccia calcarea scendono dall'apertura in superficie direttamente in un pozzo verticale. Al di sotto della materia organica superficiale, un denso strato di idrogeno solforato sovrasta acque dolci incontaminate e immense sale inferiori. La luce del giorno scompare rapidamente sotto il bordo, rendendo indispensabili un sistema di illuminazione ridondante e protocolli tecnici di speleosubacquea.",
+        "en": "Scenic dive site in MX known for pristine marine life and dramatic underwater formations."
+      },
+      "curated": true
+    },
+    {
+      "id": "diverout-mx-cenote-suem",
+      "name": {
+        "it": "Cenote Suem",
+        "en": "Cenote Suem"
+      },
+      "latitude": 20.6404,
+      "longitude": -89.403,
+      "countryCode": "MX",
+      "region": "caribbean",
+      "kind": "reef",
+      "depthMinM": 6,
+      "depthMaxM": 26,
+      "level": "intermediate",
+      "highlights": [
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Epinephelus marginatus",
+        "Octopus vulgaris",
+        "Sparisoma cretense",
+        "Chelonia mydas"
+      ],
+      "description": {
+        "it": "Situato vicino al villaggio di Pixyah, nella penisola dello Yucatán, il Cenote Suem è un'imponente dolina semi-aperta incorniciata da ripide pareti calcaree e radici pendenti. La luce del sole filtra attraverso l'apertura sovrastante illuminando un'enorme camera sommersa che scende lungo un cono detritico centrale. Rami d'albero sommersi e massi calcarei costellano il fondale, richiedendo un controllo dell'assetto impeccabile per evitare di sollevare il fine sedimento organico.",
+        "en": "Scenic dive site in MX known for pristine marine life and dramatic underwater formations."
+      },
+      "curated": true
+    },
+    {
+      "id": "diverout-mx-cenote-tajma-ha",
+      "name": {
+        "it": "Cenote Tajma Ha",
+        "en": "Cenote Tajma Ha"
+      },
+      "latitude": 20.4743,
+      "longitude": -87.2665,
+      "countryCode": "MX",
+      "region": "caribbean",
+      "kind": "reef",
+      "depthMinM": 6,
+      "depthMaxM": 26,
+      "level": "intermediate",
+      "highlights": [
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Epinephelus marginatus",
+        "Octopus vulgaris",
+        "Sparisoma cretense",
+        "Chelonia mydas"
+      ],
+      "description": {
+        "it": "Il Cenote Tajma Ha si trova a sud di Puerto Aventuras, lungo la Riviera Maya, e offre un intricato percorso in caverna attraverso doline collegate da passaggi sotterranei. Le aperture naturali sulla volta illuminano sale impreziosite da fitte formazioni di stalattiti e stalagmiti. Al di sotto dello strato di acqua dolce, un marcato aloclino crea suggestive distorsioni ottiche nel punto di incontro tra acqua dolce e salata. Data la presenza di fragili speleotemi e delicati fondali di sedimento, le guide conducono i gruppi lungo sagole guida permanenti.",
+        "en": "Scenic dive site in MX known for pristine marine life and dramatic underwater formations."
+      },
+      "curated": true
+    },
+    {
+      "id": "cenote-the-pit",
+      "name": {
+        "it": "Cenote The Pit / El Pit",
+        "en": "The Pit Cenote (Dos Ojos System)"
+      },
+      "latitude": 20.308,
+      "longitude": -87.458,
+      "countryCode": "MX",
+      "region": "caribbean",
+      "kind": "cave",
+      "depthMinM": 15,
+      "depthMaxM": 40,
+      "level": "advanced",
+      "highlights": [
+        "caves"
+      ],
+      "exposure": "sheltered",
+      "species": [],
+      "description": {
+        "it": "Imponente voragine carsica profonda 119m con fasci di luce concentrata che trafiggono l'aloclino e stalattiti millenarie.",
+        "en": "Monumental 119m cenote where piercing solar beams slice through a halocline layer into an otherworldly amphitheater."
+      },
+      "curated": true
+    },
+    {
+      "id": "diverout-mx-cenote-yaal-utzil",
+      "name": {
+        "it": "Cenote Yaal Utzil",
+        "en": "Cenote Yaal Utzil"
+      },
+      "latitude": 20.624,
+      "longitude": -89.6067,
+      "countryCode": "MX",
+      "region": "caribbean",
+      "kind": "reef",
+      "depthMinM": 6,
+      "depthMaxM": 26,
+      "level": "intermediate",
+      "highlights": [
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Epinephelus marginatus",
+        "Octopus vulgaris",
+        "Sparisoma cretense",
+        "Chelonia mydas"
+      ],
+      "description": {
+        "it": "Il Cenote Yaal Utzil è un cenote a cielo aperto situato nel comune di Abalá, nello stato dello Yucatán. Raggiungibile tramite una scalinata in legno che scende lungo ripide pareti calcaree, questo specchio d'acqua circolare sprofonda bruscamente in un pozzo cavernoso. La luce del sole dall'alto crea intensi fasci luminosi verticali che illuminano formazioni rocciose sommerse, radici di alberi e profondi sedimenti organici lungo il perimetro.",
+        "en": "Scenic dive site in MX known for pristine marine life and dramatic underwater formations."
+      },
+      "curated": true
+    },
+    {
+      "id": "cenote-zapote-hellbells",
+      "name": {
+        "it": "Cenote Zapote / Hell's Bells",
+        "en": "Cenote Zapote / Hell's Bells (Yucatan)"
+      },
+      "latitude": 20.852,
+      "longitude": -87.126,
+      "countryCode": "MX",
+      "region": "caribbean",
+      "kind": "cave",
+      "depthMinM": 28,
+      "depthMaxM": 38,
+      "level": "technical",
+      "highlights": [
+        "caves"
+      ],
+      "exposure": "sheltered",
+      "species": [],
+      "description": {
+        "it": "Profondo cenote famoso in tutto il mondo per le enigmatiche formazioni subacquee a forma di campana ('Hell's Bells') uniche sulla Terra.",
+        "en": "Deep freshwater cenote world-renowned for surreal underwater bell-shaped calcite formations found nowhere else on Earth."
+      },
+      "curated": true
+    },
+    {
+      "id": "diverout-mx-cerebros",
+      "name": {
+        "it": "Cerebros",
+        "en": "Cerebros"
+      },
+      "latitude": 20.6947,
+      "longitude": -87.0014,
+      "countryCode": "MX",
+      "region": "caribbean",
+      "kind": "reef",
+      "depthMinM": 6,
+      "depthMaxM": 26,
+      "level": "intermediate",
+      "highlights": [
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Epinephelus marginatus",
+        "Octopus vulgaris",
+        "Sparisoma cretense",
+        "Chelonia mydas"
+      ],
+      "description": {
+        "it": "Situato a nord di Playa del Carmen lungo la costa della Riviera Maya, Cerebros prende il nome dalle abbondanti formazioni di corallo cervello che modellano questo sistema di barriera corallina poco profonda. I subacquei esplorano bassi archi, piccoli strapiombi e canali sabbiosi mentre si lasciano trasportare dolcemente dalla corrente parallela alla costa. Gli squali nutrice riposano spesso sotto le sporgenze coralline, mentre le tartarughe verdi pascolano tra praterie marine e spugne lungo i margini della barriera.",
+        "en": "Scenic dive site in MX known for pristine marine life and dramatic underwater formations."
+      },
+      "curated": true
+    },
+    {
+      "id": "diverout-mx-chachacual-west-point",
+      "name": {
+        "it": "Chachacual West point",
+        "en": "Chachacual West point"
+      },
+      "latitude": 15.7007,
+      "longitude": -96.2039,
+      "countryCode": "MX",
+      "region": "caribbean",
+      "kind": "reef",
+      "depthMinM": 6,
+      "depthMaxM": 26,
+      "level": "intermediate",
+      "highlights": [
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Epinephelus marginatus",
+        "Octopus vulgaris",
+        "Sparisoma cretense",
+        "Chelonia mydas"
+      ],
+      "description": {
+        "it": "Situato presso il promontorio roccioso occidentale di Bahía Chachacual, all'interno del Parco Nazionale di Huatulco, questo sito d'immersione è caratterizzato da massi di granito e cenge vulcaniche che degradano verso un fondale sabbioso. Raggiungibile solo in barca, la punta è esposta a un moto ondoso moderato che attira banchi di pelagici e razze lungo il margine della scogliera. L'esplorazione subacquea si concentra su anfratti e rocce scanalate, dove la vita macro e le specie notturne a riposo si radunano al riparo dalla risacca.",
+        "en": "Scenic dive site in MX known for pristine marine life and dramatic underwater formations."
+      },
+      "curated": true
+    },
+    {
+      "id": "diverout-mx-chankanaab-shallows",
+      "name": {
+        "it": "Chankanaab Shallows",
+        "en": "Chankanaab Shallows"
+      },
+      "latitude": 20.451,
+      "longitude": -86.992,
+      "countryCode": "MX",
+      "region": "caribbean",
+      "kind": "reef",
+      "depthMinM": 6,
+      "depthMaxM": 26,
+      "level": "intermediate",
+      "highlights": [
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Epinephelus marginatus",
+        "Octopus vulgaris",
+        "Sparisoma cretense",
+        "Chelonia mydas"
+      ],
+      "description": {
+        "it": "Situato lungo la costa occidentale riparata di Cozumel, all'interno del parco marino, Chankanaab Shallows è caratterizzato da formazioni coralline sparse e basse cenge calcaree adagiate su un fondale di sabbia chiara. Il sito è una meta ideale per escursioni pomeridiane, immersioni di ambientamento e immersioni notturne grazie alle sue correnti dolci e alle condizioni tranquille. I subacquei scivolano lentamente accanto agli anfratti del reef, dove creature macro e pesci di barriera giovanili cercano rifugio tra gorgonie e ventagli di mare.",
+        "en": "Scenic dive site in MX known for pristine marine life and dramatic underwater formations."
+      },
+      "curated": true
+    },
+    {
+      "id": "diverout-mx-chetales",
+      "name": {
+        "it": "Chetales",
+        "en": "Chetales"
+      },
+      "latitude": 21.2257,
+      "longitude": -86.7603,
+      "countryCode": "MX",
+      "region": "caribbean",
+      "kind": "reef",
+      "depthMinM": 6,
+      "depthMaxM": 26,
+      "level": "intermediate",
+      "highlights": [
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Epinephelus marginatus",
+        "Octopus vulgaris",
+        "Sparisoma cretense",
+        "Chelonia mydas"
+      ],
+      "description": {
+        "it": "Situato al largo della costa di Punta Cancun, Chetales è un sistema di barriera corallina poco profonda caratterizzato da formazioni coralline sparse, morbide gorgonie e dolci canali sabbiosi. Le condizioni calme e il fondale poco profondo lo rendono un sito frequente per seconde immersioni, corsi subacquei ed escursioni naturalistiche rilassanti. Grandi banchi di grugnitori e lutianidi si radunano attorno alle strutture coralline, mentre i trigoni meridionali riposano spesso parzialmente insabbiati.",
+        "en": "Scenic dive site in MX known for pristine marine life and dramatic underwater formations."
+      },
+      "curated": true
+    },
+    {
+      "id": "diverout-mx-chitales-reef",
+      "name": {
+        "it": "Chitales Reef",
+        "en": "Chitales Reef"
+      },
+      "latitude": 21.1559,
+      "longitude": -86.7525,
+      "countryCode": "MX",
+      "region": "caribbean",
+      "kind": "reef",
+      "depthMinM": 6,
+      "depthMaxM": 26,
+      "level": "intermediate",
+      "highlights": [
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Epinephelus marginatus",
+        "Octopus vulgaris",
+        "Sparisoma cretense",
+        "Chelonia mydas"
+      ],
+      "description": {
+        "it": "La barriera corallina di Chitales Reef si trova nelle acque basse e protette al largo di Punta Cancun, offrendo un profilo di navigazione semplice tra estesi banchi corallini e canali sabbiosi. Formazioni coralline emergono da un luminoso fondale sabbioso, circondate da gorgonie morbide e ventagli di mare che ondeggiano nella risacca leggera. Il sito è una scelta frequente per i corsi Open Water, immersioni di riscaldamento o per una rilassante seconda bombola dopo le uscite più profonde del mattino.",
+        "en": "Scenic dive site in MX known for pristine marine life and dramatic underwater formations."
+      },
+      "curated": true
+    },
+    {
+      "id": "diverout-mx-chun-zumbul",
+      "name": {
+        "it": "Chun Zumbul",
+        "en": "Chun Zumbul"
+      },
+      "latitude": 20.6315,
+      "longitude": -87.0579,
+      "countryCode": "MX",
+      "region": "caribbean",
+      "kind": "reef",
+      "depthMinM": 6,
+      "depthMaxM": 26,
+      "level": "intermediate",
+      "highlights": [
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Epinephelus marginatus",
+        "Octopus vulgaris",
+        "Sparisoma cretense",
+        "Chelonia mydas"
+      ],
+      "description": {
+        "it": "Situato appena al largo della costa di Playa del Carmen, Chun Zumbul è un sistema di barriera corallina poco profondo caratterizzato da speroni corallini ondulati e ampi canali di sabbia. La struttura del reef presenta numerosi anfratti e sporgenze rocciose dove la vita marina riposa durante le ore diurne. Correnti moderate scorrono spesso lungo la linea del reef, trasformando l'immersione in una rilassante deriva tra formazioni di corallo duro, grandi gorgonie e ventagli di mare.",
+        "en": "Scenic dive site in MX known for pristine marine life and dramatic underwater formations."
+      },
+      "curated": true
+    },
+    {
+      "id": "diverout-mx-columbia-reef",
+      "name": {
+        "it": "Columbia reef ",
+        "en": "Columbia reef "
+      },
+      "latitude": 20.3165,
+      "longitude": -87.0269,
+      "countryCode": "MX",
+      "region": "caribbean",
+      "kind": "reef",
+      "depthMinM": 6,
+      "depthMaxM": 26,
+      "level": "intermediate",
+      "highlights": [
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Epinephelus marginatus",
+        "Octopus vulgaris",
+        "Sparisoma cretense",
+        "Chelonia mydas"
+      ],
+      "description": {
+        "it": "Situato lungo l'estremità sud-occidentale di Cozumel all'interno del parco marino, Columbia Reef presenta imponenti pinnacoli di corallo che si elevano da canali sabbiosi e una ripida parete a strapiombo sul blu profondo. I subacquei scivolano lungo torreggianti formazioni a sperone intervallate da tunnel, caverne e profondi passaggi prima di concludere la loro immersione in corrente sopra giardini di corallo meno profondi.",
+        "en": "Scenic dive site in MX known for pristine marine life and dramatic underwater formations."
+      },
+      "curated": true
+    },
+    {
+      "id": "diverout-mx-cueva-del-pargo",
+      "name": {
+        "it": "Cueva del Pargo",
+        "en": "Cueva del Pargo"
+      },
+      "latitude": 20.636,
+      "longitude": -87.0532,
+      "countryCode": "MX",
+      "region": "caribbean",
+      "kind": "reef",
+      "depthMinM": 6,
+      "depthMaxM": 26,
+      "level": "intermediate",
+      "highlights": [
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Epinephelus marginatus",
+        "Octopus vulgaris",
+        "Sparisoma cretense",
+        "Chelonia mydas"
+      ],
+      "description": {
+        "it": "Cueva del Pargo si trova appena al largo della costa di Playa del Carmen, caratterizzata da formazioni coralline poco profonde intervallate da bassi strapiombi e piccole caverne. Una leggera corrente trasporta spesso i subacquei lungo il crinale, dove branchi di lutianidi si radunano all'ombra delle sporgenze calcaree. Il sito offre un profilo rilassante, ideale per seconde immersioni o tranquille esplorazioni in drift.",
+        "en": "Scenic dive site in MX known for pristine marine life and dramatic underwater formations."
+      },
+      "curated": true
+    },
+    {
+      "id": "deans-blue-hole-bahamas",
+      "name": {
+        "it": "Dean's Blue Hole (Bahamas)",
+        "en": "Dean's Blue Hole (Long Island, Bahamas)"
+      },
+      "latitude": 23.106,
+      "longitude": -75.101,
+      "countryCode": "BS",
+      "region": "caribbean",
+      "kind": "cave",
+      "depthMinM": 5,
+      "depthMaxM": 60,
+      "level": "advanced",
+      "highlights": [
+        "caves"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Carcharhinus perezi",
+        "Tarpon atlanticus"
+      ],
+      "description": {
+        "it": "Il secondo buco blu marino più profondo al mondo (202m), incastonato in una baia turchese con anfiteatro naturale.",
+        "en": "The world's second deepest marine blue hole (202m), enclosed in a scenic bay with an immense undersea cavern chamber."
+      },
+      "curated": true
+    },
+    {
+      "id": "diamond-rock-saba",
+      "name": {
+        "it": "Diamond Rock (Parco Marino di Saba)",
+        "en": "Diamond Rock (Saba Marine Park)"
+      },
+      "latitude": 17.652,
+      "longitude": -63.262,
+      "countryCode": "BQ",
+      "region": "caribbean",
+      "kind": "wall",
+      "depthMinM": 15,
+      "depthMaxM": 35,
+      "level": "intermediate",
+      "highlights": [
+        "walls",
         "sharks"
       ],
+      "exposure": "exposed",
+      "species": [
+        "Ginglymostoma cirratum",
+        "Aetobatus narinari"
+      ],
+      "description": {
+        "it": "Pinnacolo vulcanico bianco che emerge dal blu caraibico con squali nutrice, aquile di mare e ricchi giardini di gorgonie.",
+        "en": "Sheer white volcanic spire emerging from the blue with nurse sharks, eagle rays, and vibrant deep-sea fans."
+      },
+      "curated": true
+    },
+    {
+      "id": "gladden-spit-belize",
+      "name": {
+        "it": "Gladden Spit (Belize)",
+        "en": "Gladden Spit Marine Reserve"
+      },
+      "latitude": 16.512,
+      "longitude": -87.985,
+      "countryCode": "BZ",
+      "region": "caribbean",
+      "kind": "reef",
+      "depthMinM": 15,
+      "depthMaxM": 30,
+      "level": "intermediate",
+      "highlights": [
+        "whaleShark",
+        "pelagic"
+      ],
+      "exposure": "exposed",
+      "species": [
+        "Rhincodon typus",
+        "Lutjanus cyanopterus"
+      ],
+      "description": {
+        "it": "Punto d'incontro famoso durante i pleniluni primaverili quando i banchi di squali balena arrivano per nutrirsi delle uova di snapper.",
+        "en": "Spring full moon hotspot where migrating whale sharks gather to feast on spawning cubera snapper eggs."
+      },
+      "curated": true
+    },
+    {
+      "id": "great-blue-hole-belize",
+      "name": {
+        "it": "Great Blue Hole (Belize)",
+        "en": "Great Blue Hole (Lighthouse Reef, Belize)"
+      },
+      "latitude": 17.3155,
+      "longitude": -87.5345,
+      "countryCode": "BZ",
+      "region": "caribbean",
+      "kind": "cave",
+      "depthMinM": 12,
+      "depthMaxM": 42,
+      "level": "advanced",
+      "highlights": [
+        "caves",
+        "sharks"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Carcharhinus perezii",
+        "Ginglymostoma cirratum"
+      ],
+      "description": {
+        "it": "Spettacolare voragine marina circolare di 300 metri di diametro con stalattiti monumentali dell'era glaciale e squali di barriera.",
+        "en": "Iconic 300-meter-wide submarine sinkhole famous for colossal ice age stalactites hanging in the crystalline abyss."
+      },
+      "curated": true
+    },
+    {
+      "id": "half-moon-caye-wall",
+      "name": {
+        "it": "Half Moon Caye Wall (Belize)",
+        "en": "Half Moon Caye Wall (Belize)"
+      },
+      "latitude": 17.202,
+      "longitude": -87.538,
+      "countryCode": "BZ",
+      "region": "caribbean",
+      "kind": "wall",
+      "depthMinM": 10,
+      "depthMaxM": 35,
+      "level": "intermediate",
+      "highlights": [
+        "walls",
+        "turtles"
+      ],
+      "exposure": "exposed",
+      "species": [
+        "Chelonia mydas",
+        "Eretmochelys imbricata",
+        "Aetobatus narinari"
+      ],
+      "description": {
+        "it": "Una delle pareti più sane e vivaci dei Caraibi: giardini di spugne a canna d'organo, aquile di mare e tartarughe embricate.",
+        "en": "One of the Caribbean's healthiest coral drop-offs: massive tube sponges, spotted eagle rays, and sea turtles."
+      },
+      "curated": true
+    },
+    {
+      "id": "karpata-bonaire",
+      "name": {
+        "it": "Karpata (Bonaire)",
+        "en": "Karpata Reef (Bonaire Marine Park)"
+      },
+      "latitude": 12.219,
+      "longitude": -68.353,
+      "countryCode": "BQ",
+      "region": "caribbean",
+      "kind": "wall",
+      "depthMinM": 12,
+      "depthMaxM": 40,
+      "level": "intermediate",
+      "highlights": [
+        "walls",
+        "corals",
+        "turtles"
+      ],
+      "exposure": "exposed",
+      "species": [
+        "Eretmochelys imbricata",
+        "Acanthurus coeruleus"
+      ],
+      "description": {
+        "it": "Scarpata ripida con crinali corallini che scendono a pettine e formazioni imponenti di corallo corna d'alce e tartarughe marine.",
+        "en": "Steep drop-off with dramatic spur-and-groove coral ridges, elkhorn corals, and resident hawksbill turtles."
+      },
+      "curated": true
+    },
+    {
+      "id": "marys-place-roatan",
+      "name": {
+        "it": "Mary's Place (Roatan)",
+        "en": "Mary's Place (Roatan, Honduras)"
+      },
+      "latitude": 16.328,
+      "longitude": -86.495,
+      "countryCode": "HN",
+      "region": "caribbean",
+      "kind": "cave",
+      "depthMinM": 12,
+      "depthMaxM": 35,
+      "level": "intermediate",
+      "highlights": [
+        "caves",
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Antipathes caribbeana",
+        "Gramma loreto"
+      ],
+      "description": {
+        "it": "Spaccatura vulcanica spettacolare creata da antica attività sismica con pareti a strapiombo ricoperte di corallo nero.",
+        "en": "Spectacular seismic fissure featuring sheer coral crevices and chimneys dripping with delicate black coral bushes."
+      },
+      "curated": true
+    },
+    {
+      "id": "mushroom-forest-curacao",
+      "name": {
+        "it": "Mushroom Forest (Curaçao)",
+        "en": "Mushroom Forest (Santa Cruz, Curaçao)"
+      },
+      "latitude": 12.338,
+      "longitude": -69.148,
+      "countryCode": "CW",
+      "region": "caribbean",
+      "kind": "reef",
+      "depthMinM": 10,
+      "depthMaxM": 18,
+      "level": "beginner",
+      "highlights": [
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Orbicella annularis",
+        "Pomacanthus paru"
+      ],
+      "description": {
+        "it": "Foresta sottomarina di formazioni coralline a forma di fungo gigante alte fino a 3 metri scavate da spugne perforatrici.",
+        "en": "Subsea forest of giant mushroom-shaped star coral heads standing up to 3 meters high sculpted by boring sponges."
+      },
+      "curated": true
+    },
+    {
+      "id": "curacao-mushroom-forest",
+      "name": {
+        "it": "Mushroom Forest (Santa Cruz)",
+        "en": "Mushroom Forest (Santa Cruz)"
+      },
+      "latitude": 12.3167,
+      "longitude": -69.15,
+      "countryCode": "CW",
+      "region": "caribbean",
+      "kind": "reef",
+      "depthMinM": 10,
+      "depthMaxM": 22,
+      "level": "intermediate",
+      "highlights": [
+        "corals",
+        "turtles",
+        "macro"
+      ],
+      "exposure": "moderate",
+      "species": [
+        "Chelonia mydas",
+        "Lactophrys trigonus",
+        "Hypoplectrus unicolor"
+      ],
+      "description": {
+        "it": "Foresta corallina formata da enormi colonie di corallo montagnoso erose alla base a forma di funghi giganti, popolata da tartarughe, pesci scatola e razze.",
+        "en": "Underwater forest of giant star coral formations bio-eroded into colossal mushroom heads, inhabited by green sea turtles and trunkfish."
+      },
+      "curated": true
+    },
+    {
+      "id": "palancar-horseshoe-cozumel",
+      "name": {
+        "it": "Palancar Horseshoe (Cozumel)",
+        "en": "Palancar Horseshoe (Cozumel, Mexico)"
+      },
+      "latitude": 20.334,
+      "longitude": -87.031,
+      "countryCode": "MX",
+      "region": "caribbean",
+      "kind": "reef",
+      "depthMinM": 12,
+      "depthMaxM": 30,
+      "level": "beginner",
+      "highlights": [
+        "corals",
+        "caves"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Sanopus splendidus",
+        "Pomacanthus paru",
+        "Aetobatus narinari"
+      ],
+      "description": {
+        "it": "Cattedrali ciclopiche di corallo cervello e archi sottomarini scolpiti con passaggi scenografici e l'endemico pesce rospo splendido.",
+        "en": "Towering coral buttresses and natural swim-through arches housing the endemic splendid toadfish."
+      },
+      "curated": true
+    },
+    {
+      "id": "rms-rhone-bvi",
+      "name": {
+        "it": "RMS Rhone (British Virgin Islands)",
+        "en": "RMS Rhone Wreck (Salt Island, BVI)"
+      },
+      "latitude": 18.368,
+      "longitude": -64.536,
+      "countryCode": "VG",
+      "region": "caribbean",
+      "kind": "wreck",
+      "depthMinM": 9,
+      "depthMaxM": 27,
+      "level": "intermediate",
+      "highlights": [
+        "wreck",
+        "history"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Epinephelus striatus",
+        "Holacanthus ciliaris"
+      ],
+      "description": {
+        "it": "Piroscafo della Royal Mail affondato nel 1867 dall'uragano San Narciso; una delle immersioni su relitto storico più rinomate al mondo.",
+        "en": "1867 Royal Mail steam packet wrecked by a hurricane; a world-famous historical dive site rich in marine growth."
+      },
+      "curated": true
+    },
+    {
+      "id": "hilma-hooker-bonaire",
+      "name": {
+        "it": "Relitto Hilma Hooker (Bonaire)",
+        "en": "Hilma Hooker Wreck (Bonaire)"
+      },
+      "latitude": 12.106,
+      "longitude": -68.289,
+      "countryCode": "BQ",
+      "region": "caribbean",
+      "kind": "wreck",
+      "depthMinM": 18,
+      "depthMaxM": 30,
+      "level": "intermediate",
+      "highlights": [
+        "wreck"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Tarpon atlanticus",
+        "Sphyraena barracuda"
+      ],
+      "description": {
+        "it": "Mercantile di 72 metri adagiato su sabbia tra due creste di barriera corallina, con enormi tarponi residenti.",
+        "en": "72m cargo ship resting on a sand plain between two reef ridges, with resident giant silver tarpon patrolling the hull."
+      },
+      "curated": true
+    },
+    {
+      "id": "superior-producer-curacao",
+      "name": {
+        "it": "Relitto Superior Producer",
+        "en": "Superior Producer Wreck (Curaçao)"
+      },
+      "latitude": 12.103,
+      "longitude": -68.938,
+      "countryCode": "CW",
+      "region": "caribbean",
+      "kind": "wreck",
+      "depthMinM": 24,
+      "depthMaxM": 33,
+      "level": "advanced",
+      "highlights": [
+        "wreck"
+      ],
+      "exposure": "exposed",
+      "species": [
+        "Tarpon atlanticus",
+        "Sphyraena barracuda"
+      ],
+      "description": {
+        "it": "Nave mercantile di 50 metri affondata nel 1977 al largo del porto di Willemstad, in posizione eretta con stive aperte.",
+        "en": "50m freighter sunk in 1977 off Willemstad harbor, sitting perfectly upright on the seabed covered in tube sponges."
+      },
+      "curated": true
+    },
+    {
+      "id": "tugboat-curacao",
+      "name": {
+        "it": "Relitto Tugboat (Curaçao)",
+        "en": "Tugboat Wreck (Caracasbaai, Curaçao)"
+      },
+      "latitude": 12.069,
+      "longitude": -68.862,
+      "countryCode": "CW",
+      "region": "caribbean",
+      "kind": "wreck",
+      "depthMinM": 5,
+      "depthMaxM": 15,
+      "level": "beginner",
+      "highlights": [
+        "wreck",
+        "macro"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Scarus coeruleus",
+        "Muraena helena"
+      ],
+      "description": {
+        "it": "Famoso relitto di rimorchiatore adagiato a soli 5 metri di profondità, completamente ricoperto di spugne arancioni e coralli.",
+        "en": "Beloved tugboat wreck sitting in just 5 meters of water, encrusted with brilliant orange cup corals and sea fans."
+      },
+      "curated": true
+    },
+    {
+      "id": "uss-kittiwake-cayman",
+      "name": {
+        "it": "Relitto USS Kittiwake",
+        "en": "USS Kittiwake Wreck (Grand Cayman)"
+      },
+      "latitude": 19.361,
+      "longitude": -81.401,
+      "countryCode": "KY",
+      "region": "caribbean",
+      "kind": "wreck",
+      "depthMinM": 14,
+      "depthMaxM": 20,
+      "level": "beginner",
+      "highlights": [
+        "wreck"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Sphyraena barracuda",
+        "Pomacanthus arcuatus"
+      ],
+      "description": {
+        "it": "Nave appoggio sommergibili della US Navy di 76 metri affondata nel 2011; interni ampi e illuminati visitabili da ogni livello di brevetto.",
+        "en": "76m US Navy submarine rescue vessel scuttled in 2011; fully cleaned and purpose-built for divers of all experience levels."
+      },
+      "curated": true
+    },
+    {
+      "id": "salt-pier-bonaire",
+      "name": {
+        "it": "Salt Pier (Bonaire)",
+        "en": "Salt Pier (Bonaire)"
+      },
+      "latitude": 12.082,
+      "longitude": -68.283,
+      "countryCode": "BQ",
+      "region": "caribbean",
+      "kind": "reef",
+      "depthMinM": 8,
+      "depthMaxM": 16,
+      "level": "beginner",
+      "highlights": [
+        "macro",
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Antennarius striatus",
+        "Sphyraena barracuda",
+        "Diodon hystrix"
+      ],
+      "description": {
+        "it": "Piloni del molo salifero ricoperti di coralli molli e spugne; banchi enormi di barracuda, pesci rana e cavallucci marini.",
+        "en": "Submerged industrial pier pilings encrusted with colorful sponges and corals, home to schooling barracuda and frogfish."
+      },
+      "curated": true
+    },
+    {
+      "id": "santa-rosa-wall-cozumel",
+      "name": {
+        "it": "Santa Rosa Wall (Cozumel)",
+        "en": "Santa Rosa Wall (Cozumel)"
+      },
+      "latitude": 20.375,
+      "longitude": -87.012,
+      "countryCode": "MX",
+      "region": "caribbean",
+      "kind": "wall",
+      "depthMinM": 15,
+      "depthMaxM": 40,
+      "level": "intermediate",
+      "highlights": [
+        "drift",
+        "walls"
+      ],
+      "exposure": "exposed",
+      "species": [
+        "Eretmochelys imbricata",
+        "Epinephelus striatus"
+      ],
+      "description": {
+        "it": "Spettacolare immersione in corrente lungo una falesia verticale che sprofonda negli abissi con tunnel e spugne giganti.",
+        "en": "Exhilarating drift dive along a vertical drop-off plunging into deep blue water with caverns and sponge chimneys."
+      },
+      "curated": true
+    },
+    {
+      "id": "stingray-city-cayman",
+      "name": {
+        "it": "Stingray City (Grand Cayman)",
+        "en": "Stingray City (Grand Cayman)"
+      },
+      "latitude": 19.378,
+      "longitude": -81.302,
+      "countryCode": "KY",
+      "region": "caribbean",
+      "kind": "reef",
+      "depthMinM": 3,
+      "depthMaxM": 5,
+      "level": "beginner",
+      "highlights": [
+        "rays"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Hypanus americanus"
+      ],
+      "description": {
+        "it": "Banchi di sabbia protetti dove decine di grandi razze del sud (stingray) nuotano amichevolmente a contatto con i subacquei.",
+        "en": "Shallow sandbars inside the barrier reef where dozens of docile southern stingrays glide effortlessly among divers."
+      },
+      "curated": true
+    },
+    {
+      "id": "tiger-beach-bahamas",
+      "name": {
+        "it": "Tiger Beach (Grand Bahama)",
+        "en": "Tiger Beach (Grand Bahama)"
+      },
+      "latitude": 26.985,
+      "longitude": -79.032,
+      "countryCode": "BS",
+      "region": "caribbean",
+      "kind": "reef",
+      "depthMinM": 8,
+      "depthMaxM": 12,
+      "level": "intermediate",
+      "highlights": [
+        "sharks"
+      ],
+      "exposure": "exposed",
       "species": [
         "Galeocerdo cuvier",
         "Negaprion brevirostris",
-        "Sphyrna mokarran"
+        "Ginglymostoma cirratum"
       ],
-      "exposure": "exposed_all",
       "description": {
-        "en": "The premier shark encounter site in the Americas: calm shallow white-sand plateau where divers sit with huge female tiger sharks, lemon sharks, and reef sharks.",
-        "it": "Il punto d'incontro con gli squali più famoso delle Americhe: altopiano di sabbia bianca a 8m dove nuotare faccia a faccia con squali tigre giganti e squali limone."
+        "it": "Capitale mondiale degli incontri ravvicinati su fondale sabbioso con grandi squali tigre e squali limone in acque cristalline.",
+        "en": "World-famous shallow sand bank providing unparalleled face-to-face encounters with giant tiger sharks and lemon sharks."
+      },
+      "curated": true
+    },
+    {
+      "id": "watamula-curacao",
+      "name": {
+        "it": "Watamula (Curaçao)",
+        "en": "Watamula Coral Gardens (Curaçao)"
+      },
+      "latitude": 12.378,
+      "longitude": -69.155,
+      "countryCode": "CW",
+      "region": "caribbean",
+      "kind": "reef",
+      "depthMinM": 12,
+      "depthMaxM": 35,
+      "level": "intermediate",
+      "highlights": [
+        "corals"
+      ],
+      "exposure": "exposed",
+      "species": [
+        "Acanthurus coeruleus",
+        "Chelonia mydas"
+      ],
+      "description": {
+        "it": "Giardino sottomarino incontaminato all'estremo nord di Curaçao con campi infiniti di gorgonie e coralli duri sani.",
+        "en": "Untouched coral paradise at the northern tip of Curaçao boasting endless fields of flourishing hard corals and sea whips."
+      },
+      "curated": true
+    },
+    {
+      "id": "diverout-mx-casa-cenote",
+      "name": {
+        "it": "casa cenote",
+        "en": "casa cenote"
+      },
+      "latitude": 20.3174,
+      "longitude": -87.3578,
+      "countryCode": "MX",
+      "region": "caribbean",
+      "kind": "reef",
+      "depthMinM": 6,
+      "depthMaxM": 26,
+      "level": "intermediate",
+      "highlights": [
+        "corals"
+      ],
+      "exposure": "sheltered",
+      "species": [
+        "Epinephelus marginatus",
+        "Octopus vulgaris",
+        "Sparisoma cretense",
+        "Chelonia mydas"
+      ],
+      "description": {
+        "it": "Casa Cenote, noto anche come Cenote Manatí, si trova appena nell'entroterra della baia di Tankah, lungo la Riviera Maya. A differenza dei sistemi di caverne chiuse, si snoda attraverso un canale di mangrovie come un cenote completamente a cielo aperto, alimentato da fiumi sotterranei che sfociano verso l'oceano. I subacquei nuotano tra fitti grovigli di radici di mangrovia sommerse e sporgenze calcaree, attraversando suggestivi aloclini in cui l'acqua dolce e fredda incontra l'acqua marina più calda.",
+        "en": "Scenic dive site in MX known for pristine marine life and dramatic underwater formations."
       },
       "curated": true
     }

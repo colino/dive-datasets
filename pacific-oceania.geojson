@@ -1,40 +1,40 @@
 {
   "type": "FeatureCollection",
-  "name": "Pacifico, Oceania & Micronesia (Pacific & Oceania)",
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          147.6231,
-          -19.3039
+          145.821,
+          -15.985
         ]
       },
       "properties": {
-        "id": "pacific-australia-ss-yongala",
-        "name": "SS Yongala Shipwreck",
-        "name_it": "Relitto SS Yongala (Queensland)",
-        "region": "Australia - Great Barrier Reef (Townsville)",
+        "id": "agincourt-reef-queensland",
+        "name": {
+          "it": "Agincourt Reef (Grande Barriera)",
+          "en": "Agincourt Ribbon Reef (Queensland, Australia)"
+        },
         "countryCode": "AU",
-        "kind": "wreck",
-        "depthMinM": 15,
-        "depthMaxM": 30,
-        "level": "advanced",
-        "exposure": "exposed_all",
+        "region": "pacific-oceania",
+        "kind": "reef",
+        "depthMinM": 8,
+        "depthMaxM": 22,
+        "level": "beginner",
         "highlights": [
-          "wreck",
-          "history",
-          "sharks",
-          "rays"
+          "corals"
         ],
+        "exposure": "sheltered",
         "species": [
-          "Epinephelus lanceolatus",
-          "Aetobatus ocellatus",
-          "Balaenoptera acutorostrata"
+          "Chelonia mydas",
+          "Amphiprion percula"
         ],
-        "description_en": "Passenger steamship (110m) sunk during a 1911 cyclone. Sitting isolated on an open sandy seabed, it acts as an oasis concentrating giant queensland groupers, sea snakes, rays, and bull sharks.",
-        "description_it": "Nave passeggeri di 110m affondata da un ciclone nel 1911. Oasi di vita sottomarina isolata nella sabbia con cernie giganti da 2 metri, serpenti marini, mante e squali toro."
+        "description": {
+          "it": "Serie di nastri corallini all'estremità della piattaforma continentale con coralli intatti e visibilità cristallina oceanica.",
+          "en": "Ribbon reefs sitting on the outer edge of the continental shelf boasting pristine hard corals and brilliant clarity."
+        },
+        "curated": true
       }
     },
     {
@@ -42,31 +42,837 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.658,
-          -14.671
+          145.8333,
+          -16.0333
         ]
       },
       "properties": {
-        "id": "pacific-australia-cod-hole",
-        "name": "Cod Hole (Ribbon Reefs)",
-        "name_it": "Cod Hole (Grande Barriera Corallina)",
-        "region": "Australia - Great Barrier Reef (Lizard Island)",
+        "id": "gbr-agincourt-reef",
+        "name": {
+          "it": "Agincourt Ribbon Reef",
+          "en": "Agincourt Ribbon Reef"
+        },
         "countryCode": "AU",
+        "region": "pacific-oceania",
         "kind": "reef",
-        "depthMinM": 10,
-        "depthMaxM": 30,
+        "depthMinM": 5,
+        "depthMaxM": 24,
         "level": "beginner",
-        "exposure": "sheltered_west",
         "highlights": [
           "corals",
+          "turtles",
+          "sharks"
+        ],
+        "exposure": "moderate",
+        "species": [
+          "Triaenodon obesus",
+          "Chelonia mydas",
+          "Mobula birostris",
+          "Scarus ferrugineus"
+        ],
+        "description": {
+          "it": "Spettacolare barriera corallina a nastro all'estremità esterna della Grande Barriera Corallina, celebre per la visibilità superiore a 30 metri, giardini di corallo intatti, passaggi sabbiosi, squali di barriera e mante.",
+          "en": "Spectacular outer ribbon reef on the Great Barrier Reef, famous for pristine hard coral gardens, white sand channels, resident reef sharks, and crystal visibility."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.8566,
+          -16.0366
+        ]
+      },
+      "properties": {
+        "id": "diverout-au-agincourt-ribbon-reefs",
+        "name": {
+          "it": "Agincourt Ribbon Reefs",
+          "en": "Agincourt Ribbon Reefs"
+        },
+        "countryCode": "AU",
+        "region": "pacific-oceania",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato lungo il margine esterno della Grande Barriera Corallina al largo di Port Douglas, il complesso di Agincourt è costituito da una serie di ribbon reef affacciati sul Mar dei Coralli aperto. Il sistema corallino offre una combinazione di giardini di corallo protetti sul versante sottovento e spettacolari pareti a strapiombo con profondi passaggi e bommie corallini isolati sui versanti esterni. Forti correnti oceaniche lambiscono questi nastri esterni con acque limpide, favorendo una rigogliosa crescita di coralli duri insieme a estesi campi di coralli molli.",
+          "en": "Scenic dive site in AU known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.487,
+          -26.979
+        ]
+      },
+      "properties": {
+        "id": "diverout-au-aldens-cave-flinders-reef",
+        "name": {
+          "it": "Aldens Cave - Flinders Reef",
+          "en": "Aldens Cave - Flinders Reef"
+        },
+        "countryCode": "AU",
+        "region": "pacific-oceania",
+        "kind": "cave",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "caves",
           "macro"
         ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situata sul lato riparato di Flinders Reef, al largo di Moreton Island, Alden's Cave è una caverna aperta con passaggi scavati tra formazioni calcaree e coralline. I subacquei possono esplorare canaloni sabbiosi fiancheggiati da coralli a tavola e a corna di cervo, prima di addentrarsi in ampie aperture rocciose dove la vita marina trova riparo dal moto ondoso del mare aperto.",
+          "en": "Scenic dive site in AU known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.388,
+          -29.9232
+        ]
+      },
+      "properties": {
+        "id": "diverout-au-anemone-bay-north-solitary-island",
+        "name": {
+          "it": "Anemone Bay North Solitary Island",
+          "en": "Anemone Bay North Solitary Island"
+        },
+        "countryCode": "AU",
+        "region": "pacific-oceania",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situata all'estremità settentrionale di North Solitary Island, all'interno del Solitary Islands Marine Park, Anemone Bay si trova nel punto di incontro tra le correnti calde e i flussi costieri temperati. Vasti tappeti di anemoni di mare si estendono su cenge rocciose e distese di massi, ospitando enormi colonie di pesci pagliaccio. I canaloni rocciosi offrono riparo a squali wobbegong a riposo, mentre specie pelagiche pattugliano frequentemente i margini esterni e più limpidi della baia.",
+          "en": "Scenic dive site in AU known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7945,
+          -16.0164
+        ]
+      },
+      "properties": {
+        "id": "diverout-au-anybody-s",
+        "name": {
+          "it": "Anybody's",
+          "en": "Anybody's"
+        },
+        "countryCode": "AU",
+        "region": "pacific-oceania",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato lungo il bordo esterno del complesso di Agincourt Reef al largo di Port Douglas, Anybody's presenta una serie di bommie corallini isolati e giardini di corallo in dolce pendenza. I subacquei esplorano canali sabbiosi che si snodano tra formazioni di corallo duro, dove le stazioni di pulizia attirano grugnitori e cernie del corallo. I pianori riparati della barriera offrono profili di immersione agevoli, mentre i fondali sabbiosi più profondi ospitano razze e squali di barriera.",
+          "en": "Scenic dive site in AU known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.0738,
+          -19.8075
+        ]
+      },
+      "properties": {
+        "id": "diverout-au-bait-reef",
+        "name": {
+          "it": "Bait Reef",
+          "en": "Bait Reef"
+        },
+        "countryCode": "AU",
+        "region": "pacific-oceania",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato sul margine esterno della Grande Barriera Corallina e accessibile dalle Whitsundays, Bait Reef offre un paesaggio sottomarino variegato, che spazia da lagune coralline riparate a pareti verticali a strapiombo. I subacquei possono esplorare spettacolari passaggi, formazioni coralline (bommie) interconnesse e ripide cadute nel blu dove transitano spesso grandi specie pelagiche.",
+          "en": "Scenic dive site in AU known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.8483,
+          -16.0145
+        ]
+      },
+      "properties": {
+        "id": "diverout-au-barracuda-bommie",
+        "name": {
+          "it": "Barracuda Bommie",
+          "en": "Barracuda Bommie"
+        },
+        "countryCode": "AU",
+        "region": "pacific-oceania",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato all'interno del sistema più esterno della Grande Barriera Corallina al largo di Port Douglas, Barracuda Bommie è costituito da un pinnacolo corallino solitario che si eleva ripido da un fondale di sabbia bianca. Il movimento delle maree convoglia acque oceaniche limpide attorno alla struttura, radunando le specie pelagiche lungo il versante esposto alla corrente, mentre la vita macro trova riparo negli anfratti dei fianchi più riparati.",
+          "en": "Scenic dive site in AU known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1898,
+          -33.9316
+        ]
+      },
+      "properties": {
+        "id": "diverout-au-barunguba-island",
+        "name": {
+          "it": "Barunguba Island",
+          "en": "Barunguba Island"
+        },
+        "countryCode": "AU",
+        "region": "pacific-oceania",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Barunguba (Montague Island) si trova al largo di Narooma, lungo la costa meridionale del Nuovo Galles del Sud. Le correnti oceaniche e gli upwelling costieri alimentano reef di granito ricchi di foreste di kelp, passaggi subacquei e canaloni sabbiosi. Cuccioli e adulti stanziali di otaria orsina nuotano vivacemente attorno ai subacquei nelle baie riparate, mentre i drop-off più profondi attirano pesci pelagici ed elasmobranchi stagionali.",
+          "en": "Scenic dive site in AU known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.864,
+          -16.2413
+        ]
+      },
+      "properties": {
+        "id": "diverout-au-bashful-bommie",
+        "name": {
+          "it": "Bashful Bommie",
+          "en": "Bashful Bommie"
+        },
+        "countryCode": "AU",
+        "region": "pacific-oceania",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato su Opal Reef all'interno del Great Barrier Reef Marine Park, questo sito si sviluppa attorno a un pinnacolo corallino isolato che si erge da un fondale sabbioso pianeggiante. I subacquei circumnavigano la torre principale esplorando formazioni coralline circostanti, sporgenze e fitte distese di gorgonie a frusta. La luce filtra facilmente fino al fondo con mare calmo, rendendo l'orientamento semplice e intuitivo.",
+          "en": "Scenic dive site in AU known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.3954,
+          -35.5051
+        ]
+      },
+      "properties": {
+        "id": "diverout-au-bawley-point",
+        "name": {
+          "it": "Bawley Point",
+          "en": "Bawley Point"
+        },
+        "countryCode": "AU",
+        "region": "pacific-oceania",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato sulla South Coast del Nuovo Galles del Sud, il promontorio roccioso e le baie riparate attorno a Bawley Point sono caratterizzati da foreste di kelp di acque temperate, distese di massi e canaloni sabbiosi. I subacquei entrano solitamente dallo scivolo delle barche o dalle cenge rocciose protette quando il moto ondoso lo consente, esplorando canaloni di roccia disposti perpendicolarmente alla costa.",
+          "en": "Scenic dive site in AU known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.7187,
+          -18.9297
+        ]
+      },
+      "properties": {
+        "id": "diverout-au-big-broadhurst-reef",
+        "name": {
+          "it": "Big Broadhurst Reef",
+          "en": "Big Broadhurst Reef"
+        },
+        "countryCode": "AU",
+        "region": "pacific-oceania",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Big Broadhurst Reef si trova nella sezione esterna della Grande Barriera Corallina, al largo di Townsville. Grandi formazioni coralline (bommie) emergono da canali sabbiosi verso la superficie, creando un labirinto di gole, sporgenze e passaggi sottomarini incrostati di coralli duri e molli. Grazie alla sua posizione esposta al Mar dei Coralli, la visibilità dell'acqua è solitamente eccellente, attirando sia specie stanziali di barriera sia predatori pelagici di passaggio.",
+          "en": "Scenic dive site in AU known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.5527,
+          -32.462
+        ]
+      },
+      "properties": {
+        "id": "diverout-au-big-seal",
+        "name": {
+          "it": "Big Seal",
+          "en": "Big Seal"
+        },
+        "countryCode": "AU",
+        "region": "pacific-oceania",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Big Seal Rock si trova al largo di Sugarloaf Point, lungo la Mid North Coast del Nuovo Galles del Sud. Questo affioramento roccioso sprofonda in un labirinto di profondi canali, distese di massi e anfiteatri naturali scolpiti dal moto ondoso dell'oceano aperto. Il sito è un importante punto di aggregazione per gli squali toro (noti localmente come grey nurse shark) che pattugliano i canali dal fondale sabbioso, affiancati da banchi di pelagici e visitatori stagionali come le otarie orsine australiane.",
+          "en": "Scenic dive site in AU known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.7736,
+          -38.357
+        ]
+      },
+      "properties": {
+        "id": "diverout-au-blairgowrie-pier",
+        "name": {
+          "it": "Blairgowrie Pier",
+          "en": "Blairgowrie Pier"
+        },
+        "countryCode": "AU",
+        "region": "pacific-oceania",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Proteso nelle acque riparate di Port Phillip Bay, sulla Mornington Peninsula, Blairgowrie Pier è uno dei migliori siti d'immersione macro in acque temperate del Victoria. I subacquei esplorano l'area sotto il molo e la barriera frangiflutti della marina, dove i piloni in legno e cemento sono incrostati da fitti tappeti di ascidie, spugne variopinte e kelp. Il fondale sabbioso e poco profondo sotto la struttura ospita numerose specie bentoniche, cefalopodi e creature mimetiche, rendendolo un luogo eccezionale per immersioni lente, attente e notturne.",
+          "en": "Scenic dive site in AU known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1237,
+          -21.8008
+        ]
+      },
+      "properties": {
+        "id": "diverout-au-blizzard-ridge-lighthouse-bay-ningaloo-reef",
+        "name": {
+          "it": "Blizzard Ridge Lighthouse Bay Ningaloo Reef",
+          "en": "Blizzard Ridge Lighthouse Bay Ningaloo Reef"
+        },
+        "countryCode": "AU",
+        "region": "pacific-oceania",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Blizzard Ridge si trova all'interno di Lighthouse Bay, vicino alla punta settentrionale del Ningaloo Marine Park. Il sito è caratterizzato da una lunga dorsale calcarea circondata da distese sabbiose, che funge da oasi per la vita marina in cerca di riparo e stazioni di pulizia. Poiché le profondità rimangono modeste e le correnti sono generalmente deboli, i subacquei possono dedicare un ampio tempo di fondo all'esplorazione degli anfratti e all'osservazione delle specie pelagiche di passaggio lungo il margine della barriera corallina.",
+          "en": "Scenic dive site in AU known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.3068,
+          -33.806
+        ]
+      },
+      "properties": {
+        "id": "diverout-au-blue-fish-point",
+        "name": {
+          "it": "Blue Fish Point",
+          "en": "Blue Fish Point"
+        },
+        "countryCode": "AU",
+        "region": "pacific-oceania",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato al largo dell'aspro promontorio a nord di Shelly Beach a Sydney, Blue Fish Point offre una spettacolare architettura di scogliera in arenaria. Enormi massi franati creano strapiombi, canaloni e profondi passaggi nuotabili che offrono rifugio a una variegata fauna marina temperata. Il sito è esposto all'Oceano Pacifico aperto, il che significa che risacca e moto ondoso determinano le condizioni dell'immersione; tuttavia, le giornate di calma regalano immersioni costiere tipiche e indimenticabili del Nuovo Galles del Sud.",
+          "en": "Scenic dive site in AU known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.2656,
+          -30.2067
+        ]
+      },
+      "properties": {
+        "id": "diverout-au-buchanan-s-wall-south-solitary-island",
+        "name": {
+          "it": "Buchanan's Wall South Solitary Island",
+          "en": "Buchanan's Wall South Solitary Island"
+        },
+        "countryCode": "AU",
+        "region": "pacific-oceania",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situata sul versante riparato di South Solitary Island, Buchanan's Wall presenta una spettacolare parete rocciosa verticale che scende verso un fondale costellato di massi. Posizionata nel punto in cui la calda Corrente dell'Australia Orientale incontra le acque meridionali più fredde, la parete ospita un ricco connubio di organismi marini tropicali e temperati. I subacquei incontrano frequentemente squali che riposano sui margini sabbiosi e una variegata vita di invertebrati nascosta tra le fessure della roccia.",
+          "en": "Scenic dive site in AU known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.8662,
+          -16.0547
+        ]
+      },
+      "properties": {
+        "id": "diverout-au-castle-rock",
+        "name": {
+          "it": "Castle Rock",
+          "en": "Castle Rock"
+        },
+        "countryCode": "AU",
+        "region": "pacific-oceania",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Erigendosi ripido dal fondale marino vicino al margine esterno di Agincourt Reef, Castle Rock è un bommie corallino isolato che funge da punto di riferimento per la vita marina. I subacquei possono risalire lentamente a spirale attorno alla torre, esplorando profonde fessure gremite di pesci vetro prima di raggiungere la cresta ricca di coralli. Le correnti oceaniche che occasionalmente lambiscono la struttura attirano banchi di pesci predatori che nuotano controcorrente.",
+          "en": "Scenic dive site in AU known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.2208,
+          -16.7677
+        ]
+      },
+      "properties": {
+        "id": "diverout-au-cathederals",
+        "name": {
+          "it": "Cathederals",
+          "en": "Cathederals"
+        },
+        "countryCode": "AU",
+        "region": "pacific-oceania",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Cathedrals è un punto di immersione nella parte esterna della Grande Barriera Corallina, al largo di Cairns, caratterizzato da imponenti formazioni coralline ricche di caverne e archi intercomunicanti. I raggi di sole filtrano attraverso le fessure superiori illuminando i passaggi con suggestivi fasci di luce, gorgonie e banchi di pesci vetro. Le distese sabbiose circostanti e le creste della barriera offrono habitat variegati per tartarughe al pascolo, squali di barriera e una ricca varietà di coralli duri.",
+          "en": "Scenic dive site in AU known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.7269,
+          -38.2876
+        ]
+      },
+      "properties": {
+        "id": "diverout-au-chimanan-s-hat",
+        "name": {
+          "it": "Chimanan's Hat",
+          "en": "Chimanan's Hat"
+        },
+        "countryCode": "AU",
+        "region": "pacific-oceania",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Una storica struttura militare situata all'ingresso di Port Phillip Bay, Chinaman's Hat funge da sito di riposo per le otarie orsine australiane. Sotto la superficie, la vegetazione marina e le macchie di kelp costellano il fondale sabbioso intorno ai piloni. Esemplari giovani e adulti di otaria nuotano in cerchio attorno ai subacquei nei bassifondi prima di sfrecciare verso la superficie. Le forti correnti di marea nel vicino canale di navigazione richiedono una pianificazione rigorosa degli orari di ingresso in acqua.",
+          "en": "Scenic dive site in AU known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.2682,
+          -30.202
+        ]
+      },
+      "properties": {
+        "id": "diverout-au-cleaner-station-south-solitary-island",
+        "name": {
+          "it": "Cleaner Station South Solitary Island",
+          "en": "Cleaner Station South Solitary Island"
+        },
+        "countryCode": "AU",
+        "region": "pacific-oceania",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato al largo della costa di Coffs Harbour, all'interno del Solitary Islands Marine Park, The Cleaner Station si trova lungo il versante riparato di South Solitary Island. Il sito è caratterizzato da canaloni rocciosi, formazioni di massi e pinnacoli sottomarini dove specie marine pelagiche e temperate si radunano per farsi ripulire da labridi e gamberetti pulitori.",
+          "en": "Scenic dive site in AU known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2533,
+          -33.8401
+        ]
+      },
+      "properties": {
+        "id": "diverout-au-clifton-gardens",
+        "name": {
+          "it": "Clifton Gardens",
+          "en": "Clifton Gardens"
+        },
+        "countryCode": "AU",
+        "region": "pacific-oceania",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato sulla sponda settentrionale del porto di Sydney, all'interno di Chowder Bay, Clifton Gardens è uno dei siti più rinomati di Sydney per la fotografia macro e il muck diving. L'ingresso in acqua avviene direttamente dalla spiaggia sabbiosa o accanto al molo pubblico, per esplorare spugne, incrostazioni biologiche sui piloni di legno e i fondali fangosi circostanti. La baia riparata offre condizioni di mare calmo, ideali per immersioni notturne, corsi di addestramento e tranquille ricerche di piccole creature marine.",
+          "en": "Scenic dive site in AU known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.642,
+          -14.672
+        ]
+      },
+      "properties": {
+        "id": "cod-hole-great-barrier",
+        "name": {
+          "it": "Cod Hole (Grande Barriera Corallina)",
+          "en": "Cod Hole (Ribbon Reefs, Great Barrier Reef)"
+        },
+        "countryCode": "AU",
+        "region": "pacific-oceania",
+        "kind": "reef",
+        "depthMinM": 10,
+        "depthMaxM": 25,
+        "level": "beginner",
+        "highlights": [
+          "pelagic",
+          "corals"
+        ],
+        "exposure": "sheltered",
         "species": [
           "Epinephelus tukula",
           "Cheilinus undulatus"
         ],
-        "description_en": "World-famous dive on the Ribbon Reefs: famous for close encounters with curious, 100-kg potato cod groupers that swim calmly alongside divers.",
-        "description_it": "Celeberrimo sito sulla Ribbon Reef: famoso per gli incontri ravvicinati con amichevoli cernie patata giganti da 100 kg che nuotano curiose attorno ai subacquei."
+        "description": {
+          "it": "Famoso incontro ravvicinato con enormi cernie di patata (potato cod) amichevoli che pesano oltre 100 kg.",
+          "en": "Legendary dive site famous for close encounters with friendly, human-sized potato cod weighing up to 100kg."
+        },
+        "curated": true
       }
     },
     {
@@ -74,33 +880,37 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          134.2167,
-          7.1333
+          153.577,
+          -28.195
         ]
       },
       "properties": {
-        "id": "pacific-palau-blue-corner",
-        "name": "Blue Corner",
-        "name_it": "Blue Corner (Palau)",
-        "region": "Palau - South Lagoon",
-        "countryCode": "PW",
-        "kind": "wall",
-        "depthMinM": 10,
-        "depthMaxM": 40,
-        "level": "advanced",
-        "exposure": "exposed_all",
+        "id": "diverout-au-cook-island",
+        "name": {
+          "it": "Cook Island",
+          "en": "Cook Island"
+        },
+        "countryCode": "AU",
+        "region": "pacific-oceania",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
         "highlights": [
-          "sharks",
-          "drift",
-          "walls"
+          "corals"
         ],
+        "exposure": "sheltered",
         "species": [
-          "Carcharhinus amblyrhynchos",
-          "Triaenodon obesus",
-          "Gymnosarda unicolor"
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
         ],
-        "description_en": "Ranked among the greatest dives on Earth: plateau jutting into the open ocean where divers use reef hooks in fierce currents to watch dozens of gray reef sharks, dogtooth tuna, and schools of barracudas.",
-        "description_it": "Una delle immersioni più emozionanti al mondo: promontorio sottomarino dove i sub si ancorano con reef-hook nella forte corrente per ammirare caroselli di decine di squali grigi e tonni."
+        "description": {
+          "it": "Situata appena al largo della costa di Fingal Head, nel nord del New South Wales, questa riserva marina è un santuario in cui specie di coralli tropicali convivono con pesci di barriera delle zone temperate. L'isola vulcanica è caratterizzata da distese poco profonde di massi rocciosi, stretti canaloni e passaggi nuotabili esposti alle correnti di mare aperto. Le immersioni si concentrano principalmente sui terrazzamenti più riparati a ovest e a nord, dove le tartarughe marine residenti si radunano tra banchi di kelp e giardini di corallo molle.",
+          "en": "Scenic dive site in AU known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
       }
     },
     {
@@ -108,32 +918,978 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.7833,
-          7.3333
+          146.2629,
+          -16.7356
         ]
       },
       "properties": {
-        "id": "pacific-chuuk-fujikawa-maru",
-        "name": "Fujikawa Maru (Truk Lagoon)",
-        "name_it": "Relitto Fujikawa Maru (Laguna di Truk)",
-        "region": "Micronesia - Chuuk Lagoon",
-        "countryCode": "FM",
-        "kind": "wreck",
+        "id": "diverout-au-coral-gardens",
+        "name": {
+          "it": "Coral Gardens",
+          "en": "Coral Gardens"
+        },
+        "countryCode": "AU",
+        "region": "pacific-oceania",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato sul versante occidentale e protetto di Flynn Reef, nella parte esterna della Grande Barriera Corallina, questo sito vanta estese formazioni di coralli duri che si sviluppano tra distese sabbiose poco profonde e pinnacoli corallini (bommies). Fitti intrichi di corallo corna di cervo, ampi coralli a tavola e massicci coralli cervello offrono rifugio a una straordinaria varietà di creature della barriera. L'eccellente penetrazione della luce esalta la struttura del reef, rendendolo ideale per immersioni rilassanti e fotografia subacquea.",
+          "en": "Scenic dive site in AU known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.1813,
+          -30.2391
+        ]
+      },
+      "properties": {
+        "id": "diverout-au-coral-gardens-split-solitary-island",
+        "name": {
+          "it": "Coral Gardens Split Solitary Island",
+          "en": "Coral Gardens Split Solitary Island"
+        },
+        "countryCode": "AU",
+        "region": "pacific-oceania",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato al largo della costa di Coffs Harbour, all'interno del Solitary Islands Marine Park, Coral Gardens a Split Solitary Island segna un ricco punto di incontro tra le calde correnti tropicali e le acque temperate più fresche. La conformazione del reef è caratterizzata da formazioni rocciose, canaloni e coralli a piastra popolati da specie subtropicali. I banchi di anemoni prosperano lungo le creste meno profonde, mentre gli anfratti offrono rifugio a squali bentonici a riposo.",
+          "en": "Scenic dive site in AU known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.495,
+          20.632
+        ]
+      },
+      "properties": {
+        "id": "molokini-crater-maui",
+        "name": {
+          "it": "Cratere di Molokini (Hawaii)",
+          "en": "Molokini Crater (Maui, Hawaii)"
+        },
+        "countryCode": "US",
+        "region": "pacific-oceania",
+        "kind": "reef",
         "depthMinM": 10,
         "depthMaxM": 35,
+        "level": "beginner",
+        "highlights": [
+          "corals",
+          "walls",
+          "turtles"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Chelonia mydas",
+          "Chaetodon multicinctus"
+        ],
+        "description": {
+          "it": "Cratere vulcanico a mezzaluna parzialmente sommerso con visibilità oltre i 45m, giardini di corallo nero e tartarughe verdi hawaiane.",
+          "en": "Crescent-shaped volcanic caldera boasting 45m+ visibility, endemic Hawaiian reef fish, and sea turtles."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.3648,
+          -27.1103
+        ]
+      },
+      "properties": {
+        "id": "diverout-au-curtin-artificial-reef-moreton-bay",
+        "name": {
+          "it": "Curtin Artificial Reef - Moreton Bay",
+          "en": "Curtin Artificial Reef - Moreton Bay"
+        },
+        "countryCode": "AU",
+        "region": "pacific-oceania",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
         "level": "intermediate",
-        "exposure": "sheltered_all",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato al largo della costa occidentale di Moreton Island, il Curtin Artificial Reef è un vasto cimitero sottomarino composto da navi affondate intenzionalmente, rimorchiatori, chiatte, carcasse di automobili e strutture in cemento. Creato alla fine del ventesimo secolo, questo insieme di relitti sparsi ha trasformato il fondale sabbioso in un punto di riferimento vitale per predatori pelagici e creature stanziali di barriera. Spostarsi tra gli scafi sommersi richiede una buona navigazione con la bussola attraverso tratti di sabbia aperta, dove riposano frequentemente grandi razze e squali bentonici.",
+          "en": "Scenic dive site in AU known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2556,
+          -33.991
+        ]
+      },
+      "properties": {
+        "id": "diverout-au-dragons-lair",
+        "name": {
+          "it": "Dragons Lair",
+          "en": "Dragons Lair"
+        },
+        "countryCode": "AU",
+        "region": "pacific-oceania",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato lungo l'aspra scogliera di Kurnell, all'ingresso di Botany Bay, Dragons Lair è famoso per i dragoni marini comuni stanziali che fluttuano tra dense distese di kelp. Il sito presenta una combinazione di massi di arenaria, sporgenze e canaloni sabbiosi che scendono dolcemente verso il fondo della baia. I subacquei navigano tipicamente lungo l'interfaccia tra sabbia e barriera, dove trovano riparo creature macro e squali bentonici.",
+          "en": "Scenic dive site in AU known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.8416,
+          -35.0449
+        ]
+      },
+      "properties": {
+        "id": "diverout-au-drum-and-drumsticks",
+        "name": {
+          "it": "Drum and Drumsticks",
+          "en": "Drum and Drumsticks"
+        },
+        "countryCode": "AU",
+        "region": "pacific-oceania",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato al largo del versante oceanico esterno della penisola di Beecroft, all'esterno di Jervis Bay, questo sito d'altura è caratterizzato da spettacolari isolotti rocciosi affiancati da ripide pareti verticali sottomarine e grotte marine. Il moto ondoso oceanico spinge acque ricche di nutrienti su distese di massi ricoperte da spugne variopinte, creando l'habitat ideale per pesci di barriera temperata e grandi pelagici di passaggio.",
+          "en": "Scenic dive site in AU known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.5485,
+          -27.424
+        ]
+      },
+      "properties": {
+        "id": "diverout-au-eastern-reach-manta-bommie",
+        "name": {
+          "it": "Eastern Reach - Manta Bommie",
+          "en": "Eastern Reach - Manta Bommie"
+        },
+        "countryCode": "AU",
+        "region": "pacific-oceania",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato al largo di Point Lookout, a North Stradbroke Island, Eastern Reach comprende gli affioramenti rocciosi e i canaloni che costeggiano la celebre stazione di pulizia di Manta Bommie. I subacquei si lasciano trasportare dalla corrente tra massi di granito sparsi, formazioni coralline ricoperte di kelp e canaloni sabbiosi dove le specie pelagiche si radunano insieme agli elasmobranchi bentonici.",
+          "en": "Scenic dive site in AU known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.7489,
+          -35.0846
+        ]
+      },
+      "properties": {
+        "id": "diverout-au-edithburgh-jetty",
+        "name": {
+          "it": "Edithburgh Jetty",
+          "en": "Edithburgh Jetty"
+        },
+        "countryCode": "AU",
+        "region": "pacific-oceania",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato sulla Yorke Peninsula nell'Australia Meridionale, Edithburgh Jetty è rinomato tra i fotografi macro per la sua straordinaria concentrazione di specie marine temperate meridionali. I piloni in legno sono ricoperti da spugne variopinte, ascidie e briozoi che offrono riparo a numerose creature criptiche. I subacquei esplorano l'intera lunghezza della struttura e le circostanti praterie di fanerogame, dove l'orientamento sul fondo è agevole e il rientro alle scalette di accesso risulta particolarmente semplice.",
+          "en": "Scenic dive site in AU known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.8546,
+          -24.9249
+        ]
+      },
+      "properties": {
+        "id": "diverout-au-ex-hmas-tobruk",
+        "name": {
+          "it": "Ex-HMAS Tobruk",
+          "en": "Ex-HMAS Tobruk"
+        },
+        "countryCode": "AU",
+        "region": "pacific-oceania",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Affondata intenzionalmente nel Great Sandy Marine Park tra Hervey Bay e Bundaberg, l'ex nave da sbarco della Royal Australian Navy giace adagiata sul fianco di dritta. L'imponente sovrastruttura e i cavernosi ponti veicoli offrono percorsi multilivello adatti sia all'esplorazione in acque libere che alla penetrazione in ambienti chiusi per subacquei con adeguato addestramento su relitti. Coralli, idroidi e spugne hanno rapidamente colonizzato le lamiere dello scafo, trasformando l'imbarcazione militare in un ricco reef artificiale.",
+          "en": "Scenic dive site in AU known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2744,
+          -33.8001
+        ]
+      },
+      "properties": {
+        "id": "diverout-au-fairlight",
+        "name": {
+          "it": "Fairlight",
+          "en": "Fairlight"
+        },
+        "countryCode": "AU",
+        "region": "pacific-oceania",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato all'interno di North Harbour lungo la passeggiata panoramica di Manly, Fairlight offre una tranquilla immersione da riva su scogliere poco profonde, massi sparsi e banchi di posidonia. Riparato dal moto ondoso oceanico, il sito presenta un profilo di navigazione rilassante, ideale per esplorare gli anfratti rocciosi alla ricerca di piccole creature marine o scivolare lungo i margini della foresta di kelp osservando i giovani elasmobranchi.",
+          "en": "Scenic dive site in AU known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2937,
+          -33.8005
+        ]
+      },
+      "properties": {
+        "id": "diverout-au-fairy-bower",
+        "name": {
+          "it": "Fairy Bower",
+          "en": "Fairy Bower"
+        },
+        "countryCode": "AU",
+        "region": "pacific-oceania",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato lungo la costa rocciosa tra Manly Beach e Shelly Beach, all'interno della riserva acquatica di Cabbage Tree Bay, Fairy Bower offre immersioni temperate a bassa profondità tra massi di arenaria e fitte foreste di kelp. I subacquei esplorano cenge rocciose sommerse, radure sabbiose e anfratti al riparo dalle mareggiate meridionali. La protezione dell'area marina nella baia ha permesso alle specie costiere residenti di prosperare senza la pressione della pesca.",
+          "en": "Scenic dive site in AU known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.885,
+          20.735
+        ]
+      },
+      "properties": {
+        "id": "lanai-cathedrals-hawaii",
+        "name": {
+          "it": "First Cathedral (Lanai, Hawaii)",
+          "en": "First Cathedral Lava Tube (Lanai, Hawaii)"
+        },
+        "countryCode": "US",
+        "region": "pacific-oceania",
+        "kind": "cave",
+        "depthMinM": 12,
+        "depthMaxM": 25,
+        "level": "beginner",
+        "highlights": [
+          "caves",
+          "walls"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Chelonia mydas",
+          "Gymnothorax steindachneri"
+        ],
+        "description": {
+          "it": "Imponente tubo di lava vulcanica con fessure nel soffitto che proiettano fasci di luce come le vetrate di una cattedrale gotica.",
+          "en": "Massive two-story volcanic lava tube with perforated ceiling holes casting divine light beams like a cathedral altar."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.3834,
+          -29.9128
+        ]
+      },
+      "properties": {
+        "id": "diverout-au-fish-soup-north-solitary-island",
+        "name": {
+          "it": "Fish Soup North Solitary Island",
+          "en": "Fish Soup North Solitary Island"
+        },
+        "countryCode": "AU",
+        "region": "pacific-oceania",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Situato al largo della costa del New South Wales, all'interno del Solitary Islands Marine Park, Fish Soup si trova all'estremità di North Solitary Island, dove il gioco delle correnti attira enormi banchi di pesci. Il sito è caratterizzato da un alternarsi di canaloni rocciosi, distese di massi e sporgenze incrostate di corallo, dove le specie tropicali trasportate verso sud dalla Corrente dell'Australia Orientale si mescolano alla fauna marina temperata.",
+          "en": "Scenic dive site in AU known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.5518,
+          -27.3907
+        ]
+      },
+      "properties": {
+        "id": "diverout-au-flat-rock",
+        "name": {
+          "it": "Flat Rock",
+          "en": "Flat Rock"
+        },
+        "countryCode": "AU",
+        "region": "pacific-oceania",
+        "kind": "reef",
+        "depthMinM": 6,
+        "depthMaxM": 26,
+        "level": "intermediate",
+        "highlights": [
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Epinephelus marginatus",
+          "Octopus vulgaris",
+          "Sparisoma cretense",
+          "Chelonia mydas"
+        ],
+        "description": {
+          "it": "Flat Rock è una scogliera rocciosa al largo e un santuario marino protetto situato a nord di Point Lookout, su North Stradbroke Island. Canali sottomarini, passaggi nuotabili e gole sabbiose come Shark Alley attraversano la base di roccia vulcanica. Il sito funge da punto di aggregazione fondamentale per predatori pelagici e raduni stagionali di squali e razze favoriti dalla Corrente dell'Australia Orientale.",
+          "en": "Scenic dive site in AU known for pristine marine life and dramatic underwater formations."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.832,
+          -16.035
+        ]
+      },
+      "properties": {
+        "id": "garuae-pass-fakarava",
+        "name": {
+          "it": "Garuae Pass / Muro di Squali (Fakarava)",
+          "en": "Garuae Pass / Shark Wall (Fakarava)"
+        },
+        "countryCode": "PF",
+        "region": "pacific-oceania",
+        "kind": "reef",
+        "depthMinM": 15,
+        "depthMaxM": 35,
+        "level": "advanced",
+        "highlights": [
+          "sharks",
+          "drift"
+        ],
+        "exposure": "exposed",
+        "species": [
+          "Carcharhinus amblyrhynchos",
+          "Triaenodon obesus"
+        ],
+        "description": {
+          "it": "Il più grande pass della Polinesia Francese con una concentrazione record di oltre 500 squali grigi di barriera compatti nella corrente.",
+          "en": "French Polynesia's widest pass hosting a breathtaking 'wall of sharks' with over 500 grey reef sharks in formation."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.985,
+          -16.852
+        ]
+      },
+      "properties": {
+        "id": "great-white-wall-fiji",
+        "name": {
+          "it": "Great White Wall (Rainbow Reef, Figi)",
+          "en": "Great White Wall (Taveuni, Fiji)"
+        },
+        "countryCode": "FJ",
+        "region": "pacific-oceania",
+        "kind": "wall",
+        "depthMinM": 15,
+        "depthMaxM": 40,
+        "level": "advanced",
+        "highlights": [
+          "walls",
+          "corals"
+        ],
+        "exposure": "exposed",
+        "species": [
+          "Anthias anthias",
+          "Pygoplites diacanthus"
+        ],
+        "description": {
+          "it": "Parete verticale a strapiombo ricoperta da una coltre di coralli molli bianchi luminescenti che sembrano una cascata innevata.",
+          "en": "Vertical coral wall covered in glowing luminescent white soft corals creating the illusion of a snow-covered cliff."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -179.95,
+          -16.85
+        ]
+      },
+      "properties": {
+        "id": "fiji-rainbow-reef-great-white-wall",
+        "name": {
+          "it": "Great White Wall (Rainbow Reef, Fiji)",
+          "en": "Great White Wall (Rainbow Reef, Fiji)"
+        },
+        "countryCode": "FJ",
+        "region": "pacific-oceania",
+        "kind": "wall",
+        "depthMinM": 15,
+        "depthMaxM": 40,
+        "level": "technical",
+        "highlights": [
+          "walls",
+          "corals",
+          "drift"
+        ],
+        "exposure": "exposed",
+        "species": [
+          "Dendronephthya",
+          "Mobula birostris",
+          "Pomacanthus imperator"
+        ],
+        "description": {
+          "it": "Celebre parete verticale nel Somosomo Strait interamente tappezzata da coralli molli bianchi bioluminescenti che creano un effetto visivo spettacolare.",
+          "en": "Legendary drop-off in the Somosomo Strait draped in pure white soft corals, creating a dazzling luminescent wall effect."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.9144,
+          -23.4422
+        ]
+      },
+      "properties": {
+        "id": "gbr-heron-island-bommie",
+        "name": {
+          "it": "Heron Island Bommie",
+          "en": "Heron Island Bommie"
+        },
+        "countryCode": "AU",
+        "region": "pacific-oceania",
+        "kind": "reef",
+        "depthMinM": 5,
+        "depthMaxM": 18,
+        "level": "beginner",
+        "highlights": [
+          "mantas",
+          "turtles",
+          "corals"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Mobula alfredi",
+          "Chelonia mydas",
+          "Labroides dimidiatus"
+        ],
+        "description": {
+          "it": "Famosa stazione di pulizia marina nel settore meridionale della Grande Barriera Corallina. Mante e tartarughe marine stazionano regolarmente sui blocchi corallini servite da labridi pulitori.",
+          "en": "Famous cleaning station in the southern Great Barrier Reef where manta rays and sea turtles hover over coral heads to be cleaned by cleaner wrasse."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.7167,
+          -24.1167
+        ]
+      },
+      "properties": {
+        "id": "gbr-lady-elliot-island",
+        "name": {
+          "it": "Lady Elliot Island - Lighthouse Bommies",
+          "en": "Lady Elliot Island - Lighthouse Bommies"
+        },
+        "countryCode": "AU",
+        "region": "pacific-oceania",
+        "kind": "reef",
+        "depthMinM": 4,
+        "depthMaxM": 16,
+        "level": "beginner",
+        "highlights": [
+          "mantas",
+          "sharks",
+          "turtles"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Mobula alfredi",
+          "Stegostoma tigrinum",
+          "Eretmochelys imbricata"
+        ],
+        "description": {
+          "it": "Capitale delle mante della Grande Barriera Corallina con acque basse e sabbia corallina bianchissima, frequentata tutto l'anno da mante giganti e squali leopardo.",
+          "en": "Manta ray hotspot of the Great Barrier Reef with shallow waters and white sand bommies frequented year-round by mantas and leopard sharks."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.998,
+          19.648
+        ]
+      },
+      "properties": {
+        "id": "kona-manta-night-dive",
+        "name": {
+          "it": "Manta Ray Night Dive (Kona, Hawaii)",
+          "en": "Kona Manta Ray Night Dive (Big Island, Hawaii)"
+        },
+        "countryCode": "US",
+        "region": "pacific-oceania",
+        "kind": "reef",
+        "depthMinM": 8,
+        "depthMaxM": 12,
+        "level": "beginner",
+        "highlights": [
+          "mantas"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Mobula alfredi"
+        ],
+        "description": {
+          "it": "Spettacolo notturno iconico dove potenti fari subacquei attirano plancton e decine di mante giganti che compiono evoluzioni sopra i sub.",
+          "en": "World-famous nighttime spectacle where underwater spotlights draw plankton clouds and barrel-rolling manta rays."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.248,
+          -15.528
+        ]
+      },
+      "properties": {
+        "id": "million-dollar-point",
+        "name": {
+          "it": "Million Dollar Point (Vanuatu)",
+          "en": "Million Dollar Point (Espiritu Santo, Vanuatu)"
+        },
+        "countryCode": "VU",
+        "region": "pacific-oceania",
+        "kind": "wreck",
+        "depthMinM": 5,
+        "depthMaxM": 35,
+        "level": "beginner",
+        "highlights": [
+          "history",
+          "wreck"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Cheilinus undulatus",
+          "Epinephelus merra"
+        ],
+        "description": {
+          "it": "Discarica militare sottomarina della seconda guerra mondiale: bulldozer, carri armati e gru militari gettati in mare dagli americani.",
+          "en": "Monumental military dump where millions of dollars of US Army bulldozers, tanks, and vehicles were bulldozed into the sea in 1945."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.635,
+          -13.882
+        ]
+      },
+      "properties": {
+        "id": "osprey-reef-north-horn",
+        "name": {
+          "it": "North Horn (Osprey Reef)",
+          "en": "North Horn (Osprey Reef, Coral Sea)"
+        },
+        "countryCode": "AU",
+        "region": "pacific-oceania",
+        "kind": "wall",
+        "depthMinM": 12,
+        "depthMaxM": 40,
+        "level": "advanced",
+        "highlights": [
+          "sharks",
+          "walls"
+        ],
+        "exposure": "offshore",
+        "species": [
+          "Carcharhinus amblyrhynchos",
+          "Sphyrna lewini",
+          "Nautilus pompilius"
+        ],
+        "description": {
+          "it": "Atollo oceanico isolato nel Mar dei Coralli con anfiteatro naturale e decine di squali grigi e martello lungo una parete verticale di 1.000m.",
+          "en": "Remote Coral Sea atoll amphitheater where dozens of grey reef sharks and hammerheads gather over a 1,000m abyss."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.785,
+          7.352
+        ]
+      },
+      "properties": {
+        "id": "fujikawa-maru-chuuk",
+        "name": {
+          "it": "Relitto Fujikawa Maru (Chuuk Lagoon)",
+          "en": "Fujikawa Maru Wreck (Chuuk Lagoon)"
+        },
+        "countryCode": "FM",
+        "region": "pacific-oceania",
+        "kind": "wreck",
+        "depthMinM": 10,
+        "depthMaxM": 34,
+        "level": "intermediate",
+        "highlights": [
+          "wreck",
+          "history"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Pterois volitans",
+          "Cephalopholis argus"
+        ],
+        "description": {
+          "it": "Cargo armato con fusoliere e motori di caccia Zero Mitsubishi intatti nelle stive e cannone di prua incrostato di corallo.",
+          "en": "Armed transport ship holding intact Mitsubishi Zero fighter planes in its holds and a coral-draped bow gun."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.623,
+          -19.304
+        ]
+      },
+      "properties": {
+        "id": "ss-yongala-townsville",
+        "name": {
+          "it": "Relitto SS Yongala (Australia)",
+          "en": "SS Yongala Wreck (Queensland, Australia)"
+        },
+        "countryCode": "AU",
+        "region": "pacific-oceania",
+        "kind": "wreck",
+        "depthMinM": 15,
+        "depthMaxM": 30,
+        "level": "advanced",
+        "highlights": [
+          "wreck",
+          "pelagic"
+        ],
+        "exposure": "offshore",
+        "species": [
+          "Epinephelus lanceolatus",
+          "Caranx ignobilis",
+          "Hydrophiinae"
+        ],
+        "description": {
+          "it": "Piroscafo passeggeri affondato nel 1911 da un ciclone, diventato un'oasi sottomarina con una densità di megafauna straordinaria.",
+          "en": "Passenger steamship sunk in a 1911 cyclone, now an isolated biological oasis attracting gigantic groupers and rays."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.845,
+          7.365
+        ]
+      },
+      "properties": {
+        "id": "san-francisco-maru-chuuk",
+        "name": {
+          "it": "Relitto San Francisco Maru (Truk Lagoon)",
+          "en": "San Francisco Maru / The Million Dollar Wreck"
+        },
+        "countryCode": "FM",
+        "region": "pacific-oceania",
+        "kind": "wreck",
+        "depthMinM": 45,
+        "depthMaxM": 63,
+        "level": "technical",
+        "highlights": [
+          "wreck",
+          "history"
+        ],
+        "exposure": "sheltered",
+        "species": [],
+        "description": {
+          "it": "Il 'relitto da un milione di dollari': stive colme di mine marine, camion e tre carri armati leggeri Type 95 intatti sul ponte principale.",
+          "en": "The 'Million Dollar Wreck': deeply resting cargo vessel with three intact Type 95 light tanks on deck and depth charges in holds."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.815,
+          7.382
+        ]
+      },
+      "properties": {
+        "id": "shinkoku-maru-chuuk",
+        "name": {
+          "it": "Relitto Shinkoku Maru (Truk Lagoon)",
+          "en": "Shinkoku Maru Wreck (Chuuk Lagoon)"
+        },
+        "countryCode": "FM",
+        "region": "pacific-oceania",
+        "kind": "wreck",
+        "depthMinM": 12,
+        "depthMaxM": 38,
+        "level": "intermediate",
         "highlights": [
           "wreck",
           "history",
           "corals"
         ],
+        "exposure": "sheltered",
         "species": [
-          "Epinephelus fuscoguttatus",
-          "Lutjanus bohar"
+          "Pterois volitans",
+          "Cephalopholis miniata"
         ],
-        "description_en": "Armed aircraft ferry (132m) sunk during Operation Hailstone in 1944. Holds contain intact Mitsubishi Zero fighter planes, engine wings, machine guns, and soft corals.",
-        "description_it": "Nave da trasporto aerei armata (132m) affondata nel 1944. Nelle stive sono conservati aerei da caccia Zero intatti, ali, munizioni e motori incrostati di coralli."
+        "description": {
+          "it": "Petroliera della flotta imperiale giapponese affondata nell'Operazione Hailstone (1944), trasformata in una delle barriere più colorate al mondo.",
+          "en": "Imperial Japanese tanker sunk in 1944 Operation Hailstone, completely transformed into a lush soft coral garden."
+        },
+        "curated": true
       }
     },
     {
@@ -141,30 +1897,190 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -156.0333,
-          19.65
+          167.235,
+          -15.525
         ]
       },
       "properties": {
-        "id": "pacific-hawaii-kona-manta",
-        "name": "Kona Manta Ray Night Dive",
-        "name_it": "Immersione Notturna con le Mante di Kona",
-        "region": "USA - Hawaii (Big Island Kona)",
-        "countryCode": "US",
+        "id": "ss-president-coolidge",
+        "name": {
+          "it": "SS President Coolidge (Vanuatu)",
+          "en": "SS President Coolidge (Espiritu Santo, Vanuatu)"
+        },
+        "countryCode": "VU",
+        "region": "pacific-oceania",
+        "kind": "wreck",
+        "depthMinM": 20,
+        "depthMaxM": 60,
+        "level": "advanced",
+        "highlights": [
+          "wreck",
+          "history"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Cheilinus undulatus",
+          "Epinephelus tukula"
+        ],
+        "description": {
+          "it": "Transatlantico di lusso di 200 metri convertito in trasporto truppe e affondato da mine nel 1942; la più grande nave da crociera visitabile.",
+          "en": "Massive 200m luxury ocean liner turned troopship sunk by friendly mines in 1942, packed with military artifacts."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.182,
+          -18.305
+        ]
+      },
+      "properties": {
+        "id": "beqa-lagoon-shark-reef",
+        "name": {
+          "it": "Shark Reef Marine Reserve (Figi)",
+          "en": "Shark Reef Marine Reserve (Beqa Lagoon, Fiji)"
+        },
+        "countryCode": "FJ",
+        "region": "pacific-oceania",
+        "kind": "reef",
+        "depthMinM": 15,
+        "depthMaxM": 30,
+        "level": "intermediate",
+        "highlights": [
+          "sharks"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Carcharhinus leucas",
+          "Galeocerdo cuvier",
+          "Triaenodon obesus"
+        ],
+        "description": {
+          "it": "Incontro ravvicinato senza gabbia con fino a otto specie di squali, inclusi enormi squali leuca (bull shark) e squali tigre.",
+          "en": "Uncaged shark encounters with up to eight species, headlined by enormous bull sharks and tiger sharks."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7958,
+          -15.5019
+        ]
+      },
+      "properties": {
+        "id": "gbr-steves-bommie",
+        "name": {
+          "it": "Steve's Bommie",
+          "en": "Steve's Bommie"
+        },
+        "countryCode": "AU",
+        "region": "pacific-oceania",
+        "kind": "pinnacle",
+        "depthMinM": 5,
+        "depthMaxM": 30,
+        "level": "intermediate",
+        "highlights": [
+          "macro",
+          "corals",
+          "sharks"
+        ],
+        "exposure": "sheltered",
+        "species": [
+          "Sphyraena barracuda",
+          "Amphiprion percula",
+          "Gymnothorax javanicus"
+        ],
+        "description": {
+          "it": "Pinnacolo corallino isolato che si innalza da 30 a 5 metri lungo i Ribbon Reefs. Densità straordinaria di vita macro e pelagica: banchi di carangidi, barracuda, pesci pipa fantasma e anemoni.",
+          "en": "Isolated coral pinnacle rising from 30m to 5m in the Ribbon Reefs. Home to schooling barracudas, ghost pipefish, and vibrant anemones."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.15,
+          -5.35
+        ]
+      },
+      "properties": {
+        "id": "png-kimbe-bay-susans-reef",
+        "name": {
+          "it": "Susan's Reef (Kimbe Bay, PNG)",
+          "en": "Susan's Reef (Kimbe Bay, PNG)"
+        },
+        "countryCode": "PG",
+        "region": "pacific-oceania",
         "kind": "reef",
         "depthMinM": 8,
-        "depthMaxM": 12,
-        "level": "beginner",
-        "exposure": "sheltered_east",
+        "depthMaxM": 30,
+        "level": "intermediate",
         "highlights": [
-          "mantas"
+          "macro",
+          "corals",
+          "sharks"
         ],
+        "exposure": "sheltered",
         "species": [
-          "Mobula alfredi",
-          "Plankton"
+          "Hippocampus bargibanti",
+          "Carcharhinus amblyrhynchos",
+          "Cirrhitichthys oxycephalus"
         ],
-        "description_en": "Unforgettable night encounter: divers place lights on the sand floor attracting clouds of plankton, while dozens of colossal manta rays perform barrel rolls inches above divers' heads.",
-        "description_it": "Incontro notturno indimenticabile: potenti luci subacquee posate sulla sabbia attirano plancton, richiamando decine di mante giganti che compiono evoluzioni a pochi centimetri dai sub."
+        "description": {
+          "it": "Nel cuore della Baia di Kimbe in Papua Nuova Guinea. Giardino di gorgonie ventaglio alte oltre 3 metri che ospitano cavallucci marini pigmei e coralli intatti.",
+          "en": "Gem of Kimbe Bay in PNG featuring monumental 3-meter gorgonian sea fans that shelter pygmy seahorses and pristine reef biodiversity."
+        },
+        "curated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.625,
+          -14.962
+        ]
+      },
+      "properties": {
+        "id": "tiputa-pass-rangiroa",
+        "name": {
+          "it": "Tiputa Pass (Rangiroa)",
+          "en": "Tiputa Pass (Rangiroa, French Polynesia)"
+        },
+        "countryCode": "PF",
+        "region": "pacific-oceania",
+        "kind": "reef",
+        "depthMinM": 15,
+        "depthMaxM": 40,
+        "level": "advanced",
+        "highlights": [
+          "drift",
+          "dolphins",
+          "sharks"
+        ],
+        "exposure": "exposed",
+        "species": [
+          "Tursiops truncatus",
+          "Sphyrna mokarran",
+          "Mobula birostris"
+        ],
+        "description": {
+          "it": "Pass oceanico ad altissima velocità con delfini tursiopi giocosi, banchi di squali martello e mante giganti nella corrente entrante.",
+          "en": "High-velocity pass drift dive famous for playful resident bottlenose dolphins, great hammerheads, and manta rays."
+        },
+        "curated": true
       }
     }
   ]
